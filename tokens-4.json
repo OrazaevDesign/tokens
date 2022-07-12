@@ -6657,7 +6657,7 @@
               "type": "color"
             },
             "gradient-bg": {
-              "value": "linear-gradient(270deg, #f5ffff 0%, #fffaf5 34.9%, #fff5fb 69.27%, #f5ffff 100%)",
+              "value": "linear-gradient(270deg, #F6FFF5 0%, #FDFFF5 34.9%, #F5FFFA 69.27%, #F6FFF5 100%)",
               "type": "color",
               "description": "Black AAA"
             },
