@@ -1200,7 +1200,7 @@
         }
       }
     },
-    "Short-Body": {
+    "ShortBody": {
       "XS": {
         "Bold": {
           "value": {
@@ -1492,7 +1492,7 @@
         }
       }
     },
-    "Long-Body": {
+    "LongBody": {
       "XS": {
         "Bold": {
           "value": {
