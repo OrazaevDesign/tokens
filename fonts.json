@@ -4,14 +4,6 @@
       "SFPro": {
         "value": "SF Pro Text",
         "type": "fontFamilies"
-      },
-      "SegoeUI": {
-        "value": "Segoe UI",
-        "type": "fontFamilies"
-      },
-      "Inter": {
-        "value": "Inter",
-        "type": "fontFamilies"
       }
     },
     "lineHeights": {
@@ -2629,16 +2621,8 @@
   },
   "SegoeUI": {
     "fontFamilies": {
-      "SFPro": {
-        "value": "SF Pro Text",
-        "type": "fontFamilies"
-      },
       "SegoeUI": {
         "value": "Segoe UI",
-        "type": "fontFamilies"
-      },
-      "Inter": {
-        "value": "Inter",
         "type": "fontFamilies"
       }
     },
@@ -5257,14 +5241,6 @@
   },
   "Inter": {
     "fontFamilies": {
-      "SFPro": {
-        "value": "SF Pro Text",
-        "type": "fontFamilies"
-      },
-      "SegoeUI": {
-        "value": "Segoe UI",
-        "type": "fontFamilies"
-      },
       "Inter": {
         "value": "Inter",
         "type": "fontFamilies"
