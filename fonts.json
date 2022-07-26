@@ -204,7 +204,7 @@
       "50": {
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.SegoeUI}",
+            "fontFamily": "{fontFamilies.SFPro}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeights.16}",
             "fontSize": "{fontSize.11}",
@@ -218,7 +218,7 @@
         },
         "Semibold": {
           "value": {
-            "fontFamily": "{fontFamilies.SegoeUI}",
+            "fontFamily": "{fontFamilies.SFPro}",
             "fontWeight": "{fontWeights.semibold}",
             "lineHeight": "{lineHeights.16}",
             "fontSize": "{fontSize.11}",
