@@ -200,6 +200,30 @@
         "type": "paragraphSpacing"
       }
     },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      },
+      "line-thtough": {
+        "value": "line-thtough",
+        "type": "textDecoration"
+      }
+    },
     "Control": {
       "50": {
         "Bold": {
@@ -2592,30 +2616,6 @@
           "type": "typography",
           "description": "52-64"
         }
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      },
-      "uppercase": {
-        "value": "uppercase",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "underline": {
-        "value": "underline",
-        "type": "textDecoration"
-      },
-      "line-thtough": {
-        "value": "line-thtough",
-        "type": "textDecoration"
       }
     }
   },
@@ -2820,6 +2820,30 @@
         "type": "paragraphSpacing"
       }
     },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      },
+      "line-thtough": {
+        "value": "line-thtough",
+        "type": "textDecoration"
+      }
+    },
     "Control": {
       "50": {
         "Bold": {
@@ -5212,30 +5236,6 @@
           "type": "typography",
           "description": "52-64"
         }
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      },
-      "uppercase": {
-        "value": "uppercase",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "underline": {
-        "value": "underline",
-        "type": "textDecoration"
-      },
-      "line-thtough": {
-        "value": "line-thtough",
-        "type": "textDecoration"
       }
     }
   },
@@ -5440,6 +5440,30 @@
         "type": "paragraphSpacing"
       }
     },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      },
+      "line-thtough": {
+        "value": "line-thtough",
+        "type": "textDecoration"
+      }
+    },
     "Control": {
       "50": {
         "Bold": {
@@ -7832,30 +7856,6 @@
           "type": "typography",
           "description": "52-64"
         }
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      },
-      "uppercase": {
-        "value": "uppercase",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "underline": {
-        "value": "underline",
-        "type": "textDecoration"
-      },
-      "line-thtough": {
-        "value": "line-thtough",
-        "type": "textDecoration"
       }
     }
   },
