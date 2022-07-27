@@ -6486,39 +6486,39 @@
           "type": "color"
         },
         "400": {
-          "value": "#FBE28F",
+          "value": "#F9DF86",
           "type": "color"
         },
         "500": {
-          "value": "#FAD974",
+          "value": "#F8D661",
           "type": "color"
         },
         "600": {
-          "value": "#F9D161",
+          "value": "#F6CC3C",
           "type": "color"
         },
         "700": {
-          "value": "#ECBF52",
+          "value": "#EFBB26",
           "type": "color"
         },
         "800": {
-          "value": "#D5A53F",
+          "value": "#D49915",
           "type": "color"
         },
         "900": {
-          "value": "#BD8B2D",
+          "value": "#BC7B0E",
           "type": "color"
         },
         "1000": {
-          "value": "#996A1C",
+          "value": "#A46209",
           "type": "color"
         },
         "1100": {
-          "value": "#764D0F",
+          "value": "#8E5006",
           "type": "color"
         },
         "1200": {
-          "value": "#543307",
+          "value": "#763C05",
           "type": "color"
         }
       },
@@ -6740,55 +6740,55 @@
       },
       "accent": {
         "50": {
-          "value": "#FFFCFB",
+          "value": "#FFFBF5",
           "type": "color"
         },
         "100": {
-          "value": "#FBECE6",
+          "value": "#FFF1E1",
           "type": "color"
         },
         "200": {
-          "value": "#F8D6CC",
+          "value": "#FEE2CA",
           "type": "color"
         },
         "300": {
-          "value": "#F6BAAD",
+          "value": "#FECFB0",
           "type": "color"
         },
         "400": {
-          "value": "#F49789",
+          "value": "#FDB793",
           "type": "color"
         },
         "500": {
-          "value": "#F16B5E",
+          "value": "#FC9870",
           "type": "color"
         },
         "600": {
-          "value": "#EF3B33",
+          "value": "#FA774E",
           "type": "color"
         },
         "700": {
-          "value": "#DB2B24",
+          "value": "#ED6745",
           "type": "color"
         },
         "800": {
-          "value": "#C71E19",
+          "value": "#DC553B",
           "type": "color"
         },
         "900": {
-          "value": "#B31511",
+          "value": "#CB4532",
           "type": "color"
         },
         "1000": {
-          "value": "#9F0E0C",
+          "value": "#BC3629",
           "type": "color"
         },
         "1100": {
-          "value": "#8B0908",
+          "value": "#A92822",
           "type": "color"
         },
         "1200": {
-          "value": "#5A0A04",
+          "value": "#981919",
           "type": "color"
         }
       },
@@ -7312,41 +7312,41 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.warning.600",
+          "value": "$palette.primary.700",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.warning.600",
+          "value": "$palette.primary.900",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.500",
           "type": "color"
         }
       },
       "accent": {
         "default-bg": {
-          "value": "$palette.warning.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.warning.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "default-color": {
@@ -7354,11 +7354,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.warning.700",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.warning.700",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "hover-color": {
@@ -7366,15 +7366,15 @@
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.warning.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.warning.900",
+          "value": "$palette.accent.900",
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.warning",
+          "value": "$palette.outline.accent",
           "type": "color"
         },
         "focus-color": {
@@ -7382,11 +7382,11 @@
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.warning.200",
+          "value": "$palette.accent.200",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.warning.200",
+          "value": "$palette.accent.200",
           "type": "color"
         },
         "disabled-color": {
@@ -7394,23 +7394,23 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.warning.600",
+          "value": "$palette.accent.900",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.warning.600",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "progress-color": {
@@ -7418,7 +7418,7 @@
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.500",
           "type": "color"
         }
       },
