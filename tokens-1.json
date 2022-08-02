@@ -6824,27 +6824,27 @@
       },
       "outline": {
         "natural": {
-          "value": "$palette.natural.200",
+          "value": "rgba(117,130,128,0.3)",
           "type": "color"
         },
         "primary": {
-          "value": "$palette.primary.400",
+          "value": "rgba(245,201,59,0.3)",
           "type": "color"
         },
         "accent": {
-          "value": "$palette.accent.200",
+          "value": "rgba(250,118,77,0.3)",
           "type": "color"
         },
         "succes": {
-          "value": "$palette.succes.200",
+          "value": "rgba(43,158,72,0.3)",
           "type": "color"
         },
         "warning": {
-          "value": "$palette.warning.200",
+          "value": "rgba(242,121,29,0.3)",
           "type": "color"
         },
         "error": {
-          "value": "$palette.error.200",
+          "value": "rgba(224,92,52,0.3)",
           "type": "color"
         }
       },
