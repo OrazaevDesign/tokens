@@ -7456,7 +7456,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.outline.natural",
           "type": "color"
         },
         "focus-color": {
@@ -7562,7 +7562,7 @@
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.900",
+          "value": "$palette.natural.300",
           "type": "color"
         },
         "active-color": {
@@ -7640,7 +7640,7 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.natural.50",
           "type": "color"
         },
         "active-border": {
@@ -7648,23 +7648,23 @@
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.natural.1100",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.50",
           "type": "color"
         }
       },
@@ -7734,19 +7734,19 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.natural.50",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.natural.100",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.100",
           "type": "color"
         }
       },
