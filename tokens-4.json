@@ -9871,7 +9871,7 @@
           "type": "color"
         },
         "gradient-bg": {
-          "value": "linear-gradient(270deg, #F6FFF5 0%, #FDFFF5 34.9%, #F5FFFA 69.27%, #F6FFF5 100%)",
+          "value": "linear-gradient(270deg, #FFF5FD 0%, #F5F5FF 34.9%, #F8FDFF 69.27%, #FFF5FD 100%)",
           "type": "color",
           "description": "Black AAA"
         },
@@ -12687,5 +12687,13 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "sellglobal",
+      "chikiriki",
+      "berezkabeauty",
+      "globalexpress"
+    ]
+  }
 }
