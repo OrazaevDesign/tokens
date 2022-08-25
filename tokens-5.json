@@ -12838,7 +12838,7 @@
     },
     "icon": {
       "special": {
-        "value": "$palette.primary.600",
+        "value": "$palette.accent.600",
         "type": "color"
       }
     }
