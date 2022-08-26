@@ -453,11 +453,11 @@
           "type": "color"
         },
         "sale-bg": {
-          "value": "$palette.accent.600",
+          "value": "$palette.accent.200",
           "type": "color"
         },
         "sale-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "discount-bg": {
