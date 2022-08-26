@@ -2896,11 +2896,11 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.warning.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "border": {
-          "value": "$palette.warning.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "color": {
@@ -3205,7 +3205,7 @@
     },
     "icon": {
       "special": {
-        "value": "$palette.warning.600",
+        "value": "$palette.accent.600",
         "type": "color"
       }
     }
@@ -3608,7 +3608,7 @@
           "type": "color"
         },
         "gradient-bg": {
-          "value": "linear-gradient(270deg, #FAF5FF 0%, #FFFCF9 34.9%, #FFF5FC 69.27%, #FAF5FF 100%)",
+          "value": "linear-gradient(270deg, #F5FEFF 0%, #F9FFFC 34.9%, #FDFFFF 69.27%, #F5FEFF 100%)",
           "type": "color"
         },
         "gradient-primary": {
@@ -6107,11 +6107,11 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "color": {
@@ -6416,7 +6416,7 @@
     },
     "icon": {
       "special": {
-        "value": "$palette.primary.600",
+        "value": "$palette.warning.600",
         "type": "color"
       }
     }
