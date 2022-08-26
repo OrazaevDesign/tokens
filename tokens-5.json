@@ -2896,11 +2896,11 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.accent.600",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "border": {
-          "value": "$palette.accent.600",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "color": {
@@ -3205,7 +3205,7 @@
     },
     "icon": {
       "special": {
-        "value": "$palette.accent.600",
+        "value": "$palette.warning.600",
         "type": "color"
       }
     }
