@@ -7722,15 +7722,15 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.natural.1100",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.natural.1100",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-bg": {
@@ -12842,5 +12842,13 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "default",
+      "shopotam",
+      "4partners",
+      "alimart"
+    ]
+  }
 }
