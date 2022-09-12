@@ -2067,6 +2067,40 @@
         }
       }
     },
+    "form-filed": {
+      "default-label": {
+        "value": "$palette.base.black",
+        "type": "color"
+      },
+      "default-description": {
+        "value": "$palette.base.gray",
+        "type": "color"
+      },
+      "succes-label": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "succes-description": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "error-label": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "error-description": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "disabled-label": {
+        "value": "$palette.natural.200",
+        "type": "color"
+      },
+      "disabled-description": {
+        "value": "$palette.natural.200",
+        "type": "color"
+      }
+    },
     "form-control": {
       "default": {
         "default-bg": {
@@ -5617,6 +5651,40 @@
         }
       }
     },
+    "form-filed": {
+      "default-label": {
+        "value": "$palette.base.black",
+        "type": "color"
+      },
+      "default-description": {
+        "value": "$palette.base.gray",
+        "type": "color"
+      },
+      "succes-label": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "succes-description": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "error-label": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "error-description": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "disabled-label": {
+        "value": "$palette.natural.200",
+        "type": "color"
+      },
+      "disabled-description": {
+        "value": "$palette.natural.200",
+        "type": "color"
+      }
+    },
     "form-control": {
       "default": {
         "default-bg": {
@@ -9162,6 +9230,40 @@
           "value": "$palette.natural.200",
           "type": "color"
         }
+      }
+    },
+    "form-filed": {
+      "default-label": {
+        "value": "$palette.base.black",
+        "type": "color"
+      },
+      "default-description": {
+        "value": "$palette.base.gray",
+        "type": "color"
+      },
+      "succes-label": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "succes-description": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "error-label": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "error-description": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "disabled-label": {
+        "value": "$palette.natural.200",
+        "type": "color"
+      },
+      "disabled-description": {
+        "value": "$palette.natural.200",
+        "type": "color"
       }
     },
     "form-control": {
@@ -12717,6 +12819,40 @@
           "value": "$palette.natural.200",
           "type": "color"
         }
+      }
+    },
+    "form-filed": {
+      "default-label": {
+        "value": "$palette.base.black",
+        "type": "color"
+      },
+      "default-description": {
+        "value": "$palette.base.gray",
+        "type": "color"
+      },
+      "succes-label": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "succes-description": {
+        "value": "$palette.succes.700",
+        "type": "color"
+      },
+      "error-label": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "error-description": {
+        "value": "$palette.error.700",
+        "type": "color"
+      },
+      "disabled-label": {
+        "value": "$palette.natural.200",
+        "type": "color"
+      },
+      "disabled-description": {
+        "value": "$palette.natural.200",
+        "type": "color"
       }
     },
     "form-control": {
