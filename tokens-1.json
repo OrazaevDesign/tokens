@@ -5009,7 +5009,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "focus-outline": {
