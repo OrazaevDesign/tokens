@@ -1810,7 +1810,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -1880,7 +1880,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -1950,7 +1950,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -2020,7 +2020,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -2126,7 +2126,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -2196,7 +2196,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -2266,7 +2266,7 @@
           "value": "$palette.base.transparent",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -2336,7 +2336,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -2406,7 +2406,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5460,7 +5460,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5530,7 +5530,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5600,7 +5600,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5670,7 +5670,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5776,7 +5776,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5846,7 +5846,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5916,7 +5916,7 @@
           "value": "$palette.base.transparent",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -5986,7 +5986,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -6056,7 +6056,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9114,7 +9114,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9184,7 +9184,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9254,7 +9254,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9324,7 +9324,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9430,7 +9430,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9500,7 +9500,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9570,7 +9570,7 @@
           "value": "$palette.base.transparent",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9640,7 +9640,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -9710,7 +9710,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -12768,7 +12768,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -12838,7 +12838,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -12908,7 +12908,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -12978,7 +12978,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -13084,7 +13084,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -13154,7 +13154,7 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -13224,7 +13224,7 @@
           "value": "$palette.base.transparent",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -13294,7 +13294,7 @@
           "value": "$palette.succes.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
@@ -13364,7 +13364,7 @@
           "value": "$palette.error.300",
           "type": "color"
         },
-        "default-placholder": {
+        "default-placeholder": {
           "value": "$palette.natural.400",
           "type": "color"
         },
