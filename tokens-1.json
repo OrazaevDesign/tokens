@@ -5009,15 +5009,15 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.natural",
+          "value": "$palette.outline.primary",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.primary.1000",
           "type": "color"
         },
         "disabled-bg": {
