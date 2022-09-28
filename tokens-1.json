@@ -5013,7 +5013,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.primary",
+          "value": "$palette.outline.natural",
           "type": "color"
         },
         "focus-color": {
@@ -5037,7 +5037,7 @@
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.base.transparent",
           "type": "color"
         },
         "active-color": {
