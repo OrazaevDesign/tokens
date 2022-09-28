@@ -4665,11 +4665,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.natural.800 ",
+          "value": "$palette.natural.800",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.natural.800 ",
+          "value": "$palette.natural.800",
           "type": "color"
         },
         "hover-color": {
