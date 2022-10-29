@@ -937,7 +937,7 @@
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "hover-bg": {
@@ -949,7 +949,7 @@
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "focus-bg": {
@@ -965,7 +965,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "disabled-bg": {
@@ -4202,7 +4202,7 @@
           "type": "color"
         },
         "sale-bg": {
-          "value": "#F37146",
+          "value": "#F3C346",
           "type": "color"
         },
         "sale-color": {
@@ -4686,7 +4686,7 @@
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "hover-bg": {
@@ -4698,7 +4698,7 @@
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "focus-bg": {
@@ -4714,7 +4714,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "disabled-bg": {
@@ -15000,7 +15000,8 @@
     "tokenSetOrder": [
       "nappyclub",
       "gadgetpeople",
-      "navisale"
+      "navisale",
+      "bjjd"
     ]
   }
 }
