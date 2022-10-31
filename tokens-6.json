@@ -11739,6 +11739,16 @@
           "value": "$palette.base.white",
           "type": "color"
         }
+      },
+      "gradient": {
+        "default": {
+          "value": "$palette.natural.200",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$palette.primary.200",
+          "type": "color"
+        }
       }
     },
     "elevation": {
