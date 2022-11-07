@@ -11658,15 +11658,15 @@
       },
       "outline": {
         "natural": {
-          "value": "$palette.natural.200",
+          "value": "#767c8450",
           "type": "color"
         },
         "primary": {
-          "value": "$palette.primary.300",
+          "value": "#6941D650",
           "type": "color"
         },
         "accent": {
-          "value": "$palette.accent.300",
+          "value": "#3ACDC050",
           "type": "color"
         },
         "succes": {
@@ -13437,7 +13437,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-outline": {
@@ -13507,7 +13507,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-outline": {
@@ -13577,7 +13577,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-outline": {
@@ -13611,35 +13611,35 @@
       },
       "succes": {
         "default-bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.succes.50",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.natural.300",
+          "value": "$palette.succes.300",
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.succes.400",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.succes.1000",
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.succes.50",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.natural.500",
+          "value": "$palette.succes.500",
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.succes.400",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.succes.1000",
           "type": "color"
         },
         "focus-bg": {
@@ -13647,7 +13647,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "focus-outline": {
@@ -13655,61 +13655,61 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.succes.400",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.succes.1000",
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.succes.50",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.natural.100",
+          "value": "$palette.succes.100",
           "type": "color"
         },
         "disabled-placeholder": {
-          "value": "$palette.natural.200",
+          "value": "$palette.succes.200",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.natural.200",
+          "value": "$palette.succes.200",
           "type": "color"
         }
       },
       "error": {
         "default-bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.error.50",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.natural.300",
+          "value": "$palette.error.300",
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.error.1000",
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.error.50",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.natural.500",
+          "value": "$palette.error.500",
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.error.1000",
           "type": "color"
         },
         "focus-bg": {
@@ -13717,7 +13717,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "focus-outline": {
@@ -13725,27 +13725,27 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.error.1000",
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.error.50",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.natural.100",
+          "value": "$palette.error.100",
           "type": "color"
         },
         "disabled-placeholder": {
-          "value": "$palette.natural.200",
+          "value": "$palette.error.200",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.natural.200",
+          "value": "$palette.error.200",
           "type": "color"
         }
       }
