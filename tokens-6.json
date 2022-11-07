@@ -15542,37 +15542,37 @@
       "gradient": {
         "primary": {
           "default-bg": {
-            "value": "linear-gradient(95.25deg, #D379EA 0%, #543ED9 54.45%)",
+            "value": "$palette.primary.600",
             "type": "color"
           },
           "default-border": {
-            "value": "linear-gradient(180deg, #B67CFF 0%, #4923C7 62.45%);",
+            "value": "$palette.primary.600",
             "type": "color"
           },
           "hover-bg": {
-            "value": "linear-gradient(95.25deg, #D379EA 25.68%, #543ED9 100%)",
+            "value": "$palette.primary.800",
             "type": "color"
           },
           "hover-border": {
-            "value": "linear-gradient(180deg, #B67CFF 31.25%, #4923C7 100%);",
+            "value": "$palette.primary.800",
             "type": "color"
           }
         },
         "accent": {
           "default-bg": {
-            "value": "linear-gradient(95.25deg, #6BD0FE 0%, #2BCBAE 55.3%)",
+            "value": "$palette.accent.500",
             "type": "color"
           },
           "default-border": {
-            "value": "linear-gradient(180deg, #A0EEFF 0%, #0DAB8E 62.45%);",
+            "value": "$palette.accent.500",
             "type": "color"
           },
           "hover-bg": {
-            "value": "linear-gradient(95.25deg, #6BD0FE 45.83%, #2BCBAE 98.96%)",
+            "value": "$palette.accent.700",
             "type": "color"
           },
           "hover-border": {
-            "value": "linear-gradient(180deg, #A0EEFF 46.88%, #0DAB8E 100%);",
+            "value": "$palette.accent.700",
             "type": "color"
           }
         }
@@ -18850,7 +18850,8 @@
       "nappyclub",
       "gadgetpeople",
       "navisale",
-      "bjjd"
+      "bjjd",
+      "bjjd-solid"
     ]
   }
 }
