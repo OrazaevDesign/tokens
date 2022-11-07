@@ -11700,11 +11700,11 @@
           "type": "color"
         },
         "sale-bg": {
-          "value": "#F37146",
+          "value": "$palette.gradient.accent.default-bg",
           "type": "color"
         },
         "sale-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "discount-bg": {
@@ -11724,7 +11724,7 @@
           "type": "color"
         },
         "procent-bg": {
-          "value": "$palette.primary.600",
+          "value": "#E438BF",
           "type": "color"
         },
         "procent-color": {
@@ -15008,7 +15008,7 @@
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.primary.600",
+        "value": "$palette.label.procent-bg",
         "type": "color"
       },
       "old-color": {
@@ -15016,13 +15016,13 @@
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.primary.600",
+        "value": "$palette.label.procent-bg",
         "type": "color"
       }
     },
     "subscription": {
       "pro-bg": {
-        "value": "$palette.primary.600",
+        "value": "$palette.gradient.primary.default-bg",
         "type": "color"
       },
       "pro-color": {
