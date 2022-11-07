@@ -12675,6 +12675,18 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
+        "active-bg": {
+          "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "active-border": {
+          "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "active-color": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
         "progress-bg": {
           "value": "$palette.accent.500",
           "type": "color"
