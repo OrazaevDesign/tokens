@@ -13776,11 +13776,11 @@
         "type": "color"
       },
       "active-bg": {
-        "value": "$palette.base.transparent",
+        "value": "$palette.natural.50",
         "type": "color"
       },
       "active-border": {
-        "value": "$palette.base.transparent",
+        "value": "$palette.natural.50",
         "type": "color"
       },
       "active-icon": {
@@ -14122,11 +14122,11 @@
         },
         "check": {
           "default-bg": {
-            "value": "$palette.primary.600",
+            "value": "$palette.gradient.primary.default-bg",
             "type": "color"
           },
           "default-border": {
-            "value": "$palette.primary.600",
+            "value": "$palette.gradient.primary.default-border",
             "type": "color"
           },
           "default-color": {
@@ -14134,11 +14134,11 @@
             "type": "color"
           },
           "hover-bg": {
-            "value": "$palette.primary.800",
+            "value": "$palette.gradient.primary.hover-bg",
             "type": "color"
           },
           "hover-border": {
-            "value": "$palette.primary.800",
+            "value": "$palette.gradient.primary.hover-border",
             "type": "color"
           },
           "hover-color": {
@@ -14146,7 +14146,7 @@
             "type": "color"
           },
           "focus-bg": {
-            "value": "$palette.primary.600",
+            "value": "$palette.gradient.primary.default-bg",
             "type": "color"
           },
           "focus-border": {
@@ -14344,11 +14344,11 @@
         },
         "check": {
           "default-bg": {
-            "value": "$palette.primary.600",
+            "value": "$palette.gradient.primary.default-bg",
             "type": "color"
           },
           "default-border": {
-            "value": "$palette.primary.600",
+            "value": "$palette.gradient.primary.default-border",
             "type": "color"
           },
           "default-color": {
@@ -14356,11 +14356,11 @@
             "type": "color"
           },
           "hover-bg": {
-            "value": "$palette.primary.800",
+            "value": "$palette.gradient.primary.hover-bg",
             "type": "color"
           },
           "hover-border": {
-            "value": "$palette.primary.800",
+            "value": "$palette.gradient.primary.hover-border",
             "type": "color"
           },
           "hover-color": {
@@ -14368,7 +14368,7 @@
             "type": "color"
           },
           "focus-bg": {
-            "value": "$palette.primary.600",
+            "value": "$palette.gradient.primary.default-bg",
             "type": "color"
           },
           "focus-border": {
@@ -14675,11 +14675,11 @@
       },
       "check": {
         "default-bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.gradient.primary.default-bg",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.gradient.primary.default-border",
           "type": "color"
         },
         "default-color": {
@@ -14687,11 +14687,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.primary.800",
+          "value": "$palette.gradient.primary.hover-bg",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.800",
+          "value": "$palette.gradient.primary.hover-border",
           "type": "color"
         },
         "hover-color": {
@@ -14699,7 +14699,7 @@
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.gradient.primary.default-bg",
           "type": "color"
         },
         "focus-border": {
@@ -14731,11 +14731,11 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.gradient.primary.default-bg",
           "type": "color"
         },
         "border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.gradient.primary.default-border",
           "type": "color"
         },
         "color": {
