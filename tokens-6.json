@@ -11732,7 +11732,7 @@
           "type": "color"
         },
         "partners-bg": {
-          "value": "$palette.primary.600",
+          "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
           "type": "color"
         },
         "partners-color": {
