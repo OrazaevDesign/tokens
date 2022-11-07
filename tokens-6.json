@@ -11758,6 +11758,24 @@
             "value": "$palette.primary.200",
             "type": "color"
           }
+        },
+        "accent": {
+          "default-bg": {
+            "value": "linear-gradient(257.1deg, #6B34FF 47.97%, #A834FF 99.81%)",
+            "type": "color"
+          },
+          "default-border": {
+            "value": "linear-gradient(257.1deg, #6B34FF 47.97%, #A834FF 99.81%)",
+            "type": "color"
+          },
+          "hover-bg": {
+            "value": "$palette.primary.200",
+            "type": "color"
+          },
+          "hover-border": {
+            "value": "$palette.primary.200",
+            "type": "color"
+          }
         }
       }
     },
