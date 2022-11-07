@@ -11684,11 +11684,11 @@
       },
       "label": {
         "bestseller-bg": {
-          "value": "#EB952D",
+          "value": "#fcc725",
           "type": "color"
         },
         "bestseller-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "new-bg": {
@@ -11708,15 +11708,15 @@
           "type": "color"
         },
         "discount-bg": {
-          "value": "#2EA58B",
+          "value": "#2CCCAF",
           "type": "color"
         },
         "discount-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "popular-bg": {
-          "value": "#612FBD",
+          "value": "#6941D6",
           "type": "color"
         },
         "popular-color": {
