@@ -11662,11 +11662,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "$palette.primary.200",
+          "value": "$palette.primary.300",
           "type": "color"
         },
         "accent": {
-          "value": "$palette.accent.200",
+          "value": "$palette.accent.300",
           "type": "color"
         },
         "succes": {
