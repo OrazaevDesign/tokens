@@ -11466,55 +11466,55 @@
       },
       "warning": {
         "50": {
-          "value": "#fffdfa",
+          "value": "#FFFDFA",
           "type": "color"
         },
         "100": {
-          "value": "#fff0d7",
+          "value": "#FFF2D7",
           "type": "color"
         },
         "200": {
-          "value": "#fee1b3",
+          "value": "#FEE6B3",
           "type": "color"
         },
         "300": {
-          "value": "#facc8a",
+          "value": "#FAD58A",
           "type": "color"
         },
         "400": {
-          "value": "#f6b35c",
+          "value": "#F6C25C",
           "type": "color"
         },
         "500": {
-          "value": "#eb952d",
+          "value": "#EBA92D",
           "type": "color"
         },
         "600": {
-          "value": "#d97c13",
+          "value": "#D99313",
           "type": "color"
         },
         "700": {
-          "value": "#c05809",
+          "value": "#C07909",
           "type": "color"
         },
         "800": {
-          "value": "#ac4c08",
+          "value": "#AC6608",
           "type": "color"
         },
         "900": {
-          "value": "#994207",
+          "value": "#995607",
           "type": "color"
         },
         "1000": {
-          "value": "#873806",
+          "value": "#874706",
           "type": "color"
         },
         "1100": {
-          "value": "#752f05",
+          "value": "#753905",
           "type": "color"
         },
         "1200": {
-          "value": "#632604",
+          "value": "#632D04",
           "type": "color"
         }
       },
@@ -12274,7 +12274,7 @@
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.accent.1000",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "progress-bg": {
@@ -12286,7 +12286,7 @@
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-line": {
