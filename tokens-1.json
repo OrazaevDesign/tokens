@@ -7479,7 +7479,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.natural.600",
+        "value": "$palette.base.gray",
         "type": "color"
       },
       "old-line": {
@@ -11248,7 +11248,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.natural.600",
+        "value": "$palette.base.gray",
         "type": "color"
       },
       "old-line": {
@@ -15005,7 +15005,7 @@
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.primary.600",
+        "value": "$palette.base.gray",
         "type": "color"
       },
       "old-color": {
