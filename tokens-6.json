@@ -12132,11 +12132,11 @@
     "button": {
       "primary": {
         "default-bg": {
-          "value": "{palette.gradient.primary.default-bg}",
+          "value": "$palette.gradient.primary.default-bg",
           "type": "color"
         },
         "default-border": {
-          "value": "{palette.gradient.primary.default-border}",
+          "value": "$palette.gradient.primary.default-border",
           "type": "color"
         },
         "default-color": {
@@ -15542,37 +15542,37 @@
       "gradient": {
         "primary": {
           "default-bg": {
-            "value": "$palette.primary.600",
+            "value": "#6941D6",
             "type": "color"
           },
           "default-border": {
-            "value": "$palette.primary.600",
+            "value": "#6941D6",
             "type": "color"
           },
           "hover-bg": {
-            "value": "$palette.primary.800",
+            "value": "#5137B5",
             "type": "color"
           },
           "hover-border": {
-            "value": "$palette.primary.800",
+            "value": "#5137B5",
             "type": "color"
           }
         },
         "accent": {
           "default-bg": {
-            "value": "$palette.accent.500",
+            "value": "#59D7C5",
             "type": "color"
           },
           "default-border": {
-            "value": "$palette.accent.500",
+            "value": "#59D7C5",
             "type": "color"
           },
           "hover-bg": {
-            "value": "$palette.accent.700",
+            "value": "#26BCB2",
             "type": "color"
           },
           "hover-border": {
-            "value": "$palette.accent.700",
+            "value": "#26BCB2",
             "type": "color"
           }
         }
@@ -15931,11 +15931,11 @@
     "button": {
       "primary": {
         "default-bg": {
-          "value": "{palette.gradient.primary.default-bg}",
+          "value": "$palette.gradient.primary.default-bg",
           "type": "color"
         },
         "default-border": {
-          "value": "{palette.gradient.primary.default-border}",
+          "value": "$palette.gradient.primary.default-border",
           "type": "color"
         },
         "default-color": {
@@ -18851,7 +18851,7 @@
       "gadgetpeople",
       "navisale",
       "bjjd",
-      "bjjd-solid"
+      "bjjdsolid"
     ]
   }
 }
