@@ -11723,7 +11723,7 @@
           "type": "color"
         },
         "succes": {
-          "value": "rgba(25,158,76,0.3)",
+          "value": "rgba(22,188,153,0.3)",
           "type": "color"
         },
         "warning": {
