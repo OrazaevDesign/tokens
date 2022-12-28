@@ -5798,7 +5798,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "focus-outline": {
@@ -6184,7 +6184,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "focus-outline": {
