@@ -7934,7 +7934,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "$palette.secondary.700",
+          "value": "$palette.primary.900",
           "type": "color"
         },
         "gradient-bg": {
@@ -9180,7 +9180,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.secondary",
+          "value": "$palette.outline.primary",
           "type": "color"
         },
         "focus-color": {
@@ -9312,7 +9312,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.secondary",
+          "value": "$palette.outline.primary",
           "type": "color"
         },
         "focus-color": {
