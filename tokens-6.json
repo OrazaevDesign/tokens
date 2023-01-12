@@ -433,6 +433,10 @@
         "error": {
           "value": "$palette.error.200",
           "type": "color"
+        },
+        "secondary": {
+          "value": "rgba(243,54,34,0.3)",
+          "type": "color"
         }
       },
       "label": {
@@ -4181,6 +4185,10 @@
         },
         "error": {
           "value": "$palette.error.200",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba(243,54,34,0.3)",
           "type": "color"
         }
       },
@@ -7931,6 +7939,10 @@
         "error": {
           "value": "$palette.error.200",
           "type": "color"
+        },
+        "secondary": {
+          "value": "rgba(243,54,34,0.3)",
+          "type": "color"
         }
       },
       "label": {
@@ -11679,6 +11691,10 @@
         },
         "error": {
           "value": "$palette.error.200",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba(243,54,34,0.3)",
           "type": "color"
         }
       },
@@ -15478,6 +15494,10 @@
         },
         "error": {
           "value": "$palette.error.200",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba(243,54,34,0.3)",
           "type": "color"
         }
       },
