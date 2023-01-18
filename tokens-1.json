@@ -8928,15 +8928,15 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.base.transparent",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.base.transparent",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "progress-line": {
