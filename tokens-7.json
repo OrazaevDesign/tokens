@@ -4169,7 +4169,7 @@
           "type": "color"
         },
         "gradient-primary": {
-          "value": "linear-gradient(180deg, #002ABF 0%, #005BDE 48.44%, #0F85F1 100%);",
+          "value": "linear-gradient(183deg, #FFC632 0%, #FFEB5B 100%)",
           "type": "color"
         },
         "transparent": {
@@ -7938,12 +7938,12 @@
           "type": "color"
         },
         "gradient-bg": {
-          "value": "linear-gradient(270deg, #F2F2F2 0%, #FBFBFB 34.9%, #FAFAFA 69.27%, #F2F2F2 100%)",
+          "value": "linear-gradient(270deg, #f5ffff 0%, #fffaf5 34.9%, #fff5fb 69.27%, #f5ffff 100%)",
           "type": "color",
           "description": "Black AAA"
         },
         "gradient-primary": {
-          "value": "linear-gradient(183deg, #bf3181 0%, #fd3665 100%)",
+          "value": "linear-gradient(180deg, #002ABF 0%, #005BDE 48.44%, #0F85F1 100%);",
           "type": "color",
           "description": "White AAA"
         },
