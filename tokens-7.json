@@ -4169,7 +4169,7 @@
           "type": "color"
         },
         "gradient-primary": {
-          "value": "linear-gradient(183deg, #FFC632 0%, #FFEB5B 100%)",
+          "value": "linear-gradient(180deg, #002ABF 0%, #005BDE 48.44%, #0F85F1 100%);",
           "type": "color"
         },
         "transparent": {
