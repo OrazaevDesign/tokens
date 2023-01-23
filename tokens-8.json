@@ -948,11 +948,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.accent.800",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.accent.800",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "hover-color": {
