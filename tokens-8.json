@@ -944,7 +944,7 @@
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "hover-bg": {
@@ -956,7 +956,7 @@
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "focus-bg": {
@@ -972,7 +972,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "disabled-bg": {
@@ -984,7 +984,7 @@
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "active-bg": {
@@ -992,11 +992,11 @@
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.accent.600",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.accent.600",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "progress-bg": {
@@ -1008,7 +1008,7 @@
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "progress-line": {
