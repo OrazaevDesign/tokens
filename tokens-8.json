@@ -484,11 +484,11 @@
           "type": "color"
         },
         "procent-bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "procent-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "partners-bg": {
@@ -3453,15 +3453,15 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.1200",
           "type": "color"
         }
       },
