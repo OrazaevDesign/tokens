@@ -9859,7 +9859,7 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.succes.400",
           "type": "color"
         },
         "default-color": {
@@ -9875,7 +9875,7 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.succes.400",
           "type": "color"
         },
         "hover-color": {
@@ -9895,7 +9895,7 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.succes.400",
           "type": "color"
         },
         "focus-color": {
@@ -9911,11 +9911,11 @@
           "type": "color"
         },
         "disabled-placeholder": {
-          "value": "$palette.natural.200",
+          "value": "$palette.succes.200",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.natural.200",
+          "value": "$palette.succes.200",
           "type": "color"
         }
       },
@@ -9929,7 +9929,7 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "default-color": {
@@ -9945,7 +9945,7 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "hover-color": {
@@ -9965,7 +9965,7 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.error.400",
           "type": "color"
         },
         "focus-color": {
@@ -9981,11 +9981,11 @@
           "type": "color"
         },
         "disabled-placeholder": {
-          "value": "$palette.natural.200",
+          "value": "$palette.error.200",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.natural.200",
+          "value": "$palette.error.200",
           "type": "color"
         }
       }
