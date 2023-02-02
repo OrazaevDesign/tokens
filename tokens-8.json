@@ -418,11 +418,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "rgba(112,0,226,0.3)",
+          "value": "rgba(65,11,151,0.3)",
           "type": "color"
         },
         "accent": {
-          "value": "rgba(90,244,254,0.3)",
+          "value": "rgba(182,17,209,0.3)",
           "type": "color"
         },
         "succes": {
