@@ -3,35 +3,35 @@
     "palette": {
       "natural": {
         "50": {
-          "value": "#F0F8FF",
+          "value": "#F5F8FB",
           "type": "color"
         },
         "100": {
-          "value": "#E5ECF4",
+          "value": "#E9EDF1",
           "type": "color"
         },
         "200": {
-          "value": "#D4DBE2",
+          "value": "#D9DDE2",
           "type": "color"
         },
         "300": {
-          "value": "#BEC4CC",
+          "value": "#C2C6CC",
           "type": "color"
         },
         "400": {
-          "value": "#A5ABB3",
+          "value": "#A8ADB3",
           "type": "color"
         },
         "500": {
-          "value": "#858A92",
+          "value": "#888C92",
           "type": "color"
         },
         "600": {
-          "value": "#686D73",
+          "value": "#6A6E73",
           "type": "color"
         },
         "700": {
-          "value": "#4E5258",
+          "value": "#4F5358",
           "type": "color"
         },
         "800": {
