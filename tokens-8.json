@@ -426,25 +426,25 @@
           "type": "color"
         },
         "succes": {
-          "value": "rgba(25,158,76,0.3)",
+          "value": "rgba(10,178,97,0.3)",
           "type": "color"
         },
         "warning": {
-          "value": "rgba(217,125,20,0.3)",
+          "value": "rgba(238,123,58,0.3)",
           "type": "color"
         },
         "error": {
-          "value": "rgba(224,54,62,0.3)",
+          "value": "rgba(231,11,90,0.3)",
           "type": "color"
         },
         "secondary": {
-          "value": "rgba(243,54,34,0.3)",
+          "value": "rgba(84,69,236,0.3)",
           "type": "color"
         }
       },
       "label": {
         "bestseller-bg": {
-          "value": "#eb952d",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "bestseller-color": {
@@ -452,7 +452,7 @@
           "type": "color"
         },
         "new-bg": {
-          "value": "#2983ed",
+          "value": "$palette.secondary.600",
           "type": "color"
         },
         "new-color": {
@@ -476,7 +476,7 @@
           "type": "color"
         },
         "popular-bg": {
-          "value": "#982fbd",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "popular-color": {
