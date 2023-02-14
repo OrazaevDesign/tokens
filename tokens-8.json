@@ -4736,7 +4736,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.accent",
+          "value": "$palette.outline.primary",
           "type": "color"
         },
         "focus-color": {
