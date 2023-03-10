@@ -7958,7 +7958,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "rgba(213,6,87,0.3)",
+          "value": "rgba(51,136,37,0.3)",
           "type": "color"
         },
         "succes": {
@@ -8472,83 +8472,83 @@
       },
       "accent": {
         "default-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.primary.600",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.500",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.accent.500",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.primary.400",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.800",
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.primary",
+          "value": "$palette.outline.accent",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.primary.600",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.200",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.primary.200",
+          "value": "$palette.accent.200",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.primary.200",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.primary.600",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.primary.50",
+          "value": "$palette.accent.500",
           "type": "color"
         }
       },
@@ -8582,11 +8582,11 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.natural.1200",
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.primary",
+          "value": "$palette.outline.natural",
           "type": "color"
         },
         "focus-color": {
@@ -8664,11 +8664,11 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.natural.800",
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.primary",
+          "value": "$palette.outline.natural",
           "type": "color"
         },
         "focus-color": {
