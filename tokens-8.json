@@ -7671,7 +7671,7 @@
           "type": "color"
         },
         "600": {
-          "value": "#5445EC",
+          "value": "#1B5DB4",
           "type": "color"
         },
         "700": {
@@ -9147,11 +9147,11 @@
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.secondary.600",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.primary.600",
+          "value": "$palette.secondary.600",
           "type": "color"
         },
         "hover-bg": {
