@@ -7962,7 +7962,7 @@
           "type": "color"
         },
         "succes": {
-          "value": "rgba(10,178,97,0.3)",
+          "value": "rgba(51,136,37,0.3)",
           "type": "color"
         },
         "warning": {
