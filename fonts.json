@@ -4,6 +4,10 @@
       "SFPro": {
         "value": "SF Pro Text",
         "type": "fontFamilies"
+      },
+      "Font-family": {
+        "value": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Arial , Noto Sans, sans-serif",
+        "type": "fontFamilies"
       }
     },
     "lineHeights": {
@@ -7859,5 +7863,12 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "SFPro",
+      "SegoeUI",
+      "Inter"
+    ]
+  }
 }
