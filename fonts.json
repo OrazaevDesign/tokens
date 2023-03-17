@@ -1012,8 +1012,8 @@
           "value": {
             "fontFamily": "{fontFamilies.SFPro}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.1000}",
-            "fontSize": "{fontSize.1000}",
+            "lineHeight": "{lineHeights.700}",
+            "fontSize": "{fontSize.800}",
             "letterSpacing": "{letterSpacing.500}"
           },
           "type": "typography"
