@@ -7518,6 +7518,284 @@
         "value": "$palette.primary.600",
         "type": "color"
       }
+    },
+    "app": {
+      "Accent main": {
+        "value": "#fd3666",
+        "type": "color"
+      },
+      "Accent notif btn": {
+        "value": "#f63966",
+        "type": "color"
+      },
+      "Additional main": {
+        "value": "#ffebf0",
+        "type": "color"
+      },
+      "Pressed main": {
+        "value": "#dd2753",
+        "type": "color"
+      },
+      "Navigation": {
+        "value": "#a8a9a9",
+        "type": "color"
+      },
+      "Divider": {
+        "value": "#e2e2e2",
+        "type": "color"
+      },
+      "Tag filters": {
+        "value": "#f0f1f2",
+        "type": "color"
+      },
+      "shadow img catalog": {
+        "value": "#959595",
+        "type": "color"
+      },
+      "shadow img rating": {
+        "value": "#c5c5c5",
+        "type": "color"
+      },
+      "gradient skeleton": {
+        "value": "linear-gradient(136deg, #cfd4d8 0%, #e4e7e9 47.55%, #eceef0 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient sale": {
+        "value": "linear-gradient(90deg, #ffd43d 0%, #fffa7c 100%)",
+        "type": "color"
+      },
+      "Gradient new": {
+        "value": "linear-gradient(49deg, #08c56a 0%, #24ef02 100%)",
+        "type": "color"
+      },
+      "Gradient status new": {
+        "value": "linear-gradient(52deg, #2fbbe7 0%, #098eee 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient status waiting for the stock": {
+        "value": "linear-gradient(135deg, #fd7089 0%, #fd3563 36.46%, #fd3665 67.19%, #d13a87 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient status in stock": {
+        "value": "linear-gradient(53deg, #e6b713 0%, #f9e428 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient status packed": {
+        "value": "linear-gradient(22deg, #0ba4b9 0%, #3ae4fb 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient status confirmed": {
+        "value": "linear-gradient(49deg, #08c56a 0%, #24ef02 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient status sent": {
+        "value": "linear-gradient(90deg, #238eaa 0%, #43d393 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient status delivered": {
+        "value": "linear-gradient(207deg, #ee5b3b 0%, #e16e03 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "Gradient status canceled": {
+        "value": "linear-gradient(14deg, #848d95 0%, #8f98a0 47.78%, #bec6cd 100%)",
+        "type": "color",
+        "description": "un use"
+      },
+      "base skeleton": {
+        "value": "#cfd4d8",
+        "type": "color"
+      },
+      "secondary skeleton": {
+        "value": "#eceef0",
+        "type": "color"
+      },
+      "status": {
+        "status 1": {
+          "value": "#32ce50",
+          "type": "color"
+        },
+        "status 2": {
+          "value": "#ff3f6b",
+          "type": "color"
+        },
+        "status 3": {
+          "value": "#eaa82b",
+          "type": "color"
+        },
+        "status 4": {
+          "value": "#8f959a",
+          "type": "color"
+        }
+      },
+      "disable": {
+        "Disabled page control": {
+          "value": "#c7c7cc",
+          "type": "color"
+        },
+        "Disabled button": {
+          "value": "#e2e4e7",
+          "type": "color"
+        },
+        "Disabled button pressed": {
+          "value": "#d7d9db",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "Icon main": {
+          "value": "#2d3139",
+          "type": "color"
+        },
+        "icon accent": {
+          "value": "#fd3666",
+          "type": "color"
+        },
+        "icon on icon": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "icon additional": {
+          "value": "#d5d5d5",
+          "type": "color"
+        },
+        "icon additional 2": {
+          "value": "#757575",
+          "type": "color"
+        },
+        "icon notif error": {
+          "value": "#f3023c",
+          "type": "color"
+        },
+        "icon notif warning": {
+          "value": "#ea711d",
+          "type": "color"
+        },
+        "icon notif success": {
+          "value": "#188834",
+          "type": "color"
+        }
+      },
+      "text": {
+        "Text main": {
+          "value": "#2d3139",
+          "type": "color"
+        },
+        "Text accent": {
+          "value": "#fd3666",
+          "type": "color"
+        },
+        "Text additional": {
+          "value": "#838995",
+          "type": "color"
+        },
+        "Text on label": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Text accent on button": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Text old size": {
+          "value": "#9aa4ad",
+          "type": "color"
+        },
+        "Text disabled": {
+          "value": "#adafaf",
+          "type": "color"
+        },
+        "Text tab": {
+          "value": "#2d3139",
+          "type": "color"
+        },
+        "text notif error": {
+          "value": "#f3023c",
+          "type": "color"
+        },
+        "text notif warning": {
+          "value": "#ea711d",
+          "type": "color"
+        },
+        "text notif success": {
+          "value": "#188834",
+          "type": "color"
+        }
+      },
+      "bg": {
+        "Background main": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Background card": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Background bottom": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Backgroung Nav bar main": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Background Nav bar modal": {
+          "value": "#a6a6a6",
+          "type": "color"
+        },
+        "Background search": {
+          "value": "#f0f1f2",
+          "type": "color"
+        },
+        "Background card on photo": {
+          "value": "#c4c4c40d",
+          "type": "color"
+        },
+        "Background notif bad": {
+          "value": "#ffeff3",
+          "type": "color"
+        },
+        "Background notif success": {
+          "value": "#eafbee",
+          "type": "color"
+        },
+        "Background notif warning": {
+          "value": "#fdf4ed",
+          "type": "color"
+        }
+      },
+      "img": {
+        "img gradient pink": {
+          "value": "linear-gradient(135deg, #fd7089 0%, #fd3563 36.46%, #fd3665 67.19%, #d13a87 100%)",
+          "type": "color",
+          "description": "un use"
+        },
+        "img white": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "img pink one": {
+          "value": "#ffd7e0",
+          "type": "color"
+        },
+        "img pink gradient light": {
+          "value": "linear-gradient(88deg, #ffd7e0 0%, #ffeff3 100%)",
+          "type": "color",
+          "description": "un use"
+        },
+        "img pink hand": {
+          "value": "linear-gradient(162deg, #ffd7e0 0%, #ffd7e000 100%)",
+          "type": "color",
+          "description": "un use"
+        }
+      }
     }
   },
   "4partners": {
