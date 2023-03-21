@@ -7637,15 +7637,15 @@
       },
       "disable": {
         "Disabled page control": {
-          "value": "#c7c7cc",
+          "value": "$palette.natural.300",
           "type": "color"
         },
         "Disabled button": {
-          "value": "#e2e4e7",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "Disabled button pressed": {
-          "value": "#d7d9db",
+          "value": "$palette.natural.200",
           "type": "color"
         }
       },
