@@ -7795,6 +7795,64 @@
           "type": "color",
           "description": "un use"
         }
+      },
+      "label": {
+        "bestseller-bg": {
+          "value": "#eb952d",
+          "type": "color"
+        },
+        "bestseller-color": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "new-bg": {
+          "value": "#2983ed",
+          "type": "color"
+        },
+        "new-color": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "sale-bg": {
+          "value": "#fdec83",
+          "type": "color"
+        },
+        "sale-color": {
+          "value": "$palette.base.black",
+          "type": "color"
+        },
+        "discount-bg": {
+          "value": "#199f4d",
+          "type": "color"
+        },
+        "discount-color": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "popular-bg": {
+          "value": "#982fbd",
+          "type": "color"
+        },
+        "popular-color": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "procent-bg": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "procent-color": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "partners-bg": {
+          "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
+          "type": "color"
+        },
+        "partners-color": {
+          "value": "$palette.base.white",
+          "type": "color"
+        }
       }
     }
   },
