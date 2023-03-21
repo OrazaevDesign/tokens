@@ -7798,59 +7798,59 @@
       },
       "label": {
         "bestseller-bg": {
-          "value": "#eb952d",
+          "value": "$palette.label.bestseller-bg",
           "type": "color"
         },
         "bestseller-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.label.bestseller-color",
           "type": "color"
         },
         "new-bg": {
-          "value": "#2983ed",
+          "value": "$palette.label.new-bg",
           "type": "color"
         },
         "new-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.label.discount-color",
           "type": "color"
         },
         "sale-bg": {
-          "value": "#fdec83",
+          "value": "$palette.label.sale-bg",
           "type": "color"
         },
         "sale-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.label.sale-color",
           "type": "color"
         },
         "discount-bg": {
-          "value": "#199f4d",
+          "value": "$palette.label.discount-bg",
           "type": "color"
         },
         "discount-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.label.discount-color",
           "type": "color"
         },
         "popular-bg": {
-          "value": "#982fbd",
+          "value": "$palette.label.popular-bg",
           "type": "color"
         },
         "popular-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.label.popular-color",
           "type": "color"
         },
         "procent-bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.label.procent-bg",
           "type": "color"
         },
         "procent-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.label.procent-color",
           "type": "color"
         },
         "partners-bg": {
-          "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
+          "value": "$palette.label.partners-bg",
           "type": "color"
         },
         "partners-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.label.partners-color",
           "type": "color"
         }
       }
