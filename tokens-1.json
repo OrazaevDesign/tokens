@@ -7521,39 +7521,39 @@
     },
     "app": {
       "Accent main": {
-        "value": "#fd3666",
+        "value": "$palette.primary.600",
         "type": "color"
       },
       "Accent notif btn": {
-        "value": "#f63966",
+        "value": "$palette.primary.600",
         "type": "color"
       },
       "Additional main": {
-        "value": "#ffebf0",
+        "value": "$palette.primary.100",
         "type": "color"
       },
       "Pressed main": {
-        "value": "#dd2753",
+        "value": "$palette.primary.800",
         "type": "color"
       },
       "Navigation": {
-        "value": "#a8a9a9",
+        "value": "$palette.natural.400",
         "type": "color"
       },
       "Divider": {
-        "value": "#e2e2e2",
+        "value": "$palette.natural.100",
         "type": "color"
       },
       "Tag filters": {
-        "value": "#f0f1f2",
+        "value": "$palette.natural.100",
         "type": "color"
       },
       "shadow img catalog": {
-        "value": "#959595",
+        "value": "$palette.natural.600",
         "type": "color"
       },
       "shadow img rating": {
-        "value": "#c5c5c5",
+        "value": "$palette.natural.500",
         "type": "color"
       },
       "gradient skeleton": {
@@ -7619,47 +7619,47 @@
       },
       "status": {
         "status 1": {
-          "value": "#32ce50",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "status 2": {
-          "value": "#ff3f6b",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "status 3": {
-          "value": "#eaa82b",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "status 4": {
-          "value": "#8f959a",
+          "value": "$palette.natural.600",
           "type": "color"
         }
       },
       "disable": {
         "Disabled page control": {
-          "value": "#c7c7cc",
+          "value": "$palette.natural.300",
           "type": "color"
         },
         "Disabled button": {
-          "value": "#e2e4e7",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "Disabled button pressed": {
-          "value": "#d7d9db",
+          "value": "$palette.natural.200",
           "type": "color"
         }
       },
       "icon": {
         "Icon main": {
-          "value": "#2d3139",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "icon accent": {
-          "value": "#fd3666",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "icon on icon": {
-          "value": "#ffffff",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "icon additional": {
@@ -7671,87 +7671,87 @@
           "type": "color"
         },
         "icon notif error": {
-          "value": "#f3023c",
+          "value": "$palette.error.700",
           "type": "color"
         },
         "icon notif warning": {
-          "value": "#ea711d",
+          "value": "$palette.warning.700",
           "type": "color"
         },
         "icon notif success": {
-          "value": "#188834",
+          "value": "$palette.succes.700",
           "type": "color"
         }
       },
       "text": {
         "Text main": {
-          "value": "#2d3139",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "Text accent": {
-          "value": "#fd3666",
+          "value": "$palette.primary.700",
           "type": "color"
         },
         "Text additional": {
-          "value": "#838995",
+          "value": "$palette.base.gray",
           "type": "color"
         },
         "Text on label": {
-          "value": "#ffffff",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "Text accent on button": {
-          "value": "#ffffff",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "Text old size": {
-          "value": "#9aa4ad",
+          "value": "$palette.base.gray",
           "type": "color"
         },
         "Text disabled": {
-          "value": "#adafaf",
+          "value": "$palette.natural.400",
           "type": "color"
         },
         "Text tab": {
-          "value": "#2d3139",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "text notif error": {
-          "value": "#f3023c",
+          "value": "$palette.error.700",
           "type": "color"
         },
         "text notif warning": {
-          "value": "#ea711d",
+          "value": "$palette.warning.700",
           "type": "color"
         },
         "text notif success": {
-          "value": "#188834",
+          "value": "$palette.succes.700",
           "type": "color"
         }
       },
       "bg": {
         "Background main": {
-          "value": "#ffffff",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "Background card": {
-          "value": "#ffffff",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "Background bottom": {
-          "value": "#ffffff",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "Backgroung Nav bar main": {
-          "value": "#ffffff",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "Background Nav bar modal": {
-          "value": "#a6a6a6",
+          "value": "$palette.natural.400",
           "type": "color"
         },
         "Background search": {
-          "value": "#f0f1f2",
+          "value": "$palette.natural.100",
           "type": "color"
         },
         "Background card on photo": {
@@ -7759,15 +7759,15 @@
           "type": "color"
         },
         "Background notif bad": {
-          "value": "#ffeff3",
+          "value": "$palette.error.100",
           "type": "color"
         },
         "Background notif success": {
-          "value": "#eafbee",
+          "value": "$palette.succes.100",
           "type": "color"
         },
         "Background notif warning": {
-          "value": "#fdf4ed",
+          "value": "$palette.warning.100",
           "type": "color"
         }
       },
