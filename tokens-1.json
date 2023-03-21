@@ -7569,6 +7569,10 @@
         "value": "$palette.natural.200",
         "type": "color"
       },
+      "Gradient menu": {
+        "value": "$palette.base.gradient-bg",
+        "type": "color"
+      },
       "status": {
         "status 1": {
           "value": "$palette.succes.600",
@@ -7805,10 +7809,6 @@
           "value": "$palette.label.partners-color",
           "type": "color"
         }
-      },
-      "Gradient menu": {
-        "value": "$palette.base.gradient-bg",
-        "type": "color"
       }
     }
   },
