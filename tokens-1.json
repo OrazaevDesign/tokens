@@ -7561,60 +7561,12 @@
         "type": "color",
         "description": "un use"
       },
-      "Gradient sale": {
-        "value": "linear-gradient(90deg, #ffd43d 0%, #fffa7c 100%)",
-        "type": "color"
-      },
-      "Gradient new": {
-        "value": "linear-gradient(49deg, #08c56a 0%, #24ef02 100%)",
-        "type": "color"
-      },
-      "Gradient status new": {
-        "value": "linear-gradient(52deg, #2fbbe7 0%, #098eee 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "Gradient status waiting for the stock": {
-        "value": "linear-gradient(135deg, #fd7089 0%, #fd3563 36.46%, #fd3665 67.19%, #d13a87 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "Gradient status in stock": {
-        "value": "linear-gradient(53deg, #e6b713 0%, #f9e428 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "Gradient status packed": {
-        "value": "linear-gradient(22deg, #0ba4b9 0%, #3ae4fb 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "Gradient status confirmed": {
-        "value": "linear-gradient(49deg, #08c56a 0%, #24ef02 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "Gradient status sent": {
-        "value": "linear-gradient(90deg, #238eaa 0%, #43d393 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "Gradient status delivered": {
-        "value": "linear-gradient(207deg, #ee5b3b 0%, #e16e03 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "Gradient status canceled": {
-        "value": "linear-gradient(14deg, #848d95 0%, #8f98a0 47.78%, #bec6cd 100%)",
-        "type": "color",
-        "description": "un use"
-      },
       "base skeleton": {
-        "value": "#cfd4d8",
+        "value": "$palette.natural.400",
         "type": "color"
       },
       "secondary skeleton": {
-        "value": "#eceef0",
+        "value": "$palette.natural.200",
         "type": "color"
       },
       "status": {
@@ -7853,6 +7805,10 @@
           "value": "$palette.label.partners-color",
           "type": "color"
         }
+      },
+      "Gradient menu": {
+        "value": "$palette.base.gradient-bg",
+        "type": "color"
       }
     }
   },
