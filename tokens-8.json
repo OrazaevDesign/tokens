@@ -11631,55 +11631,55 @@
       },
       "accent": {
         "50": {
-          "value": "#FDFFFB",
+          "value": "#FBFFFC",
           "type": "color"
         },
         "100": {
-          "value": "#E7F5DF",
+          "value": "#E6FCEC",
           "type": "color"
         },
         "200": {
-          "value": "#CBE9BC",
+          "value": "#CBF6D7",
           "type": "color"
         },
         "300": {
-          "value": "#A6D793",
+          "value": "#A6EEBB",
           "type": "color"
         },
         "400": {
-          "value": "#7ABE65",
+          "value": "#7ADD99",
           "type": "color"
         },
         "500": {
-          "value": "#50A33D",
+          "value": "#4FC274",
           "type": "color"
         },
         "600": {
-          "value": "#338825",
+          "value": "#2CA254",
           "type": "color"
         },
         "700": {
-          "value": "#257119",
+          "value": "#15893E",
           "type": "color"
         },
         "800": {
-          "value": "#1C6113",
+          "value": "#0A7731",
           "type": "color"
         },
         "900": {
-          "value": "#15520E",
+          "value": "#056A2A",
           "type": "color"
         },
         "1000": {
-          "value": "#10450A",
+          "value": "#035924",
           "type": "color"
         },
         "1100": {
-          "value": "#0B3907",
+          "value": "#02461D",
           "type": "color"
         },
         "1200": {
-          "value": "#062904",
+          "value": "#013416",
           "type": "color"
         }
       },
