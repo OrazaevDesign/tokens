@@ -12170,11 +12170,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.primary.500",
+          "value": "$palette.primary.700",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.500",
+          "value": "$palette.primary.700",
           "type": "color"
         },
         "hover-color": {
