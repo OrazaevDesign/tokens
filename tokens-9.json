@@ -1,5 +1,5 @@
 {
-  "litemf": {
+  "sellercheck": {
     "palette": {
       "natural": {
         "50": {
@@ -3767,10 +3767,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "eqsa",
-      "shmotka",
-      "qaspo",
-      "crownbox"
+      "sellercheck"
     ]
   }
 }
