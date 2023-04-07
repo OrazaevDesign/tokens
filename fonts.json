@@ -1882,8 +1882,8 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.56}",
-            "fontSize": "{fontSize.48}",
+            "lineHeight": "{lineHeights.52}",
+            "fontSize": "{fontSize.40}",
             "letterSpacing": "{letterSpacing.100}"
           },
           "type": "typography"
