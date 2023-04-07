@@ -1882,9 +1882,9 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.28}",
-            "letterSpacing": "{letterSpacing.300}"
+            "lineHeight": "{lineHeights.56}",
+            "fontSize": "{fontSize.48}",
+            "letterSpacing": "{letterSpacing.100}"
           },
           "type": "typography"
         },
@@ -1902,8 +1902,8 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.18}",
+            "lineHeight": "{lineHeights.32}",
+            "fontSize": "{fontSize.24}",
             "letterSpacing": "{letterSpacing.400}"
           },
           "type": "typography"
@@ -1912,9 +1912,9 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.16}",
-            "letterSpacing": "{letterSpacing.500}"
+            "lineHeight": "{lineHeights.28}",
+            "fontSize": "{fontSize.20}",
+            "letterSpacing": "{letterSpacing.400}"
           },
           "type": "typography"
         },
@@ -1922,9 +1922,9 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.14}",
-            "letterSpacing": "{letterSpacing.500}"
+            "lineHeight": "{lineHeights.24}",
+            "fontSize": "{fontSize.18}",
+            "letterSpacing": "{letterSpacing.400}"
           },
           "type": "typography"
         }
