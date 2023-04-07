@@ -1892,9 +1892,9 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.20}",
-            "letterSpacing": "{letterSpacing.400}"
+            "lineHeight": "{lineHeights.40}",
+            "fontSize": "{fontSize.34}",
+            "letterSpacing": "{letterSpacing.200}"
           },
           "type": "typography"
         },
@@ -1902,9 +1902,9 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.32}",
-            "fontSize": "{fontSize.24}",
-            "letterSpacing": "{letterSpacing.400}"
+            "lineHeight": "{lineHeights.36}",
+            "fontSize": "{fontSize.28}",
+            "letterSpacing": "{letterSpacing.300}"
           },
           "type": "typography"
         },
@@ -1912,8 +1912,8 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.28}",
-            "fontSize": "{fontSize.20}",
+            "lineHeight": "{lineHeights.32}",
+            "fontSize": "{fontSize.24}",
             "letterSpacing": "{letterSpacing.400}"
           },
           "type": "typography"
@@ -1945,7 +1945,7 @@
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.40}",
-            "fontSize": "{fontSize.34}",
+            "fontSize": "{fontSize.32}",
             "letterSpacing": "{letterSpacing.200}"
           },
           "type": "typography"
@@ -1954,9 +1954,9 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.36}",
-            "fontSize": "{fontSize.28}",
-            "letterSpacing": "{letterSpacing.300}"
+            "lineHeight": "{lineHeights.32}",
+            "fontSize": "{fontSize.24}",
+            "letterSpacing": "{letterSpacing.400}"
           },
           "type": "typography"
         },
@@ -1964,8 +1964,8 @@
           "value": {
             "fontFamily": "{fontFamilies.SFProDisplay}",
             "fontWeight": "{fontWeights.600}",
-            "lineHeight": "{lineHeights.28}",
-            "fontSize": "{fontSize.22}",
+            "lineHeight": "{lineHeights.24}",
+            "fontSize": "{fontSize.20}",
             "letterSpacing": "{letterSpacing.400}"
           },
           "type": "typography"
