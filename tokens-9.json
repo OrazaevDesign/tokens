@@ -4225,11 +4225,11 @@
           "type": "color"
         },
         "sale-bg": {
-          "value": "#CF2121",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "sale-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.500",
           "type": "color"
         },
         "discount-bg": {
@@ -4241,7 +4241,7 @@
           "type": "color"
         },
         "popular-bg": {
-          "value": "$palette.error.600",
+          "value": "#5a28b7",
           "type": "color"
         },
         "popular-color": {
@@ -7503,7 +7503,7 @@
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.accent.600",
+        "value": "$palette.accent.700",
         "type": "color"
       }
     },
