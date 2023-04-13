@@ -7535,7 +7535,8 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "sellercheck"
+      "sellercheck",
+      "transformator-moscow"
     ]
   }
 }
