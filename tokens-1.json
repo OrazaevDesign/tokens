@@ -8680,7 +8680,7 @@
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.700",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "hover-color": {
@@ -8762,7 +8762,7 @@
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.succes.700",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "hover-color": {
@@ -10670,7 +10670,7 @@
             "type": "color"
           },
           "hover-border": {
-            "value": "$palette.primary.700",
+            "value": "$palette.primary.600",
             "type": "color"
           },
           "hover-color": {
@@ -10892,7 +10892,7 @@
             "type": "color"
           },
           "hover-border": {
-            "value": "$palette.primary.700",
+            "value": "$palette.primary.600",
             "type": "color"
           },
           "hover-color": {
@@ -11223,7 +11223,7 @@
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.700",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "hover-color": {
@@ -11397,7 +11397,7 @@
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.700",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "hover-color": {
