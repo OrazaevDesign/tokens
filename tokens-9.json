@@ -7934,7 +7934,7 @@
           "type": "color"
         },
         "gradient-primary": {
-          "value": "linear-gradient(183deg, #FFC632 0%, #FFEB5B 100%)",
+          "value": "linear-gradient(183deg, #58A636 0%, #7DC85C 100%)",
           "type": "color"
         },
         "transparent": {
@@ -7974,7 +7974,7 @@
       },
       "label": {
         "bestseller-bg": {
-          "value": "#f2a145",
+          "value": "#f59117",
           "type": "color"
         },
         "bestseller-color": {
@@ -7982,7 +7982,7 @@
           "type": "color"
         },
         "new-bg": {
-          "value": "#28a8ed",
+          "value": "#498ef3",
           "type": "color"
         },
         "new-color": {
@@ -7990,7 +7990,7 @@
           "type": "color"
         },
         "sale-bg": {
-          "value": "$palette.primary.600",
+          "value": "#ffc915",
           "type": "color"
         },
         "sale-color": {
@@ -7998,7 +7998,7 @@
           "type": "color"
         },
         "discount-bg": {
-          "value": "#2B9F48",
+          "value": "#a672e1",
           "type": "color"
         },
         "discount-color": {
@@ -8006,7 +8006,7 @@
           "type": "color"
         },
         "popular-bg": {
-          "value": "#bd2f9e",
+          "value": "#dd5d8b",
           "type": "color"
         },
         "popular-color": {
@@ -8014,7 +8014,7 @@
           "type": "color"
         },
         "procent-bg": {
-          "value": "$palette.accent.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "procent-color": {
@@ -11286,7 +11286,7 @@
         "type": "color"
       },
       "pro-color": {
-        "value": "$palette.base.black",
+        "value": "$palette.base.white",
         "type": "color"
       },
       "free-bg": {
