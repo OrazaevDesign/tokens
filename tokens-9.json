@@ -7926,7 +7926,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "$palette.accent.700",
+          "value": "$palette.primary.700",
           "type": "color"
         },
         "gradient-bg": {
@@ -9024,7 +9024,7 @@
         "type": "color"
       },
       "default-color": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.base.black",
         "type": "color"
       },
       "hover-bg": {
@@ -9036,7 +9036,7 @@
         "type": "color"
       },
       "hover-color": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.primary.700",
         "type": "color"
       },
       "focus-bg": {
@@ -9052,7 +9052,7 @@
         "type": "color"
       },
       "focus-color": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.primary.700",
         "type": "color"
       },
       "disabled-bg": {
@@ -9076,7 +9076,7 @@
         "type": "color"
       },
       "active-color": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.primary.700",
         "type": "color"
       }
     },
@@ -9153,11 +9153,11 @@
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.accent.700",
+          "value": "$palette.primary.1000",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.accent.700",
+          "value": "$palette.primary.1000",
           "type": "color"
         },
         "focus-bg": {
@@ -9165,7 +9165,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.accent.700",
+          "value": "$palette.primary.700",
           "type": "color"
         },
         "focus-outline": {
@@ -9173,7 +9173,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.accent.700",
+          "value": "$palette.primary.700",
           "type": "color"
         },
         "disabled-bg": {
@@ -9193,11 +9193,11 @@
           "type": "color"
         },
         "visited-border": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.secondary.700",
           "type": "color"
         },
         "visited-color": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.secondary.700",
           "type": "color"
         }
       },
@@ -10036,7 +10036,7 @@
         "type": "color"
       },
       "active-icon": {
-        "value": "$palette.accent.600",
+        "value": "$palette.primary.600",
         "type": "color"
       },
       "active-color": {
@@ -10382,7 +10382,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.base.black",
+            "value": "$palette.base.white",
             "type": "color"
           },
           "hover-bg": {
@@ -10394,7 +10394,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.base.black",
+            "value": "$palette.base.white",
             "type": "color"
           },
           "focus-bg": {
@@ -10410,7 +10410,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.base.black",
+            "value": "$palette.base.white",
             "type": "color"
           },
           "disabled-bg": {
@@ -10492,7 +10492,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.natural.1100",
+            "value": "$palette.primary.700",
             "type": "color"
           },
           "hover-bg": {
@@ -10504,7 +10504,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.natural.1100",
+            "value": "$palette.primary.700",
             "type": "color"
           },
           "focus-bg": {
@@ -10520,7 +10520,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.natural.1100",
+            "value": "$palette.primary.700",
             "type": "color"
           },
           "disabled-bg": {
@@ -10604,7 +10604,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.base.black",
+            "value": "$palette.base.white",
             "type": "color"
           },
           "hover-bg": {
@@ -10616,7 +10616,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.base.black",
+            "value": "$palette.base.white",
             "type": "color"
           },
           "focus-bg": {
@@ -10632,7 +10632,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.base.black",
+            "value": "$palette.base.white",
             "type": "color"
           },
           "disabled-bg": {
@@ -10714,7 +10714,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.natural.1100",
+            "value": "$palette.primary.700",
             "type": "color"
           },
           "hover-bg": {
@@ -10726,7 +10726,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.natural.1100",
+            "value": "$palette.primary.700",
             "type": "color"
           },
           "focus-bg": {
@@ -10742,7 +10742,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.natural.1100",
+            "value": "$palette.primary.700",
             "type": "color"
           },
           "disabled-bg": {
@@ -10983,11 +10983,11 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.accent.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "border": {
-          "value": "$palette.accent.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "color": {
@@ -11109,7 +11109,7 @@
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "hover-bg": {
@@ -11121,7 +11121,7 @@
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "focus-bg": {
@@ -11137,7 +11137,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "disabled-bg": {
@@ -11268,7 +11268,7 @@
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.accent.600",
+        "value": "$palette.primary.600",
         "type": "color"
       },
       "old-color": {
@@ -11276,7 +11276,7 @@
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.accent.600",
+        "value": "$palette.primary.600",
         "type": "color"
       }
     },
@@ -11300,300 +11300,8 @@
     },
     "icon": {
       "special": {
-        "value": "$palette.accent.600",
-        "type": "color"
-      }
-    },
-    "app": {
-      "Accent main": {
         "value": "$palette.primary.600",
         "type": "color"
-      },
-      "Accent notif btn": {
-        "value": "$palette.primary.600",
-        "type": "color"
-      },
-      "Additional main": {
-        "value": "$palette.primary.100",
-        "type": "color"
-      },
-      "Pressed main": {
-        "value": "$palette.primary.800",
-        "type": "color"
-      },
-      "Navigation": {
-        "value": "$palette.natural.400",
-        "type": "color"
-      },
-      "Divider": {
-        "value": "$palette.natural.100",
-        "type": "color"
-      },
-      "Tag filters": {
-        "value": "$palette.natural.100",
-        "type": "color"
-      },
-      "shadow img catalog": {
-        "value": "$palette.natural.600",
-        "type": "color"
-      },
-      "shadow img rating": {
-        "value": "$palette.natural.500",
-        "type": "color"
-      },
-      "gradient skeleton": {
-        "value": "linear-gradient(136deg, #cfd4d8 0%, #e4e7e9 47.55%, #eceef0 100%)",
-        "type": "color",
-        "description": "un use"
-      },
-      "base skeleton": {
-        "value": "$palette.natural.400",
-        "type": "color"
-      },
-      "secondary skeleton": {
-        "value": "$palette.natural.200",
-        "type": "color"
-      },
-      "Gradient menu": {
-        "value": "$palette.base.gradient-bg",
-        "type": "color"
-      },
-      "status": {
-        "status 1": {
-          "value": "$palette.succes.600",
-          "type": "color"
-        },
-        "status 2": {
-          "value": "$palette.error.600",
-          "type": "color"
-        },
-        "status 3": {
-          "value": "$palette.warning.600",
-          "type": "color"
-        },
-        "status 4": {
-          "value": "$palette.natural.600",
-          "type": "color"
-        }
-      },
-      "disable": {
-        "Disabled page control": {
-          "value": "$palette.natural.300",
-          "type": "color"
-        },
-        "Disabled button": {
-          "value": "$palette.natural.200",
-          "type": "color"
-        },
-        "Disabled button pressed": {
-          "value": "$palette.natural.200",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "Icon main": {
-          "value": "$palette.base.black",
-          "type": "color"
-        },
-        "icon accent": {
-          "value": "$palette.primary.600",
-          "type": "color"
-        },
-        "icon on icon": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "icon additional": {
-          "value": "#d5d5d5",
-          "type": "color"
-        },
-        "icon additional 2": {
-          "value": "#757575",
-          "type": "color"
-        },
-        "icon notif error": {
-          "value": "$palette.error.700",
-          "type": "color"
-        },
-        "icon notif warning": {
-          "value": "$palette.warning.700",
-          "type": "color"
-        },
-        "icon notif success": {
-          "value": "$palette.succes.700",
-          "type": "color"
-        }
-      },
-      "text": {
-        "Text main": {
-          "value": "$palette.base.black",
-          "type": "color"
-        },
-        "Text accent": {
-          "value": "$palette.primary.700",
-          "type": "color"
-        },
-        "Text additional": {
-          "value": "$palette.base.gray",
-          "type": "color"
-        },
-        "Text on label": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "Text accent on button": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "Text old size": {
-          "value": "$palette.base.gray",
-          "type": "color"
-        },
-        "Text disabled": {
-          "value": "$palette.natural.400",
-          "type": "color"
-        },
-        "Text tab": {
-          "value": "$palette.base.black",
-          "type": "color"
-        },
-        "text notif error": {
-          "value": "$palette.error.700",
-          "type": "color"
-        },
-        "text notif warning": {
-          "value": "$palette.warning.700",
-          "type": "color"
-        },
-        "text notif success": {
-          "value": "$palette.succes.700",
-          "type": "color"
-        }
-      },
-      "bg": {
-        "Background main": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "Background card": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "Background bottom": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "Backgroung Nav bar main": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "Background Nav bar modal": {
-          "value": "$palette.natural.400",
-          "type": "color"
-        },
-        "Background search": {
-          "value": "$palette.natural.100",
-          "type": "color"
-        },
-        "Background card on photo": {
-          "value": "#c4c4c40d",
-          "type": "color"
-        },
-        "Background notif bad": {
-          "value": "$palette.error.100",
-          "type": "color"
-        },
-        "Background notif success": {
-          "value": "$palette.succes.100",
-          "type": "color"
-        },
-        "Background notif warning": {
-          "value": "$palette.warning.100",
-          "type": "color"
-        }
-      },
-      "img": {
-        "img gradient pink": {
-          "value": "linear-gradient(135deg, #fd7089 0%, #fd3563 36.46%, #fd3665 67.19%, #d13a87 100%)",
-          "type": "color",
-          "description": "un use"
-        },
-        "img white": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "img pink one": {
-          "value": "#ffd7e0",
-          "type": "color"
-        },
-        "img pink gradient light": {
-          "value": "linear-gradient(88deg, #ffd7e0 0%, #ffeff3 100%)",
-          "type": "color",
-          "description": "un use"
-        },
-        "img pink hand": {
-          "value": "linear-gradient(162deg, #ffd7e0 0%, #ffd7e000 100%)",
-          "type": "color",
-          "description": "un use"
-        }
-      },
-      "label": {
-        "bestseller-bg": {
-          "value": "$palette.label.bestseller-bg",
-          "type": "color"
-        },
-        "bestseller-color": {
-          "value": "$palette.label.bestseller-color",
-          "type": "color"
-        },
-        "new-bg": {
-          "value": "$palette.label.new-bg",
-          "type": "color"
-        },
-        "new-color": {
-          "value": "$palette.label.discount-color",
-          "type": "color"
-        },
-        "sale-bg": {
-          "value": "$palette.label.sale-bg",
-          "type": "color"
-        },
-        "sale-color": {
-          "value": "$palette.label.sale-color",
-          "type": "color"
-        },
-        "discount-bg": {
-          "value": "$palette.label.discount-bg",
-          "type": "color"
-        },
-        "discount-color": {
-          "value": "$palette.label.discount-color",
-          "type": "color"
-        },
-        "popular-bg": {
-          "value": "$palette.label.popular-bg",
-          "type": "color"
-        },
-        "popular-color": {
-          "value": "$palette.label.popular-color",
-          "type": "color"
-        },
-        "procent-bg": {
-          "value": "$palette.label.procent-bg",
-          "type": "color"
-        },
-        "procent-color": {
-          "value": "$palette.label.procent-color",
-          "type": "color"
-        },
-        "partners-bg": {
-          "value": "$palette.label.partners-bg",
-          "type": "color"
-        },
-        "partners-color": {
-          "value": "$palette.label.partners-color",
-          "type": "color"
-        }
       }
     }
   },
