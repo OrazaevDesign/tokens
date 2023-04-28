@@ -170,6 +170,18 @@
       "52": {
         "value": "52",
         "type": "fontSizes"
+      },
+      "58": {
+        "value": "58",
+        "type": "fontSizes"
+      },
+      "64": {
+        "value": "64",
+        "type": "fontSizes"
+      },
+      "70": {
+        "value": "70",
+        "type": "fontSizes"
       }
     },
     "letterSpacing": {
