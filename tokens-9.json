@@ -11790,7 +11790,7 @@
           "type": "color"
         },
         "procent-bg": {
-          "value": "$palette.primary.600",
+          "value": "#FD3666",
           "type": "color"
         },
         "procent-color": {
