@@ -11724,23 +11724,27 @@
           "type": "color"
         },
         "primary": {
-          "value": "$palette.primary.200",
+          "value": "rgba(49,171,45,0.3)",
           "type": "color"
         },
         "accent": {
-          "value": "$palette.accent.200",
+          "value": "rgba(246,206,70,0.3)",
           "type": "color"
         },
         "succes": {
-          "value": "$palette.succes.200",
+          "value": "rgba(25,159,77,0.3)",
           "type": "color"
         },
         "warning": {
-          "value": "$palette.warning.200",
+          "value": "rgba(217, 124, 19, 0.3)",
           "type": "color"
         },
         "error": {
-          "value": "$palette.error.200",
+          "value": "rgba(225, 53, 63, 0.3)",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "rgba(18,112,219,0.3)",
           "type": "color"
         }
       },
