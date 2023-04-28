@@ -11699,7 +11699,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "$palette.primary.700",
+          "value": "$palette.secondary.700",
           "type": "color"
         },
         "gradient-bg": {
@@ -12246,7 +12246,7 @@
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "hover-bg": {
@@ -12258,7 +12258,7 @@
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "focus-bg": {
@@ -12274,7 +12274,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "disabled-bg": {
@@ -12286,15 +12286,15 @@
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.1100",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.accent.600",
+          "value": "$palette.natural.1100",
           "type": "color"
         },
         "active-color": {
@@ -12310,7 +12310,7 @@
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "progress-line": {
@@ -13388,7 +13388,6 @@
         }
       }
     },
-    
     "form-filed": {
       "default-label": {
         "value": "$palette.base.black",
