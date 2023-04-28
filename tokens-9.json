@@ -12482,7 +12482,7 @@
           "type": "color"
         }
       },
-      "clear": {
+      "light": {
         "default-bg": {
           "value": "$palette.base.transparent",
           "type": "color"
@@ -12646,7 +12646,7 @@
           "type": "color"
         }
       },
-      "light": {
+      "clear": {
         "default-bg": {
           "value": "$palette.base.transparent",
           "type": "color"
@@ -14524,7 +14524,8 @@
     "tokenSetOrder": [
       "sellercheck",
       "transformator-moscow",
-      "5post"
+      "5post",
+      "shopotam-ru"
     ]
   }
 }
