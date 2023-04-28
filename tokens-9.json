@@ -12945,7 +12945,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.primary",
+          "value": "$palette.outline.secondary",
           "type": "color"
         },
         "focus-color": {
@@ -13077,7 +13077,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.primary",
+          "value": "$palette.outline.secondary",
           "type": "color"
         },
         "focus-color": {
