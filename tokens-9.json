@@ -15036,7 +15036,7 @@
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.primary.600",
+        "value": "$palette.accent.600",
         "type": "color"
       },
       "old-color": {
@@ -15044,7 +15044,7 @@
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.primary.600",
+        "value": "$palette.accent.600",
         "type": "color"
       }
     },
