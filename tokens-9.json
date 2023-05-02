@@ -11703,7 +11703,7 @@
           "type": "color"
         },
         "gradient-bg": {
-          "value": "linear-gradient(90deg, #F5FFFF 0%, #FCFFF5 33.3%, #F8FFF5 66.6%, #F5FFFF 100%);",
+          "value": "linear-gradient(90deg, #F2F2F2 0%, #FBFBFB 33.3%, #FAFAFA 66.6%, #F2F2F2 100%)",
           "type": "color",
           "description": "Black AAA"
         },
@@ -11724,15 +11724,15 @@
           "type": "color"
         },
         "primary": {
-          "value": "rgba(49,171,45,0.3)",
+          "value": "rgba(18,112,219,0.3)",
           "type": "color"
         },
         "accent": {
-          "value": "rgba(246,206,70,0.3)",
+          "value": "rgba(49,171,45,0.3)",
           "type": "color"
         },
         "succes": {
-          "value": "rgba(25,159,77,0.3)",
+          "value": "rgba(49,171,45,0.3)",
           "type": "color"
         },
         "warning": {
@@ -12250,7 +12250,7 @@
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "hover-bg": {
@@ -12262,7 +12262,7 @@
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "focus-bg": {
@@ -12278,7 +12278,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "disabled-bg": {
@@ -12294,11 +12294,11 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "active-color": {
@@ -12314,7 +12314,7 @@
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-line": {
