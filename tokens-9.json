@@ -7610,7 +7610,7 @@
           "type": "color"
         },
         "500": {
-          "value": "#7BC25D",
+          "value": "#83C367",
           "type": "color"
         },
         "600": {
@@ -7664,7 +7664,7 @@
           "type": "color"
         },
         "500": {
-          "value": "#7BC25D",
+          "value": "#83C367",
           "type": "color"
         },
         "600": {
@@ -7718,7 +7718,7 @@
           "type": "color"
         },
         "500": {
-          "value": "#64B441",
+          "value": "#83C367",
           "type": "color"
         },
         "600": {
@@ -7880,7 +7880,7 @@
           "type": "color"
         },
         "500": {
-          "value": "#7BC25D",
+          "value": "#83C367",
           "type": "color"
         },
         "600": {
@@ -8384,7 +8384,7 @@
     "button": {
       "primary": {
         "default-bg": {
-          "value": "$palette.primary.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "default-border": {
@@ -8396,11 +8396,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.primary.700",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "hover-color": {
@@ -8408,11 +8408,11 @@
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.primary.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.primary.800",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-outline": {
@@ -8424,27 +8424,27 @@
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.primary.200",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.primary.200",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.primary.700",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.primary.500",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.primary.500",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.primary.400",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-bg": {
@@ -8466,11 +8466,11 @@
       },
       "accent": {
         "default-bg": {
-          "value": "$palette.succes.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.succes.700",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "default-color": {
@@ -8478,11 +8478,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.succes.700",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.succes.600",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "hover-color": {
@@ -8490,11 +8490,11 @@
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.succes.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.succes.1100",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-outline": {
@@ -8506,11 +8506,11 @@
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.succes.200",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.succes.200",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "disabled-color": {
@@ -8518,23 +8518,23 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.succes.50",
+          "value": "$palette.primary.500",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.succes.700",
+          "value": "$palette.primary.500",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.succes.700",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.succes.600",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.succes.700",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-color": {
@@ -8542,17 +8542,17 @@
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.succes.700",
+          "value": "$palette.primary.500",
           "type": "color"
         }
       },
       "dark": {
         "default-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "default-color": {
@@ -8560,11 +8560,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.natural.800",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.natural.800",
           "type": "color"
         },
         "hover-color": {
@@ -8572,11 +8572,11 @@
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "focus-outline": {
@@ -8588,35 +8588,35 @@
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.natural.200",
+          "value": "$palette.natural.700",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.natural.200",
+          "value": "$palette.natural.700",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.500",
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.natural.900",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.900",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.natural.900",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "progress-color": {
@@ -8658,7 +8658,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.natural.900",
+          "value": "$palette.base.white",
           "type": "color"
         },
         "focus-outline": {
@@ -8686,7 +8686,7 @@
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.50",
           "type": "color"
         },
         "active-color": {
@@ -8716,11 +8716,11 @@
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "hover-bg": {
@@ -8728,11 +8728,11 @@
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.natural.900",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.900",
+          "value": "$palette.primary.400",
           "type": "color"
         },
         "focus-bg": {
@@ -8806,7 +8806,7 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.natural.100",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "hover-border": {
@@ -8822,7 +8822,7 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.natural.700",
+          "value": "$palette.natural.50",
           "type": "color"
         },
         "focus-outline": {
@@ -8846,15 +8846,15 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.100",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.natural.100",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.base.black",
           "type": "color"
         },
         "progress-bg": {
