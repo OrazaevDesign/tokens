@@ -5211,15 +5211,15 @@
       },
       "light": {
         "default-bg": {
-          "value": "$palette.base.transparent",
+          "value": "$palette.brand.primary-dim",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.brand.primary-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.primary.600",
+          "value": "$palette.brand.on-primary-dim",
           "type": "color"
         },
         "hover-bg": {
