@@ -4269,6 +4269,86 @@
         "on-primary-container": {
           "value": "$palette.primary.800",
           "type": "color"
+        },
+        "secondary": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "secondary-container": {
+          "value": "$palette.primary.100",
+          "type": "color"
+        },
+        "on-secondary-container": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "accent": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "on-accent": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "accent-container": {
+          "value": "$palette.primary.100",
+          "type": "color"
+        },
+        "on-accent-container": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "succes": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "on-succes": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "succes-container": {
+          "value": "$palette.primary.100",
+          "type": "color"
+        },
+        "on-succes-container": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "warning": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "on-warning": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "warning-container": {
+          "value": "$palette.primary.100",
+          "type": "color"
+        },
+        "on-warning-container": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "error": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "on-error": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "error-container": {
+          "value": "$palette.primary.100",
+          "type": "color"
+        },
+        "on-error-container": {
+          "value": "$palette.primary.800",
+          "type": "color"
         }
       }
     },
