@@ -4263,11 +4263,11 @@
           "type": "color"
         },
         "primary-container": {
-          "value": "$palette.primary.200",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "on-primary-container": {
-          "value": "$palette.primary.1000",
+          "value": "$palette.primary.800",
           "type": "color"
         }
       }
