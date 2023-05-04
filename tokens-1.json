@@ -4486,23 +4486,27 @@
         }
       },
       "surface": {
-        "surface": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "surface-50": {
+        "50": {
           "value": "$palette.natural.50",
           "type": "color"
         },
-        "surface-100": {
+        "100": {
           "value": "$palette.natural.100",
           "type": "color"
         },
-        "surface-brand": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "transparent": {
+          "value": "rgba(255, 255, 255, 0)",
+          "type": "color"
+        },
+        "brand": {
           "value": "linear-gradient(90deg, #f5ffff 0%, #fff5fb 33.3%, #fffaf5 66.6%, #f5ffff 100%)",
           "type": "color"
         },
-        "surface-inverted": {
+        "inverted": {
           "value": "$palette.natural.1000",
           "type": "color"
         }
@@ -4512,8 +4516,12 @@
           "value": "$palette.natural.1000",
           "type": "color"
         },
-        "dim": {
+        "default-dim": {
           "value": "$palette.natural.700",
+          "type": "color"
+        },
+        "inverted-dim": {
+          "value": "$palette.natural.300",
           "type": "color"
         },
         "inverted": {
