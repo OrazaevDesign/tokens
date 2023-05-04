@@ -503,7 +503,7 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "primary-container": {
@@ -515,83 +515,83 @@
           "type": "color"
         },
         "secondary": {
-          "value": "$palette.primary.600",
+          "value": "$palette.secondary.600",
           "type": "color"
         },
         "on-secondary": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "secondary-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.secondary.100",
           "type": "color"
         },
         "on-secondary-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.secondary.800",
           "type": "color"
         },
         "accent": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "on-accent": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "accent-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.accent.100",
           "type": "color"
         },
         "on-accent-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.accent.800",
           "type": "color"
         },
         "succes": {
-          "value": "$palette.primary.600",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "on-succes": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "succes-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.succes.100",
           "type": "color"
         },
         "on-succes-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.succes.800",
           "type": "color"
         },
         "warning": {
-          "value": "$palette.primary.600",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "on-warning": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "warning-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.warning.100",
           "type": "color"
         },
         "on-warning-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.warning.800",
           "type": "color"
         },
         "error": {
-          "value": "$palette.primary.600",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "on-error": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "error-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.error.100",
           "type": "color"
         },
         "on-error-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.error.800",
           "type": "color"
         }
       },
@@ -8292,7 +8292,7 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "primary-container": {
@@ -8304,83 +8304,83 @@
           "type": "color"
         },
         "secondary": {
-          "value": "$palette.primary.600",
+          "value": "$palette.secondary.600",
           "type": "color"
         },
         "on-secondary": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "secondary-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.secondary.100",
           "type": "color"
         },
         "on-secondary-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.secondary.800",
           "type": "color"
         },
         "accent": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "on-accent": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "accent-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.accent.100",
           "type": "color"
         },
         "on-accent-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.accent.800",
           "type": "color"
         },
         "succes": {
-          "value": "$palette.primary.600",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "on-succes": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "succes-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.succes.100",
           "type": "color"
         },
         "on-succes-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.succes.800",
           "type": "color"
         },
         "warning": {
-          "value": "$palette.primary.600",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "on-warning": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "warning-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.warning.100",
           "type": "color"
         },
         "on-warning-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.warning.800",
           "type": "color"
         },
         "error": {
-          "value": "$palette.primary.600",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "on-error": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "error-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.error.100",
           "type": "color"
         },
         "on-error-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.error.800",
           "type": "color"
         }
       },
@@ -12199,7 +12199,7 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "primary-container": {
@@ -12211,83 +12211,83 @@
           "type": "color"
         },
         "secondary": {
-          "value": "$palette.primary.600",
+          "value": "$palette.secondary.600",
           "type": "color"
         },
         "on-secondary": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "secondary-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.secondary.100",
           "type": "color"
         },
         "on-secondary-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.secondary.800",
           "type": "color"
         },
         "accent": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "on-accent": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "accent-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.accent.100",
           "type": "color"
         },
         "on-accent-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.accent.800",
           "type": "color"
         },
         "succes": {
-          "value": "$palette.primary.600",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "on-succes": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "succes-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.succes.100",
           "type": "color"
         },
         "on-succes-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.succes.800",
           "type": "color"
         },
         "warning": {
-          "value": "$palette.primary.600",
+          "value": "$palette.warning.600",
           "type": "color"
         },
         "on-warning": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "warning-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.warning.100",
           "type": "color"
         },
         "on-warning-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.warning.800",
           "type": "color"
         },
         "error": {
-          "value": "$palette.primary.600",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "on-error": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "error-container": {
-          "value": "$palette.primary.100",
+          "value": "$palette.error.100",
           "type": "color"
         },
         "on-error-container": {
-          "value": "$palette.primary.800",
+          "value": "$palette.error.800",
           "type": "color"
         }
       },
