@@ -4350,6 +4350,42 @@
           "value": "$palette.primary.800",
           "type": "color"
         }
+      },
+      "surface": {
+        "surface": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "surface-50": {
+          "value": "$palette.natural.50",
+          "type": "color"
+        },
+        "surface-100": {
+          "value": "$palette.natural.100",
+          "type": "color"
+        },
+        "surface-brand": {
+          "value": "linear-gradient(90deg, #f5ffff 0%, #fff5fb 33.3%, #fffaf5 66.6%, #f5ffff 100%)",
+          "type": "color"
+        },
+        "surface-inverted": {
+          "value": "$palette.natural.1000",
+          "type": "color"
+        }
+      },
+      "on-surface": {
+        "default": {
+          "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "dim": {
+          "value": "$palette.natural.700",
+          "type": "color"
+        },
+        "inverted": {
+          "value": "#ffffff",
+          "type": "color"
+        }
       }
     },
     "elevation": {
