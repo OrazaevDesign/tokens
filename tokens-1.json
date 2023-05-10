@@ -629,6 +629,10 @@
         "inverted": {
           "value": "#ffffff",
           "type": "color"
+        },
+        "inverted-dim": {
+          "value": "$palette.natural.200",
+          "type": "color"
         }
       }
     },
