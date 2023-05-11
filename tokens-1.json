@@ -4544,6 +4544,10 @@
         }
       },
       "on-surface": {
+        "dark": {
+          "value": "#000000",
+          "type": "color"
+        },
         "default": {
           "value": "$palette.natural.1000",
           "type": "color"
