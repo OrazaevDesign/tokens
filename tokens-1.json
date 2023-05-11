@@ -596,16 +596,24 @@
         }
       },
       "surface": {
-        "50": {
+        "highest": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "high": {
           "value": "$palette.natural.50",
           "type": "color"
         },
-        "100": {
+        "mid": {
           "value": "$palette.natural.100",
           "type": "color"
         },
-        "default": {
-          "value": "#ffffff",
+        "low": {
+          "value": "$palette.natural.200",
+          "type": "color"
+        },
+        "lowest": {
+          "value": "$palette.natural.300",
           "type": "color"
         },
         "transparent": {
@@ -616,12 +624,32 @@
           "value": "linear-gradient(90deg, #f5ffff 0%, #fff5fb 33.3%, #fffaf5 66.6%, #f5ffff 100%)",
           "type": "color"
         },
-        "inverted": {
+        "highest-inverted": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "high-inverted": {
+          "value": "$palette.natural.1200",
+          "type": "color"
+        },
+        "mid-inverted": {
           "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "low-inverted": {
+          "value": "$palette.natural.900",
+          "type": "color"
+        },
+        "lowest-inverted": {
+          "value": "$palette.natural.800",
           "type": "color"
         }
       },
       "on-surface": {
+        "dark": {
+          "value": "#000000",
+          "type": "color"
+        },
         "default": {
           "value": "$palette.natural.1000",
           "type": "color"
@@ -8429,16 +8457,24 @@
         }
       },
       "surface": {
-        "50": {
+        "highest": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "high": {
           "value": "$palette.natural.50",
           "type": "color"
         },
-        "100": {
+        "mid": {
           "value": "$palette.natural.100",
           "type": "color"
         },
-        "default": {
-          "value": "#ffffff",
+        "low": {
+          "value": "$palette.natural.200",
+          "type": "color"
+        },
+        "lowest": {
+          "value": "$palette.natural.300",
           "type": "color"
         },
         "transparent": {
@@ -8449,12 +8485,32 @@
           "value": "linear-gradient(90deg, #f5ffff 0%, #fff5fb 33.3%, #fffaf5 66.6%, #f5ffff 100%)",
           "type": "color"
         },
-        "inverted": {
+        "highest-inverted": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "high-inverted": {
+          "value": "$palette.natural.1200",
+          "type": "color"
+        },
+        "mid-inverted": {
           "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "low-inverted": {
+          "value": "$palette.natural.900",
+          "type": "color"
+        },
+        "lowest-inverted": {
+          "value": "$palette.natural.800",
           "type": "color"
         }
       },
       "on-surface": {
+        "dark": {
+          "value": "#000000",
+          "type": "color"
+        },
         "default": {
           "value": "$palette.natural.1000",
           "type": "color"
@@ -12344,16 +12400,24 @@
         }
       },
       "surface": {
-        "50": {
+        "highest": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "high": {
           "value": "$palette.natural.50",
           "type": "color"
         },
-        "100": {
+        "mid": {
           "value": "$palette.natural.100",
           "type": "color"
         },
-        "default": {
-          "value": "#ffffff",
+        "low": {
+          "value": "$palette.natural.200",
+          "type": "color"
+        },
+        "lowest": {
+          "value": "$palette.natural.300",
           "type": "color"
         },
         "transparent": {
@@ -12364,12 +12428,32 @@
           "value": "linear-gradient(90deg, #f5ffff 0%, #fff5fb 33.3%, #fffaf5 66.6%, #f5ffff 100%)",
           "type": "color"
         },
-        "inverted": {
+        "highest-inverted": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "high-inverted": {
+          "value": "$palette.natural.1200",
+          "type": "color"
+        },
+        "mid-inverted": {
           "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "low-inverted": {
+          "value": "$palette.natural.900",
+          "type": "color"
+        },
+        "lowest-inverted": {
+          "value": "$palette.natural.800",
           "type": "color"
         }
       },
       "on-surface": {
+        "dark": {
+          "value": "#000000",
+          "type": "color"
+        },
         "default": {
           "value": "$palette.natural.1000",
           "type": "color"
