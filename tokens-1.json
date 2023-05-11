@@ -666,6 +666,24 @@
           "value": "#ffffff",
           "type": "color"
         }
+      },
+      "divider": {
+        "default": {
+          "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "default-dim": {
+          "value": "$palette.natural.700",
+          "type": "color"
+        },
+        "inverted-dim": {
+          "value": "$palette.natural.300",
+          "type": "color"
+        },
+        "inverted": {
+          "value": "#ffffff",
+          "type": "color"
+        }
       }
     },
     "elevation": {
@@ -5275,15 +5293,15 @@
       },
       "light": {
         "default-bg": {
-          "value": "$palette.brand.primary-dim",
+          "value": "{palette.brand.primary-dim}",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.brand.primary-dim",
+          "value": "{palette.brand.primary-dim}",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.brand.on-primary-dim",
+          "value": "{palette.brand.on-primary-dim}",
           "type": "color"
         },
         "hover-bg": {
