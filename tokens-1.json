@@ -4494,15 +4494,23 @@
         }
       },
       "surface": {
-        "50": {
+        "high": {
           "value": "$palette.natural.50",
           "type": "color"
         },
-        "100": {
+        "mid": {
           "value": "$palette.natural.100",
           "type": "color"
         },
-        "default": {
+        "low": {
+          "value": "$palette.natural.200",
+          "type": "color"
+        },
+        "lowest": {
+          "value": "$palette.natural.300",
+          "type": "color"
+        },
+        "highest": {
           "value": "#ffffff",
           "type": "color"
         },
