@@ -4494,6 +4494,10 @@
         }
       },
       "surface": {
+        "highest": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "high": {
           "value": "$palette.natural.50",
           "type": "color"
@@ -4510,10 +4514,6 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
-        "highest": {
-          "value": "#ffffff",
-          "type": "color"
-        },
         "transparent": {
           "value": "rgba(255, 255, 255, 0)",
           "type": "color"
@@ -4522,8 +4522,24 @@
           "value": "linear-gradient(90deg, #f5ffff 0%, #fff5fb 33.3%, #fffaf5 66.6%, #f5ffff 100%)",
           "type": "color"
         },
-        "inverted": {
+        "highest-inverted": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "high-inverted": {
+          "value": "$palette.natural.1200",
+          "type": "color"
+        },
+        "mid-inverted": {
           "value": "$palette.natural.1000",
+          "type": "color"
+        },
+        "low-inverted": {
+          "value": "$palette.natural.900",
+          "type": "color"
+        },
+        "lowest-inverted": {
+          "value": "$palette.natural.800",
           "type": "color"
         }
       },
