@@ -4628,6 +4628,22 @@
           "value": "$palette.natural.700",
           "type": "color"
         }
+      },
+      "transparent": {
+        "light": {
+          "60": {
+            "value": "rgba(255, 255, 255, 0.60)",
+            "type": "color"
+          },
+          "70": {
+            "value": "rgba(255, 255, 255, 0.70)",
+            "type": "color"
+          },
+          "80": {
+            "value": "rgba(255, 255, 255, 0.80)",
+            "type": "color"
+          }
+        }
       }
     },
     "elevation": {
