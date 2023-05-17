@@ -658,6 +658,14 @@
           "value": "$palette.natural.700",
           "type": "color"
         },
+        "default-hover": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "inverted-hover": {
+          "value": "$palette.primary.200",
+          "type": "color"
+        },
         "inverted-dim": {
           "value": "$palette.natural.300",
           "type": "color"
