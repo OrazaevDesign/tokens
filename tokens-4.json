@@ -775,15 +775,15 @@
         },
         "elevation": {
           "800": {
-            "value": "#4d515730",
+            "value": "#4d515715",
             "type": "color"
           },
           "900": {
-            "value": "#3c3f4430",
+            "value": "#3c3f4420",
             "type": "color"
           },
           "1000": {
-            "value": "#2e303430",
+            "value": "#2e303425",
             "type": "color"
           }
         }
@@ -796,9 +796,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "1",
-            "blur": "2",
-            "spread": "-1"
+            "y": "2",
+            "blur": "4",
+            "spread": "-2"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -825,9 +825,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "3",
-            "blur": "6",
-            "spread": "-3"
+            "y": "4",
+            "blur": "8",
+            "spread": "-4"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -854,9 +854,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "5",
-            "blur": "10",
-            "spread": "-5"
+            "y": "6",
+            "blur": "12",
+            "spread": "-6"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -883,9 +883,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "7",
-            "blur": "14",
-            "spread": "-7"
+            "y": "8",
+            "blur": "16",
+            "spread": "-8"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -912,9 +912,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "9",
-            "blur": "18",
-            "spread": "-9"
+            "y": "10",
+            "blur": "20",
+            "spread": "-10"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -941,9 +941,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "11",
-            "blur": "22",
-            "spread": "-11"
+            "y": "12",
+            "blur": "24",
+            "spread": "-12"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -970,9 +970,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "13",
-            "blur": "26",
-            "spread": "-13"
+            "y": "16",
+            "blur": "32",
+            "spread": "-16"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -999,9 +999,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "15",
-            "blur": "30",
-            "spread": "-15"
+            "y": "18",
+            "blur": "36",
+            "spread": "-18"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -1057,9 +1057,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "19",
-            "blur": "38",
-            "spread": "-19"
+            "y": "20",
+            "blur": "40",
+            "spread": "-20"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -1086,9 +1086,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "21",
-            "blur": "42",
-            "spread": "-21"
+            "y": "22",
+            "blur": "44",
+            "spread": "-22"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -1115,9 +1115,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "23",
-            "blur": "46",
-            "spread": "-23"
+            "y": "24",
+            "blur": "48",
+            "spread": "-24"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4285,15 +4285,15 @@
         },
         "elevation": {
           "800": {
-            "value": "#4d515730",
+            "value": "#4d515715",
             "type": "color"
           },
           "900": {
-            "value": "#3c3f4430",
+            "value": "#3c3f4420",
             "type": "color"
           },
           "1000": {
-            "value": "#2e303430",
+            "value": "#2e303425",
             "type": "color"
           }
         }
@@ -4306,9 +4306,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "1",
-            "blur": "2",
-            "spread": "-1"
+            "y": "2",
+            "blur": "4",
+            "spread": "-2"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4335,9 +4335,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "3",
-            "blur": "6",
-            "spread": "-3"
+            "y": "4",
+            "blur": "8",
+            "spread": "-4"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4364,9 +4364,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "5",
-            "blur": "10",
-            "spread": "-5"
+            "y": "6",
+            "blur": "12",
+            "spread": "-6"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4393,9 +4393,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "7",
-            "blur": "14",
-            "spread": "-7"
+            "y": "8",
+            "blur": "16",
+            "spread": "-8"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4422,9 +4422,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "9",
-            "blur": "18",
-            "spread": "-9"
+            "y": "10",
+            "blur": "20",
+            "spread": "-10"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4451,9 +4451,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "11",
-            "blur": "22",
-            "spread": "-11"
+            "y": "12",
+            "blur": "24",
+            "spread": "-12"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4480,9 +4480,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "13",
-            "blur": "26",
-            "spread": "-13"
+            "y": "16",
+            "blur": "32",
+            "spread": "-16"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4509,9 +4509,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "15",
-            "blur": "30",
-            "spread": "-15"
+            "y": "18",
+            "blur": "36",
+            "spread": "-18"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4567,9 +4567,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "19",
-            "blur": "38",
-            "spread": "-19"
+            "y": "20",
+            "blur": "40",
+            "spread": "-20"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4596,9 +4596,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "21",
-            "blur": "42",
-            "spread": "-21"
+            "y": "22",
+            "blur": "44",
+            "spread": "-22"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -4625,9 +4625,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "23",
-            "blur": "46",
-            "spread": "-23"
+            "y": "24",
+            "blur": "48",
+            "spread": "-24"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -7799,15 +7799,15 @@
         },
         "elevation": {
           "800": {
-            "value": "#4d515730",
+            "value": "#4d515715",
             "type": "color"
           },
           "900": {
-            "value": "#3c3f4430",
+            "value": "#3c3f4420",
             "type": "color"
           },
           "1000": {
-            "value": "#2e303430",
+            "value": "#2e303425",
             "type": "color"
           }
         }
@@ -7820,9 +7820,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "1",
-            "blur": "2",
-            "spread": "-1"
+            "y": "2",
+            "blur": "4",
+            "spread": "-2"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -7849,9 +7849,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "3",
-            "blur": "6",
-            "spread": "-3"
+            "y": "4",
+            "blur": "8",
+            "spread": "-4"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -7878,9 +7878,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "5",
-            "blur": "10",
-            "spread": "-5"
+            "y": "6",
+            "blur": "12",
+            "spread": "-6"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -7907,9 +7907,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "7",
-            "blur": "14",
-            "spread": "-7"
+            "y": "8",
+            "blur": "16",
+            "spread": "-8"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -7936,9 +7936,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "9",
-            "blur": "18",
-            "spread": "-9"
+            "y": "10",
+            "blur": "20",
+            "spread": "-10"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -7965,9 +7965,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "11",
-            "blur": "22",
-            "spread": "-11"
+            "y": "12",
+            "blur": "24",
+            "spread": "-12"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -7994,9 +7994,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "13",
-            "blur": "26",
-            "spread": "-13"
+            "y": "16",
+            "blur": "32",
+            "spread": "-16"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -8023,9 +8023,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "15",
-            "blur": "30",
-            "spread": "-15"
+            "y": "18",
+            "blur": "36",
+            "spread": "-18"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -8081,9 +8081,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "19",
-            "blur": "38",
-            "spread": "-19"
+            "y": "20",
+            "blur": "40",
+            "spread": "-20"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -8110,9 +8110,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "21",
-            "blur": "42",
-            "spread": "-21"
+            "y": "22",
+            "blur": "44",
+            "spread": "-22"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -8139,9 +8139,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "23",
-            "blur": "46",
-            "spread": "-23"
+            "y": "24",
+            "blur": "48",
+            "spread": "-24"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11313,15 +11313,15 @@
         },
         "elevation": {
           "800": {
-            "value": "#4d515730",
+            "value": "#4d515715",
             "type": "color"
           },
           "900": {
-            "value": "#3c3f4430",
+            "value": "#3c3f4420",
             "type": "color"
           },
           "1000": {
-            "value": "#2e303430",
+            "value": "#2e303425",
             "type": "color"
           }
         }
@@ -11334,9 +11334,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "1",
-            "blur": "2",
-            "spread": "-1"
+            "y": "2",
+            "blur": "4",
+            "spread": "-2"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11363,9 +11363,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "3",
-            "blur": "6",
-            "spread": "-3"
+            "y": "4",
+            "blur": "8",
+            "spread": "-4"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11392,9 +11392,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "5",
-            "blur": "10",
-            "spread": "-5"
+            "y": "6",
+            "blur": "12",
+            "spread": "-6"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11421,9 +11421,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "7",
-            "blur": "14",
-            "spread": "-7"
+            "y": "8",
+            "blur": "16",
+            "spread": "-8"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11450,9 +11450,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "9",
-            "blur": "18",
-            "spread": "-9"
+            "y": "10",
+            "blur": "20",
+            "spread": "-10"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11479,9 +11479,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "11",
-            "blur": "22",
-            "spread": "-11"
+            "y": "12",
+            "blur": "24",
+            "spread": "-12"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11508,9 +11508,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "13",
-            "blur": "26",
-            "spread": "-13"
+            "y": "16",
+            "blur": "32",
+            "spread": "-16"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11537,9 +11537,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "15",
-            "blur": "30",
-            "spread": "-15"
+            "y": "18",
+            "blur": "36",
+            "spread": "-18"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11595,9 +11595,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "19",
-            "blur": "38",
-            "spread": "-19"
+            "y": "20",
+            "blur": "40",
+            "spread": "-20"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11624,9 +11624,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "21",
-            "blur": "42",
-            "spread": "-21"
+            "y": "22",
+            "blur": "44",
+            "spread": "-22"
           },
           {
             "color": "$palette.transparent.elevation.900",
@@ -11653,9 +11653,9 @@
             "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
-            "y": "23",
-            "blur": "46",
-            "spread": "-23"
+            "y": "24",
+            "blur": "48",
+            "spread": "-24"
           },
           {
             "color": "$palette.transparent.elevation.900",
