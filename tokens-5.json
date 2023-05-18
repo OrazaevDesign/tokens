@@ -496,8 +496,7 @@
           "value": "$palette.base.white",
           "type": "color"
         }
-      },
-      
+      },   
       "brand": {
         "primary": {
           "value": "$palette.primary.600",
@@ -768,6 +767,20 @@
           },
           "900": {
             "value": "rgba(0, 0, 0, 0.90)",
+            "type": "color"
+          }
+        },
+        "elevation": {
+          "800": {
+            "value": "#4d515730",
+            "type": "color"
+          },
+          "900": {
+            "value": "#3c3f4430",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#2e303430",
             "type": "color"
           }
         }
@@ -3995,7 +4008,6 @@
           "type": "color"
         }
       },
-      
       "brand": {
         "primary": {
           "value": "$palette.primary.600",
@@ -4266,6 +4278,20 @@
           },
           "900": {
             "value": "rgba(0, 0, 0, 0.90)",
+            "type": "color"
+          }
+        },
+        "elevation": {
+          "800": {
+            "value": "#4d515730",
+            "type": "color"
+          },
+          "900": {
+            "value": "#3c3f4430",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#2e303430",
             "type": "color"
           }
         }
@@ -7493,7 +7519,6 @@
           "type": "color"
         }
       },
-      
       "brand": {
         "primary": {
           "value": "$palette.primary.600",
@@ -7764,6 +7789,20 @@
           },
           "900": {
             "value": "rgba(0, 0, 0, 0.90)",
+            "type": "color"
+          }
+        },
+        "elevation": {
+          "800": {
+            "value": "#4d515730",
+            "type": "color"
+          },
+          "900": {
+            "value": "#3c3f4430",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#2e303430",
             "type": "color"
           }
         }
@@ -10991,7 +11030,6 @@
           "type": "color"
         }
       },
-      
       "brand": {
         "primary": {
           "value": "$palette.primary.600",
@@ -11262,6 +11300,20 @@
           },
           "900": {
             "value": "rgba(0, 0, 0, 0.90)",
+            "type": "color"
+          }
+        },
+        "elevation": {
+          "800": {
+            "value": "#4d515730",
+            "type": "color"
+          },
+          "900": {
+            "value": "#3c3f4430",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#2e303430",
             "type": "color"
           }
         }
