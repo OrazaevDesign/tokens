@@ -776,7 +776,7 @@
       "50": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -784,7 +784,7 @@
             "spread": "-1"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -792,7 +792,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -805,7 +805,7 @@
       "100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "3",
@@ -813,7 +813,7 @@
             "spread": "-3"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -821,7 +821,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -834,7 +834,7 @@
       "200": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "5",
@@ -842,7 +842,7 @@
             "spread": "-5"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -850,7 +850,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -863,7 +863,7 @@
       "300": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "7",
@@ -871,7 +871,7 @@
             "spread": "-7"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -879,7 +879,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -892,7 +892,7 @@
       "400": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "9",
@@ -900,7 +900,7 @@
             "spread": "-9"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -908,7 +908,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -921,7 +921,7 @@
       "500": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "11",
@@ -929,7 +929,7 @@
             "spread": "-11"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -937,7 +937,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -950,7 +950,7 @@
       "600": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "13",
@@ -958,7 +958,7 @@
             "spread": "-13"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -966,7 +966,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -979,7 +979,7 @@
       "700": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "15",
@@ -987,7 +987,7 @@
             "spread": "-15"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -995,7 +995,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -1008,7 +1008,7 @@
       "800": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "17",
@@ -1016,7 +1016,7 @@
             "spread": "-17"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -1024,7 +1024,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -1037,7 +1037,7 @@
       "900": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "19",
@@ -1045,7 +1045,7 @@
             "spread": "-19"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -1053,7 +1053,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -1066,7 +1066,7 @@
       "1000": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "21",
@@ -1074,7 +1074,7 @@
             "spread": "-21"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -1082,7 +1082,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -1095,7 +1095,7 @@
       "1100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "23",
@@ -1103,7 +1103,7 @@
             "spread": "-23"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -1111,7 +1111,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4274,7 +4274,7 @@
       "50": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4282,7 +4282,7 @@
             "spread": "-1"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4290,7 +4290,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4303,7 +4303,7 @@
       "100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "3",
@@ -4311,7 +4311,7 @@
             "spread": "-3"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4319,7 +4319,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4332,7 +4332,7 @@
       "200": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "5",
@@ -4340,7 +4340,7 @@
             "spread": "-5"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4348,7 +4348,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4361,7 +4361,7 @@
       "300": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "7",
@@ -4369,7 +4369,7 @@
             "spread": "-7"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4377,7 +4377,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4390,7 +4390,7 @@
       "400": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "9",
@@ -4398,7 +4398,7 @@
             "spread": "-9"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4406,7 +4406,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4419,7 +4419,7 @@
       "500": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "11",
@@ -4427,7 +4427,7 @@
             "spread": "-11"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4435,7 +4435,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4448,7 +4448,7 @@
       "600": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "13",
@@ -4456,7 +4456,7 @@
             "spread": "-13"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4464,7 +4464,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4477,7 +4477,7 @@
       "700": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "15",
@@ -4485,7 +4485,7 @@
             "spread": "-15"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4493,7 +4493,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4506,7 +4506,7 @@
       "800": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "17",
@@ -4514,7 +4514,7 @@
             "spread": "-17"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4522,7 +4522,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4535,7 +4535,7 @@
       "900": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "19",
@@ -4543,7 +4543,7 @@
             "spread": "-19"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4551,7 +4551,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4564,7 +4564,7 @@
       "1000": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "21",
@@ -4572,7 +4572,7 @@
             "spread": "-21"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4580,7 +4580,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -4593,7 +4593,7 @@
       "1100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "23",
@@ -4601,7 +4601,7 @@
             "spread": "-23"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -4609,7 +4609,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7772,7 +7772,7 @@
       "50": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7780,7 +7780,7 @@
             "spread": "-1"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7788,7 +7788,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7801,7 +7801,7 @@
       "100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "3",
@@ -7809,7 +7809,7 @@
             "spread": "-3"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7817,7 +7817,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7830,7 +7830,7 @@
       "200": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "5",
@@ -7838,7 +7838,7 @@
             "spread": "-5"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7846,7 +7846,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7859,7 +7859,7 @@
       "300": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "7",
@@ -7867,7 +7867,7 @@
             "spread": "-7"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7875,7 +7875,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7888,7 +7888,7 @@
       "400": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "9",
@@ -7896,7 +7896,7 @@
             "spread": "-9"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7904,7 +7904,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7917,7 +7917,7 @@
       "500": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "11",
@@ -7925,7 +7925,7 @@
             "spread": "-11"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7933,7 +7933,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7946,7 +7946,7 @@
       "600": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "13",
@@ -7954,7 +7954,7 @@
             "spread": "-13"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7962,7 +7962,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -7975,7 +7975,7 @@
       "700": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "15",
@@ -7983,7 +7983,7 @@
             "spread": "-15"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -7991,7 +7991,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -8004,7 +8004,7 @@
       "800": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "17",
@@ -8012,7 +8012,7 @@
             "spread": "-17"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -8020,7 +8020,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -8033,7 +8033,7 @@
       "900": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "19",
@@ -8041,7 +8041,7 @@
             "spread": "-19"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -8049,7 +8049,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -8062,7 +8062,7 @@
       "1000": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "21",
@@ -8070,7 +8070,7 @@
             "spread": "-21"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -8078,7 +8078,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -8091,7 +8091,7 @@
       "1100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "23",
@@ -8099,7 +8099,7 @@
             "spread": "-23"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -8107,7 +8107,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11270,7 +11270,7 @@
       "50": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11278,7 +11278,7 @@
             "spread": "-1"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11286,7 +11286,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11299,7 +11299,7 @@
       "100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "3",
@@ -11307,7 +11307,7 @@
             "spread": "-3"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11315,7 +11315,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11328,7 +11328,7 @@
       "200": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "5",
@@ -11336,7 +11336,7 @@
             "spread": "-5"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11344,7 +11344,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11357,7 +11357,7 @@
       "300": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "7",
@@ -11365,7 +11365,7 @@
             "spread": "-7"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11373,7 +11373,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11386,7 +11386,7 @@
       "400": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "9",
@@ -11394,7 +11394,7 @@
             "spread": "-9"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11402,7 +11402,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11415,7 +11415,7 @@
       "500": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "11",
@@ -11423,7 +11423,7 @@
             "spread": "-11"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11431,7 +11431,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11444,7 +11444,7 @@
       "600": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "13",
@@ -11452,7 +11452,7 @@
             "spread": "-13"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11460,7 +11460,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11473,7 +11473,7 @@
       "700": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "15",
@@ -11481,7 +11481,7 @@
             "spread": "-15"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11489,7 +11489,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11502,7 +11502,7 @@
       "800": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "17",
@@ -11510,7 +11510,7 @@
             "spread": "-17"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11518,7 +11518,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11531,7 +11531,7 @@
       "900": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "19",
@@ -11539,7 +11539,7 @@
             "spread": "-19"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11547,7 +11547,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11560,7 +11560,7 @@
       "1000": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "21",
@@ -11568,7 +11568,7 @@
             "spread": "-21"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11576,7 +11576,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -11589,7 +11589,7 @@
       "1100": {
         "value": [
           {
-            "color": "#60656c40",
+            "color": "$palette.surface.lowest",
             "type": "dropShadow",
             "x": "0",
             "y": "23",
@@ -11597,7 +11597,7 @@
             "spread": "-23"
           },
           {
-            "color": "#60656c33",
+            "color": "$palette.surface.low",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -11605,7 +11605,7 @@
             "spread": "0"
           },
           {
-            "color": "#60656c1a",
+            "color": "$palette.surface.mid",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
