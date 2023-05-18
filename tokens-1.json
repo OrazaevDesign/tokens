@@ -4321,7 +4321,7 @@
       "100": {
         "value": [
           {
-            "color": "$palette.surface.lowest",
+            "color": "$palette.transparent.elevation.1000",
             "type": "dropShadow",
             "x": "0",
             "y": "3",
