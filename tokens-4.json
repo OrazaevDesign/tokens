@@ -505,7 +505,15 @@
           "value": "$palette.primary.600",
           "type": "color"
         },
+        "primary-gd": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
         "on-primary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-primary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -513,7 +521,11 @@
           "value": "$palette.primary.100",
           "type": "color"
         },
-        "on-primary-dim": {
+        "on-primary-inverted": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "on-primary-inverted-dim": {
           "value": "$palette.primary.800",
           "type": "color"
         },
@@ -521,7 +533,15 @@
           "value": "$palette.secondary.600",
           "type": "color"
         },
+        "secondary-gd": {
+          "value": "$palette.secondary.600",
+          "type": "color"
+        },
         "on-secondary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-secondary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -529,7 +549,11 @@
           "value": "$palette.secondary.100",
           "type": "color"
         },
-        "on-secondary-dim": {
+        "on-secondary-inverted": {
+          "value": "$palette.secondary.800",
+          "type": "color"
+        },
+        "on-secondary-inverted-dim": {
           "value": "$palette.secondary.800",
           "type": "color"
         },
@@ -537,7 +561,15 @@
           "value": "$palette.accent.600",
           "type": "color"
         },
+        "accent-gd": {
+          "value": "$palette.accent.600",
+          "type": "color"
+        },
         "on-accent": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-accent-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -545,7 +577,11 @@
           "value": "$palette.accent.100",
           "type": "color"
         },
-        "on-accent-dim": {
+        "on-accent-inverted": {
+          "value": "$palette.accent.800",
+          "type": "color"
+        },
+        "on-accent-inverted-dim": {
           "value": "$palette.accent.800",
           "type": "color"
         },
@@ -553,7 +589,15 @@
           "value": "$palette.succes.600",
           "type": "color"
         },
+        "succes-gd": {
+          "value": "$palette.succes.600",
+          "type": "color"
+        },
         "on-succes": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-succes-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -561,7 +605,11 @@
           "value": "$palette.succes.100",
           "type": "color"
         },
-        "on-succes-dim": {
+        "on-succes-inverted": {
+          "value": "$palette.succes.800",
+          "type": "color"
+        },
+        "on-succes-inverted-dim": {
           "value": "$palette.succes.800",
           "type": "color"
         },
@@ -569,7 +617,15 @@
           "value": "$palette.warning.600",
           "type": "color"
         },
+        "warning-gd": {
+          "value": "$palette.warning.600",
+          "type": "color"
+        },
         "on-warning": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-warning-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -577,7 +633,11 @@
           "value": "$palette.warning.100",
           "type": "color"
         },
-        "on-warning-dim": {
+        "on-warning-inverted": {
+          "value": "$palette.warning.800",
+          "type": "color"
+        },
+        "on-warning-inverted-dim": {
           "value": "$palette.warning.800",
           "type": "color"
         },
@@ -585,7 +645,15 @@
           "value": "$palette.error.600",
           "type": "color"
         },
+        "error-gd": {
+          "value": "$palette.error.600",
+          "type": "color"
+        },
         "on-error": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-error-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -593,7 +661,11 @@
           "value": "$palette.error.100",
           "type": "color"
         },
-        "on-error-dim": {
+        "on-error-inverted": {
+          "value": "$palette.error.800",
+          "type": "color"
+        },
+        "on-error-inverted-dim": {
           "value": "$palette.error.800",
           "type": "color"
         }
@@ -4015,7 +4087,15 @@
           "value": "$palette.primary.600",
           "type": "color"
         },
+        "primary-gd": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
         "on-primary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-primary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -4023,7 +4103,11 @@
           "value": "$palette.primary.100",
           "type": "color"
         },
-        "on-primary-dim": {
+        "on-primary-inverted": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "on-primary-inverted-dim": {
           "value": "$palette.primary.800",
           "type": "color"
         },
@@ -4031,7 +4115,15 @@
           "value": "$palette.secondary.600",
           "type": "color"
         },
+        "secondary-gd": {
+          "value": "$palette.secondary.600",
+          "type": "color"
+        },
         "on-secondary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-secondary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -4039,7 +4131,11 @@
           "value": "$palette.secondary.100",
           "type": "color"
         },
-        "on-secondary-dim": {
+        "on-secondary-inverted": {
+          "value": "$palette.secondary.800",
+          "type": "color"
+        },
+        "on-secondary-inverted-dim": {
           "value": "$palette.secondary.800",
           "type": "color"
         },
@@ -4047,7 +4143,15 @@
           "value": "$palette.accent.600",
           "type": "color"
         },
+        "accent-gd": {
+          "value": "$palette.accent.600",
+          "type": "color"
+        },
         "on-accent": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-accent-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -4055,7 +4159,11 @@
           "value": "$palette.accent.100",
           "type": "color"
         },
-        "on-accent-dim": {
+        "on-accent-inverted": {
+          "value": "$palette.accent.800",
+          "type": "color"
+        },
+        "on-accent-inverted-dim": {
           "value": "$palette.accent.800",
           "type": "color"
         },
@@ -4063,7 +4171,15 @@
           "value": "$palette.succes.600",
           "type": "color"
         },
+        "succes-gd": {
+          "value": "$palette.succes.600",
+          "type": "color"
+        },
         "on-succes": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-succes-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -4071,7 +4187,11 @@
           "value": "$palette.succes.100",
           "type": "color"
         },
-        "on-succes-dim": {
+        "on-succes-inverted": {
+          "value": "$palette.succes.800",
+          "type": "color"
+        },
+        "on-succes-inverted-dim": {
           "value": "$palette.succes.800",
           "type": "color"
         },
@@ -4079,7 +4199,15 @@
           "value": "$palette.warning.600",
           "type": "color"
         },
+        "warning-gd": {
+          "value": "$palette.warning.600",
+          "type": "color"
+        },
         "on-warning": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-warning-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -4087,7 +4215,11 @@
           "value": "$palette.warning.100",
           "type": "color"
         },
-        "on-warning-dim": {
+        "on-warning-inverted": {
+          "value": "$palette.warning.800",
+          "type": "color"
+        },
+        "on-warning-inverted-dim": {
           "value": "$palette.warning.800",
           "type": "color"
         },
@@ -4095,7 +4227,15 @@
           "value": "$palette.error.600",
           "type": "color"
         },
+        "error-gd": {
+          "value": "$palette.error.600",
+          "type": "color"
+        },
         "on-error": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-error-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -4103,7 +4243,11 @@
           "value": "$palette.error.100",
           "type": "color"
         },
-        "on-error-dim": {
+        "on-error-inverted": {
+          "value": "$palette.error.800",
+          "type": "color"
+        },
+        "on-error-inverted-dim": {
           "value": "$palette.error.800",
           "type": "color"
         }
@@ -7529,7 +7673,15 @@
           "value": "$palette.primary.600",
           "type": "color"
         },
+        "primary-gd": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
         "on-primary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-primary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -7537,7 +7689,11 @@
           "value": "$palette.primary.100",
           "type": "color"
         },
-        "on-primary-dim": {
+        "on-primary-inverted": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "on-primary-inverted-dim": {
           "value": "$palette.primary.800",
           "type": "color"
         },
@@ -7545,7 +7701,15 @@
           "value": "$palette.secondary.600",
           "type": "color"
         },
+        "secondary-gd": {
+          "value": "$palette.secondary.600",
+          "type": "color"
+        },
         "on-secondary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-secondary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -7553,7 +7717,11 @@
           "value": "$palette.secondary.100",
           "type": "color"
         },
-        "on-secondary-dim": {
+        "on-secondary-inverted": {
+          "value": "$palette.secondary.800",
+          "type": "color"
+        },
+        "on-secondary-inverted-dim": {
           "value": "$palette.secondary.800",
           "type": "color"
         },
@@ -7561,7 +7729,15 @@
           "value": "$palette.accent.600",
           "type": "color"
         },
+        "accent-gd": {
+          "value": "$palette.accent.600",
+          "type": "color"
+        },
         "on-accent": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-accent-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -7569,7 +7745,11 @@
           "value": "$palette.accent.100",
           "type": "color"
         },
-        "on-accent-dim": {
+        "on-accent-inverted": {
+          "value": "$palette.accent.800",
+          "type": "color"
+        },
+        "on-accent-inverted-dim": {
           "value": "$palette.accent.800",
           "type": "color"
         },
@@ -7577,7 +7757,15 @@
           "value": "$palette.succes.600",
           "type": "color"
         },
+        "succes-gd": {
+          "value": "$palette.succes.600",
+          "type": "color"
+        },
         "on-succes": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-succes-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -7585,7 +7773,11 @@
           "value": "$palette.succes.100",
           "type": "color"
         },
-        "on-succes-dim": {
+        "on-succes-inverted": {
+          "value": "$palette.succes.800",
+          "type": "color"
+        },
+        "on-succes-inverted-dim": {
           "value": "$palette.succes.800",
           "type": "color"
         },
@@ -7593,7 +7785,15 @@
           "value": "$palette.warning.600",
           "type": "color"
         },
+        "warning-gd": {
+          "value": "$palette.warning.600",
+          "type": "color"
+        },
         "on-warning": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-warning-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -7601,7 +7801,11 @@
           "value": "$palette.warning.100",
           "type": "color"
         },
-        "on-warning-dim": {
+        "on-warning-inverted": {
+          "value": "$palette.warning.800",
+          "type": "color"
+        },
+        "on-warning-inverted-dim": {
           "value": "$palette.warning.800",
           "type": "color"
         },
@@ -7609,7 +7813,15 @@
           "value": "$palette.error.600",
           "type": "color"
         },
+        "error-gd": {
+          "value": "$palette.error.600",
+          "type": "color"
+        },
         "on-error": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-error-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -7617,7 +7829,11 @@
           "value": "$palette.error.100",
           "type": "color"
         },
-        "on-error-dim": {
+        "on-error-inverted": {
+          "value": "$palette.error.800",
+          "type": "color"
+        },
+        "on-error-inverted-dim": {
           "value": "$palette.error.800",
           "type": "color"
         }
@@ -11043,7 +11259,15 @@
           "value": "$palette.primary.600",
           "type": "color"
         },
+        "primary-gd": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
         "on-primary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-primary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -11051,7 +11275,11 @@
           "value": "$palette.primary.100",
           "type": "color"
         },
-        "on-primary-dim": {
+        "on-primary-inverted": {
+          "value": "$palette.primary.800",
+          "type": "color"
+        },
+        "on-primary-inverted-dim": {
           "value": "$palette.primary.800",
           "type": "color"
         },
@@ -11059,7 +11287,15 @@
           "value": "$palette.secondary.600",
           "type": "color"
         },
+        "secondary-gd": {
+          "value": "$palette.secondary.600",
+          "type": "color"
+        },
         "on-secondary": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-secondary-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -11067,7 +11303,11 @@
           "value": "$palette.secondary.100",
           "type": "color"
         },
-        "on-secondary-dim": {
+        "on-secondary-inverted": {
+          "value": "$palette.secondary.800",
+          "type": "color"
+        },
+        "on-secondary-inverted-dim": {
           "value": "$palette.secondary.800",
           "type": "color"
         },
@@ -11075,7 +11315,15 @@
           "value": "$palette.accent.600",
           "type": "color"
         },
+        "accent-gd": {
+          "value": "$palette.accent.600",
+          "type": "color"
+        },
         "on-accent": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-accent-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -11083,7 +11331,11 @@
           "value": "$palette.accent.100",
           "type": "color"
         },
-        "on-accent-dim": {
+        "on-accent-inverted": {
+          "value": "$palette.accent.800",
+          "type": "color"
+        },
+        "on-accent-inverted-dim": {
           "value": "$palette.accent.800",
           "type": "color"
         },
@@ -11091,7 +11343,15 @@
           "value": "$palette.succes.600",
           "type": "color"
         },
+        "succes-gd": {
+          "value": "$palette.succes.600",
+          "type": "color"
+        },
         "on-succes": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-succes-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -11099,7 +11359,11 @@
           "value": "$palette.succes.100",
           "type": "color"
         },
-        "on-succes-dim": {
+        "on-succes-inverted": {
+          "value": "$palette.succes.800",
+          "type": "color"
+        },
+        "on-succes-inverted-dim": {
           "value": "$palette.succes.800",
           "type": "color"
         },
@@ -11107,7 +11371,15 @@
           "value": "$palette.warning.600",
           "type": "color"
         },
+        "warning-gd": {
+          "value": "$palette.warning.600",
+          "type": "color"
+        },
         "on-warning": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-warning-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -11115,7 +11387,11 @@
           "value": "$palette.warning.100",
           "type": "color"
         },
-        "on-warning-dim": {
+        "on-warning-inverted": {
+          "value": "$palette.warning.800",
+          "type": "color"
+        },
+        "on-warning-inverted-dim": {
           "value": "$palette.warning.800",
           "type": "color"
         },
@@ -11123,7 +11399,15 @@
           "value": "$palette.error.600",
           "type": "color"
         },
+        "error-gd": {
+          "value": "$palette.error.600",
+          "type": "color"
+        },
         "on-error": {
+          "value": "$palette.on-surface.inverted",
+          "type": "color"
+        },
+        "on-error-dim": {
           "value": "$palette.on-surface.inverted",
           "type": "color"
         },
@@ -11131,7 +11415,11 @@
           "value": "$palette.error.100",
           "type": "color"
         },
-        "on-error-dim": {
+        "on-error-inverted": {
+          "value": "$palette.error.800",
+          "type": "color"
+        },
+        "on-error-inverted-dim": {
           "value": "$palette.error.800",
           "type": "color"
         }
