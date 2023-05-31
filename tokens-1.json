@@ -3043,7 +3043,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -3055,7 +3055,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -3071,7 +3071,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -3083,7 +3083,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         },
@@ -3097,7 +3097,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -3109,7 +3109,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -3125,7 +3125,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -3137,7 +3137,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.natural.200",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         }
@@ -6629,7 +6629,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -6641,7 +6641,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -6657,7 +6657,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -6669,7 +6669,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         },
@@ -6683,7 +6683,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -6695,7 +6695,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -6711,7 +6711,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -6723,7 +6723,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.natural.200",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         }
@@ -10212,7 +10212,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -10224,7 +10224,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -10240,7 +10240,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -10252,7 +10252,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         },
@@ -10266,7 +10266,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -10278,7 +10278,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -10294,7 +10294,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -10306,7 +10306,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.natural.200",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         }
@@ -13803,7 +13803,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -13815,7 +13815,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -13831,7 +13831,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -13843,7 +13843,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.base.transparent",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         },
@@ -13857,7 +13857,7 @@
             "type": "color"
           },
           "default-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "hover-bg": {
@@ -13869,7 +13869,7 @@
             "type": "color"
           },
           "hover-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "focus-bg": {
@@ -13885,7 +13885,7 @@
             "type": "color"
           },
           "focus-color": {
-            "value": "$palette.natural.1000",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "disabled-bg": {
@@ -13897,7 +13897,7 @@
             "type": "color"
           },
           "disabled-color": {
-            "value": "$palette.natural.200",
+            "value": "$palette.on-surface.default-dim",
             "type": "color"
           }
         }
