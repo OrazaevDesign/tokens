@@ -2604,7 +2604,7 @@
         "type": "color"
       }
     },
-    "chekbox": {
+    "checkbox": {
       "default": {
         "uncheck": {
           "default-bg": {

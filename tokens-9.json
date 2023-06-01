@@ -2601,7 +2601,7 @@
         "type": "color"
       }
     },
-    "chekbox": {
+    "checkbox": {
       "default": {
         "uncheck": {
           "default-bg": {
@@ -6187,7 +6187,7 @@
         "type": "color"
       }
     },
-    "chekbox": {
+    "checkbox": {
       "default": {
         "uncheck": {
           "default-bg": {
@@ -9770,7 +9770,7 @@
         "type": "color"
       }
     },
-    "chekbox": {
+    "checkbox": {
       "default": {
         "uncheck": {
           "default-bg": {
@@ -13944,7 +13944,7 @@
         }
       }
     },
-    "chekbox": {
+    "checkbox": {
       "default": {
         "uncheck": {
           "default-bg": {
