@@ -7104,11 +7104,11 @@
         "value": "$palette.brand.on-error",
         "type": "color"
       },
-      "basket-bg": {
+      "accent-bg": {
         "value": "$palette.brand.accent",
         "type": "color"
       },
-      "basket-color": {
+      "accent-color": {
         "value": "$palette.brand.on-accent",
         "type": "color"
       },
