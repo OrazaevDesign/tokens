@@ -7123,19 +7123,19 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.primary.600",
+        "value": "$palette.brand.primary",
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.base.gray",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.primary.600",
+        "value": "$palette.brand.primary",
         "type": "color"
       }
     },
