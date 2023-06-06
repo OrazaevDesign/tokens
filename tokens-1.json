@@ -6842,29 +6842,29 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "color": {
-          "value": "$palette.base.white",
+          "value": "$palette.brand.on-primary",
           "type": "color"
         }
       },
       "light": {
         "bg": {
-          "value": "$palette.natural.50",
+          "value": "$palette.surface.lowest",
           "type": "color"
         },
         "border": {
-          "value": "$palette.natural.50",
+          "value": "$palette.surface.lowest",
           "type": "color"
         },
         "color": {
-          "value": "$palette.natural.800",
+          "value": "$palette.on-surface.default",
           "type": "color"
         }
       },
