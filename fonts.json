@@ -1014,7 +1014,7 @@
         "Semibold": {
           "value": {
             "fontFamily": "{fontFamilies.Text}",
-            "fontWeight": "{fontWeights.700}",
+            "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.140}",
             "fontSize": "{fontSize.14}",
             "letterSpacing": "{letterSpacing.500}"
