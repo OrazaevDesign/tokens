@@ -6856,11 +6856,11 @@
       },
       "light": {
         "bg": {
-          "value": "$palette.surface.lowest",
+          "value": "$palette.surface.low",
           "type": "color"
         },
         "border": {
-          "value": "$palette.surface.lowest",
+          "value": "$palette.surface.low",
           "type": "color"
         },
         "color": {
