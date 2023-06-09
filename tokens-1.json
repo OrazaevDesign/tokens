@@ -2194,11 +2194,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -2210,11 +2210,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -2230,11 +2230,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -2264,11 +2264,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -2280,11 +2280,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -2300,11 +2300,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -2334,11 +2334,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -2350,11 +2350,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -2370,11 +2370,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -2545,7 +2545,7 @@
         "type": "color"
       },
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "hover-bg": {
@@ -2557,7 +2557,7 @@
         "type": "color"
       },
       "hover-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "active-bg": {
@@ -2573,7 +2573,7 @@
         "type": "color"
       },
       "active-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "disabled-bg": {
@@ -5780,11 +5780,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -5796,11 +5796,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -5816,11 +5816,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -5850,11 +5850,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -5866,11 +5866,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -5886,11 +5886,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -5920,11 +5920,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -5936,11 +5936,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -5956,11 +5956,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -6131,7 +6131,7 @@
         "type": "color"
       },
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "hover-bg": {
@@ -6143,7 +6143,7 @@
         "type": "color"
       },
       "hover-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "active-bg": {
@@ -6159,7 +6159,7 @@
         "type": "color"
       },
       "active-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "disabled-bg": {
@@ -9371,11 +9371,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -9387,11 +9387,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -9407,11 +9407,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -9441,11 +9441,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -9457,11 +9457,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -9477,11 +9477,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -9511,11 +9511,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -9527,11 +9527,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -9547,11 +9547,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -9722,7 +9722,7 @@
         "type": "color"
       },
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "hover-bg": {
@@ -9734,7 +9734,7 @@
         "type": "color"
       },
       "hover-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "active-bg": {
@@ -9750,7 +9750,7 @@
         "type": "color"
       },
       "active-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "disabled-bg": {
@@ -12962,11 +12962,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -12978,11 +12978,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -12998,11 +12998,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -13032,11 +13032,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -13048,11 +13048,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -13068,11 +13068,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -13102,11 +13102,11 @@
           "type": "color"
         },
         "default-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -13118,11 +13118,11 @@
           "type": "color"
         },
         "hover-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -13138,11 +13138,11 @@
           "type": "color"
         },
         "focus-placeholder": {
-          "value": "$palette.natural.400",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1000",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -13313,7 +13313,7 @@
         "type": "color"
       },
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "hover-bg": {
@@ -13325,7 +13325,7 @@
         "type": "color"
       },
       "hover-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "active-bg": {
@@ -13341,7 +13341,7 @@
         "type": "color"
       },
       "active-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "disabled-bg": {
