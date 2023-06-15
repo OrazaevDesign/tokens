@@ -4109,60 +4109,36 @@
           }
         },
         "status": {
-          "bestseller-bg": {
-            "value": "#eb952d",
+          "error-bg": {
+            "value": "$palette.brand.error",
             "type": "color"
           },
-          "bestseller-color": {
-            "value": "$palette.base.white",
+          "error-color": {
+            "value": "$palette.brand.on-error",
             "type": "color"
           },
-          "new-bg": {
-            "value": "#2983ed",
+          "inprogress-bg": {
+            "value": "$palette.secondary.600",
             "type": "color"
           },
-          "new-color": {
-            "value": "$palette.base.white",
+          "inprogress-color": {
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
-          "sale-bg": {
-            "value": "#fdec83",
+          "succes-bg": {
+            "value": "$palette.brand.accent",
             "type": "color"
           },
-          "sale-color": {
-            "value": "$palette.base.black",
+          "succes-color": {
+            "value": "$palette.brand.on-accent",
             "type": "color"
           },
-          "discount-bg": {
-            "value": "#199f4d",
+          "default-bg": {
+            "value": "$palette.surface.high",
             "type": "color"
           },
-          "discount-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "popular-bg": {
-            "value": "#982fbd",
-            "type": "color"
-          },
-          "popular-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "procent-bg": {
-            "value": "$palette.primary.600",
-            "type": "color"
-          },
-          "procent-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "partners-bg": {
-            "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
-            "type": "color"
-          },
-          "partners-color": {
-            "value": "$palette.base.white",
+          "default-color": {
+            "value": "$palette.on-surface.default",
             "type": "color"
           }
         }
@@ -7760,60 +7736,36 @@
           }
         },
         "status": {
-          "bestseller-bg": {
-            "value": "#f2a145",
+          "error-bg": {
+            "value": "$palette.brand.error",
             "type": "color"
           },
-          "bestseller-color": {
-            "value": "$palette.base.white",
+          "error-color": {
+            "value": "$palette.brand.on-error",
             "type": "color"
           },
-          "new-bg": {
-            "value": "#28a8ed",
+          "inprogress-bg": {
+            "value": "$palette.secondary.600",
             "type": "color"
           },
-          "new-color": {
-            "value": "$palette.base.white",
+          "inprogress-color": {
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
-          "sale-bg": {
-            "value": "$palette.primary.600",
+          "succes-bg": {
+            "value": "$palette.brand.accent",
             "type": "color"
           },
-          "sale-color": {
-            "value": "$palette.natural.1000",
+          "succes-color": {
+            "value": "$palette.brand.on-accent",
             "type": "color"
           },
-          "discount-bg": {
-            "value": "#2B9F48",
+          "default-bg": {
+            "value": "$palette.surface.high",
             "type": "color"
           },
-          "discount-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "popular-bg": {
-            "value": "#bd2f9e",
-            "type": "color"
-          },
-          "popular-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "procent-bg": {
-            "value": "$palette.accent.600",
-            "type": "color"
-          },
-          "procent-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "partners-bg": {
-            "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
-            "type": "color"
-          },
-          "partners-color": {
-            "value": "$palette.base.white",
+          "default-color": {
+            "value": "$palette.on-surface.default",
             "type": "color"
           }
         }
@@ -11411,60 +11363,36 @@
           }
         },
         "status": {
-          "bestseller-bg": {
-            "value": "#eb952d",
+          "error-bg": {
+            "value": "$palette.brand.error",
             "type": "color"
           },
-          "bestseller-color": {
-            "value": "$palette.base.white",
+          "error-color": {
+            "value": "$palette.brand.on-error",
             "type": "color"
           },
-          "new-bg": {
-            "value": "#3D5DBB",
+          "inprogress-bg": {
+            "value": "$palette.secondary.600",
             "type": "color"
           },
-          "new-color": {
-            "value": "$palette.base.white",
+          "inprogress-color": {
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
-          "sale-bg": {
-            "value": "$palette.accent.300",
+          "succes-bg": {
+            "value": "$palette.brand.accent",
             "type": "color"
           },
-          "sale-color": {
-            "value": "$palette.accent.1200",
+          "succes-color": {
+            "value": "$palette.brand.on-accent",
             "type": "color"
           },
-          "discount-bg": {
-            "value": "#2EA58B",
+          "default-bg": {
+            "value": "$palette.surface.high",
             "type": "color"
           },
-          "discount-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "popular-bg": {
-            "value": "#612fbd",
-            "type": "color"
-          },
-          "popular-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "procent-bg": {
-            "value": "$palette.primary.600",
-            "type": "color"
-          },
-          "procent-color": {
-            "value": "$palette.base.white",
-            "type": "color"
-          },
-          "partners-bg": {
-            "value": "$palette.primary.600",
-            "type": "color"
-          },
-          "partners-color": {
-            "value": "$palette.base.white",
+          "default-color": {
+            "value": "$palette.on-surface.default",
             "type": "color"
           }
         }

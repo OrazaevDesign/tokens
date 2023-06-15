@@ -440,61 +440,97 @@
         }
       },
       "label": {
-        "bestseller-bg": {
-          "value": "#eb952d",
-          "type": "color"
+        "product":{
+          "bestseller-bg": {
+            "value": "#eb952d",
+            "type": "color"
+          },
+          "bestseller-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "new-bg": {
+            "value": "#2983ed",
+            "type": "color"
+          },
+          "new-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "sale-bg": {
+            "value": "#fdec83",
+            "type": "color"
+          },
+          "sale-color": {
+            "value": "$palette.accent.1200",
+            "type": "color"
+          },
+          "discount-bg": {
+            "value": "#199f4d",
+            "type": "color"
+          },
+          "discount-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "popular-bg": {
+            "value": "#982fbd",
+            "type": "color"
+          },
+          "popular-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "procent-bg": {
+            "value": "$palette.accent.600",
+            "type": "color"
+          },
+          "procent-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "partners-bg": {
+            "value": "$palette.primary.600",
+            "type": "color"
+          },
+          "partners-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          }
         },
-        "bestseller-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "new-bg": {
-          "value": "#2983ed",
-          "type": "color"
-        },
-        "new-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "sale-bg": {
-          "value": "#fdec83",
-          "type": "color"
-        },
-        "sale-color": {
-          "value": "$palette.accent.1200",
-          "type": "color"
-        },
-        "discount-bg": {
-          "value": "#199f4d",
-          "type": "color"
-        },
-        "discount-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "popular-bg": {
-          "value": "#982fbd",
-          "type": "color"
-        },
-        "popular-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "procent-bg": {
-          "value": "$palette.accent.600",
-          "type": "color"
-        },
-        "procent-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "partners-bg": {
-          "value": "$palette.primary.600",
-          "type": "color"
-        },
-        "partners-color": {
-          "value": "$palette.base.white",
-          "type": "color"
+        "status": {
+          "error-bg": {
+            "value": "$palette.brand.error",
+            "type": "color"
+          },
+          "error-color": {
+            "value": "$palette.brand.on-error",
+            "type": "color"
+          },
+          "inprogress-bg": {
+            "value": "$palette.secondary.600",
+            "type": "color"
+          },
+          "inprogress-color": {
+            "value": "$palette.on-surface.inverted",
+            "type": "color"
+          },
+          "succes-bg": {
+            "value": "$palette.brand.accent",
+            "type": "color"
+          },
+          "succes-color": {
+            "value": "$palette.brand.on-accent",
+            "type": "color"
+          },
+          "default-bg": {
+            "value": "$palette.surface.high",
+            "type": "color"
+          },
+          "default-color": {
+            "value": "$palette.on-surface.default",
+            "type": "color"
+          }
         }
       },
       "brand": {
@@ -4026,61 +4062,97 @@
         }
       },
       "label": {
-        "bestseller-bg": {
-          "value": "$palette.warning.600",
-          "type": "color"
+        "product":{
+          "bestseller-bg": {
+            "value": "$palette.warning.600",
+            "type": "color"
+          },
+          "bestseller-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "new-bg": {
+            "value": "$palette.secondary.600",
+            "type": "color"
+          },
+          "new-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "sale-bg": {
+            "value": "$palette.primary.600",
+            "type": "color"
+          },
+          "sale-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "discount-bg": {
+            "value": "$palette.succes.700",
+            "type": "color"
+          },
+          "discount-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "popular-bg": {
+            "value": "#5a28b7",
+            "type": "color"
+          },
+          "popular-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "procent-bg": {
+            "value": "$palette.accent.600",
+            "type": "color"
+          },
+          "procent-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "partners-bg": {
+            "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
+            "type": "color"
+          },
+          "partners-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          }
         },
-        "bestseller-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "new-bg": {
-          "value": "$palette.secondary.600",
-          "type": "color"
-        },
-        "new-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "sale-bg": {
-          "value": "$palette.primary.600",
-          "type": "color"
-        },
-        "sale-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "discount-bg": {
-          "value": "$palette.succes.700",
-          "type": "color"
-        },
-        "discount-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "popular-bg": {
-          "value": "#5a28b7",
-          "type": "color"
-        },
-        "popular-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "procent-bg": {
-          "value": "$palette.accent.600",
-          "type": "color"
-        },
-        "procent-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "partners-bg": {
-          "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
-          "type": "color"
-        },
-        "partners-color": {
-          "value": "$palette.base.white",
-          "type": "color"
+        "status": {
+          "error-bg": {
+            "value": "$palette.brand.error",
+            "type": "color"
+          },
+          "error-color": {
+            "value": "$palette.brand.on-error",
+            "type": "color"
+          },
+          "inprogress-bg": {
+            "value": "$palette.secondary.600",
+            "type": "color"
+          },
+          "inprogress-color": {
+            "value": "$palette.on-surface.inverted",
+            "type": "color"
+          },
+          "succes-bg": {
+            "value": "$palette.brand.accent",
+            "type": "color"
+          },
+          "succes-color": {
+            "value": "$palette.brand.on-accent",
+            "type": "color"
+          },
+          "default-bg": {
+            "value": "$palette.surface.high",
+            "type": "color"
+          },
+          "default-color": {
+            "value": "$palette.on-surface.default",
+            "type": "color"
+          }
         }
       },
       "brand": {
@@ -7609,61 +7681,97 @@
         }
       },
       "label": {
-        "bestseller-bg": {
-          "value": "#f59117",
-          "type": "color"
+        "product":{
+          "bestseller-bg": {
+            "value": "#f59117",
+            "type": "color"
+          },
+          "bestseller-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "new-bg": {
+            "value": "#498ef3",
+            "type": "color"
+          },
+          "new-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "sale-bg": {
+            "value": "#ffc915",
+            "type": "color"
+          },
+          "sale-color": {
+            "value": "$palette.natural.1000",
+            "type": "color"
+          },
+          "discount-bg": {
+            "value": "#a672e1",
+            "type": "color"
+          },
+          "discount-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "popular-bg": {
+            "value": "#dd5d8b",
+            "type": "color"
+          },
+          "popular-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "procent-bg": {
+            "value": "$palette.primary.600",
+            "type": "color"
+          },
+          "procent-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "partners-bg": {
+            "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
+            "type": "color"
+          },
+          "partners-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          }
         },
-        "bestseller-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "new-bg": {
-          "value": "#498ef3",
-          "type": "color"
-        },
-        "new-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "sale-bg": {
-          "value": "#ffc915",
-          "type": "color"
-        },
-        "sale-color": {
-          "value": "$palette.natural.1000",
-          "type": "color"
-        },
-        "discount-bg": {
-          "value": "#a672e1",
-          "type": "color"
-        },
-        "discount-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "popular-bg": {
-          "value": "#dd5d8b",
-          "type": "color"
-        },
-        "popular-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "procent-bg": {
-          "value": "$palette.primary.600",
-          "type": "color"
-        },
-        "procent-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "partners-bg": {
-          "value": "linear-gradient(268.71deg, #FDDB83 0%, #EF6033 98.9%)",
-          "type": "color"
-        },
-        "partners-color": {
-          "value": "$palette.base.white",
-          "type": "color"
+        "status": {
+          "error-bg": {
+            "value": "$palette.brand.error",
+            "type": "color"
+          },
+          "error-color": {
+            "value": "$palette.brand.on-error",
+            "type": "color"
+          },
+          "inprogress-bg": {
+            "value": "$palette.secondary.600",
+            "type": "color"
+          },
+          "inprogress-color": {
+            "value": "$palette.on-surface.inverted",
+            "type": "color"
+          },
+          "succes-bg": {
+            "value": "$palette.brand.accent",
+            "type": "color"
+          },
+          "succes-color": {
+            "value": "$palette.brand.on-accent",
+            "type": "color"
+          },
+          "default-bg": {
+            "value": "$palette.surface.high",
+            "type": "color"
+          },
+          "default-color": {
+            "value": "$palette.on-surface.default",
+            "type": "color"
+          }
         }
       },
       "brand": {
@@ -11203,61 +11311,97 @@
         }
       },
       "label": {
-        "bestseller-bg": {
-          "value": "#eb952d",
-          "type": "color"
+        "product":{
+          "bestseller-bg": {
+            "value": "#eb952d",
+            "type": "color"
+          },
+          "bestseller-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "new-bg": {
+            "value": "#2983ed",
+            "type": "color"
+          },
+          "new-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "sale-bg": {
+            "value": "#fdec83",
+            "type": "color"
+          },
+          "sale-color": {
+            "value": "#2e3034",
+            "type": "color"
+          },
+          "discount-bg": {
+            "value": "#199f4d",
+            "type": "color"
+          },
+          "discount-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "popular-bg": {
+            "value": "#982fbd",
+            "type": "color"
+          },
+          "popular-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "procent-bg": {
+            "value": "#fd3666",
+            "type": "color"
+          },
+          "procent-color": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "partners-bg": {
+            "value": "linear-gradient(269deg, #fddb83 0%, #ef6033 98.9%)",
+            "type": "color"
+          },
+          "partners-color": {
+            "value": "#ffffff",
+            "type": "color"
+          }
         },
-        "bestseller-color": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "new-bg": {
-          "value": "#2983ed",
-          "type": "color"
-        },
-        "new-color": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "sale-bg": {
-          "value": "#fdec83",
-          "type": "color"
-        },
-        "sale-color": {
-          "value": "#2e3034",
-          "type": "color"
-        },
-        "discount-bg": {
-          "value": "#199f4d",
-          "type": "color"
-        },
-        "discount-color": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "popular-bg": {
-          "value": "#982fbd",
-          "type": "color"
-        },
-        "popular-color": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "procent-bg": {
-          "value": "#fd3666",
-          "type": "color"
-        },
-        "procent-color": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "partners-bg": {
-          "value": "linear-gradient(269deg, #fddb83 0%, #ef6033 98.9%)",
-          "type": "color"
-        },
-        "partners-color": {
-          "value": "#ffffff",
-          "type": "color"
+        "status": {
+          "error-bg": {
+            "value": "$palette.brand.error",
+            "type": "color"
+          },
+          "error-color": {
+            "value": "$palette.brand.on-error",
+            "type": "color"
+          },
+          "inprogress-bg": {
+            "value": "$palette.secondary.600",
+            "type": "color"
+          },
+          "inprogress-color": {
+            "value": "$palette.on-surface.inverted",
+            "type": "color"
+          },
+          "succes-bg": {
+            "value": "$palette.brand.accent",
+            "type": "color"
+          },
+          "succes-color": {
+            "value": "$palette.brand.on-accent",
+            "type": "color"
+          },
+          "default-bg": {
+            "value": "$palette.surface.high",
+            "type": "color"
+          },
+          "default-color": {
+            "value": "$palette.on-surface.default",
+            "type": "color"
+          }
         }
       },
       "gradient": {
