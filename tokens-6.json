@@ -3597,7 +3597,7 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
@@ -3605,7 +3605,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.base.gray",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
@@ -7236,7 +7236,7 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
@@ -7244,7 +7244,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.base.gray",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
@@ -10875,7 +10875,7 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
@@ -10883,7 +10883,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.base.gray",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
@@ -14568,7 +14568,7 @@
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.label.procent-bg",
+        "value": "$palette.label.product.procent-bg",
         "type": "color"
       },
       "old-color": {
@@ -14576,7 +14576,7 @@
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.label.procent-bg",
+        "value": "$palette.label.product.procent-bg",
         "type": "color"
       }
     },
@@ -18257,7 +18257,7 @@
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.label.procent-bg",
+        "value": "$palette.label.product.procent-bg",
         "type": "color"
       },
       "old-color": {
@@ -18265,7 +18265,7 @@
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.label.procent-bg",
+        "value": "$palette.label.product.procent-bg",
         "type": "color"
       }
     },

@@ -3609,7 +3609,7 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
@@ -3617,7 +3617,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.base.gray",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
@@ -7263,7 +7263,7 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.base.black",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
@@ -7271,7 +7271,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.base.gray",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
@@ -10922,7 +10922,7 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
@@ -10930,7 +10930,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.base.gray",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
@@ -15156,7 +15156,7 @@
     },
     "price": {
       "default-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.on-surface.default",
         "type": "color"
       },
       "sale-color": {
@@ -15164,7 +15164,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$palette.natural.600",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
