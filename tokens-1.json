@@ -10926,7 +10926,7 @@
         "type": "color"
       },
       "old-color": {
-        "value": "$$palette.on-surface.default-dim",
+        "value": "$palette.on-surface.default-dim",
         "type": "color"
       },
       "old-line": {
