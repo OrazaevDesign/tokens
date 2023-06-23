@@ -4190,7 +4190,7 @@
             "type": "color"
           },
           "mid-bg": {
-            "value": "$palette.surface.high",
+            "value": "$palette.surface.mid",
             "type": "color"
           },
           "mid-color": {
