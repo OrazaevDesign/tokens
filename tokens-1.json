@@ -4198,11 +4198,11 @@
             "type": "color"
           },
           "dark-bg": {
-            "value": "$palette.surface.high",
+            "value": "$palette.surface.mid-inverted",
             "type": "color"
           },
           "dark-color": {
-            "value": "$palette.on-surface.default",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           }
         }
