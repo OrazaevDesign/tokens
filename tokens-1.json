@@ -9042,15 +9042,15 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.brand.on-primary",
           "type": "color"
         },
         "progress-bg": {
