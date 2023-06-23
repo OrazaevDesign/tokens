@@ -5249,7 +5249,7 @@
       },
       "light": {
         "default-bg": {
-          "value": "{palette.brand.primary-dim}",
+          "value": "$palette.brand.primary-dim",
           "type": "color"
         },
         "default-border": {
@@ -7801,7 +7801,7 @@
         },
         "status": {
           "succes-bg": {
-            "value": "$palette.brand.accent",
+            "value": "$palette.succes.600",
             "type": "color"
           },
           "succes-color": {
@@ -7849,7 +7849,7 @@
             "type": "color"
           },
           "mid-bg": {
-            "value": "$palette.surface.high",
+            "value": "$palette.surface.mid",
             "type": "color"
           },
           "mid-color": {
@@ -7857,11 +7857,11 @@
             "type": "color"
           },
           "dark-bg": {
-            "value": "$palette.surface.high",
+            "value": "$palette.natural.1200",
             "type": "color"
           },
           "dark-color": {
-            "value": "$palette.on-surface.default",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           }
         }
@@ -7876,7 +7876,7 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "on-primary-dim": {
@@ -7888,11 +7888,11 @@
           "type": "color"
         },
         "on-primary-inverted": {
-          "value": "$palette.primary.800",
+          "value": "$palette.primary.1100",
           "type": "color"
         },
         "on-primary-inverted-dim": {
-          "value": "$palette.primary.800",
+          "value": "$palette.primary.1000",
           "type": "color"
         },
         "secondary": {
@@ -8588,7 +8588,7 @@
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "hover-bg": {
@@ -8600,7 +8600,7 @@
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "focus-bg": {
@@ -8616,7 +8616,7 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "disabled-bg": {
@@ -8632,11 +8632,11 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.surface.high-inverted",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.surface.high-inverted",
           "type": "color"
         },
         "active-color": {
@@ -8652,7 +8652,7 @@
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "progress-line": {
@@ -8908,15 +8908,15 @@
       },
       "light": {
         "default-bg": {
-          "value": "$palette.base.transparent",
+          "value": "$palette.brand.primary-dim",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.primary-dim",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.on-primary-inverted",
           "type": "color"
         },
         "hover-bg": {
@@ -8924,11 +8924,11 @@
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.natural.900",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.natural.900",
+          "value": "$palette.brand.on-primary-inverted",
           "type": "color"
         },
         "focus-bg": {
@@ -8936,15 +8936,15 @@
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.natural",
+          "value": "$palette.outline.primary",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.on-primary-inverted",
           "type": "color"
         },
         "disabled-bg": {
@@ -8952,39 +8952,39 @@
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.natural.300",
+          "value": "$palette.primary.300",
           "type": "color"
         },
         "disabled-color": {
-          "value": "$palette.natural.300",
+          "value": "$palette.primary.300",
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.primary",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.base.transparent",
+          "value": "$palette.brand.primary-dim",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.natural.1100",
+          "value": "$palette.brand.primary-dim",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.black",
+          "value": "$palette.brand.on-primary-inverted",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.200",
           "type": "color"
         }
       },
