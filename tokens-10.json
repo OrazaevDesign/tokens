@@ -443,7 +443,7 @@
         }
       },
       "label": {
-        "product":{
+        "product": {
           "bestseller-bg": {
             "value": "#eb952d",
             "type": "color"
@@ -7318,7 +7318,8 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "destemart"
+      "destemart",
+      "xfimarket"
     ]
   }
 }
