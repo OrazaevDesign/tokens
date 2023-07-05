@@ -4232,11 +4232,11 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "on-primary-dim": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "primary-dim": {
@@ -4244,11 +4244,11 @@
           "type": "color"
         },
         "on-primary-inverted": {
-          "value": "$palette.primary.800",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "on-primary-inverted-dim": {
-          "value": "$palette.primary.800",
+          "value": "$palette.on-surface.default-dim",
           "type": "color"
         },
         "secondary": {
@@ -4264,7 +4264,7 @@
           "type": "color"
         },
         "on-secondary-dim": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.secondary.200",
           "type": "color"
         },
         "secondary-dim": {
@@ -4276,7 +4276,7 @@
           "type": "color"
         },
         "on-secondary-inverted-dim": {
-          "value": "$palette.secondary.800",
+          "value": "$palette.secondary.500",
           "type": "color"
         },
         "accent": {
@@ -4292,7 +4292,7 @@
           "type": "color"
         },
         "on-accent-dim": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.accent.200",
           "type": "color"
         },
         "accent-dim": {
@@ -4304,7 +4304,7 @@
           "type": "color"
         },
         "on-accent-inverted-dim": {
-          "value": "$palette.accent.800",
+          "value": "$palette.accent.500",
           "type": "color"
         },
         "succes": {
@@ -4320,7 +4320,7 @@
           "type": "color"
         },
         "on-succes-dim": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.succes.200",
           "type": "color"
         },
         "succes-dim": {
@@ -4332,7 +4332,7 @@
           "type": "color"
         },
         "on-succes-inverted-dim": {
-          "value": "$palette.succes.800",
+          "value": "$palette.succes.500",
           "type": "color"
         },
         "warning": {
@@ -4348,7 +4348,7 @@
           "type": "color"
         },
         "on-warning-dim": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.warning.200",
           "type": "color"
         },
         "warning-dim": {
@@ -4360,7 +4360,7 @@
           "type": "color"
         },
         "on-warning-inverted-dim": {
-          "value": "$palette.warning.800",
+          "value": "$palette.warning.500",
           "type": "color"
         },
         "error": {
@@ -4376,7 +4376,7 @@
           "type": "color"
         },
         "on-error-dim": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.error.200",
           "type": "color"
         },
         "error-dim": {
@@ -4388,7 +4388,7 @@
           "type": "color"
         },
         "on-error-inverted-dim": {
-          "value": "$palette.error.800",
+          "value": "$palette.error.500",
           "type": "color"
         }
       },
