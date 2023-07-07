@@ -7734,7 +7734,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "rgba(255,210,0,0.3)",
+          "value": "rgba(62,90,240,0.3)",
           "type": "color"
         },
         "accent": {
@@ -7894,7 +7894,7 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "$palette.on-surface.default",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "on-primary-dim": {
