@@ -8118,7 +8118,7 @@
           "type": "color"
         },
         "default-hover": {
-          "value": "$palette.accent.700",
+          "value": "$palette.primary.1000",
           "type": "color"
         },
         "inverted-hover": {
