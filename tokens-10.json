@@ -8732,11 +8732,11 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.accent.600",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.accent.600",
+          "value": "$palette.accent.1200",
           "type": "color"
         },
         "active-color": {
