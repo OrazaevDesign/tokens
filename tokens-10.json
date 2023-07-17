@@ -11396,11 +11396,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "rgba(62,90,240,0.3)",
+          "value": "rgba(48,44,46,0.3)",
           "type": "color"
         },
         "accent": {
-          "value": "rgba(18,177,82,0.3)",
+          "value": "rgba(146,63,29,0.3)",
           "type": "color"
         },
         "succes": {
