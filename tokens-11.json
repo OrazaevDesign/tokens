@@ -111,57 +111,57 @@
       },
       "secondary": {
         "50": {
-            "value": "#FBFEFF",
-            "type": "color"
-          },
-          "100": {
-            "value": "#DCF0FB",
-            "type": "color"
-          },
-          "200": {
-            "value": "#B4DCF3",
-            "type": "color"
-          },
-          "300": {
-            "value": "#84C0E3",
-            "type": "color"
-          },
-          "400": {
-            "value": "#559ECC",
-            "type": "color"
-          },
-          "500": {
-            "value": "#2A7BB2",
-            "type": "color"
-          },
-          "600": {
-            "value": "#0D63A1",
-            "type": "color"
-          },
-          "700": {
-            "value": "#045793",
-            "type": "color"
-          },
-          "800": {
-            "value": "#014F89",
-            "type": "color"
-          },
-          "900": {
-            "value": "#004980",
-            "type": "color"
-          },
-          "1000": {
-            "value": "#004579",
-            "type": "color"
-          },
-          "1100": {
-            "value": "#004072",
-            "type": "color"
-          },
-          "1200": {
-            "value": "#003B69",
-            "type": "color"
-          }
+          "value": "#FBFEFF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#DCF0FB",
+          "type": "color"
+        },
+        "200": {
+          "value": "#B4DCF3",
+          "type": "color"
+        },
+        "300": {
+          "value": "#84C0E3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#559ECC",
+          "type": "color"
+        },
+        "500": {
+          "value": "#2A7BB2",
+          "type": "color"
+        },
+        "600": {
+          "value": "#0D63A1",
+          "type": "color"
+        },
+        "700": {
+          "value": "#045793",
+          "type": "color"
+        },
+        "800": {
+          "value": "#014F89",
+          "type": "color"
+        },
+        "900": {
+          "value": "#004980",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#004579",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#004072",
+          "type": "color"
+        },
+        "1200": {
+          "value": "#003B69",
+          "type": "color"
+        }
       },
       "accent": {
         "50": {
@@ -3656,7 +3656,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "destemart"
+      "gdeposylkamall"
     ]
   }
 }
