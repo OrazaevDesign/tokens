@@ -273,57 +273,57 @@
       },
       "warning": {
         "50": {
-          "value": "#fffdfa",
-          "type": "color"
-        },
-        "100": {
-          "value": "#fff0d7",
-          "type": "color"
-        },
-        "200": {
-          "value": "#fee1b3",
-          "type": "color"
-        },
-        "300": {
-          "value": "#facc8a",
-          "type": "color"
-        },
-        "400": {
-          "value": "#f6b35c",
-          "type": "color"
-        },
-        "500": {
-          "value": "#eb952d",
-          "type": "color"
-        },
-        "600": {
-          "value": "#d97c13",
-          "type": "color"
-        },
-        "700": {
-          "value": "#c05809",
-          "type": "color"
-        },
-        "800": {
-          "value": "#ac4c08",
-          "type": "color"
-        },
-        "900": {
-          "value": "#994207",
-          "type": "color"
-        },
-        "1000": {
-          "value": "#873806",
-          "type": "color"
-        },
-        "1100": {
-          "value": "#752f05",
-          "type": "color"
-        },
-        "1200": {
-          "value": "#632604",
-          "type": "color"
-        }
+            "value": "#FFFDFB",
+            "type": "color"
+          },
+          "100": {
+            "value": "#FEF0DE",
+            "type": "color"
+          },
+          "200": {
+            "value": "#FDDEBB",
+            "type": "color"
+          },
+          "300": {
+            "value": "#FCC892",
+            "type": "color"
+          },
+          "400": {
+            "value": "#FAAF68",
+            "type": "color"
+          },
+          "500": {
+            "value": "#F9933B",
+            "type": "color"
+          },
+          "600": {
+            "value": "#F57815",
+            "type": "color"
+          },
+          "700": {
+            "value": "#EB6706",
+            "type": "color"
+          },
+          "800": {
+            "value": "#D45602",
+            "type": "color"
+          },
+          "900": {
+            "value": "#B84600",
+            "type": "color"
+          },
+          "1000": {
+            "value": "#A03900",
+            "type": "color"
+          },
+          "1100": {
+            "value": "#8E3000",
+            "type": "color"
+          },
+          "1200": {
+            "value": "#802900",
+            "type": "color"
+          }
       },
       "error": {
         "50": {
