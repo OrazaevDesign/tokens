@@ -1,5 +1,5 @@
 {
-  "destemart": {
+  "gdeposylkamall": {
     "palette": {
       "natural": {
         "50": {
@@ -57,55 +57,55 @@
       },
       "primary": {
         "50": {
-          "value": "#FAFFFF",
+          "value": "#FBFEFF",
           "type": "color"
         },
         "100": {
-          "value": "#E7FCFC",
+          "value": "#DCF0FB",
           "type": "color"
         },
         "200": {
-          "value": "#CCF6F8",
+          "value": "#B4DCF3",
           "type": "color"
         },
         "300": {
-          "value": "#9EEBF0",
+          "value": "#84C0E3",
           "type": "color"
         },
         "400": {
-          "value": "#5ED2DE",
+          "value": "#559ECC",
           "type": "color"
         },
         "500": {
-          "value": "#1EB6CA",
+          "value": "#2A7BB2",
           "type": "color"
         },
         "600": {
-          "value": "#0A9AB1",
+          "value": "#0D63A1",
           "type": "color"
         },
         "700": {
-          "value": "#05889E",
+          "value": "#045793",
           "type": "color"
         },
         "800": {
-          "value": "#03778C",
+          "value": "#014F89",
           "type": "color"
         },
         "900": {
-          "value": "#02677B",
+          "value": "#004980",
           "type": "color"
         },
         "1000": {
-          "value": "#01576A",
+          "value": "#004579",
           "type": "color"
         },
         "1100": {
-          "value": "#014859",
+          "value": "#004072",
           "type": "color"
         },
         "1200": {
-          "value": "#003947",
+          "value": "#003B69",
           "type": "color"
         }
       },
