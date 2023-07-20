@@ -4051,7 +4051,7 @@
           "type": "color"
         },
         "gradient-bg": {
-          "value": "linear-gradient(90deg, #F3FAFF 0%, #FAFDFF 33.3%, #FAFDFF 66.6%, #F3FAFF 100%)",
+          "value": "linear-gradient(90deg, #E3FBFE 0%, #FAFDFF 33.3%, #FAFDFF 66.6%, #E5F4FF 100%)",
           "type": "color",
           "description": "Black AAA"
         },
@@ -4072,11 +4072,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "rgba(13,99,161,0.3)",
+          "value": "rgba(20,122,124,0.3)",
           "type": "color"
         },
         "accent": {
-          "value": "rgba(245,120,21,0.3)",
+          "value": "rgba(25,159,77,0.3)",
           "type": "color"
         },
         "succes": {
@@ -4139,7 +4139,7 @@
             "type": "color"
           },
           "procent-bg": {
-            "value": "$palette.accent.600",
+            "value": "$palette.error.600",
             "type": "color"
           },
           "procent-color": {
@@ -4418,7 +4418,7 @@
           "type": "color"
         },
         "brand": {
-          "value": "linear-gradient(90deg, #E9FCFF 0%, #FAFFFF 33.3%, #FAFFFF 66.6%, #E9FCFF 100%)",
+          "value": "linear-gradient(90deg, #E3FBFE 0%, #FAFDFF 33.3%, #FAFDFF 66.6%, #E5F4FF 100%)",
           "type": "color"
         },
         "highest-inverted": {
@@ -6993,11 +6993,11 @@
     "bager": {
       "default": {
         "bg": {
-          "value": "$palette.primary.600",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.error.600",
           "type": "color"
         },
         "color": {
@@ -7270,7 +7270,7 @@
         "type": "color"
       },
       "sale-color": {
-        "value": "$palette.accent.600",
+        "value": "$palette.error.600",
         "type": "color"
       },
       "old-color": {
@@ -7278,7 +7278,7 @@
         "type": "color"
       },
       "old-line": {
-        "value": "$palette.accent.600",
+        "value": "$palette.error.600",
         "type": "color"
       }
     },
