@@ -3563,43 +3563,43 @@
     },
     "tooltips": {
       "succes-bg": {
-        "value": "$palette.succes.600",
+        "value": "$palette.brand.succes",
         "type": "color"
       },
       "succes-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-succes",
         "type": "color"
       },
       "warning-bg": {
-        "value": "$palette.warning.600",
+        "value": "$palette.brand.warning",
         "type": "color"
       },
       "warning-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-warning",
         "type": "color"
       },
       "error-bg": {
-        "value": "$palette.error.700",
+        "value": "$palette.brand.error",
         "type": "color"
       },
       "error-color": {
-        "value": "$palette.base.white",
-        "type": "color"
-      },
-      "default-bg": {
-        "value": "$palette.primary.600",
-        "type": "color"
-      },
-      "default-color": {
-        "value": "$palette.base.black",
+        "value": "$palette.brand.on-error",
         "type": "color"
       },
       "accent-bg": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.brand.accent",
         "type": "color"
       },
       "accent-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-accent",
+        "type": "color"
+      },
+      "default-bg": {
+        "value": "$palette.surface.mid-inverted",
+        "type": "color"
+      },
+      "default-color": {
+        "value": "$palette.on-surface.inverted",
         "type": "color"
       }
     },
@@ -10884,43 +10884,43 @@
     },
     "tooltips": {
       "succes-bg": {
-        "value": "$palette.succes.600",
+        "value": "$palette.brand.succes",
         "type": "color"
       },
       "succes-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-succes",
         "type": "color"
       },
       "warning-bg": {
-        "value": "$palette.warning.600",
+        "value": "$palette.brand.warning",
         "type": "color"
       },
       "warning-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-warning",
         "type": "color"
       },
       "error-bg": {
-        "value": "$palette.error.700",
+        "value": "$palette.brand.error",
         "type": "color"
       },
       "error-color": {
-        "value": "$palette.base.white",
-        "type": "color"
-      },
-      "default-bg": {
-        "value": "$palette.primary.600",
-        "type": "color"
-      },
-      "default-color": {
-        "value": "$palette.base.black",
+        "value": "$palette.brand.on-error",
         "type": "color"
       },
       "accent-bg": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.brand.accent",
         "type": "color"
       },
       "accent-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-accent",
+        "type": "color"
+      },
+      "default-bg": {
+        "value": "$palette.surface.mid-inverted",
+        "type": "color"
+      },
+      "default-color": {
+        "value": "$palette.on-surface.inverted",
         "type": "color"
       }
     },
@@ -14543,43 +14543,43 @@
     },
     "tooltips": {
       "succes-bg": {
-        "value": "$palette.succes.600",
+        "value": "$palette.brand.succes",
         "type": "color"
       },
       "succes-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-succes",
         "type": "color"
       },
       "warning-bg": {
-        "value": "$palette.warning.600",
+        "value": "$palette.brand.warning",
         "type": "color"
       },
       "warning-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-warning",
         "type": "color"
       },
       "error-bg": {
-        "value": "$palette.error.700",
+        "value": "$palette.brand.error",
         "type": "color"
       },
       "error-color": {
-        "value": "$palette.base.white",
-        "type": "color"
-      },
-      "default-bg": {
-        "value": "$palette.primary.600",
-        "type": "color"
-      },
-      "default-color": {
-        "value": "$palette.base.black",
+        "value": "$palette.brand.on-error",
         "type": "color"
       },
       "accent-bg": {
-        "value": "$palette.natural.1100",
+        "value": "$palette.brand.accent",
         "type": "color"
       },
       "accent-color": {
-        "value": "$palette.base.white",
+        "value": "$palette.brand.on-accent",
+        "type": "color"
+      },
+      "default-bg": {
+        "value": "$palette.surface.mid-inverted",
+        "type": "color"
+      },
+      "default-color": {
+        "value": "$palette.on-surface.inverted",
         "type": "color"
       }
     },
