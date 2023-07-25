@@ -7747,11 +7747,11 @@
           "type": "color"
         },
         "error": {
-          "value": "rgba(243,54,34,0.3)",
+          "value": "rgba(238,0,54,0.3)",
           "type": "color"
         },
         "secondary": {
-          "value": "rgba(243,54,34,0.3)",
+          "value": "rgba(238,0,54,0.3)",
           "type": "color"
         }
       },
