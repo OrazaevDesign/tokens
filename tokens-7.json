@@ -7394,7 +7394,7 @@
           "type": "color"
         },
         "600": {
-          "value": "#005BDE",
+          "value": "#1551E5",
           "type": "color"
         },
         "700": {
@@ -7756,7 +7756,7 @@
         }
       },
       "label": {
-        "product":{
+        "product": {
           "bestseller-bg": {
             "value": "#eb952d",
             "type": "color"
@@ -11410,7 +11410,7 @@
         }
       },
       "label": {
-        "product":{
+        "product": {
           "bestseller-bg": {
             "value": "#eb952d",
             "type": "color"
