@@ -7506,23 +7506,23 @@
           "type": "color"
         },
         "700": {
-          "value": "#04BA7A",
+          "value": "#04CA84",
           "type": "color"
         },
         "800": {
-          "value": "#019D66",
+          "value": "#01BE7B",
           "type": "color"
         },
         "900": {
-          "value": "#008354",
+          "value": "#00AD70",
           "type": "color"
         },
         "1000": {
-          "value": "#006E47",
+          "value": "#008354",
           "type": "color"
         },
         "1100": {
-          "value": "#005B3B",
+          "value": "#006340",
           "type": "color"
         },
         "1200": {
