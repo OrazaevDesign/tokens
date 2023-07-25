@@ -3578,7 +3578,7 @@
     },
     "tooltips": {
       "succes-bg": {
-        "value": "$palette.succes.700",
+        "value": "$palette.succes.600",
         "type": "color"
       },
       "succes-color": {
@@ -7232,7 +7232,7 @@
     },
     "tooltips": {
       "succes-bg": {
-        "value": "$palette.succes.700",
+        "value": "$palette.succes.600",
         "type": "color"
       },
       "succes-color": {
@@ -10886,7 +10886,7 @@
     },
     "tooltips": {
       "succes-bg": {
-        "value": "$palette.succes.700",
+        "value": "$palette.succes.600",
         "type": "color"
       },
       "succes-color": {
@@ -14540,7 +14540,7 @@
     },
     "tooltips": {
       "succes-bg": {
-        "value": "$palette.succes.700",
+        "value": "$palette.succes.600",
         "type": "color"
       },
       "succes-color": {

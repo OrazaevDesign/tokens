@@ -3579,18 +3579,26 @@
         "type": "color"
       },
       "error-bg": {
-        "value": "$palette.error.600",
+        "value": "$palette.error.700",
         "type": "color"
       },
       "error-color": {
         "value": "$palette.base.white",
         "type": "color"
       },
-      "basket-bg": {
-        "value": "$palette.accent.600",
+      "default-bg": {
+        "value": "$palette.primary.600",
         "type": "color"
       },
-      "basket-color": {
+      "default-color": {
+        "value": "$palette.base.black",
+        "type": "color"
+      },
+      "accent-bg": {
+        "value": "$palette.natural.1100",
+        "type": "color"
+      },
+      "accent-color": {
         "value": "$palette.base.white",
         "type": "color"
       }
@@ -10899,11 +10907,11 @@
         "value": "$palette.base.white",
         "type": "color"
       },
-      "basket-bg": {
+      "default-bg": {
         "value": "$palette.primary.600",
         "type": "color"
       },
-      "basket-color": {
+      "default-color": {
         "value": "$palette.base.black",
         "type": "color"
       },
@@ -14551,18 +14559,26 @@
         "type": "color"
       },
       "error-bg": {
-        "value": "$palette.error.600",
+        "value": "$palette.error.700",
         "type": "color"
       },
       "error-color": {
         "value": "$palette.base.white",
         "type": "color"
       },
-      "basket-bg": {
-        "value": "$palette.accent.600",
+      "default-bg": {
+        "value": "$palette.primary.600",
         "type": "color"
       },
-      "basket-color": {
+      "default-color": {
+        "value": "$palette.base.black",
+        "type": "color"
+      },
+      "accent-bg": {
+        "value": "$palette.natural.1100",
+        "type": "color"
+      },
+      "accent-color": {
         "value": "$palette.base.white",
         "type": "color"
       }
