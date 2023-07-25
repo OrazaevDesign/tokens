@@ -9247,15 +9247,15 @@
         "type": "color"
       },
       "hover-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.primary.600",
         "type": "color"
       },
       "focus-bg": {
-        "value": "$palette.base.white",
+        "value": "$palette.primary.50",
         "type": "color"
       },
       "focus-border": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.primary.1100",
         "type": "color"
       },
       "focus-outline": {
@@ -9263,7 +9263,7 @@
         "type": "color"
       },
       "focus-color": {
-        "value": "$palette.natural.1000",
+        "value": "$palette.primary.600",
         "type": "color"
       },
       "disabled-bg": {
