@@ -7766,43 +7766,43 @@
       "label": {
         "product": {
           "bestseller-bg": {
-            "value": "#eb952d",
+            "value": "#F6A200",
             "type": "color"
           },
           "bestseller-color": {
-            "value": "$palette.base.white",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
           "new-bg": {
-            "value": "$palette.accent.600",
+            "value": "#21D797",
             "type": "color"
           },
           "new-color": {
-            "value": "$palette.base.white",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
           "sale-bg": {
-            "value": "$palette.primary.600",
+            "value": "#FFD951",
             "type": "color"
           },
           "sale-color": {
-            "value": "$palette.base.white",
+            "value": "$palette.on-surface.default",
             "type": "color"
           },
           "discount-bg": {
-            "value": "#5C3FD5",
+            "value": "#FF7514",
             "type": "color"
           },
           "discount-color": {
-            "value": "$palette.base.black",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
           "popular-bg": {
-            "value": "#982fbd",
+            "value": "#5C3FD5",
             "type": "color"
           },
           "popular-color": {
-            "value": "$palette.base.white",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
           "procent-bg": {
@@ -7810,7 +7810,7 @@
             "type": "color"
           },
           "procent-color": {
-            "value": "$palette.base.white",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           },
           "partners-bg": {
@@ -7818,7 +7818,7 @@
             "type": "color"
           },
           "partners-color": {
-            "value": "$palette.base.white",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           }
         },
