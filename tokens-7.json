@@ -8085,7 +8085,7 @@
           "type": "color"
         },
         "brand": {
-          "value": "linear-gradient(90deg, #f5ffff 0%, #fff5fb 33.3%, #fffaf5 66.6%, #f5ffff 100%)",
+          "value": "linear-gradient(270deg, #F4F7F8 0%, #FBFBFB 34.9%, #FAFAFA 69.27%, #F4F7F8 100%)",
           "type": "color"
         },
         "highest-inverted": {
