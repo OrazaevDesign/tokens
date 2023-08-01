@@ -443,7 +443,7 @@
         }
       },
       "label": {
-        "product":{
+        "product": {
           "bestseller-bg": {
             "value": "$palette.warning.600",
             "type": "color"
@@ -551,7 +551,7 @@
             "type": "color"
           },
           "mid-bg": {
-            "value": "$palette.surface.high",
+            "value": "$palette.surface.mid",
             "type": "color"
           },
           "mid-color": {
@@ -559,11 +559,11 @@
             "type": "color"
           },
           "dark-bg": {
-            "value": "$palette.surface.high",
+            "value": "$palette.surface.high-inverted",
             "type": "color"
           },
           "dark-color": {
-            "value": "$palette.on-surface.default",
+            "value": "$palette.on-surface.inverted",
             "type": "color"
           }
         }
@@ -1610,11 +1610,11 @@
       },
       "light": {
         "default-bg": {
-          "value": "$palette.base.transparent",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.primary.600",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "default-color": {
@@ -1622,19 +1622,19 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.base.transparent",
+          "value": "$palette.primary.200",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.500",
+          "value": "$palette.primary.200",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "focus-border": {
@@ -1646,11 +1646,11 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.base.transparent",
+          "value": "$palette.primary.50",
           "type": "color"
         },
         "disabled-border": {
@@ -1674,11 +1674,11 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.base.transparent",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "progress-color": {
@@ -4105,7 +4105,7 @@
         }
       },
       "label": {
-        "product":{
+        "product": {
           "bestseller-bg": {
             "value": "$palette.warning.600",
             "type": "color"
@@ -7767,7 +7767,7 @@
         }
       },
       "label": {
-        "product":{
+        "product": {
           "bestseller-bg": {
             "value": "$palette.warning.600",
             "type": "color"
@@ -11429,7 +11429,7 @@
         }
       },
       "label": {
-        "product":{
+        "product": {
           "bestseller-bg": {
             "value": "$palette.warning.600",
             "type": "color"
