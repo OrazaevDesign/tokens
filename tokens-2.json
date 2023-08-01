@@ -564,7 +564,7 @@
             "type": "color"
           }
         }
-      },      
+      },
       "brand": {
         "primary": {
           "value": "$palette.primary.600",
@@ -4100,62 +4100,62 @@
       },
       "label": {
         "product": {
-        "bestseller-bg": {
-          "value": "#eb952d",
-          "type": "color"
-        },
-        "bestseller-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "new-bg": {
-          "value": "#2983ed",
-          "type": "color"
-        },
-        "new-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "sale-bg": {
-          "value": "#fdec83",
-          "type": "color"
-        },
-        "sale-color": {
-          "value": "$palette.accent.1200",
-          "type": "color"
-        },
-        "discount-bg": {
-          "value": "#199f4d",
-          "type": "color"
-        },
-        "discount-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "popular-bg": {
-          "value": "#982fbd",
-          "type": "color"
-        },
-        "popular-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "procent-bg": {
-          "value": "$palette.accent.600",
-          "type": "color"
-        },
-        "procent-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "partners-bg": {
-          "value": "$palette.primary.600",
-          "type": "color"
-        },
-        "partners-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        }
+          "bestseller-bg": {
+            "value": "#eb952d",
+            "type": "color"
+          },
+          "bestseller-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "new-bg": {
+            "value": "#2983ed",
+            "type": "color"
+          },
+          "new-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "sale-bg": {
+            "value": "#fdec83",
+            "type": "color"
+          },
+          "sale-color": {
+            "value": "$palette.accent.1200",
+            "type": "color"
+          },
+          "discount-bg": {
+            "value": "#199f4d",
+            "type": "color"
+          },
+          "discount-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "popular-bg": {
+            "value": "#982fbd",
+            "type": "color"
+          },
+          "popular-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "procent-bg": {
+            "value": "$palette.accent.600",
+            "type": "color"
+          },
+          "procent-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "partners-bg": {
+            "value": "$palette.primary.600",
+            "type": "color"
+          },
+          "partners-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          }
         },
         "status": {
           "succes-bg": {
@@ -4223,7 +4223,7 @@
             "type": "color"
           }
         }
-      },  
+      },
       "brand": {
         "primary": {
           "value": "$palette.primary.600",
@@ -4990,11 +4990,11 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.500",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.500",
           "type": "color"
         },
         "active-color": {
@@ -5002,11 +5002,11 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-color": {
@@ -5014,7 +5014,7 @@
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.500",
           "type": "color"
         }
       },
@@ -5072,11 +5072,11 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "active-color": {
@@ -5096,7 +5096,7 @@
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.accent.400",
           "type": "color"
         }
       },
@@ -5266,11 +5266,11 @@
       },
       "light": {
         "default-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "default-color": {
@@ -5278,11 +5278,11 @@
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.primary.50",
+          "value": "$palette.primary.200",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.primary.400",
+          "value": "$palette.primary.200",
           "type": "color"
         },
         "hover-color": {
@@ -5290,7 +5290,7 @@
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "focus-border": {
@@ -5306,7 +5306,7 @@
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.50",
           "type": "color"
         },
         "disabled-border": {
@@ -5318,11 +5318,11 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "active-color": {
@@ -5330,19 +5330,19 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.primary.100",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.200",
           "type": "color"
         }
       },
@@ -5400,11 +5400,11 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.1100",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.1100",
           "type": "color"
         },
         "active-color": {
@@ -5412,15 +5412,15 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.natural.50",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.natural.100",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "progress-line": {
@@ -5490,19 +5490,19 @@
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.accent.500",
+          "value": "$palette.base.transparent",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.accent.500",
+          "value": "$palette.base.transparent",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.base.white",
+          "value": "$palette.natural.1000",
           "type": "color"
         },
         "progress-line": {
@@ -7759,62 +7759,62 @@
       },
       "label": {
         "product": {
-        "bestseller-bg": {
-          "value": "#eb952d",
-          "type": "color"
-        },
-        "bestseller-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "new-bg": {
-          "value": "#3D5DBB",
-          "type": "color"
-        },
-        "new-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "sale-bg": {
-          "value": "$palette.accent.600",
-          "type": "color"
-        },
-        "sale-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "discount-bg": {
-          "value": "#2EA58B",
-          "type": "color"
-        },
-        "discount-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "popular-bg": {
-          "value": "#612fbd",
-          "type": "color"
-        },
-        "popular-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "procent-bg": {
-          "value": "$palette.primary.600",
-          "type": "color"
-        },
-        "procent-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        },
-        "partners-bg": {
-          "value": "$palette.primary.600",
-          "type": "color"
-        },
-        "partners-color": {
-          "value": "$palette.base.white",
-          "type": "color"
-        }
+          "bestseller-bg": {
+            "value": "#eb952d",
+            "type": "color"
+          },
+          "bestseller-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "new-bg": {
+            "value": "#3D5DBB",
+            "type": "color"
+          },
+          "new-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "sale-bg": {
+            "value": "$palette.accent.600",
+            "type": "color"
+          },
+          "sale-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "discount-bg": {
+            "value": "#2EA58B",
+            "type": "color"
+          },
+          "discount-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "popular-bg": {
+            "value": "#612fbd",
+            "type": "color"
+          },
+          "popular-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "procent-bg": {
+            "value": "$palette.primary.600",
+            "type": "color"
+          },
+          "procent-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          },
+          "partners-bg": {
+            "value": "$palette.primary.600",
+            "type": "color"
+          },
+          "partners-color": {
+            "value": "$palette.base.white",
+            "type": "color"
+          }
         },
         "status": {
           "succes-bg": {
@@ -11541,7 +11541,7 @@
             "type": "color"
           }
         }
-      }, 
+      },
       "brand": {
         "primary": {
           "value": "$palette.primary.600",
@@ -14635,5 +14635,13 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "happybunny",
+      "litemf",
+      "autowish",
+      "bigsaleday"
+    ]
+  }
 }
