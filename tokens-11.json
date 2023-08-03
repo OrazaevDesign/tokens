@@ -8688,35 +8688,35 @@
       },
       "accent": {
         "default-bg": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.brand.on-primary",
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.secondary.1100",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.secondary.1100",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.brand.on-primary",
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.secondary.1200",
+          "value": "$palette.accent.1000",
           "type": "color"
         },
         "focus-outline": {
@@ -8724,15 +8724,15 @@
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.brand.on-primary",
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.secondary.200",
+          "value": "$palette.accent.300",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.secondary.200",
+          "value": "$palette.accent.300",
           "type": "color"
         },
         "disabled-color": {
@@ -8752,19 +8752,19 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.brand.on-primary",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.secondary.700",
+          "value": "$palette.accent.700",
           "type": "color"
         }
       },
