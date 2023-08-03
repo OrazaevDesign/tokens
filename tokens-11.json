@@ -7742,11 +7742,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "rgba(255,210,0,0.3)",
+          "value": "rgba(240,240,27,0.3)",
           "type": "color"
         },
         "accent": {
-          "value": "rgba(235,64,87,0.3)",
+          "value": "rgba(151,234,65,0.3)",
           "type": "color"
         },
         "succes": {
@@ -8720,7 +8720,7 @@
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.secondary",
+          "value": "$palette.outline.accent",
           "type": "color"
         },
         "focus-color": {
