@@ -8658,15 +8658,15 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.accent.600",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.brand.on-primary",
           "type": "color"
         },
         "progress-bg": {
