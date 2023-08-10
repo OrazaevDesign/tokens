@@ -7726,7 +7726,7 @@
           "description": "Black AAA"
         },
         "gradient-primary": {
-          "value": "linear-gradient(183deg, #bf3181 0%, #fd3665 100%)",
+          "value": "linear-gradient(180deg, #7796FC 0%, #E8F0FF 100%)",
           "type": "color",
           "description": "White AAA"
         },
