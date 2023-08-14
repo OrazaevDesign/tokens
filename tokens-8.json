@@ -8688,51 +8688,51 @@
       },
       "accent": {
         "default-bg": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "default-border": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "default-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "hover-bg": {
-          "value": "$palette.secondary.1100",
+          "value": "$palette.succes.700",
           "type": "color"
         },
         "hover-border": {
-          "value": "$palette.secondary.1100",
+          "value": "$palette.succes.700",
           "type": "color"
         },
         "hover-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "focus-bg": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "focus-border": {
-          "value": "$palette.secondary.1200",
+          "value": "$palette.succes.1100",
           "type": "color"
         },
         "focus-outline": {
-          "value": "$palette.outline.secondary",
+          "value": "$palette.outline.succes",
           "type": "color"
         },
         "focus-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "disabled-bg": {
-          "value": "$palette.secondary.200",
+          "value": "$palette.succes.200",
           "type": "color"
         },
         "disabled-border": {
-          "value": "$palette.secondary.200",
+          "value": "$palette.succes.200",
           "type": "color"
         },
         "disabled-color": {
@@ -8752,19 +8752,19 @@
           "type": "color"
         },
         "progress-bg": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "progress-border": {
-          "value": "$palette.secondary.900",
+          "value": "$palette.succes.600",
           "type": "color"
         },
         "progress-color": {
-          "value": "$palette.primary.500",
+          "value": "$palette.on-surface.inverted",
           "type": "color"
         },
         "progress-line": {
-          "value": "$palette.secondary.700",
+          "value": "$palette.succes.700",
           "type": "color"
         }
       },
