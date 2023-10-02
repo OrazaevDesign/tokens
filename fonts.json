@@ -77,6 +77,14 @@
       }
     },
     "fontWeights": {
+      "100": {
+        "value": "Ultralight",
+        "type": "fontWeights"
+      },
+      "200": {
+        "value": "Thin",
+        "type": "fontWeights"
+      },
       "300": {
         "value": "Light",
         "type": "fontWeights"
@@ -95,6 +103,14 @@
       },
       "700": {
         "value": "Bold",
+        "type": "fontWeights"
+      },
+      "800": {
+        "value": "Heavy",
+        "type": "fontWeights"
+      },
+      "900": {
+        "value": "Black",
         "type": "fontWeights"
       }
     },
