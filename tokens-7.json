@@ -3610,7 +3610,7 @@
         "type": "color"
       },
       "default-bg": {
-        "value": "$palette.surface.mid-inverted",
+        "value": "$palette.surface.high-inverted",
         "type": "color"
       },
       "default-color": {
@@ -7269,7 +7269,7 @@
         "type": "color"
       },
       "default-bg": {
-        "value": "$palette.surface.mid-inverted",
+        "value": "$palette.surface.high-inverted",
         "type": "color"
       },
       "default-color": {
@@ -10931,7 +10931,7 @@
         "type": "color"
       },
       "default-bg": {
-        "value": "$palette.surface.mid-inverted",
+        "value": "$palette.surface.high-inverted",
         "type": "color"
       },
       "default-color": {
@@ -14593,7 +14593,7 @@
         "type": "color"
       },
       "default-bg": {
-        "value": "$palette.surface.mid-inverted",
+        "value": "$palette.surface.high-inverted",
         "type": "color"
       },
       "default-color": {
