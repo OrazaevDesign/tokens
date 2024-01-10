@@ -820,11 +820,11 @@
       },
       "divider": {
         "default": {
-          "value": "$palette.natural.600",
+          "value": "$palette.natural.400",
           "type": "color"
         },
         "default-dim": {
-          "value": "$palette.natural.400",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "inverted-dim": {
@@ -4478,11 +4478,11 @@
       },
       "divider": {
         "default": {
-          "value": "$palette.natural.600",
+          "value": "$palette.natural.400",
           "type": "color"
         },
         "default-dim": {
-          "value": "$palette.natural.400",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "inverted-dim": {
@@ -8140,11 +8140,11 @@
       },
       "divider": {
         "default": {
-          "value": "$palette.natural.600",
+          "value": "$palette.natural.400",
           "type": "color"
         },
         "default-dim": {
-          "value": "$palette.natural.400",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "inverted-dim": {
@@ -11802,11 +11802,11 @@
       },
       "divider": {
         "default": {
-          "value": "$palette.natural.600",
+          "value": "$palette.natural.400",
           "type": "color"
         },
         "default-dim": {
-          "value": "$palette.natural.400",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "inverted-dim": {
