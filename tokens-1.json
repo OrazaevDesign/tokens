@@ -4467,11 +4467,11 @@
       },
       "divider": {
         "default": {
-          "value": "$palette.natural.400",
+          "value": "$palette.natural.200",
           "type": "color"
         },
         "default-dim": {
-          "value": "$palette.natural.200",
+          "value": "$palette.natural.100",
           "type": "color"
         },
         "inverted-dim": {
