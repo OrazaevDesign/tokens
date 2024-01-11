@@ -1,5 +1,6 @@
 {
   "global": {
+    "gap": {
     "0": {
       "value": "0",
       "type": "spacing"
@@ -140,6 +141,8 @@
       "value": "14",
       "type": "spacing"
     },
+    },
+    "borderRadius": {
     "XS": {
       "value": "6",
       "type": "borderRadius"
@@ -160,6 +163,7 @@
       "value": "12",
       "type": "borderRadius"
     }
+  }
   },
   "$themes": [],
   "$metadata": {
