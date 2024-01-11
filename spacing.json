@@ -140,9 +140,9 @@
     "3,5": {
       "value": "14",
       "type": "spacing"
+    }
     },
-    },
-    "borderRadius": {
+    "border-radius": {
     "XS": {
       "value": "6",
       "type": "borderRadius"
@@ -163,7 +163,7 @@
       "value": "12",
       "type": "borderRadius"
     }
-  }
+    }
   },
   "$themes": [],
   "$metadata": {
