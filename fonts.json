@@ -1635,7 +1635,7 @@
             "fontFamily": "{fontFamilies.Display}",
             "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.18}",
+            "fontSize": "{fontSize.20}",
             "letterSpacing": "{letterSpacing.400}"
           },
           "type": "typography"
@@ -1687,7 +1687,7 @@
             "fontFamily": "{fontFamilies.Display}",
             "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.17}",
+            "fontSize": "{fontSize.18}",
             "letterSpacing": "{letterSpacing.500}"
           },
           "type": "typography"
