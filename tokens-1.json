@@ -5572,6 +5572,18 @@
         "value": "$palette.natural.1000",
         "type": "color"
       },
+      "intermediat-bg": {
+        "value": "$palette.natural.50",
+        "type": "color"
+      },
+      "intermediat-border": {
+        "value": "$palette.natural.100",
+        "type": "color"
+      },
+      "intermediat-color": {
+        "value": "$palette.natural.1000",
+        "type": "color"
+      },
       "hover-bg": {
         "value": "$palette.primary.50",
         "type": "color"
