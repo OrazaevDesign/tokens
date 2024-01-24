@@ -5573,11 +5573,11 @@
         "type": "color"
       },
       "intermediat-bg": {
-        "value": "$palette.surface.high",
+        "value": "$palette.surface.highest",
         "type": "color"
       },
       "intermediat-border": {
-        "value": "$palette.natural.200",
+        "value": "$palette.natural.300",
         "type": "color"
       },
       "intermediat-color": {
