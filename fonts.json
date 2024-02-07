@@ -1519,7 +1519,7 @@
             "fontFamily": "{fontFamilies.Display}",
             "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.15}",
+            "fontSize": "{fontSize.16}",
             "letterSpacing": "{letterSpacing.500}"
           },
           "type": "typography"
@@ -1561,7 +1561,7 @@
             "fontFamily": "{fontFamilies.Display}",
             "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.15}",
+            "fontSize": "{fontSize.17}",
             "letterSpacing": "{letterSpacing.500}"
           },
           "type": "typography"
@@ -1571,7 +1571,7 @@
             "fontFamily": "{fontFamilies.Display}",
             "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.14}",
+            "fontSize": "{fontSize.16}",
             "letterSpacing": "{letterSpacing.500}"
           },
           "type": "typography"
@@ -1581,7 +1581,7 @@
             "fontFamily": "{fontFamilies.Display}",
             "fontWeight": "{fontWeights.600}",
             "lineHeight": "{lineHeights.120}",
-            "fontSize": "{fontSize.13}",
+            "fontSize": "{fontSize.14}",
             "letterSpacing": "{letterSpacing.600}"
           },
           "type": "typography"
