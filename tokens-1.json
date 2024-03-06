@@ -1822,6 +1822,18 @@
           "value": "$palette.natural.300",
           "type": "color"
         },
+        "active-bg": {
+          "value": "$palette.base.white",
+          "type": "color"
+        },
+        "active-border": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
+        "active-color": {
+          "value": "$palette.primary.600",
+          "type": "color"
+        },
         "progress-bg": {
           "value": "$palette.accent.500",
           "type": "color"
