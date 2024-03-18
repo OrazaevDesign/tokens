@@ -7350,7 +7350,8 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "kupibrand"
+      "kupibrand",
+      "poizon-guru"
     ]
   }
 }
