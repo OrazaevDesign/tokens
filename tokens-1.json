@@ -8144,11 +8144,11 @@
           "type": "color"
         },
         "default-hover": {
-          "value": "$palette.primary.600",
+          "value": "$palette.accent.700",
           "type": "color"
         },
         "inverted-hover": {
-          "value": "$palette.primary.200",
+          "value": "$palette.accent.200",
           "type": "color"
         },
         "inverted-dim": {
