@@ -2,7 +2,7 @@
   "global": {
     "poizon": {
       "bg": {
-        "value": "linear-gradient(101deg, #000 0%, #1D3337 50%, #0FF 100%)",
+        "value": "linear-gradient(100deg, #000 0%, #1D3337 50%, #0FF 100%)",
         "type": "color"
       },
       "color": {
@@ -22,7 +22,7 @@
     },
     "amazon": {
       "bg": {
-        "value": "linear-gradient(101deg, #000 0%, #000 50%, #F90 100%)",
+        "value": "linear-gradient(100deg, #000 0%, #000 50%, #F90 100%)",
         "type": "color"
       },
       "color": {
@@ -52,7 +52,7 @@
     },
     "ebay": {
       "bg": {
-        "value": "linear-gradient(90deg, #E43137 -0.94%, #E43137 24.21%, #0063D1 24.21%, #0063D1 49.36%, #F4AE01 49.37%, #F4AE01 74.52%, #85B716 74.52%, #85B716 99.67%)",
+        "value": "linear-gradient(90deg, #85B716 95%, #F4AE01 65%, #0063D1 35%, #E43137 5%)",
         "type": "color"
       },
       "color": {
