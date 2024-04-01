@@ -1,5 +1,16 @@
 {
-  "global": {},
+  "global": {
+    "poizon": {
+      "bg": {
+        "value": "#000",
+        "type": "color"
+      },
+      "color": {
+        "value": "#fff",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
