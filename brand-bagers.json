@@ -2,7 +2,7 @@
   "global": {
     "poizon": {
       "bg": {
-        "value": "#000",
+        "value": "linear-gradient(101deg, #000 0%, #1D3337 50%, #0FF 100%)",
         "type": "color"
       },
       "color": {
