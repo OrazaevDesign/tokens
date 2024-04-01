@@ -22,11 +22,11 @@
     },
     "amazon": {
       "bg": {
-        "value": "#FF9900",
+        "value": "linear-gradient(101deg, #000 0%, #000 50%, #F90 100%)",
         "type": "color"
       },
       "color": {
-        "value": "#131921",
+        "value": "#fff",
         "type": "color"
       }
     },
