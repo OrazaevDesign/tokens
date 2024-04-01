@@ -2,11 +2,11 @@
   "global": {
     "poizon": {
       "bg": {
-        "value": "linear-gradient(100deg, #000 0%, #1D3337 50%, #0FF 100%)",
+        "value": "linear-gradient(90deg, #000 0%, #1D3337 60%, #0FF 100%)",
         "type": "color"
       },
       "color": {
-        "value": "#fff",
+        "value": "#03F0F0",
         "type": "color"
       }
     },
@@ -22,11 +22,11 @@
     },
     "amazon": {
       "bg": {
-        "value": "linear-gradient(100deg, #000 0%, #000 50%, #F90 100%)",
+        "value": "linear-gradient(90deg, #000 0%, #000 60%, #F90 100%)",
         "type": "color"
       },
       "color": {
-        "value": "#fff",
+        "value": "#FF9900",
         "type": "color"
       }
     },
