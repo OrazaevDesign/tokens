@@ -9,6 +9,76 @@
         "value": "#fff",
         "type": "color"
       }
+    },
+    "iherb": {
+        "bg": {
+          "value": "#000",
+          "type": "color"
+        },
+        "color": {
+          "value": "#fff",
+          "type": "color"
+        }
+    },
+    "amazon": {
+        "bg": {
+          "value": "#000",
+          "type": "color"
+        },
+        "color": {
+          "value": "#fff",
+          "type": "color"
+        }
+    },
+    "trendyol": {
+        "bg": {
+          "value": "#000",
+          "type": "color"
+        },
+        "color": {
+          "value": "#fff",
+          "type": "color"
+        }
+    },
+    "macys": {
+        "bg": {
+          "value": "#000",
+          "type": "color"
+        },
+        "color": {
+          "value": "#fff",
+          "type": "color"
+        }
+    },
+    "ebay": {
+        "bg": {
+          "value": "#000",
+          "type": "color"
+        },
+        "color": {
+          "value": "#fff",
+          "type": "color"
+        }
+    },
+    "zara": {
+        "bg": {
+          "value": "#000",
+          "type": "color"
+        },
+        "color": {
+          "value": "#fff",
+          "type": "color"
+        }
+    },
+    "handm": {
+        "bg": {
+          "value": "#000",
+          "type": "color"
+        },
+        "color": {
+          "value": "#fff",
+          "type": "color"
+        }
     }
   },
   "$themes": [],
