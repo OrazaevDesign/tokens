@@ -1,154 +1,122 @@
 {
-    "primary": {
-      "base": {
-        "bg": {
-          "$type": "color",
-          "$value": "{roles.primary.primary}"
-        },
-        "border": {
-          "$type": "color",
-          "$value": "{roles.primary.primary}"
-        },
-        "lowest": {
-          "$type": "color",
-          "$value": "{roles.primary.on-primary-container}"
-        },
-        "hightest": {
-          "$type": "color",
-          "$value": "{roles.primary.primary-container}"
-        }
+  "primary": {
+    "rest": {
+      "bg": {
+        "$type": "color",
+        "$value": "{roles.primary.primary}"
       },
-      "default": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.primary.on-primary}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{0}"
-        }
+      "border": {
+        "$type": "color",
+        "$value": "{roles.primary.primary}"
       },
-      "hovered": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.primary.on-primary}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{20}"
-        }
+      "lowest": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary-container}"
       },
-      "focused": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.primary.on-primary}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        }
-      },
-      "disabled": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.primary.on-primary}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{80}"
-        }
+      "hightest": {
+        "$type": "color",
+        "$value": "{roles.primary.primary-container}"
       }
     },
-    "clear": {
-      "base": {
-        "bg": {
-          "$type": "color",
-          "$value": "{palettes.transparent}"
-        },
-        "border": {
-          "$type": "color",
-          "$value": "{palettes.transparent}"
-        },
-        "lowest": {
-          "$type": "color",
-          "$value": "{roles.primary.on-primary-container}"
-        },
-        "hightest": {
-          "$type": "color",
-          "$value": "{palettes.transparent}"
-        }
+    "default": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
       },
-      "default": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.surface.on-surface-variant}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{0}"
-        }
+      "state-opacity": {
+        "$type": "number",
+        "$value": "{0}"
+      }
+    },
+    "hovered": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
       },
-      "hovered": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.surface.on-surface}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{20}"
-        }
+      "state-opacity": {
+        "$type": "number",
+        "$value": "{20}"
+      }
+    },
+    "focused": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
       },
-      "focused": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.surface.on-surface}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        }
+      "state-opacity": {
+        "$type": "number",
+        "$value": "{100}"
+      }
+    },
+    "disabled": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
       },
-      "disabled": {
-        "color": {
-          "$type": "color",
-          "$value": "{roles.outline.outline variant}"
-        },
-        "color-oracity": {
-          "$type": "number",
-          "$value": "{100}"
-        },
-        "state-oracity": {
-          "$type": "number",
-          "$value": "{80}"
-        }
+      "state": {
+        "$type": "number",
+        "$value": "{80}"
+      }
+    }
+  },
+  "clear": {
+    "rest": {
+      "bg": {
+        "$type": "color",
+        "$value": "{palettes.transparent}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{palettes.transparent}"
+      },
+      "lowest": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary-container}"
+      },
+      "hightest": {
+        "$type": "color",
+        "$value": "{palettes.transparent}"
+      }
+    },
+    "default": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.surface.on-surface-variant}"
+      },
+      "state-opacity": {
+        "$type": "number",
+        "$value": "{0}"
+      }
+    },
+    "hovered": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.surface.on-surface}"
+      },
+      "state-opacity": {
+        "$type": "number",
+        "$value": "{20}"
+      }
+    },
+    "focused": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.surface.on-surface}"
+      },
+      "state-opacity": {
+        "$type": "number",
+        "$value": "{100}"
+      }
+    },
+    "disabled": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.outline.outline variant}"
+      },
+      "state-opacity": {
+        "$type": "number",
+        "$value": "{80}"
       }
     }
   }
+}
