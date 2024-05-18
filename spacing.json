@@ -1,182 +1,174 @@
 {
-  "global": {
-    "gap": {
-      "0": {
-        "value": "0",
-        "type": "spacing"
-      },
-      "1": {
-        "value": "4",
-        "type": "spacing"
-      },
-      "2": {
-        "value": "8",
-        "type": "spacing"
-      },
-      "3": {
-        "value": "12",
-        "type": "spacing"
-      },
-      "4": {
-        "value": "16",
-        "type": "spacing"
-      },
-      "5": {
-        "value": "20",
-        "type": "spacing"
-      },
-      "6": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "7": {
-        "value": "28",
-        "type": "spacing"
-      },
-      "8": {
-        "value": "32",
-        "type": "spacing"
-      },
-      "9": {
-        "value": "36",
-        "type": "spacing"
-      },
-      "10": {
-        "value": "40",
-        "type": "spacing"
-      },
-      "11": {
-        "value": "44",
-        "type": "spacing"
-      },
-      "12": {
-        "value": "48",
-        "type": "spacing"
-      },
-      "14": {
-        "value": "56",
-        "type": "spacing"
-      },
-      "16": {
-        "value": "64",
-        "type": "spacing"
-      },
-      "20": {
-        "value": "80",
-        "type": "spacing"
-      },
-      "24": {
-        "value": "96",
-        "type": "spacing"
-      },
-      "28": {
-        "value": "112",
-        "type": "spacing"
-      },
-      "32": {
-        "value": "128",
-        "type": "spacing"
-      },
-      "36": {
-        "value": "144",
-        "type": "spacing"
-      },
-      "40": {
-        "value": "160",
-        "type": "spacing"
-      },
-      "44": {
-        "value": "176",
-        "type": "spacing"
-      },
-      "48": {
-        "value": "192",
-        "type": "spacing"
-      },
-      "52": {
-        "value": "208",
-        "type": "spacing"
-      },
-      "56": {
-        "value": "224",
-        "type": "spacing"
-      },
-      "60": {
-        "value": "240",
-        "type": "spacing"
-      },
-      "64": {
-        "value": "256",
-        "type": "spacing"
-      },
-      "72": {
-        "value": "288",
-        "type": "spacing"
-      },
-      "80": {
-        "value": "320",
-        "type": "spacing"
-      },
-      "96": {
-        "value": "384",
-        "type": "spacing"
-      },
-      "px": {
-        "value": "1",
-        "type": "spacing"
-      },
-      "0,5": {
-        "value": "2",
-        "type": "spacing"
-      },
-      "1,5": {
-        "value": "6",
-        "type": "spacing"
-      },
-      "2,5": {
-        "value": "10",
-        "type": "spacing"
-      },
-      "3,5": {
-        "value": "14",
-        "type": "spacing"
-      }
+  "spacing": {
+    "0": {
+      "$type": "number",
+      "$value": 0
     },
-    "border-radius": {
-      "0": {
-        "value": "0",
-        "type": "borderRadius"
-      },
-      "XS": {
-        "value": "6",
-        "type": "borderRadius"
-      },
-      "S": {
-        "value": "6",
-        "type": "borderRadius"
-      },
-      "M": {
-        "value": "8",
-        "type": "borderRadius"
-      },
-      "L": {
-        "value": "10",
-        "type": "borderRadius"
-      },
-      "XL": {
-        "value": "12",
-        "type": "borderRadius"
-      },
-      "rounded": {
-        "value": "320",
-        "type": "borderRadius"
-      }
+    "1": {
+      "$type": "number",
+      "$value": 4
+    },
+    "2": {
+      "$type": "number",
+      "$value": 8
+    },
+    "3": {
+      "$type": "number",
+      "$value": 12
+    },
+    "4": {
+      "$type": "number",
+      "$value": 16
+    },
+    "5": {
+      "$type": "number",
+      "$value": 20
+    },
+    "6": {
+      "$type": "number",
+      "$value": 24
+    },
+    "7": {
+      "$type": "number",
+      "$value": 28
+    },
+    "8": {
+      "$type": "number",
+      "$value": 32
+    },
+    "9": {
+      "$type": "number",
+      "$value": 36
+    },
+    "10": {
+      "$type": "number",
+      "$value": 40
+    },
+    "11": {
+      "$type": "number",
+      "$value": 44
+    },
+    "12": {
+      "$type": "number",
+      "$value": 48
+    },
+    "14": {
+      "$type": "number",
+      "$value": 56
+    },
+    "16": {
+      "$type": "number",
+      "$value": 64
+    },
+    "20": {
+      "$type": "number",
+      "$value": 80
+    },
+    "24": {
+      "$type": "number",
+      "$value": 96
+    },
+    "28": {
+      "$type": "number",
+      "$value": 112
+    },
+    "32": {
+      "$type": "number",
+      "$value": 128
+    },
+    "36": {
+      "$type": "number",
+      "$value": 144
+    },
+    "40": {
+      "$type": "number",
+      "$value": 160
+    },
+    "44": {
+      "$type": "number",
+      "$value": 176
+    },
+    "48": {
+      "$type": "number",
+      "$value": 192
+    },
+    "52": {
+      "$type": "number",
+      "$value": 208
+    },
+    "56": {
+      "$type": "number",
+      "$value": 224
+    },
+    "60": {
+      "$type": "number",
+      "$value": 240
+    },
+    "64": {
+      "$type": "number",
+      "$value": 256
+    },
+    "72": {
+      "$type": "number",
+      "$value": 288
+    },
+    "80": {
+      "$type": "number",
+      "$value": 320
+    },
+    "96": {
+      "$type": "number",
+      "$value": 384
+    },
+    "px": {
+      "$type": "number",
+      "$value": 1
+    },
+    "0,5": {
+      "$type": "number",
+      "$value": 2
+    },
+    "1,5": {
+      "$type": "number",
+      "$value": 6
+    },
+    "2,5": {
+      "$type": "number",
+      "$value": 10
+    },
+    "3,5": {
+      "$type": "number",
+      "$value": 14
     }
   },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "global"
-    ]
+  "border-radius": {
+    "0": {
+      "$type": "number",
+      "$value": 0
+    },
+    "XS": {
+      "$type": "number",
+      "$value": 6
+    },
+    "S": {
+      "$type": "number",
+      "$value": 6
+    },
+    "M": {
+      "$type": "number",
+      "$value": 8
+    },
+    "L": {
+      "$type": "number",
+      "$value": 10
+    },
+    "XL": {
+      "$type": "number",
+      "$value": 12
+    },
+    "Rounded": {
+      "$type": "number",
+      "$value": 320
+    }
   }
 }
