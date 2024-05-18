@@ -1,0 +1,150 @@
+{
+  "primary": {
+    "bg": {
+      "$type": "color",
+      "$value": "{roles.primary.primary}"
+    },
+    "border": {
+      "$type": "color",
+      "$value": "{roles.primary.primary}"
+    },
+    "lowest": {
+      "$type": "color",
+      "$value": "{roles.primary.on-primary-container}"
+    },
+    "default": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{0}"
+      }
+    },
+    "hightest": {
+      "$type": "color",
+      "$value": "{roles.primary.primary-container}"
+    },
+    "hovered": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{20}"
+      }
+    },
+    "focused": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      }
+    },
+    "disabled": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.primary.on-primary}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{80}"
+      }
+    }
+  },
+  "clear": {
+    "bg": {
+      "$type": "color",
+      "$value": "{palettes.transparent}"
+    },
+    "border": {
+      "$type": "color",
+      "$value": "{palettes.transparent}"
+    },
+    "lowest": {
+      "$type": "color",
+      "$value": "{roles.primary.on-primary-container}"
+    },
+    "default": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.surface.on-surface-variant}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{0}"
+      }
+    },
+    "hightest": {
+      "$type": "color",
+      "$value": "{palettes.transparent}"
+    },
+    "hovered": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.surface.on-surface}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{20}"
+      }
+    },
+    "focused": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.surface.on-surface}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      }
+    },
+    "disabled": {
+      "color": {
+        "$type": "color",
+        "$value": "{roles.outline.outline variant}"
+      },
+      "color-oracity": {
+        "$type": "number",
+        "$value": "{100}"
+      },
+      "state-oracity": {
+        "$type": "number",
+        "$value": "{80}"
+      }
+    }
+  }
+}
