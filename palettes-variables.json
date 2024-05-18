@@ -1,5 +1,4 @@
-{
-"Default.Light.tokens":
+Default.Light.tokens.json
 {
   "palettes": {
     "primary": {
@@ -700,9 +699,7 @@
     }
   }
 }
-}
-{
-"Default.Dark.tokens":
+Default.Dark.tokens.json
 {
   "palettes": {
     "primary": {
@@ -1402,5 +1399,4 @@
       }
     }
   }
-}
 }
