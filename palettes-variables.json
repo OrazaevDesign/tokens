@@ -440,6 +440,10 @@
         "black": {
         "$type": "color",
         "$value": "#000000"
+        },
+        "transparent": {
+            "$type": "color",
+            "$value": "rgba(255, 255, 255, 0.0000)"
         }
     },
     "extended": {
@@ -1140,6 +1144,10 @@
         "black": {
         "$type": "color",
         "$value": "#000000"
+        },
+        "transparent": {
+            "$type": "color",
+            "$value": "rgba(255, 255, 255, 0.0000)"
         }
     },
     "extended": {
