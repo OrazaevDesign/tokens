@@ -1,0 +1,2297 @@
+{
+  "global": {},
+  "Font-weight/Light": {
+    "font-weight": {
+      "value": "18.75rem",
+      "type": "dimension",
+      "parent": "Font-weight/Light",
+      "description": ""
+    }
+  },
+  "Font-weight/Regular": {
+    "font-weight": {
+      "value": "25rem",
+      "type": "dimension",
+      "parent": "Font-weight/Regular",
+      "description": ""
+    }
+  },
+  "Font-weight/Semibold": {
+    "font-weight": {
+      "value": "37.5rem",
+      "type": "dimension",
+      "parent": "Font-weight/Semibold",
+      "description": ""
+    }
+  },
+  "Font-weight/Bold": {
+    "font-weight": {
+      "value": "43.75rem",
+      "type": "dimension",
+      "parent": "Font-weight/Bold",
+      "description": ""
+    }
+  },
+  "Control/Value": {
+    "font-size": {
+      "50": {
+        "value": "0.625rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "100": {
+        "value": "0.6875rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "200": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "300": {
+        "value": "0.8125rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "400": {
+        "value": "0.875rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "500": {
+        "value": "0.9375rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "600": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "700": {
+        "value": "1.0625rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "800": {
+        "value": "1.125rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "850": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "900": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "950": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "1000": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      }
+    },
+    "line-height": {
+      "50": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "100": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "200": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "300": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "400": {
+        "value": "1.125rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "500": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "600": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "700": {
+        "value": "1.375rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "800": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "850": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "900": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "950": {
+        "value": "2.25rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "1000": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      }
+    },
+    "letter-spacing": {
+      "50": {
+        "value": "0.05000000074505806rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "100": {
+        "value": "0.05000000074505806rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "200": {
+        "value": "0.02500000037252903rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "300": {
+        "value": "0.02500000037252903rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "400": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "500": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "600": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "700": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "800": {
+        "value": "-0.02500000037252903rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "850": {
+        "value": "-0.05000000074505806rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "900": {
+        "value": "-0.0625rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "950": {
+        "value": "-0.07500000298023224rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "1000": {
+        "value": "-0.10000000149011612rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      }
+    },
+    "paragraph-spacing": {
+      "50": {
+        "value": "0.625rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "100": {
+        "value": "0.6875rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "200": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "300": {
+        "value": "0.8125rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "400": {
+        "value": "0.875rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "500": {
+        "value": "0.9375rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "600": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "700": {
+        "value": "1.0625rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "800": {
+        "value": "1.125rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "850": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "900": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "950": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      },
+      "1000": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "Control/Value",
+        "description": ""
+      }
+    }
+  },
+  "Typography/Desktop": {
+    "body": {
+      "font-size": {
+        "50": {
+          "value": "0.625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "100": {
+          "value": "0.6875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "200": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "300": {
+          "value": "0.8125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "400": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "500": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "600": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "700": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "800": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "900": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "50": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "100": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "200": {
+          "value": "0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "300": {
+          "value": "0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "400": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "500": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "600": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "700": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "800": {
+          "value": "-0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "900": {
+          "value": "-0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "50": {
+          "value": "0.625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "100": {
+          "value": "0.6875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "200": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "300": {
+          "value": "0.8125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "400": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "500": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "600": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "700": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "800": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "900": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "50": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "100": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "200": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "300": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "400": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "500": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "600": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "700": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "800": {
+          "value": "1.625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "900": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      }
+    },
+    "title": {
+      "font-size": {
+        "t1": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t2": {
+          "value": "2.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "t1": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t2": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t3": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "t1": {
+          "value": "-0.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t2": {
+          "value": "-0.10000000149011612rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t3": {
+          "value": "-0.07500000298023224rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t4": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t5": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "t1": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t2": {
+          "value": "2.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      }
+    },
+    "heading": {
+      "font-size": {
+        "h1": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h4": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h5": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "h1": {
+          "value": "2.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h4": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h5": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "h1": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h2": {
+          "value": "-0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h3": {
+          "value": "-0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h4": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h5": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "h1": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h4": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "h5": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      }
+    },
+    "display": {
+      "font-size": {
+        "d1": {
+          "value": "4.375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d2": {
+          "value": "4rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d3": {
+          "value": "3.625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d4": {
+          "value": "3.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d5": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "d1": {
+          "value": "5.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d2": {
+          "value": "4.75rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d3": {
+          "value": "4.375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d4": {
+          "value": "3.875rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d5": {
+          "value": "3.625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "d1": {
+          "value": "-0.125rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d2": {
+          "value": "-0.16249999403953552rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d3": {
+          "value": "-0.07500000298023224rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d4": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d5": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "d1": {
+          "value": "4.375rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d2": {
+          "value": "4rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d3": {
+          "value": "3.625rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d4": {
+          "value": "3.25rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        },
+        "d5": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Desktop",
+          "description": ""
+        }
+      }
+    }
+  },
+  "Typography/Tablet": {
+    "body": {
+      "font-size": {
+        "50": {
+          "value": "0.625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "100": {
+          "value": "0.6875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "200": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "300": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "400": {
+          "value": "0.8125rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "500": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "600": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "700": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "800": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "900": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "50": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "100": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "200": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "300": {
+          "value": "0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "400": {
+          "value": "0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "500": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "600": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "700": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "800": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "900": {
+          "value": "-0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "50": {
+          "value": "0.625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "100": {
+          "value": "0.6875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "200": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "300": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "400": {
+          "value": "0.8125rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "500": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "600": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "700": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "800": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "900": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "50": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "100": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "200": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "300": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "400": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "500": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "600": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "700": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "800": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "900": {
+          "value": "1.625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      }
+    },
+    "title": {
+      "font-size": {
+        "t1": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t2": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "t1": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t2": {
+          "value": "2.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "t1": {
+          "value": "-0.125rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t2": {
+          "value": "-0.10000000149011612rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t3": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t4": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t5": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "t1": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t2": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      }
+    },
+    "heading": {
+      "font-size": {
+        "h1": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h4": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h5": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "h1": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h4": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h5": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "h1": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h2": {
+          "value": "-0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h3": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h4": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h5": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "h1": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h4": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "h5": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      }
+    },
+    "display": {
+      "font-size": {
+        "d1": {
+          "value": "4rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d2": {
+          "value": "3.625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d3": {
+          "value": "3.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d4": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d5": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "d1": {
+          "value": "4.75rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d2": {
+          "value": "4.375rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d3": {
+          "value": "3.875rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d4": {
+          "value": "3.625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d5": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "d1": {
+          "value": "-0.125rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d2": {
+          "value": "-0.10000000149011612rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d3": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d4": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d5": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "d1": {
+          "value": "4rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d2": {
+          "value": "3.625rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d3": {
+          "value": "3.25rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d4": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        },
+        "d5": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Tablet",
+          "description": ""
+        }
+      }
+    }
+  },
+  "Typography/Mobile": {
+    "body": {
+      "font-size": {
+        "50": {
+          "value": "0.625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "100": {
+          "value": "0.6875rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "200": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "300": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "400": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "500": {
+          "value": "0.8125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "600": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "700": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "800": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "900": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "50": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "100": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "200": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "300": {
+          "value": "0.05000000074505806rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "400": {
+          "value": "0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "500": {
+          "value": "0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "600": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "700": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "800": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "900": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "50": {
+          "value": "0.625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "100": {
+          "value": "0.6875rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "200": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "300": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "400": {
+          "value": "0.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "500": {
+          "value": "0.8125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "600": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "700": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "800": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "900": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "50": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "100": {
+          "value": "0.9624999761581421rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "200": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "300": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "400": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "500": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "600": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "700": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "800": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "900": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      }
+    },
+    "title": {
+      "font-size": {
+        "t1": {
+          "value": "2.125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t2": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "t1": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t2": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "t1": {
+          "value": "-0.10000000149011612rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t2": {
+          "value": "-0.07500000298023224rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t3": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t4": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t5": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "t1": {
+          "value": "2.125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t2": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t3": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t4": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "t5": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      }
+    },
+    "heading": {
+      "font-size": {
+        "h1": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h4": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h5": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "h1": {
+          "value": "1.5rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.375rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h4": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h5": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "h1": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h2": {
+          "value": "-0.02500000037252903rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h3": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h4": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h5": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "h1": {
+          "value": "1.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h2": {
+          "value": "1.125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h3": {
+          "value": "1.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h4": {
+          "value": "1rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "h5": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      }
+    },
+    "display": {
+      "font-size": {
+        "d1": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d2": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d3": {
+          "value": "2.125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d4": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d5": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "line-height": {
+        "d1": {
+          "value": "3.625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d2": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d3": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d4": {
+          "value": "2.25rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d5": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "letter-spacing": {
+        "d1": {
+          "value": "-0.10000000149011612rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d2": {
+          "value": "-0.07500000298023224rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d3": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d4": {
+          "value": "-0.0625rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d5": {
+          "value": "0rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      },
+      "paragraph-spacing": {
+        "d1": {
+          "value": "3rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d2": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d3": {
+          "value": "2.125rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d4": {
+          "value": "2rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        },
+        "d5": {
+          "value": "1.75rem",
+          "type": "dimension",
+          "parent": "Typography/Mobile",
+          "description": ""
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Font-weight/Light",
+      "Font-weight/Regular",
+      "Font-weight/Semibold",
+      "Font-weight/Bold",
+      "Control/Value",
+      "Typography/Desktop",
+      "Typography/Tablet",
+      "Typography/Mobile"
+    ]
+  }
+}
