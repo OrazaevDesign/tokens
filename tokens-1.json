@@ -9218,15 +9218,15 @@
           "type": "color"
         },
         "active-bg": {
-          "value": "$palette.surface.high-inverted",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "active-border": {
-          "value": "$palette.surface.high-inverted",
+          "value": "$palette.primary.600",
           "type": "color"
         },
         "active-color": {
-          "value": "$palette.on-surface.inverted",
+          "value": "$palette.on-surface.default",
           "type": "color"
         },
         "progress-bg": {
