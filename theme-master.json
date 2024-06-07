@@ -9,60 +9,60 @@
           "description": ""
         },
         "5": {
-          "value": "#1c0500",
+          "value": "#19110a",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#100515"
+          "oldValue": "#1c0500"
         },
         "10": {
-          "value": "#391100",
+          "value": "#322414",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#1e0b2a"
+          "oldValue": "#391100"
         },
         "15": {
-          "value": "#552304",
+          "value": "#4d381d",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#2c103f"
+          "oldValue": "#552304"
         },
         "20": {
-          "value": "#713909",
+          "value": "#674d25",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#391654"
+          "oldValue": "#713909"
         },
         "25": {
-          "value": "#935610",
+          "value": "#83632d",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#441b69"
+          "oldValue": "#935610"
         },
         "30": {
-          "value": "#b87819",
+          "value": "#9f7b34",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#4f217e"
+          "oldValue": "#b87819"
         },
         "35": {
-          "value": "#cf9220",
+          "value": "#bb953b",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#592693"
+          "oldValue": "#cf9220"
         },
         "40": {
-          "value": "#f2bf40",
+          "value": "#ebbf47",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#612ca8"
+          "oldValue": "#f2bf40"
         },
         "50": {
           "value": "#f6ce46",
@@ -100,32 +100,32 @@
           "oldValue": "#b99fe0"
         },
         "85": {
-          "value": "#f9e8af",
+          "value": "#f9eab8",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#d5c5ed"
+          "oldValue": "#f9e8af"
         },
         "90": {
-          "value": "#faeec3",
+          "value": "#fbefcb",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#e3d8f3"
+          "oldValue": "#faeec3"
         },
         "95": {
-          "value": "#fbf3d7",
+          "value": "#fcf6e4",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#f1ecf9"
+          "oldValue": "#fbf3d7"
         },
         "99": {
-          "value": "#fdf9eb",
+          "value": "#fefcf5",
           "type": "color",
           "parent": "Palettes/Value",
           "description": "",
-          "oldValue": "#f9f6fe"
+          "oldValue": "#fdf9eb"
         },
         "100": {
           "value": "#ffffff",
