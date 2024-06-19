@@ -215,6 +215,36 @@
   },
   "Corners/None": {
     "border-radius": {
+      "200": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "300": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "400": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "500": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "600": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
       "XS": {
         "value": "0rem",
         "type": "dimension",
@@ -250,9 +280,45 @@
         "type": "dimension",
         "parent": "Corners/None",
         "description": ""
+      },
+      "none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
       }
     },
     "outline": {
+      "200": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "300": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "400": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "500": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "600": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
       "XS": {
         "value": "0rem",
         "type": "dimension",
@@ -278,6 +344,56 @@
         "description": ""
       },
       "XL": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "rounded": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      }
+    },
+    "conteiner-4": {
+      "200": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "300": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "400": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "500": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "600": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/None",
+        "description": ""
+      },
+      "none": {
         "value": "0rem",
         "type": "dimension",
         "parent": "Corners/None",
@@ -293,6 +409,36 @@
   },
   "Corners/Smooth": {
     "border-radius": {
+      "200": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "300": {
+        "value": "0.375rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "400": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "500": {
+        "value": "0.625rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "600": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
       "XS": {
         "value": "0.25rem",
         "type": "dimension",
@@ -328,9 +474,45 @@
         "type": "dimension",
         "parent": "Corners/Smooth",
         "description": ""
+      },
+      "none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
       }
     },
     "outline": {
+      "200": {
+        "value": "0.3125rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "300": {
+        "value": "0.4375rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "400": {
+        "value": "0.5625rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "500": {
+        "value": "0.6875rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "600": {
+        "value": "0.8125rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
       "XS": {
         "value": "0.3125rem",
         "type": "dimension",
@@ -366,11 +548,91 @@
         "type": "dimension",
         "parent": "Corners/Smooth",
         "description": ""
+      },
+      "none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      }
+    },
+    "conteiner-4": {
+      "200": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "300": {
+        "value": "0.625rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "400": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "500": {
+        "value": "0.875rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "600": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
+      },
+      "rounded": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Smooth",
+        "description": ""
       }
     }
   },
   "Corners/Rounded": {
     "border-radius": {
+      "200": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "300": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "400": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "500": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "600": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
       "XS": {
         "value": "37.5rem",
         "type": "dimension",
@@ -406,9 +668,45 @@
         "type": "dimension",
         "parent": "Corners/Rounded",
         "description": ""
+      },
+      "none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
       }
     },
     "outline": {
+      "200": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "300": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "400": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "500": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "600": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
       "XS": {
         "value": "37.5rem",
         "type": "dimension",
@@ -435,6 +733,56 @@
       },
       "XL": {
         "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "rounded": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "none": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      }
+    },
+    "conteiner-4": {
+      "200": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "300": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "400": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "500": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "600": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "Corners/Rounded",
+        "description": ""
+      },
+      "none": {
+        "value": "0rem",
         "type": "dimension",
         "parent": "Corners/Rounded",
         "description": ""
