@@ -1,6 +1,6 @@
 {
   "Spacing/Mode 1": {
-    "gap": {
+    "scale": {
       "0": {
         "value": "0rem",
         "type": "dimension",
