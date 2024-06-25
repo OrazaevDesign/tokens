@@ -5729,6 +5729,12 @@
           "type": "dimension",
           "parent": "Size/Default",
           "description": ""
+        },
+        "typography": {
+          "value": "{control.300}",
+          "type": "dimension",
+          "parent": "Size/Default",
+          "description": ""
         }
       },
       "300": {
@@ -5746,6 +5752,12 @@
         },
         "icon": {
           "value": "{scale.5}",
+          "type": "dimension",
+          "parent": "Size/Default",
+          "description": ""
+        },
+        "typography": {
+          "value": "{control.400}",
           "type": "dimension",
           "parent": "Size/Default",
           "description": ""
@@ -5769,6 +5781,12 @@
           "type": "dimension",
           "parent": "Size/Default",
           "description": ""
+        },
+        "typography": {
+          "value": "{control.600}",
+          "type": "dimension",
+          "parent": "Size/Default",
+          "description": ""
         }
       },
       "500": {
@@ -5789,6 +5807,12 @@
           "type": "dimension",
           "parent": "Size/Default",
           "description": ""
+        },
+        "typography": {
+          "value": "{control.800}",
+          "type": "dimension",
+          "parent": "Size/Default",
+          "description": ""
         }
       },
       "600": {
@@ -5806,6 +5830,12 @@
         },
         "icon": {
           "value": "{scale.7}",
+          "type": "dimension",
+          "parent": "Size/Default",
+          "description": ""
+        },
+        "typography": {
+          "value": "{control.850}",
           "type": "dimension",
           "parent": "Size/Default",
           "description": ""
