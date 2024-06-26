@@ -312,16 +312,18 @@
         "description": ""
       },
       "blur-radius": {
-        "value": "0.5rem",
+        "value": "0.25rem",
         "type": "dimension",
         "parent": "Shadow/elevation-2",
-        "description": ""
+        "description": "",
+        "oldValue": "0.5rem"
       },
       "spread-radius": {
-        "value": "-0.5rem",
+        "value": "-0.125rem",
         "type": "dimension",
         "parent": "Shadow/elevation-2",
-        "description": ""
+        "description": "",
+        "oldValue": "-0.5rem"
       }
     }
   },
@@ -410,16 +412,18 @@
         "description": ""
       },
       "blur-radius": {
-        "value": "0.75rem",
+        "value": "0.375rem",
         "type": "dimension",
         "parent": "Shadow/elevation-3",
-        "description": ""
+        "description": "",
+        "oldValue": "0.75rem"
       },
       "spread-radius": {
-        "value": "-0.75rem",
+        "value": "-0.25rem",
         "type": "dimension",
         "parent": "Shadow/elevation-3",
-        "description": ""
+        "description": "",
+        "oldValue": "-0.75rem"
       }
     }
   },
@@ -508,16 +512,18 @@
         "description": ""
       },
       "blur-radius": {
-        "value": "1rem",
+        "value": "0.5rem",
         "type": "dimension",
         "parent": "Shadow/elevation-4",
-        "description": ""
+        "description": "",
+        "oldValue": "1rem"
       },
       "spread-radius": {
-        "value": "-1rem",
+        "value": "-0.375rem",
         "type": "dimension",
         "parent": "Shadow/elevation-4",
-        "description": ""
+        "description": "",
+        "oldValue": "-1rem"
       }
     }
   },
