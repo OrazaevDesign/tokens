@@ -2716,7 +2716,7 @@
       }
     },
     "check-radio": {
-      "selecded": {
+      "selected": {
         "bg": {
           "value": "{role.primary.core}",
           "type": "color",
@@ -2754,7 +2754,15 @@
           "description": ""
         }
       },
-      "unselecded": {
+      "selecded": {
+        "handle-opacity": {
+          "value": "{opacity.70}",
+          "type": "dimension",
+          "parent": "State/Rest",
+          "description": ""
+        }
+      },
+      "unselected": {
         "bg": {
           "value": "{role.secondary.container.core}",
           "type": "color",
@@ -2785,6 +2793,14 @@
           "parent": "State/Rest",
           "description": ""
         },
+        "handle-opacity": {
+          "value": "{opacity.70}",
+          "type": "dimension",
+          "parent": "State/Rest",
+          "description": ""
+        }
+      },
+      "unselecded": {
         "handle-opacity": {
           "value": "{opacity.70}",
           "type": "dimension",
@@ -3572,7 +3588,7 @@
       }
     },
     "check-radio": {
-      "selecded": {
+      "selected": {
         "bg": {
           "value": "{role.primary.dim}",
           "type": "color",
@@ -3610,7 +3626,15 @@
           "description": ""
         }
       },
-      "unselecded": {
+      "selecded": {
+        "handle-opacity": {
+          "value": "{opacity.90}",
+          "type": "dimension",
+          "parent": "State/Hovered",
+          "description": ""
+        }
+      },
+      "unselected": {
         "bg": {
           "value": "{role.secondary.container.dim}",
           "type": "color",
@@ -3641,6 +3665,14 @@
           "parent": "State/Hovered",
           "description": ""
         },
+        "handle-opacity": {
+          "value": "{opacity.90}",
+          "type": "dimension",
+          "parent": "State/Hovered",
+          "description": ""
+        }
+      },
+      "unselecded": {
         "handle-opacity": {
           "value": "{opacity.90}",
           "type": "dimension",
@@ -4427,7 +4459,7 @@
       }
     },
     "check-radio": {
-      "selecded": {
+      "selected": {
         "bg": {
           "value": "{role.primary.core}",
           "type": "color",
@@ -4465,7 +4497,15 @@
           "description": ""
         }
       },
-      "unselecded": {
+      "selecded": {
+        "handle-opacity": {
+          "value": "{opacity.90}",
+          "type": "dimension",
+          "parent": "State/Focused",
+          "description": ""
+        }
+      },
+      "unselected": {
         "bg": {
           "value": "{role.secondary.container.core}",
           "type": "color",
@@ -4496,6 +4536,14 @@
           "parent": "State/Focused",
           "description": ""
         },
+        "handle-opacity": {
+          "value": "{opacity.90}",
+          "type": "dimension",
+          "parent": "State/Focused",
+          "description": ""
+        }
+      },
+      "unselecded": {
         "handle-opacity": {
           "value": "{opacity.90}",
           "type": "dimension",
@@ -5283,7 +5331,7 @@
       }
     },
     "check-radio": {
-      "selecded": {
+      "selected": {
         "bg": {
           "value": "{role.primary.core}",
           "type": "color",
@@ -5321,7 +5369,15 @@
           "description": ""
         }
       },
-      "unselecded": {
+      "selecded": {
+        "handle-opacity": {
+          "value": "{opacity.70}",
+          "type": "dimension",
+          "parent": "State/Disabled",
+          "description": ""
+        }
+      },
+      "unselected": {
         "bg": {
           "value": "{role.secondary.container.core}",
           "type": "color",
@@ -5352,6 +5408,14 @@
           "parent": "State/Disabled",
           "description": ""
         },
+        "handle-opacity": {
+          "value": "{opacity.70}",
+          "type": "dimension",
+          "parent": "State/Disabled",
+          "description": ""
+        }
+      },
+      "unselecded": {
         "handle-opacity": {
           "value": "{opacity.70}",
           "type": "dimension",
