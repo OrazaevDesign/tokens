@@ -553,84 +553,6 @@
     }
   },
   "Breakpoints/Tablet": {
-    "gap-x": {
-      "value": "1rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "card-min": {
-      "value": "10.125rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "card-max": {
-      "value": "90rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "padding": {
-      "value": "1rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "gap-y": {
-      "value": "1.5rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-3-min": {
-      "value": "21.25rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-3-max": {
-      "value": "29.625rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-2-min": {
-      "value": "21.25rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-2-max": {
-      "value": "45rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-4-min": {
-      "value": "10.125rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-4-max": {
-      "value": "24.25rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-1-max": {
-      "value": "90rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
-    "ban-1-min": {
-      "value": "24.875rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Tablet",
-      "description": ""
-    },
     "market": {
       "gap-x": {
         "value": "1rem",
@@ -782,84 +704,6 @@
     }
   },
   "Breakpoints/Mobile": {
-    "gap-x": {
-      "value": "1rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "card-min": {
-      "value": "8rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "card-max": {
-      "value": "90rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "padding": {
-      "value": "1rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "gap-y": {
-      "value": "1.5rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-3-min": {
-      "value": "17rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-3-max": {
-      "value": "29.625rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-2-min": {
-      "value": "17rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-2-max": {
-      "value": "45rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-4-min": {
-      "value": "8rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-4-max": {
-      "value": "24.25rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-1-max": {
-      "value": "90rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
-    "ban-1-min": {
-      "value": "18rem",
-      "type": "dimension",
-      "parent": "Brackpoint/Mobile",
-      "description": ""
-    },
     "market": {
       "gap-x": {
         "value": "1rem",
@@ -1929,19 +1773,6 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:1",
       "$figmaVariableReferences": {
-        "gap-x": "fa91e2a8ee5cde45935ec4f5e3b110925ba74c36",
-        "card-min": "73a1c991bec2692d5203db161f31de1060bce487",
-        "card-max": "7d29ed01d6d46a6f48903e6083fce297d999b365",
-        "padding": "2b504e9db81cf2b6f7254f03ff879f421f417bcc",
-        "gap-y": "76e092dcd5578f392ea26fe3492fe204edf5125c",
-        "ban-3-min": "02424a77577118205e42c5ac9bbcc0043742df73",
-        "ban-3-max": "3b1fec5d466b5070c4a6948e95c0fbfa7090eb37",
-        "ban-2-min": "d22be61038c80cb2fb6b9038162a11ad028bcee6",
-        "ban-2-max": "86c409c6191ace698cd8e9aeb172731ae2585fac",
-        "ban-4-min": "dfd95f4703c34d8b4390f3a090de561446c6a670",
-        "ban-4-max": "eb2f4bfadfa305fd3735a6731279ebdd5276ec6e",
-        "ban-1-max": "0fa3607a31522c0b22a275911852a500fcb1f91a",
-        "ban-1-min": "bf6a035192cddf8e09237f38218e7c0e9811f320",
         "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
         "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
         "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
@@ -1977,19 +1808,6 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:2",
       "$figmaVariableReferences": {
-        "gap-x": "fa91e2a8ee5cde45935ec4f5e3b110925ba74c36",
-        "card-min": "73a1c991bec2692d5203db161f31de1060bce487",
-        "card-max": "7d29ed01d6d46a6f48903e6083fce297d999b365",
-        "padding": "2b504e9db81cf2b6f7254f03ff879f421f417bcc",
-        "gap-y": "76e092dcd5578f392ea26fe3492fe204edf5125c",
-        "ban-3-min": "02424a77577118205e42c5ac9bbcc0043742df73",
-        "ban-3-max": "3b1fec5d466b5070c4a6948e95c0fbfa7090eb37",
-        "ban-2-min": "d22be61038c80cb2fb6b9038162a11ad028bcee6",
-        "ban-2-max": "86c409c6191ace698cd8e9aeb172731ae2585fac",
-        "ban-4-min": "dfd95f4703c34d8b4390f3a090de561446c6a670",
-        "ban-4-max": "eb2f4bfadfa305fd3735a6731279ebdd5276ec6e",
-        "ban-1-max": "0fa3607a31522c0b22a275911852a500fcb1f91a",
-        "ban-1-min": "bf6a035192cddf8e09237f38218e7c0e9811f320",
         "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
         "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
         "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
