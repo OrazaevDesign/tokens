@@ -3107,13 +3107,13 @@
           "description": ""
         },
         "color": {
-          "value": "{role.primary.on-dim}",
+          "value": "{role.primary.on}",
           "type": "color",
           "parent": "State/Rest",
           "description": ""
         },
         "chevrone": {
-          "value": "{role.primary.on-dim}",
+          "value": "{role.primary.on}",
           "type": "color",
           "parent": "State/Rest",
           "description": ""
@@ -3133,7 +3133,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Rest",
           "description": ""
@@ -3144,27 +3144,23 @@
           "parent": "State/Rest",
           "description": ""
         }
-      },
-      "expanded": {
-        "opacity": {
-          "value": "{opacity.90}",
-          "type": "dimension",
-          "parent": "State/Rest",
-          "description": ""
-        }
-      },
-      "hidden": {
-        "opacity": {
-          "value": "{opacity.50}",
-          "type": "dimension",
-          "parent": "State/Rest",
-          "description": ""
-        }
       }
     },
     "opacity": {
       "disabled-color": {
         "value": "{opacity.100}",
+        "type": "dimension",
+        "parent": "State/Rest",
+        "description": ""
+      },
+      "chevrone-expanded": {
+        "value": "{opacity.100}",
+        "type": "dimension",
+        "parent": "State/Rest",
+        "description": ""
+      },
+      "chevrone": {
+        "value": "{opacity.50}",
         "type": "dimension",
         "parent": "State/Rest",
         "description": ""
@@ -3929,7 +3925,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.primary.on-dim}",
+          "value": "{role.primary.on}",
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
@@ -3960,27 +3956,23 @@
           "parent": "State/Hovered",
           "description": ""
         }
-      },
-      "expanded": {
-        "opacity": {
-          "value": "{opacity.90}",
-          "type": "dimension",
-          "parent": "State/Hovered",
-          "description": ""
-        }
-      },
-      "hidden": {
-        "opacity": {
-          "value": "{opacity.90}",
-          "type": "dimension",
-          "parent": "State/Hovered",
-          "description": ""
-        }
       }
     },
     "opacity": {
       "disabled-color": {
         "value": "{opacity.100}",
+        "type": "dimension",
+        "parent": "State/Hovered",
+        "description": ""
+      },
+      "chevrone-expanded": {
+        "value": "{opacity.100}",
+        "type": "dimension",
+        "parent": "State/Hovered",
+        "description": ""
+      },
+      "chevrone": {
+        "value": "{opacity.50}",
         "type": "dimension",
         "parent": "State/Hovered",
         "description": ""
@@ -4053,7 +4045,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4465,7 +4457,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4561,7 +4553,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4649,7 +4641,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4703,7 +4695,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.primary.container.on-lowest}",
+          "value": "{role.primary.container.on}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4717,7 +4709,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4739,13 +4731,13 @@
           "description": ""
         },
         "color": {
-          "value": "{role.primary.on-dim}",
+          "value": "{role.primary.on}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
         },
         "chevrone": {
-          "value": "{role.primary.on-dim}",
+          "value": "{role.primary.on}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4765,7 +4757,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4776,27 +4768,23 @@
           "parent": "State/Focused",
           "description": ""
         }
-      },
-      "expanded": {
-        "opacity": {
-          "value": "{opacity.90}",
-          "type": "dimension",
-          "parent": "State/Focused",
-          "description": ""
-        }
-      },
-      "hidden": {
-        "opacity": {
-          "value": "{opacity.50}",
-          "type": "dimension",
-          "parent": "State/Focused",
-          "description": ""
-        }
       }
     },
     "opacity": {
       "disabled-color": {
         "value": "{opacity.100}",
+        "type": "dimension",
+        "parent": "State/Focused",
+        "description": ""
+      },
+      "chevrone-expanded": {
+        "value": "{opacity.100}",
+        "type": "dimension",
+        "parent": "State/Focused",
+        "description": ""
+      },
+      "chevrone": {
+        "value": "{opacity.50}",
         "type": "dimension",
         "parent": "State/Focused",
         "description": ""
@@ -5555,13 +5543,13 @@
           "description": ""
         },
         "color": {
-          "value": "{role.primary.on-dim}",
+          "value": "{role.primary.on}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
         },
         "chevrone": {
-          "value": "{role.primary.on-dim}",
+          "value": "{role.primary.on}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
@@ -5581,7 +5569,7 @@
           "description": ""
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
@@ -5592,27 +5580,23 @@
           "parent": "State/Disabled",
           "description": ""
         }
-      },
-      "expanded": {
-        "opacity": {
-          "value": "{opacity.90}",
-          "type": "dimension",
-          "parent": "State/Disabled",
-          "description": ""
-        }
-      },
-      "hidden": {
-        "opacity": {
-          "value": "{opacity.50}",
-          "type": "dimension",
-          "parent": "State/Disabled",
-          "description": ""
-        }
       }
     },
     "opacity": {
       "disabled-color": {
         "value": "{opacity.40}",
+        "type": "dimension",
+        "parent": "State/Disabled",
+        "description": ""
+      },
+      "chevrone-expanded": {
+        "value": "{opacity.100}",
+        "type": "dimension",
+        "parent": "State/Disabled",
+        "description": ""
+      },
+      "chevrone": {
+        "value": "{opacity.50}",
         "type": "dimension",
         "parent": "State/Disabled",
         "description": ""
