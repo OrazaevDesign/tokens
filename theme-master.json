@@ -3183,6 +3183,10 @@
         "parent": "State/Rest",
         "description": ""
       }
+    },
+    "disabled-color": {
+      "value": "50",
+      "type": "opacity"
     }
   },
   "State/Hovered": {
