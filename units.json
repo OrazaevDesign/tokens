@@ -484,6 +484,12 @@
           "parent": "Brackpoint/Desktop",
           "description": ""
         }
+      },
+      "layout": {
+        "value": "93rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Desktop",
+        "description": ""
       }
     },
     "cms": {
@@ -549,6 +555,12 @@
           "description": "",
           "oldValue": "21.5rem"
         }
+      },
+      "layout": {
+        "value": "93rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Desktop",
+        "description": ""
       }
     }
   },
@@ -635,6 +647,12 @@
           "parent": "Brackpoint/Tablet",
           "description": ""
         }
+      },
+      "layout": {
+        "value": "64rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Tablet",
+        "description": ""
       }
     },
     "cms": {
@@ -700,6 +718,12 @@
           "description": "",
           "oldValue": "21.5rem"
         }
+      },
+      "layout": {
+        "value": "64rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Tablet",
+        "description": ""
       }
     }
   },
@@ -786,6 +810,12 @@
           "parent": "Brackpoint/Mobile",
           "description": ""
         }
+      },
+      "layout": {
+        "value": "26.875rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Mobile",
+        "description": ""
       }
     },
     "cms": {
@@ -850,6 +880,12 @@
           "description": "",
           "oldValue": "21.5rem"
         }
+      },
+      "layout": {
+        "value": "26.875rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Mobile",
+        "description": ""
       }
     }
   },
@@ -1941,7 +1977,6 @@
       "selectedTokenSets": {
         "Space/Value": "enabled"
       },
-      "group": "Space",
       "$figmaCollectionId": "VariableCollectionId:122:54",
       "$figmaModeId": "122:3",
       "$figmaVariableReferences": {
@@ -1980,7 +2015,8 @@
         "space.1,5": "0cd65e6100335d3171ae0d776d24206f021c1a59",
         "space.2,5": "1bb7f2b635484c65e027e4ec806fb9c8a7718cbf",
         "space.3,5": "bd0407ed49f853137e942f8b6ea73c3c36bace8c"
-      }
+      },
+      "group": "Space"
     },
     {
       "id": "2d071a8d36c10a7b353677e37f58867f79970b39",
@@ -1989,7 +2025,6 @@
       "selectedTokenSets": {
         "Opacity/Value": "enabled"
       },
-      "group": "Opacity",
       "$figmaCollectionId": "VariableCollectionId:140:34",
       "$figmaModeId": "140:3",
       "$figmaVariableReferences": {
@@ -2014,7 +2049,8 @@
         "opacity.85": "10de70ca9bfbf2457c8f5c3fe9370f1ee3e2d46d",
         "opacity.95": "725a209ab94b32e81991af2cfab9f04792014375",
         "opacity.100": "c4d6496f36134de239dcbd042adcc7161abf3e2d"
-      }
+      },
+      "group": "Opacity"
     }
   ],
   "$metadata": {
