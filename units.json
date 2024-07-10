@@ -558,17 +558,12 @@
           "oldValue": "20rem"
         }
       },
-      "layout": {
-        "value": "93rem",
-        "type": "dimension",
-        "parent": "Breakpoints/Desktop",
-        "description": ""
-      },
       "grid": {
-        "value": "93rem",
+        "value": "90rem",
         "type": "dimension",
         "parent": "Breakpoints/Desktop",
-        "description": ""
+        "description": "",
+        "oldValue": "93rem"
       }
     }
   },
@@ -730,12 +725,6 @@
           "description": "",
           "oldValue": "20rem"
         }
-      },
-      "layout": {
-        "value": "64rem",
-        "type": "dimension",
-        "parent": "Breakpoints/Tablet",
-        "description": ""
       },
       "grid": {
         "value": "63.5rem",
@@ -901,12 +890,6 @@
           "description": "",
           "oldValue": "20rem"
         }
-      },
-      "layout": {
-        "value": "26.875rem",
-        "type": "dimension",
-        "parent": "Breakpoints/Mobile",
-        "description": ""
       },
       "grid": {
         "value": "93rem",
