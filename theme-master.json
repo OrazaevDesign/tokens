@@ -6316,6 +6316,15 @@
         "Size/Default": "enabled"
       },
       "group": "Size"
+    },
+    {
+      "id": "7b52b11aec5b966419e61748eaac81452eade502",
+      "name": "Value",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "Palettes/Value": "enabled"
+      },
+      "group": "Palettes"
     }
   ],
   "$metadata": {
