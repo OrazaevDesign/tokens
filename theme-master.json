@@ -202,8 +202,14 @@
           "parent": "Roles/Light",
           "description": ""
         },
-        "on-accent": {
+        "on-hover": {
           "value": "{palette.tertiary.25}",
+          "type": "color",
+          "parent": "Roles/Light",
+          "description": ""
+        },
+        "on-accent": {
+          "value": "{palette.error.50}",
           "type": "color",
           "parent": "Roles/Light",
           "description": ""
@@ -914,8 +920,14 @@
           "parent": "Roles/Dark",
           "description": ""
         },
-        "on-accent": {
+        "on-hover": {
           "value": "{palette.tertiary.85}",
+          "type": "color",
+          "parent": "Roles/Dark",
+          "description": ""
+        },
+        "on-accent": {
+          "value": "{palette.error.65}",
           "type": "color",
           "parent": "Roles/Dark",
           "description": ""
@@ -2371,6 +2383,12 @@
           "description": ""
         }
       }
+    },
+    "Space": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "parent": "Palettes/Value",
+      "description": ""
     }
   },
   "State/Rest": {
@@ -2583,6 +2601,12 @@
           "type": "color",
           "parent": "State/Rest",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
         }
       },
       "success": {
@@ -2612,6 +2636,12 @@
         },
         "icon": {
           "value": "{role.success.container.on-high}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.success.container.on-highest}",
           "type": "color",
           "parent": "State/Rest",
           "description": ""
@@ -2647,6 +2677,12 @@
           "type": "color",
           "parent": "State/Rest",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.error.container.on-highest}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
         }
       },
       "light": {
@@ -2679,6 +2715,12 @@
           "type": "color",
           "parent": "State/Rest",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
         }
       },
       "ghost": {
@@ -2708,6 +2750,12 @@
         },
         "icon": {
           "value": "{role.secondary.container.on-high}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
           "type": "color",
           "parent": "State/Rest",
           "description": ""
@@ -3055,7 +3103,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Rest",
           "description": ""
@@ -3075,6 +3123,12 @@
           "type": "color",
           "parent": "State/Rest",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.primary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
         }
       },
       "unselected": {
@@ -3086,6 +3140,12 @@
         },
         "color": {
           "value": "{role.surface.on}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Rest",
           "description": ""
@@ -3154,13 +3214,13 @@
         "description": ""
       },
       "chevrone-expanded": {
-        "value": "{opacity.100}",
+        "value": "{opacity.90}",
         "type": "dimension",
         "parent": "State/Rest",
         "description": ""
       },
       "chevrone": {
-        "value": "{opacity.50}",
+        "value": "{opacity.30}",
         "type": "dimension",
         "parent": "State/Rest",
         "description": ""
@@ -3183,10 +3243,6 @@
         "parent": "State/Rest",
         "description": ""
       }
-    },
-    "disabled-color": {
-      "value": "50",
-      "type": "opacity"
     }
   },
   "State/Hovered": {
@@ -3399,6 +3455,12 @@
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Hovered",
+          "description": ""
         }
       },
       "success": {
@@ -3428,6 +3490,12 @@
         },
         "icon": {
           "value": "{role.success.container.on-high}",
+          "type": "color",
+          "parent": "State/Hovered",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.success.container.on-highest}",
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
@@ -3463,6 +3531,12 @@
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.error.container.on-highest}",
+          "type": "color",
+          "parent": "State/Hovered",
+          "description": ""
         }
       },
       "light": {
@@ -3495,6 +3569,12 @@
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Hovered",
+          "description": ""
         }
       },
       "ghost": {
@@ -3524,6 +3604,12 @@
         },
         "icon": {
           "value": "{role.secondary.container.on-high}",
+          "type": "color",
+          "parent": "State/Hovered",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
@@ -3845,7 +3931,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
@@ -3871,7 +3957,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
@@ -3891,6 +3977,12 @@
           "type": "color",
           "parent": "State/Hovered",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.primary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Hovered",
+          "description": ""
         }
       },
       "unselected": {
@@ -3901,6 +3993,12 @@
           "description": ""
         },
         "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color",
+          "parent": "State/Hovered",
+          "description": ""
+        },
+        "chevrone": {
           "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Hovered",
@@ -3970,13 +4068,13 @@
         "description": ""
       },
       "chevrone-expanded": {
-        "value": "{opacity.100}",
+        "value": "{opacity.90}",
         "type": "dimension",
         "parent": "State/Hovered",
         "description": ""
       },
       "chevrone": {
-        "value": "{opacity.50}",
+        "value": "{opacity.60}",
         "type": "dimension",
         "parent": "State/Hovered",
         "description": ""
@@ -4207,7 +4305,13 @@
           "description": ""
         },
         "icon": {
-          "value": "{role.primary.dim}",
+          "value": "{role.secondary.container.on-high}",
+          "type": "color",
+          "parent": "State/Focused",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4239,7 +4343,13 @@
           "description": ""
         },
         "icon": {
-          "value": "{role.primary.dim}",
+          "value": "{role.primary.container.on-high}",
+          "type": "color",
+          "parent": "State/Focused",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4271,7 +4381,13 @@
           "description": ""
         },
         "icon": {
-          "value": "{role.primary.dim}",
+          "value": "{role.primary.container.on-high}",
+          "type": "color",
+          "parent": "State/Focused",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.primary.container.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4303,7 +4419,13 @@
           "description": ""
         },
         "icon": {
-          "value": "{role.primary.dim}",
+          "value": "{role.primary.container.on-high}",
+          "type": "color",
+          "parent": "State/Focused",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4335,7 +4457,13 @@
           "description": ""
         },
         "icon": {
-          "value": "{role.primary.dim}",
+          "value": "{role.primary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Focused",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4657,7 +4785,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4683,7 +4811,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
           "description": ""
@@ -4703,6 +4831,12 @@
           "type": "color",
           "parent": "State/Focused",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.primary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Focused",
+          "description": ""
         }
       },
       "unselected": {
@@ -4713,6 +4847,12 @@
           "description": ""
         },
         "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color",
+          "parent": "State/Focused",
+          "description": ""
+        },
+        "chevrone": {
           "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Focused",
@@ -4782,13 +4922,13 @@
         "description": ""
       },
       "chevrone-expanded": {
-        "value": "{opacity.100}",
+        "value": "{opacity.90}",
         "type": "dimension",
         "parent": "State/Focused",
         "description": ""
       },
       "chevrone": {
-        "value": "{opacity.50}",
+        "value": "{opacity.30}",
         "type": "dimension",
         "parent": "State/Focused",
         "description": ""
@@ -5023,6 +5163,12 @@
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Disabled",
+          "description": ""
         }
       },
       "success": {
@@ -5052,6 +5198,12 @@
         },
         "icon": {
           "value": "{role.success.container.on-high}",
+          "type": "color",
+          "parent": "State/Disabled",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.success.container.on-highest}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
@@ -5087,6 +5239,12 @@
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.error.container.on-highest}",
+          "type": "color",
+          "parent": "State/Disabled",
+          "description": ""
         }
       },
       "light": {
@@ -5119,6 +5277,12 @@
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Disabled",
+          "description": ""
         }
       },
       "ghost": {
@@ -5148,6 +5312,12 @@
         },
         "icon": {
           "value": "{role.secondary.container.on-high}",
+          "type": "color",
+          "parent": "State/Disabled",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.secondary.container.on-highest}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
@@ -5469,7 +5639,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
@@ -5495,7 +5665,7 @@
           "description": ""
         },
         "chevrone": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
@@ -5515,6 +5685,12 @@
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
+        },
+        "chevrone": {
+          "value": "{role.primary.container.on-highest}",
+          "type": "color",
+          "parent": "State/Disabled",
+          "description": ""
         }
       },
       "unselected": {
@@ -5526,6 +5702,12 @@
         },
         "color": {
           "value": "{role.surface.on}",
+          "type": "color",
+          "parent": "State/Disabled",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Disabled",
           "description": ""
@@ -5594,13 +5776,13 @@
         "description": ""
       },
       "chevrone-expanded": {
-        "value": "{opacity.100}",
+        "value": "{opacity.90}",
         "type": "dimension",
         "parent": "State/Disabled",
         "description": ""
       },
       "chevrone": {
-        "value": "{opacity.50}",
+        "value": "{opacity.30}",
         "type": "dimension",
         "parent": "State/Disabled",
         "description": ""
@@ -6071,7 +6253,71 @@
       }
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "2c6e45855099a9b5204d67f6b47f9387ace4fa48",
+      "name": "Light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "Roles/Light": "enabled"
+      },
+      "group": "Roles"
+    },
+    {
+      "id": "f81debc20a980d3d4190490ac7afcfb196572b04",
+      "name": "Dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "Roles/Dark": "enabled"
+      },
+      "group": "Roles"
+    },
+    {
+      "id": "8a035655d5d943f2a14f90d77bde5891511ee453",
+      "name": "Rest",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "State/Rest": "enabled"
+      },
+      "group": "State"
+    },
+    {
+      "id": "008c1a2098cdec19198889f85bf5a5f5dbdbf6f4",
+      "name": "Hovered",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "State/Hovered": "enabled"
+      },
+      "group": "State"
+    },
+    {
+      "id": "ccbc1767b1b17ea90c3ede72338c17a833d60126",
+      "name": "Focused",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "State/Focused": "enabled"
+      },
+      "group": "State"
+    },
+    {
+      "id": "0a54466d9bc620223720ea24a6833701bd5cc636",
+      "name": "Disabled",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "State/Disabled": "enabled"
+      },
+      "group": "State"
+    },
+    {
+      "id": "a17e513e43e7039572fe872c28e2889808530734",
+      "name": "Default",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "Size/Default": "enabled"
+      },
+      "group": "Size"
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
       "Roles/Light",
