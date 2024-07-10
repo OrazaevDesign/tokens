@@ -417,10 +417,11 @@
           "description": ""
         },
         "card-max": {
-          "value": "90rem",
+          "value": "23rem",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Breakpoints/Desktop",
+          "description": "",
+          "oldValue": "90rem"
         }
       },
       "padding": {
@@ -513,50 +514,57 @@
       },
       "card": {
         "card-min": {
-          "value": "9.5rem",
+          "value": "11.625rem",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
           "description": "",
-          "oldValue": "10.25rem"
+          "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "90rem",
+          "value": "24.25rem",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Breakpoints/Desktop",
+          "description": "",
+          "oldValue": "90rem"
         }
       },
       "banner": {
         "4-min": {
-          "value": "20rem",
+          "value": "21rem",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
           "description": "",
-          "oldValue": "21.5rem"
+          "oldValue": "20rem"
         },
         "4-max": {
-          "value": "41rem",
+          "value": "43rem",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
           "description": "",
-          "oldValue": "44rem"
+          "oldValue": "41rem"
         },
         "8-min": {
-          "value": "9.5rem",
+          "value": "11.625rem",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
           "description": "",
-          "oldValue": "10.25rem"
+          "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": "20rem",
+          "value": "24.25rem",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
           "description": "",
-          "oldValue": "21.5rem"
+          "oldValue": "20rem"
         }
       },
       "layout": {
+        "value": "93rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Desktop",
+        "description": ""
+      },
+      "grid": {
         "value": "93rem",
         "type": "dimension",
         "parent": "Breakpoints/Desktop",
@@ -574,16 +582,18 @@
       },
       "card": {
         "card-min": {
-          "value": "10.125rem",
+          "value": "11.5rem",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Breakpoints/Tablet",
+          "description": "",
+          "oldValue": "10.125rem"
         },
         "card-max": {
-          "value": "90rem",
+          "value": "23rem",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Breakpoints/Tablet",
+          "description": "",
+          "oldValue": "90rem"
         }
       },
       "padding": {
@@ -649,10 +659,11 @@
         }
       },
       "layout": {
-        "value": "64rem",
+        "value": "63.5rem",
         "type": "dimension",
         "parent": "Breakpoints/Tablet",
-        "description": ""
+        "description": "",
+        "oldValue": "64rem"
       }
     },
     "cms": {
@@ -676,51 +687,58 @@
       },
       "card": {
         "card-min": {
-          "value": "9.5rem",
+          "value": "11.625rem",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
           "description": "",
-          "oldValue": "10.25rem"
+          "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "90rem",
+          "value": "24.25rem",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Breakpoints/Tablet",
+          "description": "",
+          "oldValue": "90rem"
         }
       },
       "banner": {
         "4-min": {
-          "value": "20rem",
+          "value": "21rem",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
           "description": "",
-          "oldValue": "21.5rem"
+          "oldValue": "20rem"
         },
         "4-max": {
-          "value": "41rem",
+          "value": "43rem",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
           "description": "",
-          "oldValue": "44rem"
+          "oldValue": "41rem"
         },
         "8-min": {
-          "value": "9.5rem",
+          "value": "11.625rem",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
           "description": "",
-          "oldValue": "10.25rem"
+          "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": "20rem",
+          "value": "24.25rem",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
           "description": "",
-          "oldValue": "21.5rem"
+          "oldValue": "20rem"
         }
       },
       "layout": {
         "value": "64rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Tablet",
+        "description": ""
+      },
+      "grid": {
+        "value": "63.5rem",
         "type": "dimension",
         "parent": "Breakpoints/Tablet",
         "description": ""
@@ -743,10 +761,11 @@
           "description": ""
         },
         "card-max": {
-          "value": "90rem",
+          "value": "16rem",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Breakpoints/Mobile",
+          "description": "",
+          "oldValue": "90rem"
         }
       },
       "padding": {
@@ -839,50 +858,58 @@
       },
       "card": {
         "card-min": {
-          "value": "9.5rem",
+          "value": "11.625rem",
+          "type": "dimension",
+          "parent": "Breakpoints/Mobile",
+          "description": "",
+          "oldValue": "9.5rem"
+        },
+        "card-max": {
+          "value": "24.25rem",
+          "type": "dimension",
+          "parent": "Breakpoints/Mobile",
+          "description": "",
+          "oldValue": "90rem"
+        }
+      },
+      "banner": {
+        "4-min": {
+          "value": "21rem",
+          "type": "dimension",
+          "parent": "Breakpoints/Mobile",
+          "description": "",
+          "oldValue": "20rem"
+        },
+        "4-max": {
+          "value": "43rem",
+          "type": "dimension",
+          "parent": "Breakpoints/Mobile",
+          "description": "",
+          "oldValue": "41rem"
+        },
+        "8-min": {
+          "value": "11.625rem",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
           "description": "",
           "oldValue": "10.25rem"
         },
-        "card-max": {
-          "value": "90rem",
-          "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
-        }
-      },
-      "banner": {
-        "4-min": {
-          "value": "20rem",
-          "type": "dimension",
-          "parent": "Breakpoints/Mobile",
-          "description": "",
-          "oldValue": "21.5rem"
-        },
-        "4-max": {
-          "value": "41rem",
-          "type": "dimension",
-          "parent": "Breakpoints/Mobile",
-          "description": "",
-          "oldValue": "44rem"
-        },
-        "8-min": {
-          "value": "10.25rem",
-          "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
-        },
         "8-max": {
-          "value": "20rem",
+          "value": "24.25rem",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
           "description": "",
-          "oldValue": "21.5rem"
+          "oldValue": "20rem"
         }
       },
       "layout": {
         "value": "26.875rem",
+        "type": "dimension",
+        "parent": "Breakpoints/Mobile",
+        "description": ""
+      },
+      "grid": {
+        "value": "93rem",
         "type": "dimension",
         "parent": "Breakpoints/Mobile",
         "description": ""
