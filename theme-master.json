@@ -2548,6 +2548,32 @@
           "parent": "State/Rest",
           "description": ""
         }
+      },
+      "clean": {
+        "bg": {
+          "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-high}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        }
       }
     },
     "focus-selection": {
@@ -2962,6 +2988,44 @@
           "parent": "State/Rest",
           "description": ""
         }
+      },
+      "unselected-actual": {
+        "bg": {
+          "value": "{role.surface.transparent}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.dim}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-accent}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color",
+          "parent": "State/Rest",
+          "description": ""
+        }
       }
     },
     "nav-button": {
@@ -3348,6 +3412,32 @@
         },
         "color": {
           "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        }
+      },
+      "clean": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "chroma": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Hover",
           "description": ""
@@ -3766,6 +3856,44 @@
           "parent": "State/Hover",
           "description": ""
         }
+      },
+      "unselected-actual": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.dim}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-accent}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color",
+          "parent": "State/Hover",
+          "description": ""
+        }
       }
     },
     "nav-button": {
@@ -4152,6 +4280,32 @@
         },
         "color": {
           "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        }
+      },
+      "clean": {
+        "bg": {
+          "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-high}",
           "type": "color",
           "parent": "State/Focus",
           "description": ""
@@ -4570,6 +4724,44 @@
           "parent": "State/Focus",
           "description": ""
         }
+      },
+      "unselected-actual": {
+        "bg": {
+          "value": "{role.surface.transparent}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.dim}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-accent}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color",
+          "parent": "State/Focus",
+          "description": ""
+        }
       }
     },
     "nav-button": {
@@ -4956,6 +5148,32 @@
         },
         "color": {
           "value": "{role.surface.bright}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        }
+      },
+      "clean": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "chroma": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Active",
           "description": ""
@@ -5364,6 +5582,44 @@
         },
         "description": {
           "value": "{role.surface.on-high}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        }
+      },
+      "unselected-actual": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "border": {
+          "value": "{role.surface.dim}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "color": {
+          "value": "{role.surface.on-accent}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color",
+          "parent": "State/Active",
+          "description": ""
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
           "type": "color",
           "parent": "State/Active",
           "description": ""
