@@ -2,22 +2,22 @@
   "Shadow/elevation-1": {
     "shadow1": {
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": 2,
+        "value": "2",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": 4,
+        "value": "4",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "spread-radius": {
-        "value": -2,
+        "value": "-2",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
@@ -36,22 +36,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": 1,
+        "value": "1",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "spread-radius": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-1"
       }
@@ -64,23 +64,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": 1,
+        "value": "1",
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": 6,
+        "value": "6",
         "type": "number",
         "parent": "Shadow/elevation-1",
         "oldValue": "0.125rem"
       },
       "spread-radius": {
-        "value": -1,
+        "value": "-1",
         "type": "number",
         "parent": "Shadow/elevation-1",
         "oldValue": "0rem"
@@ -90,23 +90,23 @@
   "Shadow/elevation-2": {
     "shadow1": {
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": 4,
+        "value": "4",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": 6,
+        "value": "6",
         "type": "number",
         "parent": "Shadow/elevation-2",
         "oldValue": "0.5rem"
       },
       "spread-radius": {
-        "value": -4,
+        "value": "-4",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
@@ -125,22 +125,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": 1,
+        "value": "1",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "spread-radius": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-2"
       }
@@ -153,23 +153,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": 4,
+        "value": "4",
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": 8,
+        "value": "8",
         "type": "number",
         "parent": "Shadow/elevation-2",
         "oldValue": "0.25rem"
       },
       "spread-radius": {
-        "value": -4,
+        "value": "-4",
         "type": "number",
         "parent": "Shadow/elevation-2",
         "oldValue": "-0.125rem"
@@ -179,23 +179,23 @@
   "Shadow/elevation-3": {
     "shadow1": {
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": 8,
+        "value": "8",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": 12,
+        "value": "12",
         "type": "number",
         "parent": "Shadow/elevation-3",
         "oldValue": "1rem"
       },
       "spread-radius": {
-        "value": -8,
+        "value": "-8",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
@@ -214,22 +214,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": 1,
+        "value": "1",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "spread-radius": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-3"
       }
@@ -242,23 +242,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": 6,
+        "value": "6",
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": 18,
+        "value": "18",
         "type": "number",
         "parent": "Shadow/elevation-3",
         "oldValue": "0.375rem"
       },
       "spread-radius": {
-        "value": -6,
+        "value": "-6",
         "type": "number",
         "parent": "Shadow/elevation-3",
         "oldValue": "-0.25rem"
@@ -268,22 +268,22 @@
   "Shadow/elevation-4": {
     "shadow1": {
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": 12,
+        "value": "12",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "spread-radius": {
-        "value": -12,
+        "value": "-12",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
@@ -302,22 +302,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": 1,
+        "value": "1",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "spread-radius": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-4"
       }
@@ -330,23 +330,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": 8,
+        "value": "8",
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Shadow/elevation-4",
         "oldValue": "0.5rem"
       },
       "spread-radius": {
-        "value": -8,
+        "value": "-8",
         "type": "number",
         "parent": "Shadow/elevation-4",
         "oldValue": "-0.375rem"
@@ -356,106 +356,106 @@
   "Breakpoints/Desktop": {
     "market": {
       "gap-x": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
-          "value": 184,
+          "value": "184",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "card-max": {
-          "value": 368,
+          "value": "368",
           "type": "number",
           "parent": "Breakpoints/Desktop",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
-        "value": 40,
+        "value": "40",
         "type": "number",
         "parent": "Brackpoint/Desktop"
       },
       "banner": {
         "3-min": {
-          "value": 392,
+          "value": "392",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "3-max": {
-          "value": 800,
+          "value": "800",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "2-min": {
-          "value": 392,
+          "value": "392",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "2-max": {
-          "value": 800,
+          "value": "800",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "4-min": {
-          "value": 184,
+          "value": "184",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "4-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "1-max": {
-          "value": 1440,
+          "value": "1440",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         },
         "1-min": {
-          "value": 976,
+          "value": "976",
           "type": "number",
           "parent": "Brackpoint/Desktop"
         }
       },
       "layout": {
-        "value": 1488,
+        "value": "1488",
         "type": "number",
         "parent": "Breakpoints/Desktop"
       }
     },
     "cms": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
-        "value": 32,
+        "value": "32",
         "type": "number",
         "parent": "Brackpoint/Desktop"
       },
       "padding": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
-          "value": 186,
+          "value": "186",
           "type": "number",
           "parent": "Breakpoints/Desktop",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Breakpoints/Desktop",
           "oldValue": "90rem"
@@ -463,32 +463,32 @@
       },
       "banner": {
         "4-min": {
-          "value": 336,
+          "value": "336",
           "type": "number",
           "parent": "Breakpoints/Desktop",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": 688,
+          "value": "688",
           "type": "number",
           "parent": "Breakpoints/Desktop",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": 186,
+          "value": "186",
           "type": "number",
           "parent": "Breakpoints/Desktop",
           "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Breakpoints/Desktop",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": 1440,
+        "value": "1440",
         "type": "number",
         "parent": "Breakpoints/Desktop",
         "oldValue": "93rem"
@@ -498,78 +498,78 @@
   "Breakpoints/Tablet": {
     "market": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
-          "value": 184,
+          "value": "184",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "10.125rem"
         },
         "card-max": {
-          "value": 368,
+          "value": "368",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Brackpoint/Tablet"
       },
       "banner": {
         "3-min": {
-          "value": 340,
+          "value": "340",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         },
         "3-max": {
-          "value": 474,
+          "value": "474",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         },
         "2-min": {
-          "value": 340,
+          "value": "340",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         },
         "2-max": {
-          "value": 720,
+          "value": "720",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         },
         "4-min": {
-          "value": 162,
+          "value": "162",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         },
         "4-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         },
         "1-max": {
-          "value": 1440,
+          "value": "1440",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         },
         "1-min": {
-          "value": 398,
+          "value": "398",
           "type": "number",
           "parent": "Brackpoint/Tablet"
         }
       },
       "layout": {
-        "value": 1016,
+        "value": "1016",
         "type": "number",
         "parent": "Breakpoints/Tablet",
         "oldValue": "64rem"
@@ -577,29 +577,29 @@
     },
     "cms": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
-        "value": 32,
+        "value": "32",
         "type": "number",
         "parent": "Brackpoint/Tablet"
       },
       "padding": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
-          "value": 186,
+          "value": "186",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "90rem"
@@ -607,32 +607,32 @@
       },
       "banner": {
         "4-min": {
-          "value": 336,
+          "value": "336",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": 688,
+          "value": "688",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": 186,
+          "value": "186",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Breakpoints/Tablet",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": 1016,
+        "value": "1016",
         "type": "number",
         "parent": "Breakpoints/Tablet"
       }
@@ -641,106 +641,106 @@
   "Breakpoints/Mobile": {
     "market": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
-          "value": 128,
+          "value": "128",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "card-max": {
-          "value": 256,
+          "value": "256",
           "type": "number",
           "parent": "Breakpoints/Mobile",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Brackpoint/Mobile"
       },
       "banner": {
         "3-min": {
-          "value": 272,
+          "value": "272",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "3-max": {
-          "value": 474,
+          "value": "474",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "2-min": {
-          "value": 272,
+          "value": "272",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "2-max": {
-          "value": 720,
+          "value": "720",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "4-min": {
-          "value": 128,
+          "value": "128",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "4-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "1-max": {
-          "value": 1440,
+          "value": "1440",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         },
         "1-min": {
-          "value": 288,
+          "value": "288",
           "type": "number",
           "parent": "Brackpoint/Mobile"
         }
       },
       "layout": {
-        "value": 430,
+        "value": "430",
         "type": "number",
         "parent": "Breakpoints/Mobile"
       }
     },
     "cms": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
-        "value": 32,
+        "value": "32",
         "type": "number",
         "parent": "Brackpoint/Mobile"
       },
       "padding": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
-          "value": 186,
+          "value": "186",
           "type": "number",
           "parent": "Breakpoints/Mobile",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Breakpoints/Mobile",
           "oldValue": "90rem"
@@ -748,32 +748,32 @@
       },
       "banner": {
         "4-min": {
-          "value": 336,
+          "value": "336",
           "type": "number",
           "parent": "Breakpoints/Mobile",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": 688,
+          "value": "688",
           "type": "number",
           "parent": "Breakpoints/Mobile",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": 186,
+          "value": "186",
           "type": "number",
           "parent": "Breakpoints/Mobile",
           "oldValue": "10.25rem"
         },
         "8-max": {
-          "value": 388,
+          "value": "388",
           "type": "number",
           "parent": "Breakpoints/Mobile",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": 1488,
+        "value": "1488",
         "type": "number",
         "parent": "Breakpoints/Mobile"
       }
@@ -782,111 +782,111 @@
   "Rounded/None": {
     "border-radius": {
       "200": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "300": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "400": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "500": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "600": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/None"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       }
     },
     "outline": {
       "200": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "300": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "400": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "500": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "600": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/None"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "300": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "400": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "500": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "600": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/None"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/None"
       }
@@ -895,111 +895,111 @@
   "Rounded/Smooth": {
     "border-radius": {
       "200": {
-        "value": 4,
+        "value": "4",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": 6,
+        "value": "6",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": 8,
+        "value": "8",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": 10,
+        "value": "10",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": 12,
+        "value": "12",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/Smooth"
       }
     },
     "outline": {
       "200": {
-        "value": 5,
+        "value": "5",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": 7,
+        "value": "7",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": 9,
+        "value": "9",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": 11,
+        "value": "11",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": 13,
+        "value": "13",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/Smooth"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": 8,
+        "value": "8",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": 10,
+        "value": "10",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": 12,
+        "value": "12",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": 14,
+        "value": "14",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/Smooth"
       }
@@ -1008,126 +1008,126 @@
   "Rounded/Rounded": {
     "border-radius": {
       "200": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/Rounded"
       }
     },
     "outline": {
       "200": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/Rounded"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": 26,
+        "value": "26",
         "type": "number",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": 600,
+        "value": "600",
         "type": "number",
         "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Rounded/Rounded"
       }
@@ -1136,211 +1136,211 @@
   "Space/Value": {
     "space": {
       "0": {
-        "value": 0,
+        "value": "0",
         "type": "number",
         "parent": "Space/Value",
         "description": "0 px"
       },
       "1": {
-        "value": 4,
+        "value": "4",
         "type": "number",
         "parent": "Space/Value",
         "description": "4 px"
       },
       "2": {
-        "value": 8,
+        "value": "8",
         "type": "number",
         "parent": "Space/Value",
         "description": "8 px"
       },
       "3": {
-        "value": 12,
+        "value": "12",
         "type": "number",
         "parent": "Space/Value",
         "description": "12 gap"
       },
       "4": {
-        "value": 16,
+        "value": "16",
         "type": "number",
         "parent": "Space/Value",
         "description": "16 gap"
       },
       "5": {
-        "value": 20,
+        "value": "20",
         "type": "number",
         "parent": "Space/Value",
         "description": "20 gap"
       },
       "6": {
-        "value": 24,
+        "value": "24",
         "type": "number",
         "parent": "Space/Value",
         "description": "24 gap"
       },
       "7": {
-        "value": 28,
+        "value": "28",
         "type": "number",
         "parent": "Space/Value",
         "description": "28 gap"
       },
       "8": {
-        "value": 32,
+        "value": "32",
         "type": "number",
         "parent": "Space/Value",
         "description": "32 gap"
       },
       "9": {
-        "value": 36,
+        "value": "36",
         "type": "number",
         "parent": "Space/Value",
         "description": "36 gap"
       },
       "10": {
-        "value": 40,
+        "value": "40",
         "type": "number",
         "parent": "Space/Value",
         "description": "40 gap"
       },
       "11": {
-        "value": 44,
+        "value": "44",
         "type": "number",
         "parent": "Space/Value",
         "description": "44 gap"
       },
       "12": {
-        "value": 48,
+        "value": "48",
         "type": "number",
         "parent": "Space/Value",
         "description": "48 gap"
       },
       "14": {
-        "value": 56,
+        "value": "56",
         "type": "number",
         "parent": "Space/Value",
         "description": "56 gap"
       },
       "16": {
-        "value": 64,
+        "value": "64",
         "type": "number",
         "parent": "Space/Value",
         "description": "64 gap"
       },
       "20": {
-        "value": 80,
+        "value": "80",
         "type": "number",
         "parent": "Space/Value",
         "description": "80 gap"
       },
       "24": {
-        "value": 96,
+        "value": "96",
         "type": "number",
         "parent": "Space/Value",
         "description": "96 gap"
       },
       "28": {
-        "value": 112,
+        "value": "112",
         "type": "number",
         "parent": "Space/Value",
         "description": "112 gap"
       },
       "32": {
-        "value": 128,
+        "value": "128",
         "type": "number",
         "parent": "Space/Value",
         "description": "128 gap"
       },
       "36": {
-        "value": 144,
+        "value": "144",
         "type": "number",
         "parent": "Space/Value",
         "description": "144 gap"
       },
       "40": {
-        "value": 160,
+        "value": "160",
         "type": "number",
         "parent": "Space/Value",
         "description": "160 gap"
       },
       "44": {
-        "value": 176,
+        "value": "176",
         "type": "number",
         "parent": "Space/Value",
         "description": "176 gap"
       },
       "48": {
-        "value": 192,
+        "value": "192",
         "type": "number",
         "parent": "Space/Value",
         "description": "192 gap"
       },
       "52": {
-        "value": 208,
+        "value": "208",
         "type": "number",
         "parent": "Space/Value",
         "description": "208 gap"
       },
       "56": {
-        "value": 224,
+        "value": "224",
         "type": "number",
         "parent": "Space/Value",
         "description": "224 gap"
       },
       "60": {
-        "value": 240,
+        "value": "240",
         "type": "number",
         "parent": "Space/Value",
         "description": "240 gap"
       },
       "64": {
-        "value": 256,
+        "value": "256",
         "type": "number",
         "parent": "Space/Value",
         "description": "256 gap"
       },
       "72": {
-        "value": 288,
+        "value": "288",
         "type": "number",
         "parent": "Space/Value",
         "description": "288 gap"
       },
       "80": {
-        "value": 320,
+        "value": "320",
         "type": "number",
         "parent": "Space/Value",
         "description": "320 gap"
       },
       "96": {
-        "value": 384,
+        "value": "384",
         "type": "number",
         "parent": "Space/Value",
         "description": "384 gap"
       },
       "px": {
-        "value": 1,
+        "value": "1",
         "type": "number",
         "parent": "Space/Value",
         "description": "1 px"
       },
       "0,5": {
-        "value": 2,
+        "value": "2",
         "type": "number",
         "parent": "Space/Value",
         "description": "2 gap"
       },
       "1,5": {
-        "value": 6,
+        "value": "6",
         "type": "number",
         "parent": "Space/Value",
         "description": "6 px"
       },
       "2,5": {
-        "value": 10,
+        "value": "10",
         "type": "number",
         "parent": "Space/Value",
         "description": "10 px"
       },
       "3,5": {
-        "value": 14,
+        "value": "14",
         "type": "number",
         "parent": "Space/Value",
         "description": "14 gap"
@@ -1348,10 +1348,6 @@
     }
   },
   "Opacity/Value": {
-    "0": {
-      "value": "0",
-      "type": "opacity"
-    },
     "5": {
       "value": "5",
       "type": "opacity"
@@ -1434,127 +1430,125 @@
     },
     "opacity": {
       "0": {
-        "value": 0,
-        "type": "number",
-        "parent": "Opacity/Value",
-        "description": "0px"
+        "value": "0",
+        "type": "opacity"
       },
       "5": {
-        "value": 5,
+        "value": "5",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "24px"
       },
       "10": {
-        "value": 10,
+        "value": "10",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "40px"
       },
       "15": {
-        "value": 15,
+        "value": "15",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "44px"
       },
       "20": {
-        "value": 20,
+        "value": "20",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "80px"
       },
       "25": {
-        "value": 25,
+        "value": "25",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "96px"
       },
       "30": {
-        "value": 30,
+        "value": "30",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "112px"
       },
       "35": {
-        "value": 35,
+        "value": "35",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "128px"
       },
       "40": {
-        "value": 40,
+        "value": "40",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "160px"
       },
       "45": {
-        "value": 45,
+        "value": "45",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "176px"
       },
       "50": {
-        "value": 50,
+        "value": "50",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "192px"
       },
       "55": {
-        "value": 55,
+        "value": "55",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "208px"
       },
       "60": {
-        "value": 60,
+        "value": "60",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "240px"
       },
       "65": {
-        "value": 65,
+        "value": "65",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "256px"
       },
       "70": {
-        "value": 70,
+        "value": "70",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "288px"
       },
       "75": {
-        "value": 75,
+        "value": "75",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "288px"
       },
       "80": {
-        "value": 80,
+        "value": "80",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "320px"
       },
       "85": {
-        "value": 85,
+        "value": "85",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "320px"
       },
       "90": {
-        "value": 90,
+        "value": "90",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "384px"
       },
       "95": {
-        "value": 95,
+        "value": "95",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "384px"
       },
       "100": {
-        "value": 100,
+        "value": "100",
         "type": "number",
         "parent": "Opacity/Value",
         "description": "384px"
@@ -1945,7 +1939,6 @@
       "$figmaCollectionId": "VariableCollectionId:140:34",
       "$figmaModeId": "140:3",
       "$figmaVariableReferences": {
-        "0": "0368ec1bfee23e9bf23cb9918296767955aa25b8",
         "5": "fb233c3bb9d961559b158daaf4d7e47ccb0dbeb1",
         "10": "281de87f446dba57cfeb436141c68fa2fc254961",
         "15": "7e5e2d0f0d087585e60e99e010af0a27fa31f715",
@@ -1966,27 +1959,27 @@
         "90": "b926dd6dc2b8f82dac5d8ad88733edccfc665648",
         "95": "541673081d2ef4a63ad41a07be19358c0359b33c",
         "100": "c939b2560d636df1511850c65344cb70fe2857e2",
-        "opacity.0": "8eb27b5e47c0c0ebb424862d823a4dd9e6b84bb1",
-        "opacity.5": "e895266426e3826643ad2eb1cdd3be294feef071",
-        "opacity.10": "c7122892a418f458a216e1aaab8344c52e0f0b53",
-        "opacity.15": "71f246122206981a80616c39c3f5a21c41abf5e3",
-        "opacity.20": "e9a7cdccbc61d5eb1580c9da23be84cecfe0764c",
-        "opacity.25": "2089817c426f68d9f3a5fef74e69c234f69668d6",
-        "opacity.30": "accdb509bf1048fc8f932f1c6257a2e0fe1f6542",
-        "opacity.35": "f0edbd4c1d54cda6bea57ebf89c0f24525598fa5",
-        "opacity.40": "7a6f19dab6408aec0b06bba71e53f7f8cd044a32",
-        "opacity.45": "c450749f83d4b4c6d59df20d99ea8b9110b54a4f",
-        "opacity.50": "40a8154dc0b4877776b953011982c3545bbf4bc1",
-        "opacity.55": "097de097c8ddd39e1fbcdc0d74dae87a2c6ca81c",
-        "opacity.60": "24796b40bcbe856583f5f1940787ff292775d8e4",
-        "opacity.65": "eccec55a5a55b52c1afe60a45b71410ee134b82f",
-        "opacity.70": "9058ea40e784e6c43e31bbb279330214ec2f01bb",
-        "opacity.75": "ff248664764c41e063b353b447908a969244d9f7",
-        "opacity.80": "6f07ab43cbe070805b86f8fb2ff50b7f82ef4158",
-        "opacity.85": "10de70ca9bfbf2457c8f5c3fe9370f1ee3e2d46d",
-        "opacity.90": "a2f2597cdff2d775a32782cb4b8e3d625994a22b",
-        "opacity.95": "725a209ab94b32e81991af2cfab9f04792014375",
-        "opacity.100": "c4d6496f36134de239dcbd042adcc7161abf3e2d"
+        "opacity.5": "4f3acc6da96c84d8980cffe4e926530356c13ee6",
+        "opacity.10": "d0887238fd4ff5e6d2d6b9d7eeed29edf91cdfb6",
+        "opacity.15": "a47645445a9d3bed4a0056c25b5ebca9f06786d7",
+        "opacity.20": "6334c05b258161074fbf18ec9bdf32b96fbc8fc9",
+        "opacity.25": "43a6de0335bc0068b4231485b878b897e556a2f9",
+        "opacity.30": "bc706aaa43065a177af7df74f8e14db84b36ee9d",
+        "opacity.35": "a535a174408707ad7a33f7ff4b37ff8a30f8aa1c",
+        "opacity.40": "c34688f3b10d7ba826b9d0dbb90e9d4259bf3394",
+        "opacity.45": "20967bacd0aecf6cbbf61f4c248d8a9db34d9851",
+        "opacity.50": "357b0cc6f26742284f55b7d336705cc6ce1dab5d",
+        "opacity.55": "6d08029691db1ffed6165e6e61a9ebfb13633ed1",
+        "opacity.60": "8d252c0b37ac52efc3d4a89be118ec1cec0d42a5",
+        "opacity.65": "d8e6a7a2a2b9f88da399f9292f17763007ab04a2",
+        "opacity.70": "060640c7436a29537f0e5e7a91002e3662668ac9",
+        "opacity.75": "30b98b9dc1a2e4253616e9c0ad01b87e0f0ffccb",
+        "opacity.80": "e0b9cf02ae2d4e3b5bf5ff015cad077dc7c16bd0",
+        "opacity.85": "93948d80c325b8b54df00e132e6375b78ce26e51",
+        "opacity.90": "bb8444880baeb8ce0e72cef437e767a5ac9299a0",
+        "opacity.95": "e30be585ceab3854d521a66bb79eeb8d45e8cfba",
+        "opacity.100": "e445e6d3ef102050dca02d96f23d091191c5116c",
+        "opacity.0": "0368ec1bfee23e9bf23cb9918296767955aa25b8"
       },
       "group": "Opacity"
     }
