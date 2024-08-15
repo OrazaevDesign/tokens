@@ -2,28 +2,24 @@
   "Shadow/elevation-1": {
     "shadow1": {
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "spread-radius": {
-        "value": "-0.125rem",
+        "value": "-2px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "opacity": {
         "value": "{opacity.20}",
@@ -40,28 +36,24 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": "0.0625rem",
+        "value": "1px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "spread-radius": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       }
     },
     "shadow3": {
@@ -72,29 +64,25 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": "0.0625rem",
+        "value": "1px",
         "type": "dimension",
-        "parent": "Shadow/elevation-1",
-        "description": ""
+        "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": "0.375rem",
+        "value": "6px",
         "type": "dimension",
         "parent": "Shadow/elevation-1",
-        "description": "",
         "oldValue": "0.125rem"
       },
       "spread-radius": {
-        "value": "-0.0625rem",
+        "value": "-1px",
         "type": "dimension",
         "parent": "Shadow/elevation-1",
-        "description": "",
         "oldValue": "0rem"
       }
     }
@@ -102,29 +90,25 @@
   "Shadow/elevation-2": {
     "shadow1": {
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": "0.375rem",
+        "value": "6px",
         "type": "dimension",
         "parent": "Shadow/elevation-2",
-        "description": "",
         "oldValue": "0.5rem"
       },
       "spread-radius": {
-        "value": "-0.25rem",
+        "value": "-4px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "opacity": {
         "value": "{opacity.20}",
@@ -141,28 +125,24 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": "0.0625rem",
+        "value": "1px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "spread-radius": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       }
     },
     "shadow3": {
@@ -173,29 +153,25 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension",
-        "parent": "Shadow/elevation-2",
-        "description": ""
+        "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension",
         "parent": "Shadow/elevation-2",
-        "description": "",
         "oldValue": "0.25rem"
       },
       "spread-radius": {
-        "value": "-0.25rem",
+        "value": "-4px",
         "type": "dimension",
         "parent": "Shadow/elevation-2",
-        "description": "",
         "oldValue": "-0.125rem"
       }
     }
@@ -203,29 +179,25 @@
   "Shadow/elevation-3": {
     "shadow1": {
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": "0.75rem",
+        "value": "12px",
         "type": "dimension",
         "parent": "Shadow/elevation-3",
-        "description": "",
         "oldValue": "1rem"
       },
       "spread-radius": {
-        "value": "-0.5rem",
+        "value": "-8px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "opacity": {
         "value": "{opacity.20}",
@@ -242,28 +214,24 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": "0.0625rem",
+        "value": "1px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "spread-radius": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       }
     },
     "shadow3": {
@@ -274,29 +242,25 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": "0.375rem",
+        "value": "6px",
         "type": "dimension",
-        "parent": "Shadow/elevation-3",
-        "description": ""
+        "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": "1.125rem",
+        "value": "18px",
         "type": "dimension",
         "parent": "Shadow/elevation-3",
-        "description": "",
         "oldValue": "0.375rem"
       },
       "spread-radius": {
-        "value": "-0.375rem",
+        "value": "-6px",
         "type": "dimension",
         "parent": "Shadow/elevation-3",
-        "description": "",
         "oldValue": "-0.25rem"
       }
     }
@@ -304,28 +268,24 @@
   "Shadow/elevation-4": {
     "shadow1": {
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": "0.75rem",
+        "value": "12px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "spread-radius": {
-        "value": "-0.75rem",
+        "value": "-12px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "opacity": {
         "value": "{opacity.20}",
@@ -342,28 +302,24 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": "0.0625rem",
+        "value": "1px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "spread-radius": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       }
     },
     "shadow3": {
@@ -374,29 +330,25 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension",
-        "parent": "Shadow/elevation-4",
-        "description": ""
+        "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Shadow/elevation-4",
-        "description": "",
         "oldValue": "0.5rem"
       },
       "spread-radius": {
-        "value": "-0.5rem",
+        "value": "-8px",
         "type": "dimension",
         "parent": "Shadow/elevation-4",
-        "description": "",
         "oldValue": "-0.375rem"
       }
     }
@@ -404,165 +356,141 @@
   "Breakpoints/Desktop": {
     "market": {
       "gap-x": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Brackpoint/Desktop",
-        "description": ""
+        "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
-          "value": "11.5rem",
+          "value": "184px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "card-max": {
-          "value": "23rem",
+          "value": "368px",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
-          "description": "",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Brackpoint/Desktop",
-        "description": ""
+        "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
-        "value": "2.5rem",
+        "value": "40px",
         "type": "dimension",
-        "parent": "Brackpoint/Desktop",
-        "description": ""
+        "parent": "Brackpoint/Desktop"
       },
       "banner": {
         "3-min": {
-          "value": "24.5rem",
+          "value": "392px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "3-max": {
-          "value": "50rem",
+          "value": "800px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "2-min": {
-          "value": "24.5rem",
+          "value": "392px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "2-max": {
-          "value": "50rem",
+          "value": "800px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "4-min": {
-          "value": "11.5rem",
+          "value": "184px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "4-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "1-max": {
-          "value": "90rem",
+          "value": "1440px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         },
         "1-min": {
-          "value": "61rem",
+          "value": "976px",
           "type": "dimension",
-          "parent": "Brackpoint/Desktop",
-          "description": ""
+          "parent": "Brackpoint/Desktop"
         }
       },
       "layout": {
-        "value": "93rem",
+        "value": "1488px",
         "type": "dimension",
-        "parent": "Breakpoints/Desktop",
-        "description": ""
+        "parent": "Breakpoints/Desktop"
       }
     },
     "cms": {
       "gap-x": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Brackpoint/Desktop",
-        "description": ""
+        "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension",
-        "parent": "Brackpoint/Desktop",
-        "description": ""
+        "parent": "Brackpoint/Desktop"
       },
       "padding": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Brackpoint/Desktop",
-        "description": ""
+        "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
-          "value": "11.625rem",
+          "value": "186px",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
-          "description": "",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
-          "description": "",
           "oldValue": "90rem"
         }
       },
       "banner": {
         "4-min": {
-          "value": "21rem",
+          "value": "336px",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
-          "description": "",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": "43rem",
+          "value": "688px",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
-          "description": "",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": "11.625rem",
+          "value": "186px",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
-          "description": "",
           "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
           "parent": "Breakpoints/Desktop",
-          "description": "",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": "90rem",
+        "value": "1440px",
         "type": "dimension",
         "parent": "Breakpoints/Desktop",
-        "description": "",
         "oldValue": "93rem"
       }
     }
@@ -570,960 +498,849 @@
   "Breakpoints/Tablet": {
     "market": {
       "gap-x": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Brackpoint/Tablet",
-        "description": ""
+        "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
-          "value": "11.5rem",
+          "value": "184px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "10.125rem"
         },
         "card-max": {
-          "value": "23rem",
+          "value": "368px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Brackpoint/Tablet",
-        "description": ""
+        "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Brackpoint/Tablet",
-        "description": ""
+        "parent": "Brackpoint/Tablet"
       },
       "banner": {
         "3-min": {
-          "value": "21.25rem",
+          "value": "340px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         },
         "3-max": {
-          "value": "29.625rem",
+          "value": "474px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         },
         "2-min": {
-          "value": "21.25rem",
+          "value": "340px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         },
         "2-max": {
-          "value": "45rem",
+          "value": "720px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         },
         "4-min": {
-          "value": "10.125rem",
+          "value": "162px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         },
         "4-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         },
         "1-max": {
-          "value": "90rem",
+          "value": "1440px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         },
         "1-min": {
-          "value": "24.875rem",
+          "value": "398px",
           "type": "dimension",
-          "parent": "Brackpoint/Tablet",
-          "description": ""
+          "parent": "Brackpoint/Tablet"
         }
       },
       "layout": {
-        "value": "63.5rem",
+        "value": "1016px",
         "type": "dimension",
         "parent": "Breakpoints/Tablet",
-        "description": "",
         "oldValue": "64rem"
       }
     },
     "cms": {
       "gap-x": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Brackpoint/Tablet",
-        "description": ""
+        "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension",
-        "parent": "Brackpoint/Tablet",
-        "description": ""
+        "parent": "Brackpoint/Tablet"
       },
       "padding": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Brackpoint/Tablet",
-        "description": ""
+        "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
-          "value": "11.625rem",
+          "value": "186px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "90rem"
         }
       },
       "banner": {
         "4-min": {
-          "value": "21rem",
+          "value": "336px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": "43rem",
+          "value": "688px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": "11.625rem",
+          "value": "186px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
           "parent": "Breakpoints/Tablet",
-          "description": "",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": "63.5rem",
+        "value": "1016px",
         "type": "dimension",
-        "parent": "Breakpoints/Tablet",
-        "description": ""
+        "parent": "Breakpoints/Tablet"
       }
     }
   },
   "Breakpoints/Mobile": {
     "market": {
       "gap-x": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Brackpoint/Mobile",
-        "description": ""
+        "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
-          "value": "8rem",
+          "value": "128px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "card-max": {
-          "value": "16rem",
+          "value": "256px",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
-          "description": "",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Brackpoint/Mobile",
-        "description": ""
+        "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Brackpoint/Mobile",
-        "description": ""
+        "parent": "Brackpoint/Mobile"
       },
       "banner": {
         "3-min": {
-          "value": "17rem",
+          "value": "272px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "3-max": {
-          "value": "29.625rem",
+          "value": "474px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "2-min": {
-          "value": "17rem",
+          "value": "272px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "2-max": {
-          "value": "45rem",
+          "value": "720px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "4-min": {
-          "value": "8rem",
+          "value": "128px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "4-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "1-max": {
-          "value": "90rem",
+          "value": "1440px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         },
         "1-min": {
-          "value": "18rem",
+          "value": "288px",
           "type": "dimension",
-          "parent": "Brackpoint/Mobile",
-          "description": ""
+          "parent": "Brackpoint/Mobile"
         }
       },
       "layout": {
-        "value": "26.875rem",
+        "value": "430px",
         "type": "dimension",
-        "parent": "Breakpoints/Mobile",
-        "description": ""
+        "parent": "Breakpoints/Mobile"
       }
     },
     "cms": {
       "gap-x": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Brackpoint/Mobile",
-        "description": ""
+        "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension",
-        "parent": "Brackpoint/Mobile",
-        "description": ""
+        "parent": "Brackpoint/Mobile"
       },
       "padding": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
-        "parent": "Brackpoint/Mobile",
-        "description": ""
+        "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
-          "value": "11.625rem",
+          "value": "186px",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
-          "description": "",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
-          "description": "",
           "oldValue": "90rem"
         }
       },
       "banner": {
         "4-min": {
-          "value": "21rem",
+          "value": "336px",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
-          "description": "",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": "43rem",
+          "value": "688px",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
-          "description": "",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": "11.625rem",
+          "value": "186px",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
-          "description": "",
           "oldValue": "10.25rem"
         },
         "8-max": {
-          "value": "24.25rem",
+          "value": "388px",
           "type": "dimension",
           "parent": "Breakpoints/Mobile",
-          "description": "",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": "93rem",
+        "value": "1488px",
         "type": "dimension",
-        "parent": "Breakpoints/Mobile",
-        "description": ""
+        "parent": "Breakpoints/Mobile"
       }
     }
   },
   "Rounded/None": {
     "border-radius": {
       "200": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "300": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "400": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "500": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "600": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       }
     },
     "outline": {
       "200": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "300": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "400": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "500": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "600": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "300": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "400": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "500": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "600": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/None",
-        "description": ""
+        "parent": "Rounded/None"
       }
     }
   },
   "Rounded/Smooth": {
     "border-radius": {
       "200": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": "0.375rem",
+        "value": "6px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": "0.75rem",
+        "value": "12px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       }
     },
     "outline": {
       "200": {
-        "value": "0.3125rem",
+        "value": "5px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": "0.4375rem",
+        "value": "7px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": "0.5625rem",
+        "value": "9px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": "0.6875rem",
+        "value": "11px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": "0.8125rem",
+        "value": "13px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": "0.75rem",
+        "value": "12px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": "0.875rem",
+        "value": "14px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/Smooth",
-        "description": ""
+        "parent": "Rounded/Smooth"
       }
     }
   },
   "Rounded/Rounded": {
     "border-radius": {
       "200": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/Rounded",
-        "description": ""
+        "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/Rounded",
-        "description": ""
+        "parent": "Rounded/Rounded"
       }
     },
     "outline": {
       "200": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/Rounded",
-        "description": ""
+        "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/Rounded",
-        "description": ""
+        "parent": "Rounded/Rounded"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": "1.625rem",
+        "value": "26px",
         "type": "dimension",
         "parent": "Rounded/Rounded",
-        "description": "",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": "37.5rem",
+        "value": "600px",
         "type": "dimension",
-        "parent": "Rounded/Rounded",
-        "description": ""
+        "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
-        "parent": "Rounded/Rounded",
-        "description": ""
+        "parent": "Rounded/Rounded"
       }
     }
   },
   "Space/Value": {
     "space": {
       "0": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "0 gap"
       },
       "1": {
-        "value": "0.25rem",
+        "value": "4px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "4 gap"
       },
       "2": {
-        "value": "0.5rem",
+        "value": "8px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "8 gap"
       },
       "3": {
-        "value": "0.75rem",
+        "value": "12px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "12 gap"
       },
       "4": {
-        "value": "1rem",
+        "value": "16px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "16 gap"
       },
       "5": {
-        "value": "1.25rem",
+        "value": "20px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "20 gap"
       },
       "6": {
-        "value": "1.5rem",
+        "value": "24px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "24 gap"
       },
       "7": {
-        "value": "1.75rem",
+        "value": "28px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "28 gap"
       },
       "8": {
-        "value": "2rem",
+        "value": "32px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "32 gap"
       },
       "9": {
-        "value": "2.25rem",
+        "value": "36px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "36 gap"
       },
       "10": {
-        "value": "2.5rem",
+        "value": "40px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "40 gap"
       },
       "11": {
-        "value": "2.75rem",
+        "value": "44px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "44 gap"
       },
       "12": {
-        "value": "3rem",
+        "value": "48px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "48 gap"
       },
       "14": {
-        "value": "3.5rem",
+        "value": "56px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "56 gap"
       },
       "16": {
-        "value": "4rem",
+        "value": "64px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "64 gap"
       },
       "20": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "80 gap"
       },
       "24": {
-        "value": "6rem",
+        "value": "96px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "96 gap"
       },
       "28": {
-        "value": "7rem",
+        "value": "112px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "112 gap"
       },
       "32": {
-        "value": "8rem",
+        "value": "128px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "128 gap"
       },
       "36": {
-        "value": "9rem",
+        "value": "144px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "144 gap"
       },
       "40": {
-        "value": "10rem",
+        "value": "160px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "160 gap"
       },
       "44": {
-        "value": "11rem",
+        "value": "176px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "176 gap"
       },
       "48": {
-        "value": "12rem",
+        "value": "192px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "192 gap"
       },
       "52": {
-        "value": "13rem",
+        "value": "208px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "208 gap"
       },
       "56": {
-        "value": "14rem",
+        "value": "224px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "224 gap"
       },
       "60": {
-        "value": "15rem",
+        "value": "240px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "240 gap"
       },
       "64": {
-        "value": "16rem",
+        "value": "256px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "256 gap"
       },
       "72": {
-        "value": "18rem",
+        "value": "288px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "288 gap"
       },
       "80": {
-        "value": "20rem",
+        "value": "320px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "320 gap"
       },
       "96": {
-        "value": "24rem",
+        "value": "384px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "384 gap"
       },
       "px": {
-        "value": "0.0625rem",
+        "value": "1px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "1 gap"
       },
       "0,5": {
-        "value": "0.125rem",
+        "value": "2px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "2 gap"
       },
       "1,5": {
-        "value": "0.375rem",
+        "value": "6px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "6 gap"
       },
       "2,5": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "10 gap"
       },
       "3,5": {
-        "value": "0.875rem",
+        "value": "14px",
         "type": "dimension",
         "parent": "Space/Value",
         "description": "14 gap"
@@ -1533,127 +1350,127 @@
   "Opacity/Value": {
     "opacity": {
       "0": {
-        "value": "0rem",
+        "value": "0px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "0px"
       },
       "5": {
-        "value": "0.3125rem",
+        "value": "5px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "24px"
       },
       "10": {
-        "value": "0.625rem",
+        "value": "10px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "40px"
       },
       "15": {
-        "value": "0.9375rem",
+        "value": "15px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "44px"
       },
       "20": {
-        "value": "1.25rem",
+        "value": "20px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "80px"
       },
       "25": {
-        "value": "1.5625rem",
+        "value": "25px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "96px"
       },
       "30": {
-        "value": "1.875rem",
+        "value": "30px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "112px"
       },
       "35": {
-        "value": "2.1875rem",
+        "value": "35px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "128px"
       },
       "40": {
-        "value": "2.5rem",
+        "value": "40px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "160px"
       },
       "45": {
-        "value": "2.8125rem",
+        "value": "45px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "176px"
       },
       "50": {
-        "value": "3.125rem",
+        "value": "50px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "192px"
       },
       "55": {
-        "value": "3.4375rem",
+        "value": "55px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "208px"
       },
       "60": {
-        "value": "3.75rem",
+        "value": "60px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "240px"
       },
       "65": {
-        "value": "4.0625rem",
+        "value": "65px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "256px"
       },
       "70": {
-        "value": "4.375rem",
+        "value": "70px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "288px"
       },
       "75": {
-        "value": "4.6875rem",
+        "value": "75px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "288px"
       },
       "80": {
-        "value": "5rem",
+        "value": "80px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "320px"
       },
       "85": {
-        "value": "5.3125rem",
+        "value": "85px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "320px"
       },
       "90": {
-        "value": "5.625rem",
+        "value": "90px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "384px"
       },
       "95": {
-        "value": "5.9375rem",
+        "value": "95px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "384px"
       },
       "100": {
-        "value": "6.25rem",
+        "value": "100px",
         "type": "dimension",
         "parent": "Opacity/Value",
         "description": "384px"
