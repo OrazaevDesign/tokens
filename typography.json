@@ -2,28 +2,28 @@
   "Font-weight/Light": {
     "font-weight": {
       "value": 300,
-      "type": "number",
+      "type": "fontWeights",
       "parent": "Font-weight/Light"
     }
   },
   "Font-weight/Regular": {
     "font-weight": {
-      "value": 400,
-      "type": "number",
+      "value": "400",
+      "type": "fontWeights",
       "parent": "Font-weight/Regular"
     }
   },
   "Font-weight/Semibold": {
     "font-weight": {
       "value": 600,
-      "type": "number",
+      "type": "fontWeights",
       "parent": "Font-weight/Semibold"
     }
   },
   "Font-weight/Bold": {
     "font-weight": {
       "value": 700,
-      "type": "number",
+      "type": "fontWeights",
       "parent": "Font-weight/Bold"
     }
   },
@@ -31,270 +31,270 @@
     "font-size": {
       "50": {
         "value": 10,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "100": {
         "value": 11,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "200": {
         "value": 12,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "300": {
         "value": 13,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "400": {
         "value": 14,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "500": {
         "value": 15,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "600": {
         "value": 16,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "700": {
         "value": 17,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "800": {
         "value": 18,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "850": {
         "value": 20,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "900": {
         "value": 24,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "950": {
         "value": 28,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       },
       "1000": {
         "value": 32,
-        "type": "number",
+        "type": "fontSizes",
         "parent": "Control/Value"
       }
     },
     "line-height": {
       "50": {
         "value": 12,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "100": {
         "value": 16,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "200": {
         "value": 16,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "300": {
         "value": 16,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "400": {
         "value": 20,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value",
         "oldValue": "1.125rem"
       },
       "500": {
         "value": 20,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "600": {
         "value": 20,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "700": {
         "value": 24,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value",
         "oldValue": "1.375rem"
       },
       "800": {
         "value": 24,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "850": {
         "value": 28,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "900": {
         "value": 32,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "950": {
         "value": 36,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       },
       "1000": {
         "value": 40,
-        "type": "number",
+        "type": "lineHeights",
         "parent": "Control/Value"
       }
     },
     "letter-spacing": {
       "50": {
         "value": 0.800000011920929,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "100": {
         "value": 0.800000011920929,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "200": {
         "value": 0.4000000059604645,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "300": {
         "value": 0.4000000059604645,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "400": {
         "value": 0,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "500": {
         "value": 0,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "600": {
         "value": 0,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "700": {
         "value": 0,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "800": {
         "value": -0.4000000059604645,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "850": {
         "value": -0.800000011920929,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "900": {
         "value": -1,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "950": {
         "value": -1.2000000476837158,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       },
       "1000": {
         "value": -1.600000023841858,
-        "type": "number",
+        "type": "letterSpacing",
         "parent": "Control/Value"
       }
     },
     "paragraph-spacing": {
       "50": {
         "value": "{space.10}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "100": {
         "value": "{space.12}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "200": {
         "value": "{space.12}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "300": {
         "value": "{space.14}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "400": {
         "value": "{space.14}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "500": {
         "value": "{space.16}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "600": {
         "value": "{space.16}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "700": {
         "value": "{space.20}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "800": {
         "value": "{space.20}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "850": {
         "value": "{space.20}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "900": {
         "value": "{space.24}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "950": {
         "value": "{space.28}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       },
       "1000": {
         "value": "{space.40}",
-        "type": "number",
+        "type": "paragraphSpacing",
         "parent": "Control/Value"
       }
     },
@@ -384,208 +384,208 @@
       "font-size": {
         "50": {
           "value": 10,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "100": {
           "value": 11,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "200": {
           "value": 12,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "300": {
           "value": 13,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "400": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "500": {
           "value": 15,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "600": {
           "value": 16,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "700": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "800": {
           "value": 18,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "900": {
           "value": 20,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "50": {
           "value": 14,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "100": {
           "value": 15,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "200": {
           "value": 17,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "300": {
           "value": 18,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "400": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "500": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "600": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "700": {
           "value": 24,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "800": {
           "value": 26,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "900": {
           "value": 28,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "50": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "100": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "200": {
           "value": 0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "300": {
           "value": 0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "400": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "500": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "600": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "700": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "800": {
           "value": -0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "900": {
           "value": -0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "50": {
-          "value": 10,
-          "type": "number",
+          "value": "{space.10}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "100": {
-          "value": 11,
-          "type": "number",
+          "value": "{space.3}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "200": {
-          "value": 12,
-          "type": "number",
+          "value": "{space.3}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "300": {
-          "value": 13,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "400": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "500": {
-          "value": 15,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "600": {
-          "value": 16,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "700": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "800": {
-          "value": 18,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "900": {
-          "value": 20,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         }
       }
@@ -594,108 +594,108 @@
       "font-size": {
         "t1": {
           "value": 40,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "t2": {
           "value": 34,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "t3": {
           "value": 28,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "t4": {
           "value": 24,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "t5": {
           "value": 18,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "t1": {
           "value": 48,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "t2": {
           "value": 40,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "t3": {
           "value": 32,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "t4": {
           "value": 28,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "t5": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "t1": {
           "value": -2,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "t2": {
           "value": -1.600000023841858,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "t3": {
           "value": -1.2000000476837158,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "t4": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "t5": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "t1": {
-          "value": 40,
-          "type": "number",
+          "value": "{space.10}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "t2": {
-          "value": 34,
-          "type": "number",
+          "value": "{space.9}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "t3": {
-          "value": 28,
-          "type": "number",
+          "value": "{space.7}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "t4": {
-          "value": 24,
-          "type": "number",
+          "value": "{space.6}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "t5": {
-          "value": 18,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         }
       }
@@ -704,108 +704,108 @@
       "font-size": {
         "h1": {
           "value": 32,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "h2": {
           "value": 20,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "h3": {
           "value": 18,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "h4": {
           "value": 16,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "h5": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "h1": {
           "value": 36,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "h2": {
           "value": 24,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "h3": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "h4": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "h5": {
           "value": 17,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "h1": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "h2": {
           "value": -0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "h3": {
           "value": -0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "h4": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "h5": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "h1": {
-          "value": 32,
-          "type": "number",
+          "value": "{space.8}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "h2": {
-          "value": 20,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "h3": {
-          "value": 18,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "h4": {
-          "value": 16,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "h5": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         }
       }
@@ -814,108 +814,108 @@
       "font-size": {
         "d1": {
           "value": 70,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "d2": {
           "value": 64,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "d3": {
           "value": 58,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "d4": {
           "value": 52,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         },
         "d5": {
           "value": 48,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "d1": {
           "value": 84,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "d2": {
           "value": 76,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "d3": {
           "value": 70,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "d4": {
           "value": 62,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         },
         "d5": {
           "value": 58,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "d1": {
           "value": -2,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "d2": {
           "value": -2.5999999046325684,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "d3": {
           "value": -1.2000000476837158,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "d4": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         },
         "d5": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "d1": {
-          "value": 70,
-          "type": "number",
+          "value": "{opacity.70}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "d2": {
-          "value": 64,
-          "type": "number",
+          "value": "{space.16}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "d3": {
-          "value": 58,
-          "type": "number",
+          "value": "{space.40}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "d4": {
-          "value": 52,
-          "type": "number",
+          "value": "{space.52}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         },
         "d5": {
-          "value": 48,
-          "type": "number",
+          "value": "{space.7}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Desktop"
         }
       }
@@ -926,215 +926,215 @@
       "font-size": {
         "50": {
           "value": 10,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "100": {
           "value": 11,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "200": {
           "value": 12,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "300": {
           "value": 13,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet",
           "oldValue": "0.75rem"
         },
         "400": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet",
           "oldValue": "0.8125rem"
         },
         "500": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "600": {
           "value": 15,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "700": {
           "value": 16,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "800": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "900": {
           "value": 18,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "50": {
           "value": 14,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "100": {
           "value": 15,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "200": {
           "value": 17,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "300": {
           "value": 18,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet",
           "oldValue": "1.0625rem"
         },
         "400": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet",
           "oldValue": "1.125rem"
         },
         "500": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "600": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "700": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "800": {
           "value": 24,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "900": {
           "value": 26,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "50": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "100": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "200": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "300": {
           "value": 0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "400": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "0.02500000037252903rem"
         },
         "500": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "600": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "700": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "800": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "900": {
           "value": -0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "50": {
-          "value": 10,
-          "type": "number",
+          "value": "{space.10}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "100": {
-          "value": 11,
-          "type": "number",
+          "value": "{space.3}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "200": {
-          "value": 12,
-          "type": "number",
+          "value": "{space.3}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "300": {
-          "value": 13,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "0.8125rem"
         },
         "500": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "600": {
-          "value": 15,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "700": {
-          "value": 16,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "800": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "900": {
-          "value": 18,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         }
       }
@@ -1143,119 +1143,119 @@
       "font-size": {
         "t1": {
           "value": 34,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet",
           "oldValue": "2.5rem"
         },
         "t2": {
           "value": 28,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet",
           "oldValue": "2rem"
         },
         "t3": {
           "value": 24,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "t4": {
           "value": 18,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet",
           "oldValue": "1.25rem"
         },
         "t5": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "t1": {
           "value": 40,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet",
           "oldValue": "3rem"
         },
         "t2": {
           "value": 32,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet",
           "oldValue": "2.25rem"
         },
         "t3": {
           "value": 28,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "t4": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet",
           "oldValue": "1.5rem"
         },
         "t5": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "t1": {
           "value": -1.600000023841858,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "-0.125rem"
         },
         "t2": {
           "value": -1.2000000476837158,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "-0.10000000149011612rem"
         },
         "t3": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "t4": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "t5": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "t1": {
-          "value": 34,
-          "type": "number",
+          "value": "{space.9}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "2.5rem"
         },
         "t2": {
-          "value": 28,
-          "type": "number",
+          "value": "{space.7}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "2rem"
         },
         "t3": {
-          "value": 24,
-          "type": "number",
+          "value": "{space.6}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "t4": {
-          "value": 18,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         }
       }
@@ -1264,108 +1264,108 @@
       "font-size": {
         "h1": {
           "value": 24,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "h2": {
           "value": 20,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "h3": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "h4": {
           "value": 16,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "h5": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "h1": {
           "value": 28,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "h2": {
           "value": 24,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "h3": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "h4": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "h5": {
           "value": 17,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "h1": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "h2": {
           "value": -0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "h3": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "h4": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "h5": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "h1": {
-          "value": 24,
-          "type": "number",
+          "value": "{space.6}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "h2": {
-          "value": 20,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "h3": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "h4": {
-          "value": 16,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "h5": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         }
       }
@@ -1374,108 +1374,108 @@
       "font-size": {
         "d1": {
           "value": 64,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "d2": {
           "value": 58,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "d3": {
           "value": 52,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "d4": {
           "value": 48,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         },
         "d5": {
           "value": 40,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "d1": {
           "value": 76,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "d2": {
           "value": 70,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "d3": {
           "value": 62,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "d4": {
           "value": 58,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         },
         "d5": {
           "value": 48,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "d1": {
           "value": -2,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "d2": {
           "value": -1.600000023841858,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "d3": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "d4": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         },
         "d5": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "d1": {
-          "value": 64,
-          "type": "number",
+          "value": "{space.16}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "d2": {
-          "value": 58,
-          "type": "number",
+          "value": "{space.40}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "d3": {
-          "value": 52,
-          "type": "number",
+          "value": "{space.52}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "d4": {
-          "value": 48,
-          "type": "number",
+          "value": "{space.7}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         },
         "d5": {
-          "value": 40,
-          "type": "number",
+          "value": "{space.10}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Tablet"
         }
       }
@@ -1486,220 +1486,220 @@
       "font-size": {
         "50": {
           "value": 10,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "100": {
           "value": 11,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "200": {
           "value": 12,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "300": {
           "value": 13,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile",
           "oldValue": "0.75rem"
         },
         "400": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile",
           "oldValue": "0.75rem"
         },
         "500": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile",
           "oldValue": "0.8125rem"
         },
         "600": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "700": {
           "value": 15,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "800": {
           "value": 16,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "900": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "50": {
           "value": 14,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "100": {
           "value": 15,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile",
           "oldValue": "0.9624999761581421rem"
         },
         "200": {
           "value": 17,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "300": {
           "value": 18,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile",
           "oldValue": "1.0625rem"
         },
         "400": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile",
           "oldValue": "1.0625rem"
         },
         "500": {
           "value": 18,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "600": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "700": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "800": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "900": {
           "value": 24,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "50": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "100": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "200": {
           "value": 0.800000011920929,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "300": {
           "value": 0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "0.05000000074505806rem"
         },
         "400": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "0.02500000037252903rem"
         },
         "500": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "0.02500000037252903rem"
         },
         "600": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "700": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "800": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "900": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "50": {
-          "value": 10,
-          "type": "number",
+          "value": "{space.10}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "100": {
-          "value": 11,
-          "type": "number",
+          "value": "{space.3}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "200": {
-          "value": 12,
-          "type": "number",
+          "value": "{space.3}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "300": {
-          "value": 13,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "0.75rem"
         },
         "500": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "0.8125rem"
         },
         "600": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "700": {
-          "value": 15,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "800": {
-          "value": 16,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "900": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         }
       }
@@ -1708,123 +1708,123 @@
       "font-size": {
         "t1": {
           "value": 28,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile",
           "oldValue": "2.125rem"
         },
         "t2": {
           "value": 24,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile",
           "oldValue": "1.75rem"
         },
         "t3": {
           "value": 18,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile",
           "oldValue": "1.375rem"
         },
         "t4": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile",
           "oldValue": "1.25rem"
         },
         "t5": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "t1": {
           "value": 32,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile",
           "oldValue": "2.5rem"
         },
         "t2": {
           "value": 28,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile",
           "oldValue": "2rem"
         },
         "t3": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile",
           "oldValue": "1.625rem"
         },
         "t4": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile",
           "oldValue": "1.5rem"
         },
         "t5": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "t1": {
           "value": -1.2000000476837158,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "-0.10000000149011612rem"
         },
         "t2": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "-0.07500000298023224rem"
         },
         "t3": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "t4": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "-0.0625rem"
         },
         "t5": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "t1": {
-          "value": 28,
-          "type": "number",
+          "value": "{space.7}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "2.125rem"
         },
         "t2": {
-          "value": 24,
-          "type": "number",
+          "value": "{space.6}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "1.75rem"
         },
         "t3": {
-          "value": 18,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "1.375rem"
         },
         "t4": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         }
       }
@@ -1833,108 +1833,108 @@
       "font-size": {
         "h1": {
           "value": 20,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "h2": {
           "value": 18,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "h3": {
           "value": 17,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "h4": {
           "value": 16,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "h5": {
           "value": 14,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "h1": {
           "value": 24,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "h2": {
           "value": 22,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "h3": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "h4": {
           "value": 20,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "h5": {
           "value": 17,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "h1": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "h2": {
           "value": -0.4000000059604645,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "h3": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "h4": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "h5": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "h1": {
-          "value": 20,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "h2": {
-          "value": 18,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "h3": {
-          "value": 17,
-          "type": "number",
+          "value": "{space.5}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "h4": {
-          "value": 16,
-          "type": "number",
+          "value": "{space.4}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "h5": {
-          "value": 14,
-          "type": "number",
+          "value": "{space.14}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         }
       }
@@ -1943,108 +1943,108 @@
       "font-size": {
         "d1": {
           "value": 48,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "d2": {
           "value": 40,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "d3": {
           "value": 34,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "d4": {
           "value": 32,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         },
         "d5": {
           "value": 28,
-          "type": "number",
+          "type": "fontSizes",
           "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "d1": {
           "value": 58,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "d2": {
           "value": 48,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "d3": {
           "value": 40,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "d4": {
           "value": 36,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         },
         "d5": {
           "value": 32,
-          "type": "number",
+          "type": "lineHeights",
           "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "d1": {
           "value": -1.600000023841858,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "d2": {
           "value": -1.2000000476837158,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "d3": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "d4": {
           "value": -1,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         },
         "d5": {
           "value": 0,
-          "type": "number",
+          "type": "letterSpacing",
           "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "d1": {
-          "value": 48,
-          "type": "number",
+          "value": "{space.12}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "d2": {
-          "value": 40,
-          "type": "number",
+          "value": "{space.10}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "d3": {
-          "value": 34,
-          "type": "number",
+          "value": "{space.9}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "d4": {
-          "value": 32,
-          "type": "number",
+          "value": "{space.8}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         },
         "d5": {
-          "value": 28,
-          "type": "number",
+          "value": "{space.7}",
+          "type": "paragraphSpacing",
           "parent": "Typography/Mobile"
         }
       }
@@ -2059,109 +2059,109 @@
         "Typography/Desktop": "enabled"
       },
       "group": "Typography",
-      "$figmaCollectionId": "VariableCollectionId:173:54",
-      "$figmaModeId": "173:0",
+      "$figmaCollectionId": "VariableCollectionId:1:625",
+      "$figmaModeId": "1:7",
       "$figmaVariableReferences": {
-        "body.font-size.50": "d8a7d000e7c9e5fb751ce7e703a04102d81d9cb6",
-        "body.font-size.100": "884e1d6d7a7c4c32ed72c89d776291ddef5dad0d",
-        "body.font-size.200": "2e7d1985c0c41b2081c8ab5344265dacc81e53d6",
-        "body.font-size.300": "ed9b2d407edc79a0b9af64081283b3c7e691a761",
-        "body.font-size.400": "77ab46e844bc240847477cb91d7a79a871bd9295",
-        "body.font-size.500": "75e60f81d67a52028190c96c1bc9ef5ca4a86a93",
-        "body.font-size.600": "2ffed8fe31c81e324b5c434adacb36e7a52dee85",
-        "body.font-size.700": "6d543db682d2cf4c475a7277adc42d25e3e9d092",
-        "body.font-size.800": "fb529975d0dfd1c08493a5a96baaf2f3b171b293",
-        "body.font-size.900": "2570efce8bfee698f662bdeddf5f23b100c26cb5",
-        "body.line-height.50": "b2b2068cc7ab1327ab99d83ce55fd684ab27c7a3",
-        "body.line-height.100": "ef630b9892772577936b128bd3b4cd206c31bd0c",
-        "body.line-height.200": "03f8fb14e42447057c4c08c1217870b798444765",
-        "body.line-height.300": "8ca5daa5cc5246864ff7dba3f53aedd4f6f02dd8",
-        "body.line-height.400": "004ec18f67dc416837b2bb55231161d76f49eb5d",
-        "body.line-height.500": "bd5e432a86911d86bc28d0a3e2dede41178bd72d",
-        "body.line-height.600": "480a22b81d1561c0d03dea3916daad641250df36",
-        "body.line-height.700": "198f6adc2debd81daad99f967aec23484bf131a5",
-        "body.line-height.800": "b674b972f4a1d634c933413f09065271b8cc3ed3",
-        "body.line-height.900": "9a121b5a93657d3aed2ba72ec0f6f4ad353f4a18",
-        "body.letter-spacing.50": "1424444464ee1314b63525e701ceb38ed5bed751",
-        "body.letter-spacing.100": "86659f12a6e6f530a9fe2ca54cf2c4efd201ad47",
-        "body.letter-spacing.200": "ca245e8d0e3dbcdd1fe3781dd4396e4ec07f67c2",
-        "body.letter-spacing.300": "b35ed2e1c1ca57e04966445bf7b55c9ffbf2f731",
-        "body.letter-spacing.400": "766c59aac0e5fc92d4d5538246843e486a15019c",
-        "body.letter-spacing.500": "0a44c41d6e6144f9473d068dc39db52b885193cd",
-        "body.letter-spacing.600": "14589563b7799669454a3069107536e202809376",
-        "body.letter-spacing.700": "4cdb4b821187aecd757958eafb787defd10f3513",
-        "body.letter-spacing.800": "c36f26a3a295c095dbbb2190280360793eddbdfa",
-        "body.letter-spacing.900": "b90de5986f476e3079d9957562360f76c303714e",
-        "body.paragraph-spacing.50": "b03dc2f3265b81d47535713d0a0f45e4e3355045",
-        "body.paragraph-spacing.100": "667b35607629ff4d1ecc7b7b311c45e0e35f47e7",
-        "body.paragraph-spacing.200": "2fda937e6dc98f6929c529749fdedf513f18df5d",
-        "body.paragraph-spacing.300": "26fd252728979d0616309beb0521c69259e0ba01",
-        "body.paragraph-spacing.400": "910c0be3619e4a3c203fbcb781c926950c4c0da2",
-        "body.paragraph-spacing.500": "c3f080c312ec5d986b4e5fd01a143accb8d6c6d9",
-        "body.paragraph-spacing.600": "354c4cdc96707c9f6973f352fde87465897ef67e",
-        "body.paragraph-spacing.700": "85de2e2acd36726ce6b5f074266fb6356c33ae39",
-        "body.paragraph-spacing.800": "da44068c8b7996181767090a2eea840e7c809cf7",
-        "body.paragraph-spacing.900": "8b0dd702ad87f0603479b295b0ee89c94e2a4fe9",
-        "title.font-size.t1": "7783cd19c00811d627c61ab546890e76b4e9af25",
-        "title.font-size.t2": "6697e8f31666fcbab87c2d4d539b1bfdf76af732",
-        "title.font-size.t3": "752d8f4ff02fcc64591d06f564f09333e2aa13a8",
-        "title.font-size.t4": "e982c2019ba165480b5d67cf0f2967f968d05cc7",
-        "title.font-size.t5": "0966949ccee2774f660eef6d295577c2281b005c",
-        "title.line-height.t1": "f2174d4209cd1d812a4a18f6f81a8026f9e2f3cc",
-        "title.line-height.t2": "27ece512598f9a9422be490c3aa20667f7988e40",
-        "title.line-height.t3": "082fda77d61007aa50be1007c4e1d0bf033eb279",
-        "title.line-height.t4": "8ed7aec0ff3b5b2e7a844a271cf616a0e60fcb24",
-        "title.line-height.t5": "e211450460df62e93e861ed9a8623ef10f580b38",
-        "title.letter-spacing.t1": "5f567e6baad5e8a1afe476c268c94ae09a887111",
-        "title.letter-spacing.t2": "e443e1c534de1481de850b19eb758316c4cbaef9",
-        "title.letter-spacing.t3": "690f0f1b2cd74dcbef8a7958f93a8a6f5eff5a7d",
-        "title.letter-spacing.t4": "4804e15b6df620b25ed49e0ad56b6f839421ee4f",
-        "title.letter-spacing.t5": "fce00ed5aee6a58c034cb5cbba1d3c78fd20bb28",
-        "title.paragraph-spacing.t1": "0330c881f79cefabdd0ed06fa57510ea639f8ff9",
-        "title.paragraph-spacing.t2": "fdfe8d62d4f0cd1f9d81a9f860df823a82dcb052",
-        "title.paragraph-spacing.t3": "04f12d89dd8ac525e75aa1c7d230a342655f25c9",
-        "title.paragraph-spacing.t4": "f63ca38af9f0ff87426c222208268b5a499bf16f",
-        "title.paragraph-spacing.t5": "0e7e03139845159a701c5e4bf06585416e22a057",
-        "heading.font-size.h1": "fcdde686ef572731d73336b19b10d385e958ae8f",
-        "heading.font-size.h2": "ec137bcb269f711779d0388b2f5f5e7bb8e3393c",
-        "heading.font-size.h3": "5b4112312436a4bdbef95d48e3a0ee69ef8882e4",
-        "heading.font-size.h4": "451c9954f2edd52b54b92a4aa3a2e68a17a0eec4",
-        "heading.font-size.h5": "0924f7b823109b65348ce20bc749230b8cccc17d",
-        "heading.line-height.h1": "b180dfb31be6d09d5bf0f0b144b297fbefb6b08e",
-        "heading.line-height.h2": "49c734012859a39b2adfd6950839abd1c1960658",
-        "heading.line-height.h3": "85ef43009864f89de559127b4ca6536b116d84c6",
-        "heading.line-height.h4": "f6797e838afdf0c177aadc89b1f768df6bb01a6b",
-        "heading.line-height.h5": "ebc41fc658b477a0bfbc771d38143d0195f85ad1",
-        "heading.letter-spacing.h1": "ce0ca2a8cc7b02f10bd4c79ac44a19013e32b023",
-        "heading.letter-spacing.h2": "2d91188bcb89d3ef1914b3bf2dc0525433b5065a",
-        "heading.letter-spacing.h3": "488984a9291308560b4bef505f967ab52c84126e",
-        "heading.letter-spacing.h4": "8c9bd93c8abead7286de8a0738e0d8c75cb7de29",
-        "heading.letter-spacing.h5": "af222b98e2f1a89b166cf987909187bea3fe65df",
-        "heading.paragraph-spacing.h1": "1fb647a2ec1705f1a290692468707fdaae40f57e",
-        "heading.paragraph-spacing.h2": "e41e4430cd6f5e59dad1af2a634cade7e5772b51",
-        "heading.paragraph-spacing.h3": "a5d5544cb11832ae2ae82d85cb32cf5f4b5e3801",
-        "heading.paragraph-spacing.h4": "8e902df15571e29d7827100e688b1f3a563988bb",
-        "heading.paragraph-spacing.h5": "21fbae3047d1784acb3da6ce2f1f81343fc44f5b",
-        "display.font-size.d1": "b4f62ef2f7a4f9ba9626570eabb1d95653a36881",
-        "display.font-size.d2": "b1110d1c46c1d740b64f8171c912bf9ab3d36b6a",
-        "display.font-size.d3": "ac36861399f8c57ac1c2b427fd29f61bef47e7e6",
-        "display.font-size.d4": "b37a35946d6bcd1429c7a29d0bb47df9f05e6e76",
-        "display.font-size.d5": "56d331bd63fe2e223bea6e6f1edd46f48358b596",
-        "display.line-height.d1": "48b63284d2c4a47fb5b01703d773242d0398890b",
-        "display.line-height.d2": "ef84034d6d343fface7a6bbd99a0e47ddf68a882",
-        "display.line-height.d3": "89ab893296ae43a035976e52cdb142b26ad08544",
-        "display.line-height.d4": "f784dd841d13c2707436967fb9481dbdad4dcb1c",
-        "display.line-height.d5": "d316ecf702ee70d209d895cf6d5ea7614fb13d33",
-        "display.letter-spacing.d1": "27a38c5c9b4c6c3a560a1504df191a025afc91a5",
-        "display.letter-spacing.d2": "e55260e0c7a8dafbe764a34f5dc46d45487a542d",
-        "display.letter-spacing.d3": "38a1be66a6406c8e269320a67998388a122e5540",
-        "display.letter-spacing.d4": "d216abc3aaace791b6d178d5e90d7a0267f24806",
-        "display.letter-spacing.d5": "d926a22f47dc930568fa276638ee5394124bbfed",
-        "display.paragraph-spacing.d1": "344a5e3611bc5277da4ce7fc3befb04059f28c3e",
-        "display.paragraph-spacing.d2": "eddca28b9c290b35c6a008b212bdd0ac03b289a3",
-        "display.paragraph-spacing.d3": "47b7e70c936c0907ad0621484d0b37e1f1028baa",
-        "display.paragraph-spacing.d4": "5ffea1d16019cf573bb8385e2eda9e8b3420c7c0",
-        "display.paragraph-spacing.d5": "35919f3db736b67615afa284af98cb1c6388ec79"
+        "body.font-size.50": "b01083b78718ef56efa825ec406fc9c9e6331722",
+        "body.font-size.100": "02465ca1012d8b570e6302642ef81caaaf538c08",
+        "body.font-size.200": "1f0ef177edc454618fb9586ffe1e587aede77783",
+        "body.font-size.300": "b51fe6f64e36d2242dfa0209dd3ec08b9ff5f64c",
+        "body.font-size.400": "cc68ebc2249d5e835af6dbe80e9ec2c0423aaf9c",
+        "body.font-size.500": "73af1e5dd9c67ef380c390cf4fbbdf0a78b5a16b",
+        "body.font-size.600": "ba257256ee27583c6cac31524da8c4297990fa40",
+        "body.font-size.700": "e62a409b32286bebf442c77b2f600fad71945f63",
+        "body.font-size.800": "8db68b72bda25a128e4cee5554757f10d80f86cb",
+        "body.font-size.900": "35106d96d7739469b3d00f2121d8c08cd62c8af9",
+        "body.line-height.50": "8817ab0cb48ca5db300f3a4369995303a2fb5e14",
+        "body.line-height.100": "5d527bb8da94b9e8db5380cb4010052ccd06a859",
+        "body.line-height.200": "f14700c52fc0376e561db259911db14d7786e365",
+        "body.line-height.300": "ec3c4348c2d8ae18a0e3d0af202d2aa52ac2ab27",
+        "body.line-height.400": "43ce64af8478a73b2d3f0ae151a466db3c5e0e1d",
+        "body.line-height.500": "995918808bbcb4389ea035313dd5fd91e0439257",
+        "body.line-height.600": "255193678b23945a385e4a74b5014968e3f9daaf",
+        "body.line-height.700": "f42163d3dcaba81d6cef0e54d1e0ce81eb73d1e9",
+        "body.line-height.800": "9dfc5c94ad788700ef2fd67a45f9421d4ef4194b",
+        "body.line-height.900": "54d2890c839948e9d65ef83eff3ff0cf5be32341",
+        "body.letter-spacing.50": "6f63de08dbac263016d5b98c3730704b4a08059c",
+        "body.letter-spacing.100": "d1cefc932b86d2be3afbdc11568d1fe3f41d5ed1",
+        "body.letter-spacing.200": "aa0ad5de1e513c0c69b983a4b08202368d84d8dd",
+        "body.letter-spacing.300": "b0263a569f4707eca8bfb7b5b8c688c918d4105a",
+        "body.letter-spacing.400": "bc92e9407511cca5cd47293d8aba49bd7591a383",
+        "body.letter-spacing.500": "f4d7225bbd5e7364d1c125d5b9ca082ce26f3c48",
+        "body.letter-spacing.600": "778b2ce22bf6497e5515daedc04a54ae4fd05b50",
+        "body.letter-spacing.700": "d5ea04b453451b65ea3f02ec0ed51ed985764802",
+        "body.letter-spacing.800": "8b682728c7a18f05fea65631bf4b21820e04ef83",
+        "body.letter-spacing.900": "d1218bbb5d69034a51661928c1a2d85910df4193",
+        "body.paragraph-spacing.50": "6bd4cb7af8bfb76cc2de9eceed2b3f29fe06f751",
+        "body.paragraph-spacing.100": "e2846a1683a915443206ba2784bd58579d64069d",
+        "body.paragraph-spacing.200": "d5206105dab7103c54291b66abe09e30035b5116",
+        "body.paragraph-spacing.300": "b22c2c0d3a988c1a77be3d1c6f1cd0ec3d1cff1d",
+        "body.paragraph-spacing.400": "aef7bf31897d87bd6bd63188f87697aed3c7985f",
+        "body.paragraph-spacing.500": "604d70cff39199b0835283a5a881a1ff4ae7a49a",
+        "body.paragraph-spacing.600": "5ac5bb984420bb8a406498e051dc37daf802e0ca",
+        "body.paragraph-spacing.700": "0efe1f20785991bb9d4e08fdc05fd78729c678a1",
+        "body.paragraph-spacing.800": "2137396e506adc324e55123d2f97270e20b98728",
+        "body.paragraph-spacing.900": "c631a2112c8eef1203a1180ec99da842ca181845",
+        "title.font-size.t1": "9da86876c9f86fc1514b34ebefd39b3bb7a66aac",
+        "title.font-size.t2": "9351ba9e3481d2053e23f51a6d25ee9a36a351fb",
+        "title.font-size.t3": "1dee47d35aa935a5343b629bb70a48aadc4a3d29",
+        "title.font-size.t4": "321e62d45fa8a27677fb5e0405b41bd0e92ef8db",
+        "title.font-size.t5": "619ab917eeda440075417b76b665bed54adb55c9",
+        "title.line-height.t1": "a50fefb5b901604f9102f39d7744830ae8cb9581",
+        "title.line-height.t2": "dced2a43813dd7220cc8937ac279dd08a5838271",
+        "title.line-height.t3": "fd2e42142e97fff8ca1233f67eed2b89ffe5d615",
+        "title.line-height.t4": "5b976a02fdc0972c38566bd0ae9ab28658943da5",
+        "title.line-height.t5": "8f5d1eb8c1c6aeeef8860a9ab2c68aa21be032f6",
+        "title.letter-spacing.t1": "d6f129173301c2f01c9cd8979246b9bbd9d91c63",
+        "title.letter-spacing.t2": "a6a3cfc2a8c7b589ee5a8553a6a009488cf98b29",
+        "title.letter-spacing.t3": "86620e77840e6e2ceb1dec04d99a288068e1441d",
+        "title.letter-spacing.t4": "b3e16d0f19043e2603f0885c5802b25360beaa10",
+        "title.letter-spacing.t5": "04a4d1ae95b5aa929e302518fe6c21e8f3d8c6f0",
+        "title.paragraph-spacing.t1": "9ee26ca8c9fe3e91bc9481d248aece9228c1b32b",
+        "title.paragraph-spacing.t2": "f331dcb7553d2c10ab346c99c239f59d56c7ac74",
+        "title.paragraph-spacing.t3": "e20c252f21c12a934d6cb6993095501dcdeef47a",
+        "title.paragraph-spacing.t4": "95615c060f585d2c181ec0f5b884a5925e321078",
+        "title.paragraph-spacing.t5": "ee9654d713bd0b52094ef6b382fad3d156497e87",
+        "heading.font-size.h1": "55e0488727c134f713f98cc5263a5c2caa380d6e",
+        "heading.font-size.h2": "c20a3c9eea405423c69682233c84c8fe647388af",
+        "heading.font-size.h3": "358be2f2ab1f0dbf800ac7b1c87de4897a6805c7",
+        "heading.font-size.h4": "0802ebe2906d11457f037c46211503d4c82380c6",
+        "heading.font-size.h5": "30b6c9c935bad7df5bfb8b41d224224727e8d4ce",
+        "heading.line-height.h1": "dc4fac2325320fec2d4bb614b11e06b5041090c1",
+        "heading.line-height.h2": "783026c45a1a5e3dd024afc818a46d98b3abbee1",
+        "heading.line-height.h3": "7373e3d80b748e00d4dffccb6de967c337e01306",
+        "heading.line-height.h4": "aaf6fd090185e9cb8e8ecab15cd451076a101ca4",
+        "heading.line-height.h5": "fd546a87ee068d022ada43a5e844c301f69256a5",
+        "heading.letter-spacing.h1": "56d8fff1cec902998b27767d8f0231366bac4d26",
+        "heading.letter-spacing.h2": "69d62025d178195e7d138c1d25fa1d2454c31d40",
+        "heading.letter-spacing.h3": "e78590b3eaedb6b43fcabe1e8ab2b84e887ca302",
+        "heading.letter-spacing.h4": "c292dab523a3e46f91e988774a9faaebd3022e2d",
+        "heading.letter-spacing.h5": "d39c82b931bfa72545aad7c5ddf023b801dde162",
+        "heading.paragraph-spacing.h1": "e64ba0d42ac6ad58a5c6acaaf670c9de0484a6d0",
+        "heading.paragraph-spacing.h2": "60e0fc2906e155c5e3674635b7cd02a3e91f6070",
+        "heading.paragraph-spacing.h3": "3dd89cd038d27a0d29d8d4d97527944eaa9e2093",
+        "heading.paragraph-spacing.h4": "466be252388011df9112897de159cea972477131",
+        "heading.paragraph-spacing.h5": "6b1b5617bce88f36a80eedf1975ac9aa75b1248e",
+        "display.font-size.d1": "e1bdc3dd291bb70673796318c5ae664a3cc2ca9c",
+        "display.font-size.d2": "fa97f0dba954f48d3fabd2c509a83693bff5bc3a",
+        "display.font-size.d3": "ec50efb4dceba0ca2e08db03c6e678ae29043486",
+        "display.font-size.d4": "be93d315ac0bf5b955b2cc021078fc9660581c8e",
+        "display.font-size.d5": "11e6660fab03828c5fa86ea6e0a1cb280d9f682d",
+        "display.line-height.d1": "9d2fa582bfd0afeb3c4e63781b4e67b38c51e4a3",
+        "display.line-height.d2": "ea8fe4733bc54a07e0e2c0d5f5d9844dc639ba88",
+        "display.line-height.d3": "8d4a1b4a8e1513e36cded4d469f76d7eb699385c",
+        "display.line-height.d4": "a62743b745cd8394d0c7c581d276e95394799381",
+        "display.line-height.d5": "3961458b177049cc458c40720b39212614ef4e0a",
+        "display.letter-spacing.d1": "1dd3fc93bba6604edea03c57bc4767ec3e951bf4",
+        "display.letter-spacing.d2": "1742d210a52ce748bd48bb52d22bbadd0a1caab7",
+        "display.letter-spacing.d3": "285af1092648ffb7a6246714656ef550a0971f77",
+        "display.letter-spacing.d4": "2ac1ccb24a8355ba9022566d41debc0e6a0e4db6",
+        "display.letter-spacing.d5": "05bd288c4468b5a62dd66234049c7a3edc37e695",
+        "display.paragraph-spacing.d1": "1eed671b659a60c85c06c975d5a495457d742fc0",
+        "display.paragraph-spacing.d2": "a42b85508c9bb648b1e1f4101ef395553760ee4b",
+        "display.paragraph-spacing.d3": "514002b2b6cb1c192f3a352f45b2afd11154520b",
+        "display.paragraph-spacing.d4": "26ec603658ce235b8fe6ea4da026ecf149d2eebf",
+        "display.paragraph-spacing.d5": "ead356f14a8aeed0b3b30afeb4690e8ca50d76a2"
       }
     },
     {
@@ -2184,109 +2184,109 @@
         "Typography/Mobile": "enabled"
       },
       "group": "Typography",
-      "$figmaCollectionId": "VariableCollectionId:173:54",
-      "$figmaModeId": "173:2",
+      "$figmaCollectionId": "VariableCollectionId:1:625",
+      "$figmaModeId": "1:9",
       "$figmaVariableReferences": {
-        "body.font-size.50": "d8a7d000e7c9e5fb751ce7e703a04102d81d9cb6",
-        "body.font-size.100": "884e1d6d7a7c4c32ed72c89d776291ddef5dad0d",
-        "body.font-size.200": "2e7d1985c0c41b2081c8ab5344265dacc81e53d6",
-        "body.font-size.300": "ed9b2d407edc79a0b9af64081283b3c7e691a761",
-        "body.font-size.400": "77ab46e844bc240847477cb91d7a79a871bd9295",
-        "body.font-size.500": "75e60f81d67a52028190c96c1bc9ef5ca4a86a93",
-        "body.font-size.600": "2ffed8fe31c81e324b5c434adacb36e7a52dee85",
-        "body.font-size.700": "6d543db682d2cf4c475a7277adc42d25e3e9d092",
-        "body.font-size.800": "fb529975d0dfd1c08493a5a96baaf2f3b171b293",
-        "body.font-size.900": "2570efce8bfee698f662bdeddf5f23b100c26cb5",
-        "body.line-height.50": "b2b2068cc7ab1327ab99d83ce55fd684ab27c7a3",
-        "body.line-height.100": "ef630b9892772577936b128bd3b4cd206c31bd0c",
-        "body.line-height.200": "03f8fb14e42447057c4c08c1217870b798444765",
-        "body.line-height.300": "8ca5daa5cc5246864ff7dba3f53aedd4f6f02dd8",
-        "body.line-height.400": "004ec18f67dc416837b2bb55231161d76f49eb5d",
-        "body.line-height.500": "bd5e432a86911d86bc28d0a3e2dede41178bd72d",
-        "body.line-height.600": "480a22b81d1561c0d03dea3916daad641250df36",
-        "body.line-height.700": "198f6adc2debd81daad99f967aec23484bf131a5",
-        "body.line-height.800": "b674b972f4a1d634c933413f09065271b8cc3ed3",
-        "body.line-height.900": "9a121b5a93657d3aed2ba72ec0f6f4ad353f4a18",
-        "body.letter-spacing.50": "1424444464ee1314b63525e701ceb38ed5bed751",
-        "body.letter-spacing.100": "86659f12a6e6f530a9fe2ca54cf2c4efd201ad47",
-        "body.letter-spacing.200": "ca245e8d0e3dbcdd1fe3781dd4396e4ec07f67c2",
-        "body.letter-spacing.300": "b35ed2e1c1ca57e04966445bf7b55c9ffbf2f731",
-        "body.letter-spacing.400": "766c59aac0e5fc92d4d5538246843e486a15019c",
-        "body.letter-spacing.500": "0a44c41d6e6144f9473d068dc39db52b885193cd",
-        "body.letter-spacing.600": "14589563b7799669454a3069107536e202809376",
-        "body.letter-spacing.700": "4cdb4b821187aecd757958eafb787defd10f3513",
-        "body.letter-spacing.800": "c36f26a3a295c095dbbb2190280360793eddbdfa",
-        "body.letter-spacing.900": "b90de5986f476e3079d9957562360f76c303714e",
-        "body.paragraph-spacing.50": "b03dc2f3265b81d47535713d0a0f45e4e3355045",
-        "body.paragraph-spacing.100": "667b35607629ff4d1ecc7b7b311c45e0e35f47e7",
-        "body.paragraph-spacing.200": "2fda937e6dc98f6929c529749fdedf513f18df5d",
-        "body.paragraph-spacing.300": "26fd252728979d0616309beb0521c69259e0ba01",
-        "body.paragraph-spacing.400": "910c0be3619e4a3c203fbcb781c926950c4c0da2",
-        "body.paragraph-spacing.500": "c3f080c312ec5d986b4e5fd01a143accb8d6c6d9",
-        "body.paragraph-spacing.600": "354c4cdc96707c9f6973f352fde87465897ef67e",
-        "body.paragraph-spacing.700": "85de2e2acd36726ce6b5f074266fb6356c33ae39",
-        "body.paragraph-spacing.800": "da44068c8b7996181767090a2eea840e7c809cf7",
-        "body.paragraph-spacing.900": "8b0dd702ad87f0603479b295b0ee89c94e2a4fe9",
-        "title.font-size.t1": "7783cd19c00811d627c61ab546890e76b4e9af25",
-        "title.font-size.t2": "6697e8f31666fcbab87c2d4d539b1bfdf76af732",
-        "title.font-size.t3": "752d8f4ff02fcc64591d06f564f09333e2aa13a8",
-        "title.font-size.t4": "e982c2019ba165480b5d67cf0f2967f968d05cc7",
-        "title.font-size.t5": "0966949ccee2774f660eef6d295577c2281b005c",
-        "title.line-height.t1": "f2174d4209cd1d812a4a18f6f81a8026f9e2f3cc",
-        "title.line-height.t2": "27ece512598f9a9422be490c3aa20667f7988e40",
-        "title.line-height.t3": "082fda77d61007aa50be1007c4e1d0bf033eb279",
-        "title.line-height.t4": "8ed7aec0ff3b5b2e7a844a271cf616a0e60fcb24",
-        "title.line-height.t5": "e211450460df62e93e861ed9a8623ef10f580b38",
-        "title.letter-spacing.t1": "5f567e6baad5e8a1afe476c268c94ae09a887111",
-        "title.letter-spacing.t2": "e443e1c534de1481de850b19eb758316c4cbaef9",
-        "title.letter-spacing.t3": "690f0f1b2cd74dcbef8a7958f93a8a6f5eff5a7d",
-        "title.letter-spacing.t4": "4804e15b6df620b25ed49e0ad56b6f839421ee4f",
-        "title.letter-spacing.t5": "fce00ed5aee6a58c034cb5cbba1d3c78fd20bb28",
-        "title.paragraph-spacing.t1": "0330c881f79cefabdd0ed06fa57510ea639f8ff9",
-        "title.paragraph-spacing.t2": "fdfe8d62d4f0cd1f9d81a9f860df823a82dcb052",
-        "title.paragraph-spacing.t3": "04f12d89dd8ac525e75aa1c7d230a342655f25c9",
-        "title.paragraph-spacing.t4": "f63ca38af9f0ff87426c222208268b5a499bf16f",
-        "title.paragraph-spacing.t5": "0e7e03139845159a701c5e4bf06585416e22a057",
-        "heading.font-size.h1": "fcdde686ef572731d73336b19b10d385e958ae8f",
-        "heading.font-size.h2": "ec137bcb269f711779d0388b2f5f5e7bb8e3393c",
-        "heading.font-size.h3": "5b4112312436a4bdbef95d48e3a0ee69ef8882e4",
-        "heading.font-size.h4": "451c9954f2edd52b54b92a4aa3a2e68a17a0eec4",
-        "heading.font-size.h5": "0924f7b823109b65348ce20bc749230b8cccc17d",
-        "heading.line-height.h1": "b180dfb31be6d09d5bf0f0b144b297fbefb6b08e",
-        "heading.line-height.h2": "49c734012859a39b2adfd6950839abd1c1960658",
-        "heading.line-height.h3": "85ef43009864f89de559127b4ca6536b116d84c6",
-        "heading.line-height.h4": "f6797e838afdf0c177aadc89b1f768df6bb01a6b",
-        "heading.line-height.h5": "ebc41fc658b477a0bfbc771d38143d0195f85ad1",
-        "heading.letter-spacing.h1": "ce0ca2a8cc7b02f10bd4c79ac44a19013e32b023",
-        "heading.letter-spacing.h2": "2d91188bcb89d3ef1914b3bf2dc0525433b5065a",
-        "heading.letter-spacing.h3": "488984a9291308560b4bef505f967ab52c84126e",
-        "heading.letter-spacing.h4": "8c9bd93c8abead7286de8a0738e0d8c75cb7de29",
-        "heading.letter-spacing.h5": "af222b98e2f1a89b166cf987909187bea3fe65df",
-        "heading.paragraph-spacing.h1": "1fb647a2ec1705f1a290692468707fdaae40f57e",
-        "heading.paragraph-spacing.h2": "e41e4430cd6f5e59dad1af2a634cade7e5772b51",
-        "heading.paragraph-spacing.h3": "a5d5544cb11832ae2ae82d85cb32cf5f4b5e3801",
-        "heading.paragraph-spacing.h4": "8e902df15571e29d7827100e688b1f3a563988bb",
-        "heading.paragraph-spacing.h5": "21fbae3047d1784acb3da6ce2f1f81343fc44f5b",
-        "display.font-size.d1": "b4f62ef2f7a4f9ba9626570eabb1d95653a36881",
-        "display.font-size.d2": "b1110d1c46c1d740b64f8171c912bf9ab3d36b6a",
-        "display.font-size.d3": "ac36861399f8c57ac1c2b427fd29f61bef47e7e6",
-        "display.font-size.d4": "b37a35946d6bcd1429c7a29d0bb47df9f05e6e76",
-        "display.font-size.d5": "56d331bd63fe2e223bea6e6f1edd46f48358b596",
-        "display.line-height.d1": "48b63284d2c4a47fb5b01703d773242d0398890b",
-        "display.line-height.d2": "ef84034d6d343fface7a6bbd99a0e47ddf68a882",
-        "display.line-height.d3": "89ab893296ae43a035976e52cdb142b26ad08544",
-        "display.line-height.d4": "f784dd841d13c2707436967fb9481dbdad4dcb1c",
-        "display.line-height.d5": "d316ecf702ee70d209d895cf6d5ea7614fb13d33",
-        "display.letter-spacing.d1": "27a38c5c9b4c6c3a560a1504df191a025afc91a5",
-        "display.letter-spacing.d2": "e55260e0c7a8dafbe764a34f5dc46d45487a542d",
-        "display.letter-spacing.d3": "38a1be66a6406c8e269320a67998388a122e5540",
-        "display.letter-spacing.d4": "d216abc3aaace791b6d178d5e90d7a0267f24806",
-        "display.letter-spacing.d5": "d926a22f47dc930568fa276638ee5394124bbfed",
-        "display.paragraph-spacing.d1": "344a5e3611bc5277da4ce7fc3befb04059f28c3e",
-        "display.paragraph-spacing.d2": "eddca28b9c290b35c6a008b212bdd0ac03b289a3",
-        "display.paragraph-spacing.d3": "47b7e70c936c0907ad0621484d0b37e1f1028baa",
-        "display.paragraph-spacing.d4": "5ffea1d16019cf573bb8385e2eda9e8b3420c7c0",
-        "display.paragraph-spacing.d5": "35919f3db736b67615afa284af98cb1c6388ec79"
+        "body.font-size.50": "b01083b78718ef56efa825ec406fc9c9e6331722",
+        "body.font-size.100": "02465ca1012d8b570e6302642ef81caaaf538c08",
+        "body.font-size.200": "1f0ef177edc454618fb9586ffe1e587aede77783",
+        "body.font-size.300": "b51fe6f64e36d2242dfa0209dd3ec08b9ff5f64c",
+        "body.font-size.400": "cc68ebc2249d5e835af6dbe80e9ec2c0423aaf9c",
+        "body.font-size.500": "73af1e5dd9c67ef380c390cf4fbbdf0a78b5a16b",
+        "body.font-size.600": "ba257256ee27583c6cac31524da8c4297990fa40",
+        "body.font-size.700": "e62a409b32286bebf442c77b2f600fad71945f63",
+        "body.font-size.800": "8db68b72bda25a128e4cee5554757f10d80f86cb",
+        "body.font-size.900": "35106d96d7739469b3d00f2121d8c08cd62c8af9",
+        "body.line-height.50": "8817ab0cb48ca5db300f3a4369995303a2fb5e14",
+        "body.line-height.100": "5d527bb8da94b9e8db5380cb4010052ccd06a859",
+        "body.line-height.200": "f14700c52fc0376e561db259911db14d7786e365",
+        "body.line-height.300": "ec3c4348c2d8ae18a0e3d0af202d2aa52ac2ab27",
+        "body.line-height.400": "43ce64af8478a73b2d3f0ae151a466db3c5e0e1d",
+        "body.line-height.500": "995918808bbcb4389ea035313dd5fd91e0439257",
+        "body.line-height.600": "255193678b23945a385e4a74b5014968e3f9daaf",
+        "body.line-height.700": "f42163d3dcaba81d6cef0e54d1e0ce81eb73d1e9",
+        "body.line-height.800": "9dfc5c94ad788700ef2fd67a45f9421d4ef4194b",
+        "body.line-height.900": "54d2890c839948e9d65ef83eff3ff0cf5be32341",
+        "body.letter-spacing.50": "6f63de08dbac263016d5b98c3730704b4a08059c",
+        "body.letter-spacing.100": "d1cefc932b86d2be3afbdc11568d1fe3f41d5ed1",
+        "body.letter-spacing.200": "aa0ad5de1e513c0c69b983a4b08202368d84d8dd",
+        "body.letter-spacing.300": "b0263a569f4707eca8bfb7b5b8c688c918d4105a",
+        "body.letter-spacing.400": "bc92e9407511cca5cd47293d8aba49bd7591a383",
+        "body.letter-spacing.500": "f4d7225bbd5e7364d1c125d5b9ca082ce26f3c48",
+        "body.letter-spacing.600": "778b2ce22bf6497e5515daedc04a54ae4fd05b50",
+        "body.letter-spacing.700": "d5ea04b453451b65ea3f02ec0ed51ed985764802",
+        "body.letter-spacing.800": "8b682728c7a18f05fea65631bf4b21820e04ef83",
+        "body.letter-spacing.900": "d1218bbb5d69034a51661928c1a2d85910df4193",
+        "body.paragraph-spacing.50": "6bd4cb7af8bfb76cc2de9eceed2b3f29fe06f751",
+        "body.paragraph-spacing.100": "e2846a1683a915443206ba2784bd58579d64069d",
+        "body.paragraph-spacing.200": "d5206105dab7103c54291b66abe09e30035b5116",
+        "body.paragraph-spacing.300": "b22c2c0d3a988c1a77be3d1c6f1cd0ec3d1cff1d",
+        "body.paragraph-spacing.400": "aef7bf31897d87bd6bd63188f87697aed3c7985f",
+        "body.paragraph-spacing.500": "604d70cff39199b0835283a5a881a1ff4ae7a49a",
+        "body.paragraph-spacing.600": "5ac5bb984420bb8a406498e051dc37daf802e0ca",
+        "body.paragraph-spacing.700": "0efe1f20785991bb9d4e08fdc05fd78729c678a1",
+        "body.paragraph-spacing.800": "2137396e506adc324e55123d2f97270e20b98728",
+        "body.paragraph-spacing.900": "c631a2112c8eef1203a1180ec99da842ca181845",
+        "title.font-size.t1": "9da86876c9f86fc1514b34ebefd39b3bb7a66aac",
+        "title.font-size.t2": "9351ba9e3481d2053e23f51a6d25ee9a36a351fb",
+        "title.font-size.t3": "1dee47d35aa935a5343b629bb70a48aadc4a3d29",
+        "title.font-size.t4": "321e62d45fa8a27677fb5e0405b41bd0e92ef8db",
+        "title.font-size.t5": "619ab917eeda440075417b76b665bed54adb55c9",
+        "title.line-height.t1": "a50fefb5b901604f9102f39d7744830ae8cb9581",
+        "title.line-height.t2": "dced2a43813dd7220cc8937ac279dd08a5838271",
+        "title.line-height.t3": "fd2e42142e97fff8ca1233f67eed2b89ffe5d615",
+        "title.line-height.t4": "5b976a02fdc0972c38566bd0ae9ab28658943da5",
+        "title.line-height.t5": "8f5d1eb8c1c6aeeef8860a9ab2c68aa21be032f6",
+        "title.letter-spacing.t1": "d6f129173301c2f01c9cd8979246b9bbd9d91c63",
+        "title.letter-spacing.t2": "a6a3cfc2a8c7b589ee5a8553a6a009488cf98b29",
+        "title.letter-spacing.t3": "86620e77840e6e2ceb1dec04d99a288068e1441d",
+        "title.letter-spacing.t4": "b3e16d0f19043e2603f0885c5802b25360beaa10",
+        "title.letter-spacing.t5": "04a4d1ae95b5aa929e302518fe6c21e8f3d8c6f0",
+        "title.paragraph-spacing.t1": "9ee26ca8c9fe3e91bc9481d248aece9228c1b32b",
+        "title.paragraph-spacing.t2": "f331dcb7553d2c10ab346c99c239f59d56c7ac74",
+        "title.paragraph-spacing.t3": "e20c252f21c12a934d6cb6993095501dcdeef47a",
+        "title.paragraph-spacing.t4": "95615c060f585d2c181ec0f5b884a5925e321078",
+        "title.paragraph-spacing.t5": "ee9654d713bd0b52094ef6b382fad3d156497e87",
+        "heading.font-size.h1": "55e0488727c134f713f98cc5263a5c2caa380d6e",
+        "heading.font-size.h2": "c20a3c9eea405423c69682233c84c8fe647388af",
+        "heading.font-size.h3": "358be2f2ab1f0dbf800ac7b1c87de4897a6805c7",
+        "heading.font-size.h4": "0802ebe2906d11457f037c46211503d4c82380c6",
+        "heading.font-size.h5": "30b6c9c935bad7df5bfb8b41d224224727e8d4ce",
+        "heading.line-height.h1": "dc4fac2325320fec2d4bb614b11e06b5041090c1",
+        "heading.line-height.h2": "783026c45a1a5e3dd024afc818a46d98b3abbee1",
+        "heading.line-height.h3": "7373e3d80b748e00d4dffccb6de967c337e01306",
+        "heading.line-height.h4": "aaf6fd090185e9cb8e8ecab15cd451076a101ca4",
+        "heading.line-height.h5": "fd546a87ee068d022ada43a5e844c301f69256a5",
+        "heading.letter-spacing.h1": "56d8fff1cec902998b27767d8f0231366bac4d26",
+        "heading.letter-spacing.h2": "69d62025d178195e7d138c1d25fa1d2454c31d40",
+        "heading.letter-spacing.h3": "e78590b3eaedb6b43fcabe1e8ab2b84e887ca302",
+        "heading.letter-spacing.h4": "c292dab523a3e46f91e988774a9faaebd3022e2d",
+        "heading.letter-spacing.h5": "d39c82b931bfa72545aad7c5ddf023b801dde162",
+        "heading.paragraph-spacing.h1": "e64ba0d42ac6ad58a5c6acaaf670c9de0484a6d0",
+        "heading.paragraph-spacing.h2": "60e0fc2906e155c5e3674635b7cd02a3e91f6070",
+        "heading.paragraph-spacing.h3": "3dd89cd038d27a0d29d8d4d97527944eaa9e2093",
+        "heading.paragraph-spacing.h4": "466be252388011df9112897de159cea972477131",
+        "heading.paragraph-spacing.h5": "6b1b5617bce88f36a80eedf1975ac9aa75b1248e",
+        "display.font-size.d1": "e1bdc3dd291bb70673796318c5ae664a3cc2ca9c",
+        "display.font-size.d2": "fa97f0dba954f48d3fabd2c509a83693bff5bc3a",
+        "display.font-size.d3": "ec50efb4dceba0ca2e08db03c6e678ae29043486",
+        "display.font-size.d4": "be93d315ac0bf5b955b2cc021078fc9660581c8e",
+        "display.font-size.d5": "11e6660fab03828c5fa86ea6e0a1cb280d9f682d",
+        "display.line-height.d1": "9d2fa582bfd0afeb3c4e63781b4e67b38c51e4a3",
+        "display.line-height.d2": "ea8fe4733bc54a07e0e2c0d5f5d9844dc639ba88",
+        "display.line-height.d3": "8d4a1b4a8e1513e36cded4d469f76d7eb699385c",
+        "display.line-height.d4": "a62743b745cd8394d0c7c581d276e95394799381",
+        "display.line-height.d5": "3961458b177049cc458c40720b39212614ef4e0a",
+        "display.letter-spacing.d1": "1dd3fc93bba6604edea03c57bc4767ec3e951bf4",
+        "display.letter-spacing.d2": "1742d210a52ce748bd48bb52d22bbadd0a1caab7",
+        "display.letter-spacing.d3": "285af1092648ffb7a6246714656ef550a0971f77",
+        "display.letter-spacing.d4": "2ac1ccb24a8355ba9022566d41debc0e6a0e4db6",
+        "display.letter-spacing.d5": "05bd288c4468b5a62dd66234049c7a3edc37e695",
+        "display.paragraph-spacing.d1": "1eed671b659a60c85c06c975d5a495457d742fc0",
+        "display.paragraph-spacing.d2": "a42b85508c9bb648b1e1f4101ef395553760ee4b",
+        "display.paragraph-spacing.d3": "514002b2b6cb1c192f3a352f45b2afd11154520b",
+        "display.paragraph-spacing.d4": "26ec603658ce235b8fe6ea4da026ecf149d2eebf",
+        "display.paragraph-spacing.d5": "ead356f14a8aeed0b3b30afeb4690e8ca50d76a2"
       }
     },
     {
@@ -2297,74 +2297,74 @@
         "Control/Value": "enabled"
       },
       "group": "Control",
-      "$figmaCollectionId": "VariableCollectionId:173:55",
-      "$figmaModeId": "173:3",
+      "$figmaCollectionId": "VariableCollectionId:1:30",
+      "$figmaModeId": "1:4",
       "$figmaVariableReferences": {
-        "font-size.50": "29afb04ff6cf234f048fadc83b9ed556e724b31b",
-        "font-size.100": "29ba969b4e95267279723f8fb7f80e51d116cf48",
-        "font-size.200": "8f77c045cd5e4ccce9288a447663dd0fd1ded293",
-        "font-size.300": "7266b393d75f030a76fe60a602d6024b5c35f6b8",
-        "font-size.400": "5b1ff6ea2301e87cfb5159a34f0501f0749a54aa",
-        "font-size.500": "f84c4b2c6683813143e1180aa0547e9eb8c539c9",
-        "font-size.600": "66f8da3155e537b8593c1855738015b45019a981",
-        "font-size.700": "3ec221297473228c0ec8ba658ff4e8ba558c21de",
-        "font-size.800": "42bd66aa4825470a2a15096465a1542919a249bb",
-        "font-size.850": "f65091f1b5c188f48bc780c67d9869f4a68dcb4d",
-        "font-size.900": "2ebfb308dee7071b997236a23826feb856f41104",
-        "font-size.950": "cc197d5c1e20bbc16daa0db5dfdc5d08b3b9affb",
-        "font-size.1000": "b9733668e79c9c9f353369e30d35dcb273c80207",
-        "line-height.50": "597da91568162ac0b377122e14ee216a3518ec15",
-        "line-height.100": "95d1f5f245cbfda60f9b01f0f56764fdb5c753a6",
-        "line-height.200": "70d7d7541c345a0bfb7316d2404622d6f8817b71",
-        "line-height.300": "72df60e7f6cc1bbb60a668e97c3106e1c3fd2dd6",
-        "line-height.400": "1ec2f3ba8b6e8b5586f4616c17743b096e1259e1",
-        "line-height.500": "4d94525c47d6239589f88361ea42b73630e58276",
-        "line-height.600": "f417b6614502f4cd06f98c24c25d83fdf92f2a23",
-        "line-height.700": "1a600348352fb57d126dcb11ecc5f021b6a4220d",
-        "line-height.800": "3b238e13c2e8a0b392b7e8b999b54dcef98db3e5",
-        "line-height.850": "05c2f50632add7877a378c294cb6ee99381a6e3a",
-        "line-height.900": "7c4df1799a195f3b7b7a11ad5009fe3be62a6a6b",
-        "line-height.950": "2129628f72409b9f20434fe483ba5689ee2224a7",
-        "line-height.1000": "b0d570cfe93ab748b54dc2df9a249662c459620f",
-        "letter-spacing.50": "9af4dc7daefba146a6e2019999c60668f1dc7b01",
-        "letter-spacing.100": "afd85013f144974c3dfe58657f06a040bbe892fe",
-        "letter-spacing.200": "ae77eadcebbef7b094dbced924af6cba8e3b5e11",
-        "letter-spacing.300": "69769c64ac6e196f2c1c4fde1629032c0eb9507e",
-        "letter-spacing.400": "dab26deac0ec0888cb70ecfd2d55e43c16d704f4",
-        "letter-spacing.500": "aae653581591ad3e90b4ec8b668fbab94387723a",
-        "letter-spacing.600": "d1494d727bc74f4648849e979c24c18ad898b4cd",
-        "letter-spacing.700": "94ee48f3db13760df8666dbf79d36ecc584c57e7",
-        "letter-spacing.800": "aa30c8a7d7b7b50a56bed1d0e6d493f63caedf81",
-        "letter-spacing.850": "c499d7b0b5b51288525a41c7ed99f6bb15ce5e2f",
-        "letter-spacing.900": "a548a395ea4662985f4b39db2c06ba17047c69e8",
-        "letter-spacing.950": "8988a955171b7e149b1c46cfd2ac16902a5fd716",
-        "letter-spacing.1000": "1e2160e19fb62955714a8aee237417cdc47f2800",
-        "paragraph-spacing.50": "234b3de1bd234266d7230ff86dd37f31acec45c7",
-        "paragraph-spacing.100": "832ea1569efe8a62e382f18a84e7ed81d01e57cb",
-        "paragraph-spacing.200": "2b26b204e3070536868bf087ec79177322292956",
-        "paragraph-spacing.300": "5ff58fc1da62e8088606144790f6b5f0a77e8520",
-        "paragraph-spacing.400": "409b8ffe7369e6049c3dc0328f7a19a0909f4bb7",
-        "paragraph-spacing.500": "68357a2d056c26cd41ba96785577153374e954af",
-        "paragraph-spacing.600": "b1546090ebe279568bc6129647c36cde0faa4c5f",
-        "paragraph-spacing.700": "8a4124e400742af6f264b436634674e8feafee6b",
-        "paragraph-spacing.800": "7a1d107e027b00d20a0e64a7cdfcd3181d468e7f",
-        "paragraph-spacing.850": "2cfb7064fcd60391967674c56536465722b4601f",
-        "paragraph-spacing.900": "bdbb7c3afab8ec0edcc22ee95f0ad498386f4880",
-        "paragraph-spacing.950": "90ce59eb1627d43d4643c685442629b82daa0b56",
-        "paragraph-spacing.1000": "1207adcbca0cffee5d0412b512cb0ac3efb55353",
-        "control.50": "e6a2013518728527c2ea65af4476f0a3b48a3ab9",
-        "control.100": "ff7de8c94dfd745382429e12e461af0f9fb7ddd3",
-        "control.200": "1727ee94daa9d0a35e8eb7dde5dd0ef8c6a4a0f1",
-        "control.300": "b898c63140176d574551a1a978567af3e1fe222b",
-        "control.400": "72e735559d601d622450cbed8c27429519e113be",
-        "control.500": "9e4c4fdde5df91a525acfe0750c517899c60f780",
-        "control.600": "29a73a9d4ed7390f1cf5360983c45511ec700c5c",
-        "control.700": "cc620dd36557af4f4d58f3e646212f6affbae336",
-        "control.800": "7d127b07c57a9bcdb4c5200988a5f93ca0dcd66f",
-        "control.850": "718b68d394a17ac954175a4a6582ad4f4cd0af54",
-        "control.900": "c042ed5053192c25fedb0e2cca7afff597d3745b",
-        "control.950": "75a011576429e6cc101a904925b307fe99b14d54",
-        "control.1000": "4b17989c4e62196a4e7df317367c8b41215ff04b"
+        "font-size.50": "4615aeb0139318f4f44e77aa3d7d0de263a290e3",
+        "font-size.100": "26efee8059de58907f932da75c9524db59169532",
+        "font-size.200": "83c6341e276c202f43cc72cf38c52882fbb7bda1",
+        "font-size.300": "c75eeae40939c4e10c0c5d935d835766f0e1686b",
+        "font-size.400": "dfd2f0a7195407a0a1080129fdb21737dc9d5e6f",
+        "font-size.500": "8eb2172914ccce4c1f54a459a50fb8189ce72dcd",
+        "font-size.600": "c835cab457adaa84f3779675f19cdc55d8862a25",
+        "font-size.700": "417cdecaa7e8c62ef737c051e274cf5a89ef6bbf",
+        "font-size.800": "9cbb57ba8fbcf2a98d36f1d21f24c316f3e990eb",
+        "font-size.850": "52746715322d3dabfaa5551f37d1d846c7aa56be",
+        "font-size.900": "d87f4b1bfffd80da04f6450a6ff54705fe81a974",
+        "font-size.950": "a59aca2adadd7e6aab5f613f894a378477a07993",
+        "font-size.1000": "89dabe3855d2ed817aedce8ce1b91ccc406e731b",
+        "line-height.50": "3e60d6b2a0ae9b7f37a9a8bde72c82a92dacf20c",
+        "line-height.100": "cef6a161bb4767cf555511cd5cca2cb20e131e8e",
+        "line-height.200": "deb7c431308eaf062aa2935ca8712025485f2e15",
+        "line-height.300": "a725115dd19a7f0e2e4bb4d0d54423869256f045",
+        "line-height.400": "b13f15c75ea1df1ff2624ebfdc0491d9a974c8ef",
+        "line-height.500": "5d1c9b6bc92c95bf18fa53489715f14693d4a8a7",
+        "line-height.600": "a3c8ed1c1836f86f0cb708f1bb2f41a88cf4827f",
+        "line-height.700": "398a93128a54032290c83b24c15d3b27cb6fca90",
+        "line-height.800": "86e68c95deec8ef5a3af165ff154675db14708c9",
+        "line-height.850": "4f32d300bef96dc63dc445af2ffec360b9e15038",
+        "line-height.900": "83b190a6fc413d554f4552e049c4848cc6682da2",
+        "line-height.950": "daf3746f20caa5b0e121e1738ec9773aef3226b3",
+        "line-height.1000": "d5f13c9a260022bb47ac10aa34dd9a4c8aa40a2f",
+        "letter-spacing.50": "bd5f3fb8c017ca636850f0cc2327d929e2c33c2a",
+        "letter-spacing.100": "b1aefafe6e0870a11fffa4e83f988358c9327bc3",
+        "letter-spacing.200": "61ee21afce0d5ecc96209e3ab3e90f9d54aa6915",
+        "letter-spacing.300": "e1d74d363e684a5e3ce48a320dd92ccb396faf6d",
+        "letter-spacing.400": "f2dbb1eb574fe81dfe24f815cf255514bc524d23",
+        "letter-spacing.500": "a31def81a7a51f609c6e369b5f51083772c9d75f",
+        "letter-spacing.600": "4fe60c91942d48f556bc9812380c0dc07f3e3378",
+        "letter-spacing.700": "26586b5319aac8ead7176a1c8a0358802324117a",
+        "letter-spacing.800": "2a2fa074e80c876a75455c578a99a60af6eb7097",
+        "letter-spacing.850": "7439fcf4b388dc6e2d1e84ce30504ea6d6fa84b8",
+        "letter-spacing.900": "9b870803fb653fb745b20606bbd3659a4cac3430",
+        "letter-spacing.950": "8a377738107d88d52ad6d401106e0b2a136979dd",
+        "letter-spacing.1000": "6b2ac8bda4dac20d08f8185a08741cad8acf6796",
+        "paragraph-spacing.50": "c3802d9a17d6d275bf33758ee49c9f7809c944dd",
+        "paragraph-spacing.100": "ba328688567ad437ccce7a911b51b21bcfc62e89",
+        "paragraph-spacing.200": "1fe2da9036a644c45d9f2bb14896cd95fd7c5ab4",
+        "paragraph-spacing.300": "5399fb258a7a13128c254842d5e4932125070823",
+        "paragraph-spacing.400": "6d509f3118d4d30877bb6b1e675fed83ba2abac6",
+        "paragraph-spacing.500": "a45b4b90071b2060f59ba02691a68f3c535f88a3",
+        "paragraph-spacing.600": "c9a9b0038287d050628e1dde7483d5d869a5e86a",
+        "paragraph-spacing.700": "fc6c07bbef272a96e92edc2a2423e94d1e397f29",
+        "paragraph-spacing.800": "d1b64fcfea69a85017936116254ebd2b3961f7ef",
+        "paragraph-spacing.850": "1c6b81a411eed2555fc906f30bc9fad3c6a1ac65",
+        "paragraph-spacing.900": "bb253c587f6fd85eb5666e901ad8b1bc10c1cc13",
+        "paragraph-spacing.950": "8c2ba51030ccf620f1ea5d33cdb3f56481cb54af",
+        "paragraph-spacing.1000": "1de106cf68ae5149450a29c532ecdc6a5cd1483f",
+        "control.50": "5c9f827c8e79e103ca316608b3615c3378bf62d6",
+        "control.100": "056ab67f1b1844f6d1a0f732b082dd544e68c961",
+        "control.200": "e573d5f86a3bd76676829e318f67d50ada8b5b6c",
+        "control.300": "d9717f074547ab433052afb36bd26793985afa32",
+        "control.400": "72ae3465f0594f478d573b4695582af02fa03cae",
+        "control.500": "d6f7af18ccb1b054b0a34798a5420034dd7c2650",
+        "control.600": "788077ccce30e791701b67f86952cffab916e7a6",
+        "control.700": "a4b9502ef41a220eb4818db5ee31f85cbdd55cd1",
+        "control.800": "1752c115e45b8a1ad4d3b644826b7c6efcba57f0",
+        "control.850": "60794d85d9436ae493b0bcbc721572efd2fc4112",
+        "control.900": "e18d3a3d0fc250b617c455f6af9115368b6174f2",
+        "control.950": "c6d644db244107866ca201b961ac78c948fb8351",
+        "control.1000": "01c995ad16326095f4f05adca4d1f138e611b426"
       }
     },
     {
@@ -2375,10 +2375,10 @@
         "Font-weight/Light": "enabled"
       },
       "group": "Font-weight",
-      "$figmaCollectionId": "VariableCollectionId:173:56",
-      "$figmaModeId": "173:4",
+      "$figmaCollectionId": "VariableCollectionId:1:2",
+      "$figmaModeId": "1:3",
       "$figmaVariableReferences": {
-        "font-weight": "c346b5b6777b93b16e13e34611fc1a0b31cec1fc"
+        "font-weight": "d2846dcc30eb139c266e547537bd65a925190dd3"
       }
     },
     {
@@ -2389,10 +2389,10 @@
         "Font-weight/Regular": "enabled"
       },
       "group": "Font-weight",
-      "$figmaCollectionId": "VariableCollectionId:173:56",
-      "$figmaModeId": "173:5",
+      "$figmaCollectionId": "VariableCollectionId:1:2",
+      "$figmaModeId": "1:0",
       "$figmaVariableReferences": {
-        "font-weight": "c346b5b6777b93b16e13e34611fc1a0b31cec1fc"
+        "font-weight": "d2846dcc30eb139c266e547537bd65a925190dd3"
       }
     },
     {
@@ -2403,10 +2403,10 @@
         "Font-weight/Semibold": "enabled"
       },
       "group": "Font-weight",
-      "$figmaCollectionId": "VariableCollectionId:173:56",
-      "$figmaModeId": "173:6",
+      "$figmaCollectionId": "VariableCollectionId:1:2",
+      "$figmaModeId": "1:1",
       "$figmaVariableReferences": {
-        "font-weight": "c346b5b6777b93b16e13e34611fc1a0b31cec1fc"
+        "font-weight": "d2846dcc30eb139c266e547537bd65a925190dd3"
       }
     },
     {
@@ -2417,10 +2417,10 @@
         "Font-weight/Bold": "enabled"
       },
       "group": "Font-weight",
-      "$figmaCollectionId": "VariableCollectionId:173:56",
-      "$figmaModeId": "173:7",
+      "$figmaCollectionId": "VariableCollectionId:1:2",
+      "$figmaModeId": "1:2",
       "$figmaVariableReferences": {
-        "font-weight": "c346b5b6777b93b16e13e34611fc1a0b31cec1fc"
+        "font-weight": "d2846dcc30eb139c266e547537bd65a925190dd3"
       }
     }
   ],
