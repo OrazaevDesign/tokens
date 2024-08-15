@@ -1136,11 +1136,58 @@
   "Space/Value": {
     "0": {
       "value": "0",
-      "type": "spacing"
+      "type": "spacing",
+      "description": "0px"
     },
     "1": {
       "value": "4",
-      "type": "spacing"
+      "type": "spacing",
+      "description": "4px"
+    },
+    "2": {
+      "value": "8",
+      "type": "spacing",
+      "description": "8px"
+    },
+    "3": {
+      "value": "12",
+      "type": "spacing",
+      "description": "12px"
+    },
+    "4": {
+      "value": "16",
+      "type": "spacing",
+      "description": "16px"
+    },
+    "5": {
+      "value": "20",
+      "type": "spacing",
+      "description": "20px"
+    },
+    "6": {
+      "value": "24",
+      "type": "spacing",
+      "description": "24px"
+    },
+    "7": {
+      "value": "28",
+      "type": "spacing",
+      "description": "28px"
+    },
+    "8": {
+      "value": "32",
+      "type": "spacing",
+      "description": "32px"
+    },
+    "9": {
+      "value": "36",
+      "type": "spacing",
+      "description": "36px"
+    },
+    "10": {
+      "value": "40",
+      "type": "spacing",
+      "description": "40px"
     },
     "space": {
       "0": {
