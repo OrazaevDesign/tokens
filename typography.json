@@ -1,357 +1,301 @@
 {
   "Font-weight/Light": {
     "font-weight": {
-      "value": "18.75rem",
-      "type": "dimension",
-      "parent": "Font-weight/Light",
-      "description": ""
+      "value": 300,
+      "type": "number",
+      "parent": "Font-weight/Light"
     }
   },
   "Font-weight/Regular": {
     "font-weight": {
-      "value": "25rem",
-      "type": "dimension",
-      "parent": "Font-weight/Regular",
-      "description": ""
+      "value": 400,
+      "type": "number",
+      "parent": "Font-weight/Regular"
     }
   },
   "Font-weight/Semibold": {
     "font-weight": {
-      "value": "37.5rem",
-      "type": "dimension",
-      "parent": "Font-weight/Semibold",
-      "description": ""
+      "value": 600,
+      "type": "number",
+      "parent": "Font-weight/Semibold"
     }
   },
   "Font-weight/Bold": {
     "font-weight": {
-      "value": "43.75rem",
-      "type": "dimension",
-      "parent": "Font-weight/Bold",
-      "description": ""
+      "value": 700,
+      "type": "number",
+      "parent": "Font-weight/Bold"
     }
   },
   "Control/Value": {
     "font-size": {
       "50": {
-        "value": "0.625rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 10,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "100": {
-        "value": "0.6875rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 11,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "200": {
-        "value": "0.75rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 12,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "300": {
-        "value": "0.8125rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 13,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "400": {
-        "value": "0.875rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 14,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "500": {
-        "value": "0.9375rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 15,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "600": {
-        "value": "1rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 16,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "700": {
-        "value": "1.0625rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 17,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "800": {
-        "value": "1.125rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 18,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "850": {
-        "value": "1.25rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 20,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "900": {
-        "value": "1.5rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 24,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "950": {
-        "value": "1.75rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 28,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "1000": {
-        "value": "2rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 32,
+        "type": "number",
+        "parent": "Control/Value"
       }
     },
     "line-height": {
       "50": {
-        "value": "0.75rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 12,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "100": {
-        "value": "1rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 16,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "200": {
-        "value": "1rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 16,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "300": {
-        "value": "1rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 16,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "400": {
-        "value": "1.25rem",
-        "type": "dimension",
+        "value": 20,
+        "type": "number",
         "parent": "Control/Value",
-        "description": "",
         "oldValue": "1.125rem"
       },
       "500": {
-        "value": "1.25rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 20,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "600": {
-        "value": "1.25rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 20,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "700": {
-        "value": "1.5rem",
-        "type": "dimension",
+        "value": 24,
+        "type": "number",
         "parent": "Control/Value",
-        "description": "",
         "oldValue": "1.375rem"
       },
       "800": {
-        "value": "1.5rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 24,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "850": {
-        "value": "1.75rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 28,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "900": {
-        "value": "2rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 32,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "950": {
-        "value": "2.25rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 36,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "1000": {
-        "value": "2.5rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 40,
+        "type": "number",
+        "parent": "Control/Value"
       }
     },
     "letter-spacing": {
       "50": {
-        "value": "0.05000000074505806rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0.800000011920929,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "100": {
-        "value": "0.05000000074505806rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0.800000011920929,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "200": {
-        "value": "0.02500000037252903rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0.4000000059604645,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "300": {
-        "value": "0.02500000037252903rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0.4000000059604645,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "400": {
-        "value": "0rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "500": {
-        "value": "0rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "600": {
-        "value": "0rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "700": {
-        "value": "0rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": 0,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "800": {
-        "value": "-0.02500000037252903rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": -0.4000000059604645,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "850": {
-        "value": "-0.05000000074505806rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": -0.800000011920929,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "900": {
-        "value": "-0.0625rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": -1,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "950": {
-        "value": "-0.07500000298023224rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": -1.2000000476837158,
+        "type": "number",
+        "parent": "Control/Value"
       },
       "1000": {
-        "value": "-0.10000000149011612rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": -1.600000023841858,
+        "type": "number",
+        "parent": "Control/Value"
       }
     },
     "paragraph-spacing": {
       "50": {
-        "value": "0.625rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.10}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "100": {
-        "value": "0.6875rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.12}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "200": {
-        "value": "0.75rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.12}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "300": {
-        "value": "0.8125rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.14}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "400": {
-        "value": "0.875rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.14}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "500": {
-        "value": "0.9375rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.16}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "600": {
-        "value": "1rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.16}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "700": {
-        "value": "1.0625rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.20}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "800": {
-        "value": "1.125rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.20}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "850": {
-        "value": "1.25rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.20}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "900": {
-        "value": "1.5rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.24}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "950": {
-        "value": "1.75rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.28}",
+        "type": "number",
+        "parent": "Control/Value"
       },
       "1000": {
-        "value": "2.5rem",
-        "type": "dimension",
-        "parent": "Control/Value",
-        "description": ""
+        "value": "{space.40}",
+        "type": "number",
+        "parent": "Control/Value"
       }
     },
     "control": {
@@ -439,640 +383,540 @@
     "body": {
       "font-size": {
         "50": {
-          "value": "0.625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 10,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "100": {
-          "value": "0.6875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 11,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "200": {
-          "value": "0.75rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 12,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "300": {
-          "value": "0.8125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 13,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "400": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "500": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "600": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "700": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "800": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "900": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "50": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "100": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "200": {
-          "value": "0.02500000037252903rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0.4000000059604645,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "300": {
-          "value": "0.02500000037252903rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0.4000000059604645,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "400": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "500": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "600": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "700": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "800": {
-          "value": "-0.02500000037252903rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -0.4000000059604645,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "900": {
-          "value": "-0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "50": {
-          "value": "0.625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 10,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "100": {
-          "value": "0.6875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 11,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "200": {
-          "value": "0.75rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 12,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "300": {
-          "value": "0.8125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 13,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "400": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "500": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "600": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "700": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "800": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "900": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "50": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "100": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "200": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "300": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "400": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "500": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "600": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "700": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "800": {
-          "value": "1.625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 26,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "900": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       }
     },
     "title": {
       "font-size": {
         "t1": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t2": {
-          "value": "2.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 34,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t3": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t4": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t5": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "t1": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t2": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t3": {
-          "value": "2rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 32,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t4": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t5": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "t1": {
-          "value": "-0.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -2,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t2": {
-          "value": "-0.10000000149011612rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1.600000023841858,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t3": {
-          "value": "-0.07500000298023224rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1.2000000476837158,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t4": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t5": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "t1": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t2": {
-          "value": "2.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 34,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t3": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t4": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "t5": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       }
     },
     "heading": {
       "font-size": {
         "h1": {
-          "value": "2rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 32,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h2": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h3": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h4": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h5": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "h1": {
-          "value": "2.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 36,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h2": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h3": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h4": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h5": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "h1": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h2": {
-          "value": "-0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h3": {
-          "value": "-0.02500000037252903rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -0.4000000059604645,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h4": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h5": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "h1": {
-          "value": "2rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 32,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h2": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h3": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h4": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "h5": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       }
     },
     "display": {
       "font-size": {
         "d1": {
-          "value": "4.375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 70,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d2": {
-          "value": "4rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 64,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d3": {
-          "value": "3.625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 58,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d4": {
-          "value": "3.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 52,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d5": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "line-height": {
         "d1": {
-          "value": "5.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 84,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d2": {
-          "value": "4.75rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 76,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d3": {
-          "value": "4.375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 70,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d4": {
-          "value": "3.875rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 62,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d5": {
-          "value": "3.625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 58,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "letter-spacing": {
         "d1": {
-          "value": "-0.125rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -2,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d2": {
-          "value": "-0.16249999403953552rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -2.5999999046325684,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d3": {
-          "value": "-0.07500000298023224rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1.2000000476837158,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d4": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d5": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       },
       "paragraph-spacing": {
         "d1": {
-          "value": "4.375rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 70,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d2": {
-          "value": "4rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 64,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d3": {
-          "value": "3.625rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 58,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d4": {
-          "value": "3.25rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 52,
+          "type": "number",
+          "parent": "Typography/Desktop"
         },
         "d5": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Desktop",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Desktop"
         }
       }
     }
@@ -1081,658 +925,558 @@
     "body": {
       "font-size": {
         "50": {
-          "value": "0.625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 10,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "100": {
-          "value": "0.6875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 11,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "200": {
-          "value": "0.75rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 12,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "300": {
-          "value": "0.8125rem",
-          "type": "dimension",
+          "value": 13,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": "0.875rem",
-          "type": "dimension",
+          "value": 14,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "0.8125rem"
         },
         "500": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "600": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "700": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "800": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "900": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "50": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "100": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "200": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "300": {
-          "value": "0.02500000037252903rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0.4000000059604645,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "400": {
-          "value": "0rem",
-          "type": "dimension",
+          "value": 0,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "0.02500000037252903rem"
         },
         "500": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "600": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "700": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "800": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "900": {
-          "value": "-0.02500000037252903rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -0.4000000059604645,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "50": {
-          "value": "0.625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 10,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "100": {
-          "value": "0.6875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 11,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "200": {
-          "value": "0.75rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 12,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "300": {
-          "value": "0.8125rem",
-          "type": "dimension",
+          "value": 13,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": "0.875rem",
-          "type": "dimension",
+          "value": 14,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "0.8125rem"
         },
         "500": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "600": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "700": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "800": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "900": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "50": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "100": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "200": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "300": {
-          "value": "1.125rem",
-          "type": "dimension",
+          "value": 18,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "1.0625rem"
         },
         "400": {
-          "value": "1.25rem",
-          "type": "dimension",
+          "value": 20,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "1.125rem"
         },
         "500": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "600": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "700": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "800": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "900": {
-          "value": "1.625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 26,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       }
     },
     "title": {
       "font-size": {
         "t1": {
-          "value": "2.125rem",
-          "type": "dimension",
+          "value": 34,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "2.5rem"
         },
         "t2": {
-          "value": "1.75rem",
-          "type": "dimension",
+          "value": 28,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "2rem"
         },
         "t3": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "t4": {
-          "value": "1.125rem",
-          "type": "dimension",
+          "value": 18,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "t1": {
-          "value": "2.5rem",
-          "type": "dimension",
+          "value": 40,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "3rem"
         },
         "t2": {
-          "value": "2rem",
-          "type": "dimension",
+          "value": 32,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "2.25rem"
         },
         "t3": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "t4": {
-          "value": "1.375rem",
-          "type": "dimension",
+          "value": 22,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "1.5rem"
         },
         "t5": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "t1": {
-          "value": "-0.10000000149011612rem",
-          "type": "dimension",
+          "value": -1.600000023841858,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "-0.125rem"
         },
         "t2": {
-          "value": "-0.07500000298023224rem",
-          "type": "dimension",
+          "value": -1.2000000476837158,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "-0.10000000149011612rem"
         },
         "t3": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "t4": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "t5": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "t1": {
-          "value": "2.125rem",
-          "type": "dimension",
+          "value": 34,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "2.5rem"
         },
         "t2": {
-          "value": "1.75rem",
-          "type": "dimension",
+          "value": 28,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "2rem"
         },
         "t3": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "t4": {
-          "value": "1.125rem",
-          "type": "dimension",
+          "value": 18,
+          "type": "number",
           "parent": "Typography/Tablet",
-          "description": "",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       }
     },
     "heading": {
       "font-size": {
         "h1": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h2": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h3": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h4": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h5": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "h1": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h2": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h3": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h4": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h5": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "h1": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h2": {
-          "value": "-0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h3": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h4": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h5": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "h1": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h2": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h3": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h4": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "h5": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       }
     },
     "display": {
       "font-size": {
         "d1": {
-          "value": "4rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 64,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d2": {
-          "value": "3.625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 58,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d3": {
-          "value": "3.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 52,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d4": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d5": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "line-height": {
         "d1": {
-          "value": "4.75rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 76,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d2": {
-          "value": "4.375rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 70,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d3": {
-          "value": "3.875rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 62,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d4": {
-          "value": "3.625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 58,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d5": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "letter-spacing": {
         "d1": {
-          "value": "-0.125rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -2,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d2": {
-          "value": "-0.10000000149011612rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -1.600000023841858,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d3": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d4": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d5": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       },
       "paragraph-spacing": {
         "d1": {
-          "value": "4rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 64,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d2": {
-          "value": "3.625rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 58,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d3": {
-          "value": "3.25rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 52,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d4": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Tablet"
         },
         "d5": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Tablet",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Tablet"
         }
       }
     }
@@ -1741,667 +1485,567 @@
     "body": {
       "font-size": {
         "50": {
-          "value": "0.625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 10,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "100": {
-          "value": "0.6875rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 11,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "200": {
-          "value": "0.75rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 12,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "300": {
-          "value": "0.8125rem",
-          "type": "dimension",
+          "value": 13,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": "0.875rem",
-          "type": "dimension",
+          "value": 14,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.75rem"
         },
         "500": {
-          "value": "0.875rem",
-          "type": "dimension",
+          "value": 14,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.8125rem"
         },
         "600": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "700": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "800": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "900": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "50": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "100": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "200": {
-          "value": "0.05000000074505806rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0.800000011920929,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "300": {
-          "value": "0.02500000037252903rem",
-          "type": "dimension",
+          "value": 0.4000000059604645,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.05000000074505806rem"
         },
         "400": {
-          "value": "0rem",
-          "type": "dimension",
+          "value": 0,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.02500000037252903rem"
         },
         "500": {
-          "value": "0rem",
-          "type": "dimension",
+          "value": 0,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.02500000037252903rem"
         },
         "600": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "700": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "800": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "900": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "50": {
-          "value": "0.625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 10,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "100": {
-          "value": "0.6875rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 11,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "200": {
-          "value": "0.75rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 12,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "300": {
-          "value": "0.8125rem",
-          "type": "dimension",
+          "value": 13,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": "0.875rem",
-          "type": "dimension",
+          "value": 14,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.75rem"
         },
         "500": {
-          "value": "0.875rem",
-          "type": "dimension",
+          "value": 14,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.8125rem"
         },
         "600": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "700": {
-          "value": "0.9375rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 15,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "800": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "900": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "50": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "100": {
-          "value": "0.9375rem",
-          "type": "dimension",
+          "value": 15,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "0.9624999761581421rem"
         },
         "200": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "300": {
-          "value": "1.125rem",
-          "type": "dimension",
+          "value": 18,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.0625rem"
         },
         "400": {
-          "value": "1.25rem",
-          "type": "dimension",
+          "value": 20,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.0625rem"
         },
         "500": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "600": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "700": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "800": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "900": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       }
     },
     "title": {
       "font-size": {
         "t1": {
-          "value": "1.75rem",
-          "type": "dimension",
+          "value": 28,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "2.125rem"
         },
         "t2": {
-          "value": "1.5rem",
-          "type": "dimension",
+          "value": 24,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.75rem"
         },
         "t3": {
-          "value": "1.125rem",
-          "type": "dimension",
+          "value": 18,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.375rem"
         },
         "t4": {
-          "value": "1.0625rem",
-          "type": "dimension",
+          "value": 17,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "t1": {
-          "value": "2rem",
-          "type": "dimension",
+          "value": 32,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "2.5rem"
         },
         "t2": {
-          "value": "1.75rem",
-          "type": "dimension",
+          "value": 28,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "2rem"
         },
         "t3": {
-          "value": "1.375rem",
-          "type": "dimension",
+          "value": 22,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.625rem"
         },
         "t4": {
-          "value": "1.25rem",
-          "type": "dimension",
+          "value": 20,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.5rem"
         },
         "t5": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "t1": {
-          "value": "-0.07500000298023224rem",
-          "type": "dimension",
+          "value": -1.2000000476837158,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "-0.10000000149011612rem"
         },
         "t2": {
-          "value": "-0.0625rem",
-          "type": "dimension",
+          "value": -1,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "-0.07500000298023224rem"
         },
         "t3": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "t4": {
-          "value": "0rem",
-          "type": "dimension",
+          "value": 0,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "-0.0625rem"
         },
         "t5": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "t1": {
-          "value": "1.75rem",
-          "type": "dimension",
+          "value": 28,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "2.125rem"
         },
         "t2": {
-          "value": "1.5rem",
-          "type": "dimension",
+          "value": 24,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.75rem"
         },
         "t3": {
-          "value": "1.125rem",
-          "type": "dimension",
+          "value": 18,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.375rem"
         },
         "t4": {
-          "value": "1.0625rem",
-          "type": "dimension",
+          "value": 17,
+          "type": "number",
           "parent": "Typography/Mobile",
-          "description": "",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       }
     },
     "heading": {
       "font-size": {
         "h1": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h2": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h3": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h4": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h5": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "h1": {
-          "value": "1.5rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 24,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h2": {
-          "value": "1.375rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 22,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h3": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h4": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h5": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "h1": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h2": {
-          "value": "-0.02500000037252903rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": -0.4000000059604645,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h3": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h4": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h5": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "h1": {
-          "value": "1.25rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 20,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h2": {
-          "value": "1.125rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 18,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h3": {
-          "value": "1.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 17,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h4": {
-          "value": "1rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 16,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "h5": {
-          "value": "0.875rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 14,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       }
     },
     "display": {
       "font-size": {
         "d1": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d2": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d3": {
-          "value": "2.125rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 34,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d4": {
-          "value": "2rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 32,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d5": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "line-height": {
         "d1": {
-          "value": "3.625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 58,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d2": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d3": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d4": {
-          "value": "2.25rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 36,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d5": {
-          "value": "2rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 32,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "letter-spacing": {
         "d1": {
-          "value": "-0.10000000149011612rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": -1.600000023841858,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d2": {
-          "value": "-0.07500000298023224rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": -1.2000000476837158,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d3": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d4": {
-          "value": "-0.0625rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": -1,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d5": {
-          "value": "0rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 0,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       },
       "paragraph-spacing": {
         "d1": {
-          "value": "3rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 48,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d2": {
-          "value": "2.5rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 40,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d3": {
-          "value": "2.125rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 34,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d4": {
-          "value": "2rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 32,
+          "type": "number",
+          "parent": "Typography/Mobile"
         },
         "d5": {
-          "value": "1.75rem",
-          "type": "dimension",
-          "parent": "Typography/Mobile",
-          "description": ""
+          "value": 28,
+          "type": "number",
+          "parent": "Typography/Mobile"
         }
       }
     }
