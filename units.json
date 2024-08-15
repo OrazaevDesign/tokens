@@ -1364,6 +1364,74 @@
       "value": "15",
       "type": "opacity"
     },
+    "20": {
+      "value": "20",
+      "type": "opacity"
+    },
+    "25": {
+      "value": "25",
+      "type": "opacity"
+    },
+    "30": {
+      "value": "30",
+      "type": "opacity"
+    },
+    "35": {
+      "value": "35",
+      "type": "opacity"
+    },
+    "40": {
+      "value": "40",
+      "type": "opacity"
+    },
+    "45": {
+      "value": "45",
+      "type": "opacity"
+    },
+    "50": {
+      "value": "50",
+      "type": "opacity"
+    },
+    "55": {
+      "value": "55",
+      "type": "opacity"
+    },
+    "60": {
+      "value": "60",
+      "type": "opacity"
+    },
+    "65": {
+      "value": "65",
+      "type": "opacity"
+    },
+    "70": {
+      "value": "70",
+      "type": "opacity"
+    },
+    "75": {
+      "value": "75",
+      "type": "opacity"
+    },
+    "80": {
+      "value": "80",
+      "type": "opacity"
+    },
+    "85": {
+      "value": "85",
+      "type": "opacity"
+    },
+    "90": {
+      "value": "90",
+      "type": "opacity"
+    },
+    "95": {
+      "value": "95",
+      "type": "opacity"
+    },
+    "100": {
+      "value": "100",
+      "type": "opacity"
+    },
     "opacity": {
       "0": {
         "value": 0,
@@ -1878,6 +1946,26 @@
       "$figmaModeId": "140:3",
       "$figmaVariableReferences": {
         "0": "0368ec1bfee23e9bf23cb9918296767955aa25b8",
+        "5": "fb233c3bb9d961559b158daaf4d7e47ccb0dbeb1",
+        "10": "281de87f446dba57cfeb436141c68fa2fc254961",
+        "15": "7e5e2d0f0d087585e60e99e010af0a27fa31f715",
+        "20": "cd402f45beb795ab8655b2d4b663a73f1cf82450",
+        "25": "5c16939f88ee7301b3621e344783a86851deda28",
+        "30": "98ee0523fe76f5e1808160a9461d6600298825da",
+        "35": "bb4f0d5e34ef7efe1291391d5362d6fc1271f061",
+        "40": "e303bfaf265c23025a707b09590cb37991ae6292",
+        "45": "188644e707cf33155e9f5d14ae7faae055c35c59",
+        "50": "69bde482e0efabe22b1c31bae496f13a37b5ec2b",
+        "55": "b3fdc559ac01a68206ee2490c64925deae1239e9",
+        "60": "13004c10f755c5f8ae884d9d19aba8c4714fc581",
+        "65": "a6646fbd1a7e207edf85d1c6ec5d3fcf38b814aa",
+        "70": "3f4565663beef83c2ab8236ab31f09ecf6f37a20",
+        "75": "339f6933e0d8f5a81cf9a7eeb76478f97ddce1d3",
+        "80": "bdbddd7cdb79f1bbf59dea30ef5494691f8511e7",
+        "85": "9e02b6af663ed29349abd36040eb995ddba7262a",
+        "90": "b926dd6dc2b8f82dac5d8ad88733edccfc665648",
+        "95": "541673081d2ef4a63ad41a07be19358c0359b33c",
+        "100": "c939b2560d636df1511850c65344cb70fe2857e2",
         "opacity.0": "8eb27b5e47c0c0ebb424862d823a4dd9e6b84bb1",
         "opacity.5": "e895266426e3826643ad2eb1cdd3be294feef071",
         "opacity.10": "c7122892a418f458a216e1aaab8344c52e0f0b53",
