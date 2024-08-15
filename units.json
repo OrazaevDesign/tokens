@@ -1368,10 +1368,6 @@
       "value": "25",
       "type": "opacity"
     },
-    "30": {
-      "value": "30",
-      "type": "opacity"
-    },
     "35": {
       "value": "35",
       "type": "opacity"
@@ -1431,6 +1427,10 @@
     "opacity": {
       "0": {
         "value": "0",
+        "type": "opacity"
+      },
+      "30": {
+        "value": "30",
         "type": "opacity"
       }
     }
@@ -1824,7 +1824,6 @@
         "15": "7e5e2d0f0d087585e60e99e010af0a27fa31f715",
         "20": "cd402f45beb795ab8655b2d4b663a73f1cf82450",
         "25": "5c16939f88ee7301b3621e344783a86851deda28",
-        "30": "98ee0523fe76f5e1808160a9461d6600298825da",
         "35": "bb4f0d5e34ef7efe1291391d5362d6fc1271f061",
         "40": "e303bfaf265c23025a707b09590cb37991ae6292",
         "45": "188644e707cf33155e9f5d14ae7faae055c35c59",
@@ -1844,7 +1843,7 @@
         "opacity.15": "a47645445a9d3bed4a0056c25b5ebca9f06786d7",
         "opacity.20": "6334c05b258161074fbf18ec9bdf32b96fbc8fc9",
         "opacity.25": "43a6de0335bc0068b4231485b878b897e556a2f9",
-        "opacity.30": "bc706aaa43065a177af7df74f8e14db84b36ee9d",
+        "opacity.30": "98ee0523fe76f5e1808160a9461d6600298825da",
         "opacity.35": "a535a174408707ad7a33f7ff4b37ff8a30f8aa1c",
         "opacity.40": "c34688f3b10d7ba826b9d0dbb90e9d4259bf3394",
         "opacity.45": "20967bacd0aecf6cbbf61f4c248d8a9db34d9851",
