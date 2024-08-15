@@ -23,7 +23,7 @@
       },
       "opacity": {
         "value": "{opacity.20}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-1",
         "description": ""
       }
@@ -31,7 +31,7 @@
     "shadow2": {
       "opacity": {
         "value": "{opacity.15}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-1",
         "description": ""
       },
@@ -59,7 +59,7 @@
     "shadow3": {
       "opacity": {
         "value": "{opacity.10}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-1",
         "description": ""
       },
@@ -112,7 +112,7 @@
       },
       "opacity": {
         "value": "{opacity.20}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-2",
         "description": ""
       }
@@ -120,7 +120,7 @@
     "shadow2": {
       "opacity": {
         "value": "{opacity.15}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-2",
         "description": ""
       },
@@ -148,7 +148,7 @@
     "shadow3": {
       "opacity": {
         "value": "{opacity.10}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-2",
         "description": ""
       },
@@ -201,7 +201,7 @@
       },
       "opacity": {
         "value": "{opacity.20}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-3",
         "description": ""
       }
@@ -209,7 +209,7 @@
     "shadow2": {
       "opacity": {
         "value": "{opacity.15}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-3",
         "description": ""
       },
@@ -237,7 +237,7 @@
     "shadow3": {
       "opacity": {
         "value": "{opacity.10}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-3",
         "description": ""
       },
@@ -289,7 +289,7 @@
       },
       "opacity": {
         "value": "{opacity.20}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-4",
         "description": ""
       }
@@ -297,7 +297,7 @@
     "shadow2": {
       "opacity": {
         "value": "{opacity.15}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-4",
         "description": ""
       },
@@ -325,7 +325,7 @@
     "shadow3": {
       "opacity": {
         "value": "{opacity.10}",
-        "type": "dimension",
+        "type": "opacity",
         "parent": "Shadow/elevation-4",
         "description": ""
       },
@@ -357,106 +357,106 @@
     "market": {
       "gap-x": {
         "value": "24",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
           "value": "184",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "card-max": {
           "value": "368",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "90rem"
         }
       },
       "padding": {
         "value": "24",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
         "value": "40",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Desktop"
       },
       "banner": {
         "3-min": {
           "value": "392",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "3-max": {
           "value": "800",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "2-min": {
           "value": "392",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "2-max": {
           "value": "800",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "4-min": {
           "value": "184",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "4-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "1-max": {
           "value": "1440",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "1-min": {
           "value": "976",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Desktop"
         }
       },
       "layout": {
         "value": "1488",
-        "type": "number",
+        "type": "sizing",
         "parent": "Breakpoints/Desktop"
       }
     },
     "cms": {
       "gap-x": {
         "value": "16",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
         "value": "32",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Desktop"
       },
       "padding": {
         "value": "24",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
           "value": "186",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "9.5rem"
         },
         "card-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "90rem"
         }
@@ -464,32 +464,32 @@
       "banner": {
         "4-min": {
           "value": "336",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "20rem"
         },
         "4-max": {
           "value": "688",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "41rem"
         },
         "8-min": {
           "value": "186",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "9.5rem"
         },
         "8-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "20rem"
         }
       },
       "grid": {
         "value": "1440",
-        "type": "number",
+        "type": "sizing",
         "parent": "Breakpoints/Desktop",
         "oldValue": "93rem"
       }
@@ -499,78 +499,78 @@
     "market": {
       "gap-x": {
         "value": "16",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
           "value": "184",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "10.125rem"
         },
         "card-max": {
           "value": "368",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "90rem"
         }
       },
       "padding": {
         "value": "16",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
         "value": "24",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Tablet"
       },
       "banner": {
         "3-min": {
           "value": "340",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "3-max": {
           "value": "474",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "2-min": {
           "value": "340",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "2-max": {
           "value": "720",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "4-min": {
           "value": "162",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "4-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "1-max": {
           "value": "1440",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "1-min": {
           "value": "398",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Tablet"
         }
       },
       "layout": {
         "value": "1016",
-        "type": "number",
+        "type": "sizing",
         "parent": "Breakpoints/Tablet",
         "oldValue": "64rem"
       }
@@ -578,29 +578,29 @@
     "cms": {
       "gap-x": {
         "value": "16",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
         "value": "32",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Tablet"
       },
       "padding": {
         "value": "24",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
           "value": "186",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "9.5rem"
         },
         "card-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "90rem"
         }
@@ -608,32 +608,32 @@
       "banner": {
         "4-min": {
           "value": "336",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "20rem"
         },
         "4-max": {
           "value": "688",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "41rem"
         },
         "8-min": {
           "value": "186",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "9.5rem"
         },
         "8-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "20rem"
         }
       },
       "grid": {
         "value": "1016",
-        "type": "number",
+        "type": "sizing",
         "parent": "Breakpoints/Tablet"
       }
     }
@@ -642,106 +642,106 @@
     "market": {
       "gap-x": {
         "value": "16",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
           "value": "128",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "card-max": {
           "value": "256",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "90rem"
         }
       },
       "padding": {
         "value": "16",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
         "value": "24",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Mobile"
       },
       "banner": {
         "3-min": {
           "value": "272",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "3-max": {
           "value": "474",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "2-min": {
           "value": "272",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "2-max": {
           "value": "720",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "4-min": {
           "value": "128",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "4-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "1-max": {
           "value": "1440",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "1-min": {
           "value": "288",
-          "type": "number",
+          "type": "sizing",
           "parent": "Brackpoint/Mobile"
         }
       },
       "layout": {
         "value": "430",
-        "type": "number",
+        "type": "sizing",
         "parent": "Breakpoints/Mobile"
       }
     },
     "cms": {
       "gap-x": {
         "value": "16",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
         "value": "32",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Mobile"
       },
       "padding": {
         "value": "24",
-        "type": "number",
+        "type": "sizing",
         "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
           "value": "186",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "9.5rem"
         },
         "card-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "90rem"
         }
@@ -749,146 +749,139 @@
       "banner": {
         "4-min": {
           "value": "336",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "20rem"
         },
         "4-max": {
           "value": "688",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "41rem"
         },
         "8-min": {
           "value": "186",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "10.25rem"
         },
         "8-max": {
           "value": "388",
-          "type": "number",
+          "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "20rem"
         }
       },
       "grid": {
         "value": "1488",
-        "type": "number",
+        "type": "sizing",
         "parent": "Breakpoints/Mobile"
       }
     }
   },
   "Rounded/None": {
-    "border-radius": {
-      "200": {
-        "value": "0",
-        "type": "number",
-        "parent": "Rounded/None"
-      },
-      "300": {
-        "value": "0",
-        "type": "number",
-        "parent": "Rounded/None"
-      },
-      "400": {
-        "value": "0",
-        "type": "number",
-        "parent": "Rounded/None"
-      },
-      "500": {
-        "value": "0",
-        "type": "number",
-        "parent": "Rounded/None"
-      },
-      "600": {
-        "value": "0",
-        "type": "number",
-        "parent": "Rounded/None"
-      },
-      "full": {
-        "value": "600",
-        "type": "number",
-        "parent": "Rounded/None"
-      },
-      "none": {
-        "value": "0",
-        "type": "number",
-        "parent": "Rounded/None"
-      }
-    },
     "outline": {
       "200": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "300": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "400": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "500": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "600": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       }
     },
     "conteiner-4": {
       "200": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "300": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "400": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "500": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "600": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/None"
+      }
+    },
+    "border-radius": {
+      "200": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "300": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "400": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "500": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "600": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "full": {
+        "value": "600",
+        "type": "borderRadius"
+      },
+      "none": {
+        "value": "0",
+        "type": "borderRadius"
       }
     }
   },
@@ -896,111 +889,111 @@
     "border-radius": {
       "200": {
         "value": "4",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "300": {
         "value": "6",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "400": {
         "value": "8",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "500": {
         "value": "10",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "600": {
         "value": "12",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       }
     },
     "outline": {
       "200": {
         "value": "5",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "300": {
         "value": "7",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "400": {
         "value": "9",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "500": {
         "value": "11",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "600": {
         "value": "13",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       }
     },
     "conteiner-4": {
       "200": {
         "value": "8",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "300": {
         "value": "10",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "400": {
         "value": "12",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "500": {
         "value": "14",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "600": {
         "value": "16",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Smooth"
       }
     }
@@ -1009,126 +1002,126 @@
     "border-radius": {
       "200": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded"
       }
     },
     "outline": {
       "200": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded"
       }
     },
     "conteiner-4": {
       "200": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
         "value": "26",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
         "value": "600",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded"
       },
       "none": {
         "value": "0",
-        "type": "number",
+        "type": "borderRadius",
         "parent": "Rounded/Rounded"
       }
     }
@@ -1407,21 +1400,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:4",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
-        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
-        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
-        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
-        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
-        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
-        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
-        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
-        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
-        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
-        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
-        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
-        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
-        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
-        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
+        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
+        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
+        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
+        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
+        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
+        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
+        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
+        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
+        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
+        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
+        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
+        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
+        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
+        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
+        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
       }
     },
     {
@@ -1435,21 +1428,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:5",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
-        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
-        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
-        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
-        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
-        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
-        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
-        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
-        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
-        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
-        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
-        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
-        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
-        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
-        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
+        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
+        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
+        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
+        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
+        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
+        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
+        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
+        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
+        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
+        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
+        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
+        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
+        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
+        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
+        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
       }
     },
     {
@@ -1463,21 +1456,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:6",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
-        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
-        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
-        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
-        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
-        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
-        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
-        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
-        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
-        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
-        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
-        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
-        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
-        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
-        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
+        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
+        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
+        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
+        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
+        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
+        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
+        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
+        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
+        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
+        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
+        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
+        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
+        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
+        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
+        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
       }
     },
     {
@@ -1491,21 +1484,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:7",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
-        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
-        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
-        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
-        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
-        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
-        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
-        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
-        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
-        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
-        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
-        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
-        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
-        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
-        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
+        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
+        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
+        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
+        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
+        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
+        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
+        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
+        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
+        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
+        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
+        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
+        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
+        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
+        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
+        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
       }
     },
     {
@@ -1519,30 +1512,30 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:0",
       "$figmaVariableReferences": {
-        "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
-        "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
-        "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
-        "market.padding": "71774cc1f923d76a3b9fa178d7f0efaed96f1616",
-        "market.gap-y": "85a741c7e1a2c6001f8ac5d4b3be55c9f8de1201",
-        "market.banner.3-min": "d8cd5548aa10e3a1cdf431a6b4dd704f4b32d432",
-        "market.banner.3-max": "4d5b67549ade4ce37831c4558f7442919ba6b04e",
-        "market.banner.2-min": "6b5a0ba8e03ab1a04f78eb0d99ffb2c946addd8b",
-        "market.banner.2-max": "e40ad745ccc27f312fa4852e1a92f3f724020362",
-        "market.banner.4-min": "cd5f2421f8a9e8534529dcfa613b69b8cb415833",
-        "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
-        "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
-        "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
-        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
-        "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
-        "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
-        "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
-        "cms.card.card-min": "fbbf464599ad3681f986e16c26e2e5786ad8378e",
-        "cms.card.card-max": "ee15cb922f21d20d730af5f9be0501a00e0f9c8b",
-        "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
-        "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
-        "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
-        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
-        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
+        "market.gap-x": "67efd4e7a11973f3ac976e2159137643a9adbd46",
+        "market.card.card-min": "1182f0557fca15b12129864138c7925235101093",
+        "market.card.card-max": "00b46530b06e6f335fe2f89cba1dd0421a0dac89",
+        "market.padding": "5e225cc11036c6343ff7d1cb1756d0dc8e235ff5",
+        "market.gap-y": "7ba1426964eb8a19b9d5e334d340a135d47f0006",
+        "market.banner.3-min": "78066b2aa2af7e827874c2813e08d98398fde8d2",
+        "market.banner.3-max": "6c4629ddd031aa33b5d52a1fb5b136dbd9c63f63",
+        "market.banner.2-min": "cc8bb83070800d03c8c5cb96b4856d0d0af6a5c8",
+        "market.banner.2-max": "4f9f539c045725d5eb0a5a85aaf3ffc59bb9dfad",
+        "market.banner.4-min": "b1d7ec66537cc9b169de1d7b538877b86b079b68",
+        "market.banner.4-max": "c5214137fbae6d921f0301ee3b14738b9460b80b",
+        "market.banner.1-max": "d169f8fc225db7e0a84ee7b5a777ac0eb821bbbe",
+        "market.banner.1-min": "1189d2a44449610693d121cb38d624e4f785f78a",
+        "market.layout": "5828b571ba7c4c190b4b7c84ec0d94eb7ff5404f",
+        "cms.gap-x": "f239c24de28fa5f7067ba12402ef194551adda3b",
+        "cms.gap-y": "f39018c3db43572fcc80836fa11284d5f1044bc1",
+        "cms.padding": "bba2d23523c8cba9247b56ac89abe39a93988024",
+        "cms.card.card-min": "d22c90686e2940b118fb6576f337a6bbe9bc4696",
+        "cms.card.card-max": "9685a3b2ac1ddb43d157c854b17596aaffa730bf",
+        "cms.banner.4-min": "1d9fd435a4beb7059f44bd2f6bd0da917aff2d7b",
+        "cms.banner.4-max": "822980a108a3a1229fa5b1dadad745446f065332",
+        "cms.banner.8-min": "fe54a12aa2fa65d5bf6e291bc890dd885d309aa0",
+        "cms.banner.8-max": "4507b63ab9499dd600f8c92b1bea4b670f1c0771",
+        "cms.grid": "77879535e55995c95dcb256872d9242af09b3fa7"
       }
     },
     {
@@ -1556,30 +1549,30 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:1",
       "$figmaVariableReferences": {
-        "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
-        "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
-        "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
-        "market.padding": "71774cc1f923d76a3b9fa178d7f0efaed96f1616",
-        "market.gap-y": "85a741c7e1a2c6001f8ac5d4b3be55c9f8de1201",
-        "market.banner.3-min": "d8cd5548aa10e3a1cdf431a6b4dd704f4b32d432",
-        "market.banner.3-max": "4d5b67549ade4ce37831c4558f7442919ba6b04e",
-        "market.banner.2-min": "6b5a0ba8e03ab1a04f78eb0d99ffb2c946addd8b",
-        "market.banner.2-max": "e40ad745ccc27f312fa4852e1a92f3f724020362",
-        "market.banner.4-min": "cd5f2421f8a9e8534529dcfa613b69b8cb415833",
-        "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
-        "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
-        "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
-        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
-        "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
-        "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
-        "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
-        "cms.card.card-min": "fbbf464599ad3681f986e16c26e2e5786ad8378e",
-        "cms.card.card-max": "ee15cb922f21d20d730af5f9be0501a00e0f9c8b",
-        "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
-        "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
-        "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
-        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
-        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
+        "market.gap-x": "67efd4e7a11973f3ac976e2159137643a9adbd46",
+        "market.card.card-min": "1182f0557fca15b12129864138c7925235101093",
+        "market.card.card-max": "00b46530b06e6f335fe2f89cba1dd0421a0dac89",
+        "market.padding": "5e225cc11036c6343ff7d1cb1756d0dc8e235ff5",
+        "market.gap-y": "7ba1426964eb8a19b9d5e334d340a135d47f0006",
+        "market.banner.3-min": "78066b2aa2af7e827874c2813e08d98398fde8d2",
+        "market.banner.3-max": "6c4629ddd031aa33b5d52a1fb5b136dbd9c63f63",
+        "market.banner.2-min": "cc8bb83070800d03c8c5cb96b4856d0d0af6a5c8",
+        "market.banner.2-max": "4f9f539c045725d5eb0a5a85aaf3ffc59bb9dfad",
+        "market.banner.4-min": "b1d7ec66537cc9b169de1d7b538877b86b079b68",
+        "market.banner.4-max": "c5214137fbae6d921f0301ee3b14738b9460b80b",
+        "market.banner.1-max": "d169f8fc225db7e0a84ee7b5a777ac0eb821bbbe",
+        "market.banner.1-min": "1189d2a44449610693d121cb38d624e4f785f78a",
+        "market.layout": "5828b571ba7c4c190b4b7c84ec0d94eb7ff5404f",
+        "cms.gap-x": "f239c24de28fa5f7067ba12402ef194551adda3b",
+        "cms.gap-y": "f39018c3db43572fcc80836fa11284d5f1044bc1",
+        "cms.padding": "bba2d23523c8cba9247b56ac89abe39a93988024",
+        "cms.card.card-min": "d22c90686e2940b118fb6576f337a6bbe9bc4696",
+        "cms.card.card-max": "9685a3b2ac1ddb43d157c854b17596aaffa730bf",
+        "cms.banner.4-min": "1d9fd435a4beb7059f44bd2f6bd0da917aff2d7b",
+        "cms.banner.4-max": "822980a108a3a1229fa5b1dadad745446f065332",
+        "cms.banner.8-min": "fe54a12aa2fa65d5bf6e291bc890dd885d309aa0",
+        "cms.banner.8-max": "4507b63ab9499dd600f8c92b1bea4b670f1c0771",
+        "cms.grid": "77879535e55995c95dcb256872d9242af09b3fa7"
       }
     },
     {
@@ -1593,30 +1586,30 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:2",
       "$figmaVariableReferences": {
-        "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
-        "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
-        "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
-        "market.padding": "71774cc1f923d76a3b9fa178d7f0efaed96f1616",
-        "market.gap-y": "85a741c7e1a2c6001f8ac5d4b3be55c9f8de1201",
-        "market.banner.3-min": "d8cd5548aa10e3a1cdf431a6b4dd704f4b32d432",
-        "market.banner.3-max": "4d5b67549ade4ce37831c4558f7442919ba6b04e",
-        "market.banner.2-min": "6b5a0ba8e03ab1a04f78eb0d99ffb2c946addd8b",
-        "market.banner.2-max": "e40ad745ccc27f312fa4852e1a92f3f724020362",
-        "market.banner.4-min": "cd5f2421f8a9e8534529dcfa613b69b8cb415833",
-        "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
-        "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
-        "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
-        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
-        "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
-        "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
-        "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
-        "cms.card.card-min": "fbbf464599ad3681f986e16c26e2e5786ad8378e",
-        "cms.card.card-max": "ee15cb922f21d20d730af5f9be0501a00e0f9c8b",
-        "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
-        "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
-        "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
-        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
-        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
+        "market.gap-x": "67efd4e7a11973f3ac976e2159137643a9adbd46",
+        "market.card.card-min": "1182f0557fca15b12129864138c7925235101093",
+        "market.card.card-max": "00b46530b06e6f335fe2f89cba1dd0421a0dac89",
+        "market.padding": "5e225cc11036c6343ff7d1cb1756d0dc8e235ff5",
+        "market.gap-y": "7ba1426964eb8a19b9d5e334d340a135d47f0006",
+        "market.banner.3-min": "78066b2aa2af7e827874c2813e08d98398fde8d2",
+        "market.banner.3-max": "6c4629ddd031aa33b5d52a1fb5b136dbd9c63f63",
+        "market.banner.2-min": "cc8bb83070800d03c8c5cb96b4856d0d0af6a5c8",
+        "market.banner.2-max": "4f9f539c045725d5eb0a5a85aaf3ffc59bb9dfad",
+        "market.banner.4-min": "b1d7ec66537cc9b169de1d7b538877b86b079b68",
+        "market.banner.4-max": "c5214137fbae6d921f0301ee3b14738b9460b80b",
+        "market.banner.1-max": "d169f8fc225db7e0a84ee7b5a777ac0eb821bbbe",
+        "market.banner.1-min": "1189d2a44449610693d121cb38d624e4f785f78a",
+        "market.layout": "5828b571ba7c4c190b4b7c84ec0d94eb7ff5404f",
+        "cms.gap-x": "f239c24de28fa5f7067ba12402ef194551adda3b",
+        "cms.gap-y": "f39018c3db43572fcc80836fa11284d5f1044bc1",
+        "cms.padding": "bba2d23523c8cba9247b56ac89abe39a93988024",
+        "cms.card.card-min": "d22c90686e2940b118fb6576f337a6bbe9bc4696",
+        "cms.card.card-max": "9685a3b2ac1ddb43d157c854b17596aaffa730bf",
+        "cms.banner.4-min": "1d9fd435a4beb7059f44bd2f6bd0da917aff2d7b",
+        "cms.banner.4-max": "822980a108a3a1229fa5b1dadad745446f065332",
+        "cms.banner.8-min": "fe54a12aa2fa65d5bf6e291bc890dd885d309aa0",
+        "cms.banner.8-max": "4507b63ab9499dd600f8c92b1bea4b670f1c0771",
+        "cms.grid": "77879535e55995c95dcb256872d9242af09b3fa7"
       }
     },
     {
@@ -1630,27 +1623,27 @@
       "$figmaCollectionId": "VariableCollectionId:140:21",
       "$figmaModeId": "140:0",
       "$figmaVariableReferences": {
-        "border-radius.200": "0916f288ebb9738d60e84614e0098f9a947188ca",
-        "border-radius.300": "884bb4d0ff6a236e740d91ba44af64a18b36ebf1",
-        "border-radius.400": "1f73fb7375f00e1e00f5304253bd95cf7c753879",
-        "border-radius.500": "8831da1d04d9ebc083bf782f4366e30922e29ea4",
-        "border-radius.600": "1410acaa2d817866e208a7aebff593348a8044d3",
-        "border-radius.full": "939101085e6efe0186a0e32950afc643eec47b17",
-        "border-radius.none": "211a6322af644b3e275429a84c33740f16a36f85",
-        "outline.200": "521ea06a0816080b131001a911f0fbd1b4ffb3c2",
-        "outline.300": "65a787e2dfcf43e7143bbd86112028ae3af4f565",
-        "outline.400": "e726f0f713f1fbf22121c71bbf7d1ef3f4f88772",
-        "outline.500": "f31c50c74d877c03edc37b52b5848919a8cbdc9b",
-        "outline.600": "638c777549c2a6557c8e94876d1a67b29a1f869b",
-        "outline.full": "68750fccdae3cf88db255da6b07ea28324c2252b",
-        "outline.none": "5fcb75dd250924287ae08f0f8d0f3f180d8c7f22",
-        "conteiner-4.200": "3afab8cbb5fbb2ece6fb215d723930c83a802f3e",
-        "conteiner-4.300": "701ad15c198fdb57dbcb0252f486978d64920ab1",
-        "conteiner-4.400": "8349f4de6d908d37f939f2273bc97c07880930fb",
-        "conteiner-4.500": "dcaff8ad8fa3e3b20acf672809046e1c8801a1e3",
-        "conteiner-4.600": "23149cc2515f87e120869912a815c80e7e75e6ec",
-        "conteiner-4.full": "3bb42b16bc8722f721d2b9450e1f959fe13b1475",
-        "conteiner-4.none": "b22bd9147d1f25078e890c9794c573afe2df6c9f"
+        "outline.200": "ea624aee45a39172ab257d4f00583d2c61e6e176",
+        "outline.300": "67b763b5236680069f72c19245c809e56642bbfd",
+        "outline.400": "961df9e2624b94bbbe21085db47bd8167f51962d",
+        "outline.500": "f2cf40c3004520514b3fe672c414fce42be84010",
+        "outline.600": "1adaa8a67c8092d63cf78129a1c71f4da38e769c",
+        "outline.full": "cbf50d0170233dbeda22959dbfe2f70587c3da5b",
+        "outline.none": "8d3d8f77b40521a8f3596616bd65c3a9445d4f62",
+        "conteiner-4.200": "9e0b01d0c5fce9d87133a9a51416b11ee341fb5d",
+        "conteiner-4.300": "5d11bfa78ae25b54b843987e23a45e1d45f14384",
+        "conteiner-4.400": "3d6d0b940c49ccf52c9f262988eeb4706c13265e",
+        "conteiner-4.500": "a36a069c8cc336aceaa3f3d119ff6d32c4529a69",
+        "conteiner-4.600": "5c3487803e766f71c1b70e739dfeaa3f0689aaa5",
+        "conteiner-4.full": "34fa17d3e2b16ae7a637b11ffb066d06a9e3716f",
+        "conteiner-4.none": "c1a03ae1c9b46bb0b4ea4b26e7a6903a25e007a9",
+        "border-radius.200": "9918e8cceac92e66a6995a5ecf37dd1d3c59b390",
+        "border-radius.300": "fb261ea66ea447cfa956db032385d217c3f2699a",
+        "border-radius.400": "85d8ca3c94c0a35a36b47fcf761efc9cea5700f6",
+        "border-radius.500": "e87db3f602bb5e5b2bc98de80a2e2a2c7d156ca2",
+        "border-radius.600": "e0c997f32796ea59f3d1d59902f04eb45f87edfd",
+        "border-radius.full": "05c4987c3c062e032b321c1589d10e4c2330b814",
+        "border-radius.none": "65cdbfab39aed4b3421c0d41d803abfb2318b002"
       }
     },
     {
@@ -1664,27 +1657,27 @@
       "$figmaCollectionId": "VariableCollectionId:140:21",
       "$figmaModeId": "140:1",
       "$figmaVariableReferences": {
-        "border-radius.200": "0916f288ebb9738d60e84614e0098f9a947188ca",
-        "border-radius.300": "884bb4d0ff6a236e740d91ba44af64a18b36ebf1",
-        "border-radius.400": "1f73fb7375f00e1e00f5304253bd95cf7c753879",
-        "border-radius.500": "8831da1d04d9ebc083bf782f4366e30922e29ea4",
-        "border-radius.600": "1410acaa2d817866e208a7aebff593348a8044d3",
-        "border-radius.full": "939101085e6efe0186a0e32950afc643eec47b17",
-        "border-radius.none": "211a6322af644b3e275429a84c33740f16a36f85",
-        "outline.200": "521ea06a0816080b131001a911f0fbd1b4ffb3c2",
-        "outline.300": "65a787e2dfcf43e7143bbd86112028ae3af4f565",
-        "outline.400": "e726f0f713f1fbf22121c71bbf7d1ef3f4f88772",
-        "outline.500": "f31c50c74d877c03edc37b52b5848919a8cbdc9b",
-        "outline.600": "638c777549c2a6557c8e94876d1a67b29a1f869b",
-        "outline.full": "68750fccdae3cf88db255da6b07ea28324c2252b",
-        "outline.none": "5fcb75dd250924287ae08f0f8d0f3f180d8c7f22",
-        "conteiner-4.200": "3afab8cbb5fbb2ece6fb215d723930c83a802f3e",
-        "conteiner-4.300": "701ad15c198fdb57dbcb0252f486978d64920ab1",
-        "conteiner-4.400": "8349f4de6d908d37f939f2273bc97c07880930fb",
-        "conteiner-4.500": "dcaff8ad8fa3e3b20acf672809046e1c8801a1e3",
-        "conteiner-4.600": "23149cc2515f87e120869912a815c80e7e75e6ec",
-        "conteiner-4.full": "3bb42b16bc8722f721d2b9450e1f959fe13b1475",
-        "conteiner-4.none": "b22bd9147d1f25078e890c9794c573afe2df6c9f"
+        "border-radius.200": "9918e8cceac92e66a6995a5ecf37dd1d3c59b390",
+        "border-radius.300": "fb261ea66ea447cfa956db032385d217c3f2699a",
+        "border-radius.400": "85d8ca3c94c0a35a36b47fcf761efc9cea5700f6",
+        "border-radius.500": "e87db3f602bb5e5b2bc98de80a2e2a2c7d156ca2",
+        "border-radius.600": "e0c997f32796ea59f3d1d59902f04eb45f87edfd",
+        "border-radius.full": "05c4987c3c062e032b321c1589d10e4c2330b814",
+        "border-radius.none": "65cdbfab39aed4b3421c0d41d803abfb2318b002",
+        "outline.200": "ea624aee45a39172ab257d4f00583d2c61e6e176",
+        "outline.300": "67b763b5236680069f72c19245c809e56642bbfd",
+        "outline.400": "961df9e2624b94bbbe21085db47bd8167f51962d",
+        "outline.500": "f2cf40c3004520514b3fe672c414fce42be84010",
+        "outline.600": "1adaa8a67c8092d63cf78129a1c71f4da38e769c",
+        "outline.full": "cbf50d0170233dbeda22959dbfe2f70587c3da5b",
+        "outline.none": "8d3d8f77b40521a8f3596616bd65c3a9445d4f62",
+        "conteiner-4.200": "9e0b01d0c5fce9d87133a9a51416b11ee341fb5d",
+        "conteiner-4.300": "5d11bfa78ae25b54b843987e23a45e1d45f14384",
+        "conteiner-4.400": "3d6d0b940c49ccf52c9f262988eeb4706c13265e",
+        "conteiner-4.500": "a36a069c8cc336aceaa3f3d119ff6d32c4529a69",
+        "conteiner-4.600": "5c3487803e766f71c1b70e739dfeaa3f0689aaa5",
+        "conteiner-4.full": "34fa17d3e2b16ae7a637b11ffb066d06a9e3716f",
+        "conteiner-4.none": "c1a03ae1c9b46bb0b4ea4b26e7a6903a25e007a9"
       }
     },
     {
@@ -1698,27 +1691,27 @@
       "$figmaCollectionId": "VariableCollectionId:140:21",
       "$figmaModeId": "140:2",
       "$figmaVariableReferences": {
-        "border-radius.200": "0916f288ebb9738d60e84614e0098f9a947188ca",
-        "border-radius.300": "884bb4d0ff6a236e740d91ba44af64a18b36ebf1",
-        "border-radius.400": "1f73fb7375f00e1e00f5304253bd95cf7c753879",
-        "border-radius.500": "8831da1d04d9ebc083bf782f4366e30922e29ea4",
-        "border-radius.600": "1410acaa2d817866e208a7aebff593348a8044d3",
-        "border-radius.full": "939101085e6efe0186a0e32950afc643eec47b17",
-        "border-radius.none": "211a6322af644b3e275429a84c33740f16a36f85",
-        "outline.200": "521ea06a0816080b131001a911f0fbd1b4ffb3c2",
-        "outline.300": "65a787e2dfcf43e7143bbd86112028ae3af4f565",
-        "outline.400": "e726f0f713f1fbf22121c71bbf7d1ef3f4f88772",
-        "outline.500": "f31c50c74d877c03edc37b52b5848919a8cbdc9b",
-        "outline.600": "638c777549c2a6557c8e94876d1a67b29a1f869b",
-        "outline.full": "68750fccdae3cf88db255da6b07ea28324c2252b",
-        "outline.none": "5fcb75dd250924287ae08f0f8d0f3f180d8c7f22",
-        "conteiner-4.200": "3afab8cbb5fbb2ece6fb215d723930c83a802f3e",
-        "conteiner-4.300": "701ad15c198fdb57dbcb0252f486978d64920ab1",
-        "conteiner-4.400": "8349f4de6d908d37f939f2273bc97c07880930fb",
-        "conteiner-4.500": "dcaff8ad8fa3e3b20acf672809046e1c8801a1e3",
-        "conteiner-4.600": "23149cc2515f87e120869912a815c80e7e75e6ec",
-        "conteiner-4.full": "3bb42b16bc8722f721d2b9450e1f959fe13b1475",
-        "conteiner-4.none": "b22bd9147d1f25078e890c9794c573afe2df6c9f"
+        "border-radius.200": "9918e8cceac92e66a6995a5ecf37dd1d3c59b390",
+        "border-radius.300": "fb261ea66ea447cfa956db032385d217c3f2699a",
+        "border-radius.400": "85d8ca3c94c0a35a36b47fcf761efc9cea5700f6",
+        "border-radius.500": "e87db3f602bb5e5b2bc98de80a2e2a2c7d156ca2",
+        "border-radius.600": "e0c997f32796ea59f3d1d59902f04eb45f87edfd",
+        "border-radius.full": "05c4987c3c062e032b321c1589d10e4c2330b814",
+        "border-radius.none": "65cdbfab39aed4b3421c0d41d803abfb2318b002",
+        "outline.200": "ea624aee45a39172ab257d4f00583d2c61e6e176",
+        "outline.300": "67b763b5236680069f72c19245c809e56642bbfd",
+        "outline.400": "961df9e2624b94bbbe21085db47bd8167f51962d",
+        "outline.500": "f2cf40c3004520514b3fe672c414fce42be84010",
+        "outline.600": "1adaa8a67c8092d63cf78129a1c71f4da38e769c",
+        "outline.full": "cbf50d0170233dbeda22959dbfe2f70587c3da5b",
+        "outline.none": "8d3d8f77b40521a8f3596616bd65c3a9445d4f62",
+        "conteiner-4.200": "9e0b01d0c5fce9d87133a9a51416b11ee341fb5d",
+        "conteiner-4.300": "5d11bfa78ae25b54b843987e23a45e1d45f14384",
+        "conteiner-4.400": "3d6d0b940c49ccf52c9f262988eeb4706c13265e",
+        "conteiner-4.500": "a36a069c8cc336aceaa3f3d119ff6d32c4529a69",
+        "conteiner-4.600": "5c3487803e766f71c1b70e739dfeaa3f0689aaa5",
+        "conteiner-4.full": "34fa17d3e2b16ae7a637b11ffb066d06a9e3716f",
+        "conteiner-4.none": "c1a03ae1c9b46bb0b4ea4b26e7a6903a25e007a9"
       }
     },
     {
