@@ -1134,271 +1134,176 @@
     }
   },
   "Space/Value": {
-    "0": {
-      "value": "0",
-      "type": "spacing",
-      "description": "0px"
-    },
-    "1": {
-      "value": "4",
-      "type": "spacing",
-      "description": "4px"
-    },
-    "2": {
-      "value": "8",
-      "type": "spacing",
-      "description": "8px"
-    },
-    "3": {
-      "value": "12",
-      "type": "spacing",
-      "description": "12px"
-    },
-    "4": {
-      "value": "16",
-      "type": "spacing",
-      "description": "16px"
-    },
-    "5": {
-      "value": "20",
-      "type": "spacing",
-      "description": "20px"
-    },
-    "6": {
-      "value": "24",
-      "type": "spacing",
-      "description": "24px"
-    },
-    "7": {
-      "value": "28",
-      "type": "spacing",
-      "description": "28px"
-    },
-    "8": {
-      "value": "32",
-      "type": "spacing",
-      "description": "32px"
-    },
-    "9": {
-      "value": "36",
-      "type": "spacing",
-      "description": "36px"
-    },
-    "10": {
-      "value": "40",
-      "type": "spacing",
-      "description": "40px"
-    },
     "space": {
       "0": {
         "value": "0",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "0 px"
+        "type": "spacing",
+        "description": "0px"
       },
       "1": {
         "value": "4",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "4 px"
+        "type": "spacing",
+        "description": "4px"
       },
       "2": {
         "value": "8",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "8 px"
+        "type": "spacing",
+        "description": "8px"
       },
       "3": {
         "value": "12",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "12 gap"
+        "type": "spacing",
+        "description": "12px"
       },
       "4": {
         "value": "16",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "16 gap"
+        "type": "spacing",
+        "description": "16px"
       },
       "5": {
         "value": "20",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "20 gap"
+        "type": "spacing",
+        "description": "20px"
       },
       "6": {
         "value": "24",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "24 gap"
+        "type": "spacing",
+        "description": "24px"
       },
       "7": {
         "value": "28",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "28 gap"
+        "type": "spacing",
+        "description": "28px"
       },
       "8": {
         "value": "32",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "32 gap"
+        "type": "spacing",
+        "description": "32px"
       },
       "9": {
         "value": "36",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "36 gap"
+        "type": "spacing",
+        "description": "36px"
       },
       "10": {
         "value": "40",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "40 gap"
+        "type": "spacing",
+        "description": "40px"
       },
       "11": {
         "value": "44",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "44 gap"
+        "type": "spacing",
+        "description": "44px"
       },
       "12": {
         "value": "48",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "48 gap"
+        "type": "spacing",
+        "description": "48px"
       },
       "14": {
         "value": "56",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "56 gap"
+        "type": "spacing",
+        "description": "56px"
       },
       "16": {
         "value": "64",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "64 gap"
+        "type": "spacing",
+        "description": "64px"
       },
       "20": {
         "value": "80",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "80 gap"
+        "type": "spacing",
+        "description": "80px"
       },
       "24": {
         "value": "96",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "96 gap"
+        "type": "spacing",
+        "description": "96px"
       },
       "28": {
         "value": "112",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "112 gap"
+        "type": "spacing",
+        "description": "112px"
       },
       "32": {
         "value": "128",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "128 gap"
+        "type": "spacing",
+        "description": "128px"
       },
       "36": {
         "value": "144",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "144 gap"
+        "type": "spacing",
+        "description": "144px"
       },
       "40": {
         "value": "160",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "160 gap"
+        "type": "spacing",
+        "description": "160px"
       },
       "44": {
         "value": "176",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "176 gap"
+        "type": "spacing",
+        "description": "176px"
       },
       "48": {
         "value": "192",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "192 gap"
+        "type": "spacing",
+        "description": "192px"
       },
       "52": {
         "value": "208",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "208 gap"
+        "type": "spacing",
+        "description": "208px"
       },
       "56": {
         "value": "224",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "224 gap"
+        "type": "spacing",
+        "description": "224px"
       },
       "60": {
         "value": "240",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "240 gap"
+        "type": "spacing",
+        "description": "240px"
       },
       "64": {
         "value": "256",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "256 gap"
+        "type": "spacing",
+        "description": "256px"
       },
       "72": {
         "value": "288",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "288 gap"
+        "type": "spacing",
+        "description": "288px"
       },
       "80": {
         "value": "320",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "320 gap"
-      },
-      "96": {
-        "value": "384",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "384 gap"
+        "type": "spacing",
+        "description": "320px"
       },
       "px": {
         "value": "1",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "1 px"
+        "type": "spacing",
+        "description": "1px"
       },
       "0,5": {
         "value": "2",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "2 gap"
+        "type": "spacing",
+        "description": "2px"
       },
       "1,5": {
         "value": "6",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "6 px"
+        "type": "spacing",
+        "description": "6px"
       },
       "2,5": {
         "value": "10",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "10 px"
+        "type": "spacing",
+        "description": "10px"
       },
       "3,5": {
         "value": "14",
-        "type": "number",
-        "parent": "Space/Value",
-        "description": "14 gap"
+        "type": "spacing",
+        "description": "14px"
       }
     }
   },
@@ -1826,41 +1731,40 @@
       "$figmaCollectionId": "VariableCollectionId:122:54",
       "$figmaModeId": "122:3",
       "$figmaVariableReferences": {
-        "space.0": "edaf9c733f173488effef0c0b7e0831cbb00fa43",
-        "space.1": "89a125ec17475ce3acaa812fae082deaac399ae2",
-        "space.2": "1a7981047689fa3c4e0c7a9a3eea5874154e58a7",
-        "space.3": "5a2a81eb9212d73dd827068c2ef447859c123cb5",
-        "space.4": "284b8123f576466a67238ca5bdb0b2cc4df252f4",
-        "space.5": "ac2d130e86225cb39b942be2823d0bd1c37961ed",
-        "space.6": "f77ce3d3d55cc771a60e9119f163f1435d7a39cf",
-        "space.7": "014f9f4775f0e2e47d594054118d427f237485b8",
-        "space.8": "82983bd9bbd42bc0a85dce2e2c32c0c840c7e27d",
-        "space.9": "5166241d40dae8e471cafb75e0e896169e94a3e6",
-        "space.10": "9dfff641b99c6cf96ccb5d9c1fc4575ad81c0992",
-        "space.11": "19c462d41047ce5a693f0b8bf0c3b151613e0bf0",
-        "space.12": "e337dda3bd2e11a606c0bd66fd2d102065379e92",
-        "space.14": "bdbe7f38038e1c8a06a7c8905a68a0df2a572d30",
-        "space.16": "6e9afb84eb477eec3b82cbe05504038128431ffc",
-        "space.20": "0c26a35376e4fe4eb5b93ce3df1ccf52695c6c74",
-        "space.24": "97af18901e76be981bc8964c5e816a741764d586",
-        "space.28": "6252ff3b2bd1f573432883fdb868c1fdabfd40df",
-        "space.32": "04ea82ce95e5371424673d89247ff3b1c23ff7b6",
-        "space.36": "41810b2e7dbe035957512519b8a530e31793b2a8",
-        "space.40": "67112fa0806bb70de19a69942bf44597d574050a",
-        "space.44": "98673c91a0f67dba2e3f7e32875e7701f5c2caee",
-        "space.48": "6b0dd39596f3393afa783feb06687c76b9918f6f",
-        "space.52": "84171f03fcd5505574173ac7956f91b45e85722e",
-        "space.56": "1df4d72befd9e1a3e5bcc68a651b274b6ec1cca9",
-        "space.60": "8fcdc9416b3512b03a63121c9d5ae63dc4725c90",
-        "space.64": "3d40e2f831d7b28096d89094a5df6ad099160b0d",
-        "space.72": "ba97b62a4c87ee6e07c8ba86c418be12b27d97b7",
-        "space.80": "f62fadb0d284c16b4144a0c7e37fe845a2190011",
-        "space.96": "51c552e98d9447750fb40ab6bd08234766cf277d",
-        "space.px": "70efcd00dd306f92e9b7c998812582502bff50d2",
-        "space.0,5": "f5eb8a26ef91369964138470ceddc7db27333112",
-        "space.1,5": "0cd65e6100335d3171ae0d776d24206f021c1a59",
-        "space.2,5": "1bb7f2b635484c65e027e4ec806fb9c8a7718cbf",
-        "space.3,5": "bd0407ed49f853137e942f8b6ea73c3c36bace8c"
+        "space.0": "6892f6474c77e99f226149f013368e806c48e1ea",
+        "space.1": "c8863416b5fa868fd5d5e0c408843fc28a48d76f",
+        "space.2": "b8b5ab3e82bcee96186d3132dc9b420210d74112",
+        "space.3": "eea36c7116f7a89162a699c215aaa84a87b100b9",
+        "space.4": "892e54de4e536b850956fec3afd1690d8ed7d2ae",
+        "space.5": "870f99f115f90c06d46b2a8bf86e41955d1c0531",
+        "space.6": "c1dbfcf24cb5c8c8dab9c4a58a044c0e0c4a7957",
+        "space.7": "5ce76c834f4f37a3bbc3cf4b720f97c65f6ac542",
+        "space.8": "889a3411a47c8c53a0628fea5a90ecffb779cba0",
+        "space.9": "f306a6f82fb0af636788a11bd12834dc9f48aafc",
+        "space.10": "b3a1b87e64964ddf837c5a2b14d62f19b6bd2a8f",
+        "space.11": "f0c2a6f80e20ecffc2ef2e71c8dd71258f07577a",
+        "space.12": "d445c194ded9412ecc8f4b4f91f7c8b00ab713b2",
+        "space.14": "047fa35cadfae426d36a4b5efd7cae9fbf044f52",
+        "space.16": "e1f2adac8757ce717f78cbc471e60dc2418eab7d",
+        "space.20": "05430f0a7e3a55c5c84531f3a753c29b7a2cde58",
+        "space.24": "80f02a037f25b6d3cb80e4aebddc68cf99aaaa84",
+        "space.28": "5769c27ec7511e839784baae72ecedb46ed1104a",
+        "space.32": "d2cf5fcbbfdba903f1c86a0f77f0f4de75147fa6",
+        "space.36": "b1a7b19f71c9f612e43ab3378becc5b98b016bfb",
+        "space.40": "5a4080bbc94cccea1e4d75c171165a1f9d90b599",
+        "space.44": "b48819fc3c1c3f9f671831d0b9423b037fd1a065",
+        "space.48": "78035aa8bc0f559fb8f472c685129d8d4d0f2e63",
+        "space.52": "69908770127d37365b139adfebad5e16959a6479",
+        "space.56": "6300b82303969f29fff8dff9b2e01d00d61e1142",
+        "space.60": "c42941b819a986d9256fdf8f0fe0bce209bfef0e",
+        "space.64": "0ee2fc824e8e9e8f296c8db1826640d6eea1bcc0",
+        "space.72": "4f6992632f33690ade8029560cf72bcf4f34d98c",
+        "space.80": "af63d8c5aeed58f443900250b3a394174080dd22",
+        "space.px": "f788e4468246381bc3befebeff47b4ac4514e9b5",
+        "space.0,5": "aad1eff779bab5300cbde074aa416412a90ecb78",
+        "space.1,5": "2774b9cce7596673f0c4e89e813c0322688b137b",
+        "space.2,5": "23b41e3f5a2822c42dcf930a7f58042f2781fa43",
+        "space.3,5": "c103eb9e2e46a5530d35332c5327cc9cb297fd3c"
       },
       "group": "Space"
     },
