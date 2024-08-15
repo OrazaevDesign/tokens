@@ -1157,163 +1157,163 @@
         "value": 12,
         "type": "number",
         "parent": "Space/Value",
-        "description": "12 px"
+        "description": "12 gap"
       },
       "4": {
         "value": 16,
         "type": "number",
         "parent": "Space/Value",
-        "description": "16 px"
+        "description": "16 gap"
       },
       "5": {
         "value": 20,
         "type": "number",
         "parent": "Space/Value",
-        "description": "20 px"
+        "description": "20 gap"
       },
       "6": {
         "value": 24,
         "type": "number",
         "parent": "Space/Value",
-        "description": "24 px"
+        "description": "24 gap"
       },
       "7": {
         "value": 28,
         "type": "number",
         "parent": "Space/Value",
-        "description": "28 px"
+        "description": "28 gap"
       },
       "8": {
         "value": 32,
         "type": "number",
         "parent": "Space/Value",
-        "description": "32 px"
+        "description": "32 gap"
       },
       "9": {
         "value": 36,
         "type": "number",
         "parent": "Space/Value",
-        "description": "36 px"
+        "description": "36 gap"
       },
       "10": {
         "value": 40,
         "type": "number",
         "parent": "Space/Value",
-        "description": "40 px"
+        "description": "40 gap"
       },
       "11": {
         "value": 44,
         "type": "number",
         "parent": "Space/Value",
-        "description": "44 px"
+        "description": "44 gap"
       },
       "12": {
         "value": 48,
         "type": "number",
         "parent": "Space/Value",
-        "description": "48 px"
+        "description": "48 gap"
       },
       "14": {
         "value": 56,
         "type": "number",
         "parent": "Space/Value",
-        "description": "56 px"
+        "description": "56 gap"
       },
       "16": {
         "value": 64,
         "type": "number",
         "parent": "Space/Value",
-        "description": "64 px"
+        "description": "64 gap"
       },
       "20": {
         "value": 80,
         "type": "number",
         "parent": "Space/Value",
-        "description": "80 px"
+        "description": "80 gap"
       },
       "24": {
         "value": 96,
         "type": "number",
         "parent": "Space/Value",
-        "description": "96 px"
+        "description": "96 gap"
       },
       "28": {
         "value": 112,
         "type": "number",
         "parent": "Space/Value",
-        "description": "112 px"
+        "description": "112 gap"
       },
       "32": {
         "value": 128,
         "type": "number",
         "parent": "Space/Value",
-        "description": "128 px"
+        "description": "128 gap"
       },
       "36": {
         "value": 144,
         "type": "number",
         "parent": "Space/Value",
-        "description": "144 px"
+        "description": "144 gap"
       },
       "40": {
         "value": 160,
         "type": "number",
         "parent": "Space/Value",
-        "description": "160 px"
+        "description": "160 gap"
       },
       "44": {
         "value": 176,
         "type": "number",
         "parent": "Space/Value",
-        "description": "176 px"
+        "description": "176 gap"
       },
       "48": {
         "value": 192,
         "type": "number",
         "parent": "Space/Value",
-        "description": "192 px"
+        "description": "192 gap"
       },
       "52": {
         "value": 208,
         "type": "number",
         "parent": "Space/Value",
-        "description": "208 px"
+        "description": "208 gap"
       },
       "56": {
         "value": 224,
         "type": "number",
         "parent": "Space/Value",
-        "description": "224 px"
+        "description": "224 gap"
       },
       "60": {
         "value": 240,
         "type": "number",
         "parent": "Space/Value",
-        "description": "240 px"
+        "description": "240 gap"
       },
       "64": {
         "value": 256,
         "type": "number",
         "parent": "Space/Value",
-        "description": "256 px"
+        "description": "256 gap"
       },
       "72": {
         "value": 288,
         "type": "number",
         "parent": "Space/Value",
-        "description": "288 px"
+        "description": "288 gap"
       },
       "80": {
         "value": 320,
         "type": "number",
         "parent": "Space/Value",
-        "description": "320 px"
+        "description": "320 gap"
       },
       "96": {
         "value": 384,
         "type": "number",
         "parent": "Space/Value",
-        "description": "384 px"
+        "description": "384 gap"
       },
       "px": {
         "value": 1,
@@ -1325,7 +1325,7 @@
         "value": 2,
         "type": "number",
         "parent": "Space/Value",
-        "description": "2 px"
+        "description": "2 gap"
       },
       "1,5": {
         "value": 6,
@@ -1343,116 +1343,153 @@
         "value": 14,
         "type": "number",
         "parent": "Space/Value",
-        "description": "14 px"
+        "description": "14 gap"
       }
     }
   },
   "Opacity/Value": {
+    "0": {
+      "value": "0",
+      "type": "opacity"
+    },
+    "5": {
+      "value": "5",
+      "type": "opacity"
+    },
+    "10": {
+      "value": "10",
+      "type": "opacity"
+    },
+    "15": {
+      "value": "15",
+      "type": "opacity"
+    },
     "opacity": {
       "0": {
         "value": 0,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "0px"
       },
       "5": {
         "value": 5,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "24px"
       },
       "10": {
         "value": 10,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "40px"
       },
       "15": {
         "value": 15,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "44px"
       },
       "20": {
         "value": 20,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "80px"
       },
       "25": {
         "value": 25,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "96px"
       },
       "30": {
         "value": 30,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "112px"
       },
       "35": {
         "value": 35,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "128px"
       },
       "40": {
         "value": 40,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "160px"
       },
       "45": {
         "value": 45,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "176px"
       },
       "50": {
         "value": 50,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "192px"
       },
       "55": {
         "value": 55,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "208px"
       },
       "60": {
         "value": 60,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "240px"
       },
       "65": {
         "value": 65,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "256px"
       },
       "70": {
         "value": 70,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "288px"
       },
       "75": {
         "value": 75,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "288px"
       },
       "80": {
         "value": 80,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "320px"
       },
       "85": {
         "value": 85,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "320px"
       },
       "90": {
         "value": 90,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "384px"
       },
       "95": {
         "value": 95,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "384px"
       },
       "100": {
         "value": 100,
         "type": "number",
-        "parent": "Opacity/Value"
+        "parent": "Opacity/Value",
+        "description": "384px"
       }
     }
   },
@@ -1593,6 +1630,7 @@
         "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
         "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
         "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
+        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
         "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
         "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
         "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
@@ -1601,7 +1639,8 @@
         "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
         "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
         "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
-        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be"
+        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
+        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
       }
     },
     {
@@ -1628,6 +1667,7 @@
         "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
         "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
         "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
+        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
         "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
         "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
         "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
@@ -1636,7 +1676,8 @@
         "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
         "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
         "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
-        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be"
+        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
+        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
       }
     },
     {
@@ -1663,6 +1704,7 @@
         "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
         "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
         "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
+        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
         "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
         "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
         "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
@@ -1671,7 +1713,8 @@
         "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
         "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
         "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
-        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be"
+        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
+        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
       }
     },
     {
@@ -1834,6 +1877,7 @@
       "$figmaCollectionId": "VariableCollectionId:140:34",
       "$figmaModeId": "140:3",
       "$figmaVariableReferences": {
+        "0": "0368ec1bfee23e9bf23cb9918296767955aa25b8",
         "opacity.0": "8eb27b5e47c0c0ebb424862d823a4dd9e6b84bb1",
         "opacity.5": "e895266426e3826643ad2eb1cdd3be294feef071",
         "opacity.10": "c7122892a418f458a216e1aaab8344c52e0f0b53",
@@ -1849,10 +1893,10 @@
         "opacity.60": "24796b40bcbe856583f5f1940787ff292775d8e4",
         "opacity.65": "eccec55a5a55b52c1afe60a45b71410ee134b82f",
         "opacity.70": "9058ea40e784e6c43e31bbb279330214ec2f01bb",
-        "opacity.80": "6f07ab43cbe070805b86f8fb2ff50b7f82ef4158",
-        "opacity.90": "a2f2597cdff2d775a32782cb4b8e3d625994a22b",
         "opacity.75": "ff248664764c41e063b353b447908a969244d9f7",
+        "opacity.80": "6f07ab43cbe070805b86f8fb2ff50b7f82ef4158",
         "opacity.85": "10de70ca9bfbf2457c8f5c3fe9370f1ee3e2d46d",
+        "opacity.90": "a2f2597cdff2d775a32782cb4b8e3d625994a22b",
         "opacity.95": "725a209ab94b32e81991af2cfab9f04792014375",
         "opacity.100": "c4d6496f36134de239dcbd042adcc7161abf3e2d"
       },
