@@ -233,67 +233,67 @@
     },
     "paragraph-spacing": {
       "50": {
-        "value": "{space.0}",
+        "value": "{space.10}",
         "type": "number",
         "parent": "Control/Value"
       },
       "100": {
-        "value": "{space.0}",
+        "value": "{space.12}",
         "type": "number",
         "parent": "Control/Value"
       },
       "200": {
-        "value": "{space.0}",
+        "value": "{space.12}",
         "type": "number",
         "parent": "Control/Value"
       },
       "300": {
-        "value": "{space.0}",
+        "value": "{space.14}",
         "type": "number",
         "parent": "Control/Value"
       },
       "400": {
-        "value": "{space.0}",
+        "value": "{space.14}",
         "type": "number",
         "parent": "Control/Value"
       },
       "500": {
-        "value": "{space.0}",
+        "value": "{space.16}",
         "type": "number",
         "parent": "Control/Value"
       },
       "600": {
-        "value": "{space.0}",
+        "value": "{space.16}",
         "type": "number",
         "parent": "Control/Value"
       },
       "700": {
-        "value": "{space.0}",
+        "value": "{space.20}",
         "type": "number",
         "parent": "Control/Value"
       },
       "800": {
-        "value": "{space.0}",
+        "value": "{space.20}",
         "type": "number",
         "parent": "Control/Value"
       },
       "850": {
-        "value": "{space.0}",
+        "value": "{space.20}",
         "type": "number",
         "parent": "Control/Value"
       },
       "900": {
-        "value": "{space.0}",
+        "value": "{space.24}",
         "type": "number",
         "parent": "Control/Value"
       },
       "950": {
-        "value": "{space.0}",
+        "value": "{space.28}",
         "type": "number",
         "parent": "Control/Value"
       },
       "1000": {
-        "value": "{space.0}",
+        "value": "{space.40}",
         "type": "number",
         "parent": "Control/Value"
       }
@@ -539,52 +539,52 @@
       },
       "paragraph-spacing": {
         "50": {
-          "value": "{space.2,5}",
+          "value": 10,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "100": {
-          "value": "{space.3}",
+          "value": 11,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "200": {
-          "value": "{space.3}",
+          "value": 12,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "300": {
-          "value": "{space.3,5}",
+          "value": 13,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "400": {
-          "value": "{space.3,5}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "500": {
-          "value": "{space.4}",
+          "value": 15,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "600": {
-          "value": "{space.4}",
+          "value": 16,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "700": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "800": {
-          "value": "{space.5}",
+          "value": 18,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "900": {
-          "value": "{space.5}",
+          "value": 20,
           "type": "number",
           "parent": "Typography/Desktop"
         }
@@ -674,27 +674,27 @@
       },
       "paragraph-spacing": {
         "t1": {
-          "value": "{space.10}",
+          "value": 40,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "t2": {
-          "value": "{space.9}",
+          "value": 34,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "t3": {
-          "value": "{space.7}",
+          "value": 28,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "t4": {
-          "value": "{space.6}",
+          "value": 24,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "t5": {
-          "value": "{space.5}",
+          "value": 18,
           "type": "number",
           "parent": "Typography/Desktop"
         }
@@ -784,27 +784,27 @@
       },
       "paragraph-spacing": {
         "h1": {
-          "value": "{space.8}",
+          "value": 32,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "h2": {
-          "value": "{space.5}",
+          "value": 20,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "h3": {
-          "value": "{space.5}",
+          "value": 18,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "h4": {
-          "value": "{space.4}",
+          "value": 16,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "h5": {
-          "value": "{space.14}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Desktop"
         }
@@ -894,27 +894,27 @@
       },
       "paragraph-spacing": {
         "d1": {
-          "value": "{opacity.70}",
+          "value": 70,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "d2": {
-          "value": "{space.16}",
+          "value": 64,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "d3": {
-          "value": "{space.40}",
+          "value": 58,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "d4": {
-          "value": "{space.52}",
+          "value": 52,
           "type": "number",
           "parent": "Typography/Desktop"
         },
         "d5": {
-          "value": "{space.12}",
+          "value": 48,
           "type": "number",
           "parent": "Typography/Desktop"
         }
@@ -1000,7 +1000,7 @@
           "oldValue": "1.0625rem"
         },
         "400": {
-          "value": 19,
+          "value": 20,
           "type": "number",
           "parent": "Typography/Tablet",
           "oldValue": "1.125rem"
@@ -1086,54 +1086,54 @@
       },
       "paragraph-spacing": {
         "50": {
-          "value": "{space.2,5}",
+          "value": 10,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "100": {
-          "value": "{space.3}",
+          "value": 11,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "200": {
-          "value": "{space.3}",
+          "value": 12,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "300": {
-          "value": "{space.3,5}",
+          "value": 13,
           "type": "number",
           "parent": "Typography/Tablet",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": "{space.3,5}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Tablet",
           "oldValue": "0.8125rem"
         },
         "500": {
-          "value": "{space.3,5}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "600": {
-          "value": "{space.4}",
+          "value": 15,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "700": {
-          "value": "{space.4}",
+          "value": 16,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "800": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "900": {
-          "value": "{space.5}",
+          "value": 18,
           "type": "number",
           "parent": "Typography/Tablet"
         }
@@ -1195,7 +1195,7 @@
           "oldValue": "1.5rem"
         },
         "t5": {
-          "value": 0,
+          "value": 20,
           "type": "number",
           "parent": "Typography/Tablet"
         }
@@ -1231,30 +1231,30 @@
       },
       "paragraph-spacing": {
         "t1": {
-          "value": "{space.9}",
+          "value": 34,
           "type": "number",
           "parent": "Typography/Tablet",
           "oldValue": "2.5rem"
         },
         "t2": {
-          "value": "{space.7}",
+          "value": 28,
           "type": "number",
           "parent": "Typography/Tablet",
           "oldValue": "2rem"
         },
         "t3": {
-          "value": "{space.6}",
+          "value": 24,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "t4": {
-          "value": "{space.5}",
+          "value": 18,
           "type": "number",
           "parent": "Typography/Tablet",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Tablet"
         }
@@ -1344,27 +1344,27 @@
       },
       "paragraph-spacing": {
         "h1": {
-          "value": "{space.6}",
+          "value": 24,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "h2": {
-          "value": "{space.5}",
+          "value": 20,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "h3": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "h4": {
-          "value": "{space.4}",
+          "value": 16,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "h5": {
-          "value": "{space.3,5}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Tablet"
         }
@@ -1393,7 +1393,7 @@
           "parent": "Typography/Tablet"
         },
         "d5": {
-          "value": 48,
+          "value": 40,
           "type": "number",
           "parent": "Typography/Tablet"
         }
@@ -1454,27 +1454,27 @@
       },
       "paragraph-spacing": {
         "d1": {
-          "value": "{space.16}",
+          "value": 64,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "d2": {
-          "value": "{space.40}",
+          "value": 58,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "d3": {
-          "value": "{space.14}",
+          "value": 52,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "d4": {
-          "value": "{space.12}",
+          "value": 48,
           "type": "number",
           "parent": "Typography/Tablet"
         },
         "d5": {
-          "value": "{space.10}",
+          "value": 40,
           "type": "number",
           "parent": "Typography/Tablet"
         }
@@ -1650,55 +1650,55 @@
       },
       "paragraph-spacing": {
         "50": {
-          "value": "{space.10}",
+          "value": 10,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "100": {
-          "value": "{space.3}",
+          "value": 11,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "200": {
-          "value": "{space.3}",
+          "value": 12,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "300": {
-          "value": "{space.14}",
+          "value": 13,
           "type": "number",
           "parent": "Typography/Mobile",
           "oldValue": "0.75rem"
         },
         "400": {
-          "value": "{space.14}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Mobile",
           "oldValue": "0.75rem"
         },
         "500": {
-          "value": "{space.14}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Mobile",
           "oldValue": "0.8125rem"
         },
         "600": {
-          "value": "{space.14}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "700": {
-          "value": "{space.4}",
+          "value": 15,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "800": {
-          "value": "{space.4}",
+          "value": 16,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "900": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Mobile"
         }
@@ -1799,31 +1799,31 @@
       },
       "paragraph-spacing": {
         "t1": {
-          "value": "{space.7}",
+          "value": 28,
           "type": "number",
           "parent": "Typography/Mobile",
           "oldValue": "2.125rem"
         },
         "t2": {
-          "value": "{space.6}",
+          "value": 24,
           "type": "number",
           "parent": "Typography/Mobile",
           "oldValue": "1.75rem"
         },
         "t3": {
-          "value": "{space.5}",
+          "value": 18,
           "type": "number",
           "parent": "Typography/Mobile",
           "oldValue": "1.375rem"
         },
         "t4": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Mobile",
           "oldValue": "1.25rem"
         },
         "t5": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Mobile"
         }
@@ -1913,27 +1913,27 @@
       },
       "paragraph-spacing": {
         "h1": {
-          "value": "{space.5}",
+          "value": 20,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "h2": {
-          "value": "{space.5}",
+          "value": 18,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "h3": {
-          "value": "{space.5}",
+          "value": 17,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "h4": {
-          "value": "{space.4}",
+          "value": 16,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "h5": {
-          "value": "{space.14}",
+          "value": 14,
           "type": "number",
           "parent": "Typography/Mobile"
         }
@@ -2023,27 +2023,27 @@
       },
       "paragraph-spacing": {
         "d1": {
-          "value": "{space.12}",
+          "value": 48,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "d2": {
-          "value": "{space.10}",
+          "value": 40,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "d3": {
-          "value": "{space.9}",
+          "value": 34,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "d4": {
-          "value": "{space.8}",
+          "value": 32,
           "type": "number",
           "parent": "Typography/Mobile"
         },
         "d5": {
-          "value": "{space.7}",
+          "value": 28,
           "type": "number",
           "parent": "Typography/Mobile"
         }
