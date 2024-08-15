@@ -2,22 +2,22 @@
   "Shadow/elevation-1": {
     "shadow1": {
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": "2",
+        "value": 2,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": "4",
+        "value": 4,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "spread-radius": {
-        "value": "-2",
+        "value": -2,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
@@ -36,22 +36,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": "1",
+        "value": 1,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "spread-radius": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-1"
       }
@@ -64,23 +64,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "offset-y": {
-        "value": "1",
+        "value": 1,
         "type": "number",
         "parent": "Shadow/elevation-1"
       },
       "blur-radius": {
-        "value": "6",
+        "value": 6,
         "type": "number",
         "parent": "Shadow/elevation-1",
         "oldValue": "0.125rem"
       },
       "spread-radius": {
-        "value": "-1",
+        "value": -1,
         "type": "number",
         "parent": "Shadow/elevation-1",
         "oldValue": "0rem"
@@ -90,23 +90,23 @@
   "Shadow/elevation-2": {
     "shadow1": {
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": "4",
+        "value": 4,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": "6",
+        "value": 6,
         "type": "number",
         "parent": "Shadow/elevation-2",
         "oldValue": "0.5rem"
       },
       "spread-radius": {
-        "value": "-4",
+        "value": -4,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
@@ -125,22 +125,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": "1",
+        "value": 1,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "spread-radius": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-2"
       }
@@ -153,23 +153,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "offset-y": {
-        "value": "4",
+        "value": 4,
         "type": "number",
         "parent": "Shadow/elevation-2"
       },
       "blur-radius": {
-        "value": "8",
+        "value": 8,
         "type": "number",
         "parent": "Shadow/elevation-2",
         "oldValue": "0.25rem"
       },
       "spread-radius": {
-        "value": "-4",
+        "value": -4,
         "type": "number",
         "parent": "Shadow/elevation-2",
         "oldValue": "-0.125rem"
@@ -179,23 +179,23 @@
   "Shadow/elevation-3": {
     "shadow1": {
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": "8",
+        "value": 8,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": "12",
+        "value": 12,
         "type": "number",
         "parent": "Shadow/elevation-3",
         "oldValue": "1rem"
       },
       "spread-radius": {
-        "value": "-8",
+        "value": -8,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
@@ -214,22 +214,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": "1",
+        "value": 1,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "spread-radius": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-3"
       }
@@ -242,23 +242,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "offset-y": {
-        "value": "6",
+        "value": 6,
         "type": "number",
         "parent": "Shadow/elevation-3"
       },
       "blur-radius": {
-        "value": "18",
+        "value": 18,
         "type": "number",
         "parent": "Shadow/elevation-3",
         "oldValue": "0.375rem"
       },
       "spread-radius": {
-        "value": "-6",
+        "value": -6,
         "type": "number",
         "parent": "Shadow/elevation-3",
         "oldValue": "-0.25rem"
@@ -268,22 +268,22 @@
   "Shadow/elevation-4": {
     "shadow1": {
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": "12",
+        "value": 12,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": "24",
+        "value": 24,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "spread-radius": {
-        "value": "-12",
+        "value": -12,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
@@ -302,22 +302,22 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": "1",
+        "value": 1,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "spread-radius": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-4"
       }
@@ -330,23 +330,23 @@
         "description": ""
       },
       "offset-x": {
-        "value": "0",
+        "value": 0,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "offset-y": {
-        "value": "8",
+        "value": 8,
         "type": "number",
         "parent": "Shadow/elevation-4"
       },
       "blur-radius": {
-        "value": "26",
+        "value": 26,
         "type": "number",
         "parent": "Shadow/elevation-4",
         "oldValue": "0.5rem"
       },
       "spread-radius": {
-        "value": "-8",
+        "value": -8,
         "type": "number",
         "parent": "Shadow/elevation-4",
         "oldValue": "-0.375rem"
@@ -356,106 +356,106 @@
   "Breakpoints/Desktop": {
     "market": {
       "gap-x": {
-        "value": "24",
-        "type": "sizing",
+        "value": 24,
+        "type": "spacing",
         "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
-          "value": "184",
+          "value": 184,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "card-max": {
-          "value": "368",
+          "value": 368,
           "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": "24",
-        "type": "sizing",
+        "value": 24,
+        "type": "spacing",
         "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
-        "value": "40",
-        "type": "sizing",
+        "value": 40,
+        "type": "spacing",
         "parent": "Brackpoint/Desktop"
       },
       "banner": {
         "3-min": {
-          "value": "392",
+          "value": 392,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "3-max": {
-          "value": "800",
+          "value": 800,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "2-min": {
-          "value": "392",
+          "value": 392,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "2-max": {
-          "value": "800",
+          "value": 800,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "4-min": {
-          "value": "184",
+          "value": 184,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "4-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "1-max": {
-          "value": "1440",
+          "value": 1440,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         },
         "1-min": {
-          "value": "976",
+          "value": 976,
           "type": "sizing",
           "parent": "Brackpoint/Desktop"
         }
       },
       "layout": {
-        "value": "1488",
+        "value": 1488,
         "type": "sizing",
         "parent": "Breakpoints/Desktop"
       }
     },
     "cms": {
       "gap-x": {
-        "value": "16",
-        "type": "sizing",
+        "value": 16,
+        "type": "spacing",
         "parent": "Brackpoint/Desktop"
       },
       "gap-y": {
-        "value": "32",
-        "type": "sizing",
+        "value": 32,
+        "type": "spacing",
         "parent": "Brackpoint/Desktop"
       },
       "padding": {
-        "value": "24",
-        "type": "sizing",
+        "value": 24,
+        "type": "spacing",
         "parent": "Brackpoint/Desktop"
       },
       "card": {
         "card-min": {
-          "value": "186",
+          "value": 186,
           "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "90rem"
@@ -463,32 +463,32 @@
       },
       "banner": {
         "4-min": {
-          "value": "336",
+          "value": 336,
           "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": "688",
+          "value": 688,
           "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": "186",
+          "value": 186,
           "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Breakpoints/Desktop",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": "1440",
+        "value": 1440,
         "type": "sizing",
         "parent": "Breakpoints/Desktop",
         "oldValue": "93rem"
@@ -498,78 +498,78 @@
   "Breakpoints/Tablet": {
     "market": {
       "gap-x": {
-        "value": "16",
-        "type": "sizing",
+        "value": 16,
+        "type": "spacing",
         "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
-          "value": "184",
+          "value": 184,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "10.125rem"
         },
         "card-max": {
-          "value": "368",
+          "value": 368,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": "16",
-        "type": "sizing",
+        "value": 16,
+        "type": "spacing",
         "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
-        "value": "24",
-        "type": "sizing",
+        "value": 24,
+        "type": "spacing",
         "parent": "Brackpoint/Tablet"
       },
       "banner": {
         "3-min": {
-          "value": "340",
+          "value": 340,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "3-max": {
-          "value": "474",
+          "value": 474,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "2-min": {
-          "value": "340",
+          "value": 340,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "2-max": {
-          "value": "720",
+          "value": 720,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "4-min": {
-          "value": "162",
+          "value": 162,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "4-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "1-max": {
-          "value": "1440",
+          "value": 1440,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         },
         "1-min": {
-          "value": "398",
+          "value": 398,
           "type": "sizing",
           "parent": "Brackpoint/Tablet"
         }
       },
       "layout": {
-        "value": "1016",
+        "value": 1016,
         "type": "sizing",
         "parent": "Breakpoints/Tablet",
         "oldValue": "64rem"
@@ -577,29 +577,29 @@
     },
     "cms": {
       "gap-x": {
-        "value": "16",
-        "type": "sizing",
+        "value": 16,
+        "type": "spacing",
         "parent": "Brackpoint/Tablet"
       },
       "gap-y": {
-        "value": "32",
-        "type": "sizing",
+        "value": 32,
+        "type": "spacing",
         "parent": "Brackpoint/Tablet"
       },
       "padding": {
-        "value": "24",
-        "type": "sizing",
+        "value": 24,
+        "type": "spacing",
         "parent": "Brackpoint/Tablet"
       },
       "card": {
         "card-min": {
-          "value": "186",
+          "value": 186,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "90rem"
@@ -607,32 +607,32 @@
       },
       "banner": {
         "4-min": {
-          "value": "336",
+          "value": 336,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": "688",
+          "value": 688,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": "186",
+          "value": 186,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "9.5rem"
         },
         "8-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Breakpoints/Tablet",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": "1016",
+        "value": 1016,
         "type": "sizing",
         "parent": "Breakpoints/Tablet"
       }
@@ -641,106 +641,106 @@
   "Breakpoints/Mobile": {
     "market": {
       "gap-x": {
-        "value": "16",
-        "type": "sizing",
+        "value": 16,
+        "type": "spacing",
         "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
-          "value": "128",
+          "value": 128,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "card-max": {
-          "value": "256",
+          "value": 256,
           "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "90rem"
         }
       },
       "padding": {
-        "value": "16",
-        "type": "sizing",
+        "value": 16,
+        "type": "spacing",
         "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
-        "value": "24",
-        "type": "sizing",
+        "value": 24,
+        "type": "spacing",
         "parent": "Brackpoint/Mobile"
       },
       "banner": {
         "3-min": {
-          "value": "272",
+          "value": 272,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "3-max": {
-          "value": "474",
+          "value": 474,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "2-min": {
-          "value": "272",
+          "value": 272,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "2-max": {
-          "value": "720",
+          "value": 720,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "4-min": {
-          "value": "128",
+          "value": 128,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "4-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "1-max": {
-          "value": "1440",
+          "value": 1440,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         },
         "1-min": {
-          "value": "288",
+          "value": 288,
           "type": "sizing",
           "parent": "Brackpoint/Mobile"
         }
       },
       "layout": {
-        "value": "430",
+        "value": 430,
         "type": "sizing",
         "parent": "Breakpoints/Mobile"
       }
     },
     "cms": {
       "gap-x": {
-        "value": "16",
-        "type": "sizing",
+        "value": 16,
+        "type": "spacing",
         "parent": "Brackpoint/Mobile"
       },
       "gap-y": {
-        "value": "32",
-        "type": "sizing",
+        "value": 32,
+        "type": "spacing",
         "parent": "Brackpoint/Mobile"
       },
       "padding": {
-        "value": "24",
-        "type": "sizing",
+        "value": 24,
+        "type": "spacing",
         "parent": "Brackpoint/Mobile"
       },
       "card": {
         "card-min": {
-          "value": "186",
+          "value": 186,
           "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "9.5rem"
         },
         "card-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "90rem"
@@ -748,32 +748,32 @@
       },
       "banner": {
         "4-min": {
-          "value": "336",
+          "value": 336,
           "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "20rem"
         },
         "4-max": {
-          "value": "688",
+          "value": 688,
           "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "41rem"
         },
         "8-min": {
-          "value": "186",
+          "value": 186,
           "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "10.25rem"
         },
         "8-max": {
-          "value": "388",
+          "value": 388,
           "type": "sizing",
           "parent": "Breakpoints/Mobile",
           "oldValue": "20rem"
         }
       },
       "grid": {
-        "value": "1488",
+        "value": 1488,
         "type": "sizing",
         "parent": "Breakpoints/Mobile"
       }
@@ -782,105 +782,105 @@
   "Rounded/None": {
     "outline": {
       "200": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "300": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "400": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "500": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "600": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "300": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "400": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "500": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "600": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/None"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/None"
       }
     },
     "border-radius": {
       "200": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius"
       },
       "300": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius"
       },
       "400": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius"
       },
       "500": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius"
       },
       "600": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius"
       }
     }
@@ -888,111 +888,111 @@
   "Rounded/Smooth": {
     "border-radius": {
       "200": {
-        "value": "4",
+        "value": 4,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": "6",
+        "value": 6,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": "8",
+        "value": 8,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": "10",
+        "value": 10,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": "12",
+        "value": 12,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       }
     },
     "outline": {
       "200": {
-        "value": "5",
+        "value": 5,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": "7",
+        "value": 7,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": "9",
+        "value": 9,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": "11",
+        "value": 11,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": "13",
+        "value": 13,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": "8",
+        "value": 8,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "300": {
-        "value": "10",
+        "value": 10,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "400": {
-        "value": "12",
+        "value": 12,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "500": {
-        "value": "14",
+        "value": 14,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "600": {
-        "value": "16",
+        "value": 16,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/Smooth"
       }
@@ -1001,126 +1001,126 @@
   "Rounded/Rounded": {
     "border-radius": {
       "200": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/Rounded"
       }
     },
     "outline": {
       "200": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/Rounded"
       }
     },
     "conteiner-4": {
       "200": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "300": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "400": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "500": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "600": {
-        "value": "26",
+        "value": 26,
         "type": "borderRadius",
         "parent": "Rounded/Rounded",
         "oldValue": "37.5rem"
       },
       "full": {
-        "value": "600",
+        "value": 600,
         "type": "borderRadius",
         "parent": "Rounded/Rounded"
       },
       "none": {
-        "value": "0",
+        "value": 0,
         "type": "borderRadius",
         "parent": "Rounded/Rounded"
       }
@@ -1129,261 +1129,266 @@
   "Space/Value": {
     "space": {
       "0": {
-        "value": "0",
+        "value": 0,
         "type": "spacing",
-        "description": "0px"
+        "description": "0 px"
       },
       "1": {
-        "value": "4",
+        "value": 4,
         "type": "spacing",
-        "description": "4px"
+        "description": "4 px"
       },
       "2": {
-        "value": "8",
+        "value": 8,
         "type": "spacing",
-        "description": "8px"
+        "description": "8 px"
       },
       "3": {
-        "value": "12",
+        "value": 12,
         "type": "spacing",
-        "description": "12px"
+        "description": "12 px"
       },
       "4": {
-        "value": "16",
+        "value": 16,
         "type": "spacing",
-        "description": "16px"
+        "description": "16 px"
       },
       "5": {
-        "value": "20",
+        "value": 20,
         "type": "spacing",
-        "description": "20px"
+        "description": "20 px"
       },
       "6": {
-        "value": "24",
+        "value": 24,
         "type": "spacing",
-        "description": "24px"
+        "description": "24 px"
       },
       "7": {
-        "value": "28",
+        "value": 28,
         "type": "spacing",
-        "description": "28px"
+        "description": "28 px"
       },
       "8": {
-        "value": "32",
+        "value": 32,
         "type": "spacing",
-        "description": "32px"
+        "description": "32 px"
       },
       "9": {
-        "value": "36",
+        "value": 36,
         "type": "spacing",
-        "description": "36px"
+        "description": "36 px"
       },
       "10": {
-        "value": "40",
+        "value": 40,
         "type": "spacing",
-        "description": "40px"
+        "description": "40 px"
       },
       "11": {
-        "value": "44",
+        "value": 44,
         "type": "spacing",
-        "description": "44px"
+        "description": "44 px"
       },
       "12": {
-        "value": "48",
+        "value": 48,
         "type": "spacing",
-        "description": "48px"
+        "description": "48 px"
       },
       "14": {
-        "value": "56",
+        "value": 56,
         "type": "spacing",
-        "description": "56px"
+        "description": "56 px"
       },
       "16": {
-        "value": "64",
+        "value": 64,
         "type": "spacing",
-        "description": "64px"
+        "description": "64 px"
       },
       "20": {
-        "value": "80",
+        "value": 80,
         "type": "spacing",
-        "description": "80px"
+        "description": "80 px"
       },
       "24": {
-        "value": "96",
+        "value": 96,
         "type": "spacing",
-        "description": "96px"
+        "description": "96 px"
       },
       "28": {
-        "value": "112",
+        "value": 112,
         "type": "spacing",
-        "description": "112px"
+        "description": "112 px"
       },
       "32": {
-        "value": "128",
+        "value": 128,
         "type": "spacing",
-        "description": "128px"
+        "description": "128 px"
       },
       "36": {
-        "value": "144",
+        "value": 144,
         "type": "spacing",
-        "description": "144px"
+        "description": "144 px"
       },
       "40": {
-        "value": "160",
+        "value": 160,
         "type": "spacing",
-        "description": "160px"
+        "description": "160 px"
       },
       "44": {
-        "value": "176",
+        "value": 176,
         "type": "spacing",
-        "description": "176px"
+        "description": "176 px"
       },
       "48": {
-        "value": "192",
+        "value": 192,
         "type": "spacing",
-        "description": "192px"
+        "description": "192 px"
       },
       "52": {
-        "value": "208",
+        "value": 208,
         "type": "spacing",
-        "description": "208px"
+        "description": "208 px"
       },
       "56": {
-        "value": "224",
+        "value": 224,
         "type": "spacing",
-        "description": "224px"
+        "description": "224 px"
       },
       "60": {
-        "value": "240",
+        "value": 240,
         "type": "spacing",
-        "description": "240px"
+        "description": "240 px"
       },
       "64": {
-        "value": "256",
+        "value": 256,
         "type": "spacing",
-        "description": "256px"
+        "description": "256 px"
       },
       "72": {
-        "value": "288",
+        "value": 288,
         "type": "spacing",
-        "description": "288px"
+        "description": "288 px"
       },
       "80": {
-        "value": "320",
+        "value": 320,
         "type": "spacing",
-        "description": "320px"
+        "description": "320 px"
+      },
+      "96": {
+        "value": 384,
+        "type": "spacing",
+        "description": "384 px"
       },
       "px": {
-        "value": "1",
+        "value": 1,
         "type": "spacing",
-        "description": "1px"
+        "description": "1 px"
       },
       "0,5": {
-        "value": "2",
+        "value": 2,
         "type": "spacing",
-        "description": "2px"
+        "description": "2 px"
       },
       "1,5": {
-        "value": "6",
+        "value": 6,
         "type": "spacing",
-        "description": "6px"
+        "description": "6 px"
       },
       "2,5": {
-        "value": "10",
+        "value": 10,
         "type": "spacing",
-        "description": "10px"
+        "description": "10 px"
       },
       "3,5": {
-        "value": "14",
+        "value": 14,
         "type": "spacing",
-        "description": "14px"
+        "description": "14 px"
       }
     }
   },
   "Opacity/Value": {
     "opacity": {
       "0": {
-        "value": "0",
+        "value": 0,
         "type": "opacity"
       },
       "5": {
-        "value": "5",
+        "value": 5,
         "type": "opacity"
       },
       "10": {
-        "value": "10",
+        "value": 10,
         "type": "opacity"
       },
       "15": {
-        "value": "15",
+        "value": 15,
         "type": "opacity"
       },
       "20": {
-        "value": "20",
+        "value": 20,
         "type": "opacity"
       },
       "25": {
-        "value": "25",
+        "value": 25,
         "type": "opacity"
       },
       "30": {
-        "value": "30",
+        "value": 30,
         "type": "opacity"
       },
       "35": {
-        "value": "35",
+        "value": 35,
         "type": "opacity"
       },
       "40": {
-        "value": "40",
+        "value": 40,
         "type": "opacity"
       },
       "45": {
-        "value": "45",
+        "value": 45,
         "type": "opacity"
       },
       "50": {
-        "value": "50",
+        "value": 50,
         "type": "opacity"
       },
       "55": {
-        "value": "55",
+        "value": 55,
         "type": "opacity"
       },
       "60": {
-        "value": "60",
+        "value": 60,
         "type": "opacity"
       },
       "65": {
-        "value": "65",
+        "value": 65,
         "type": "opacity"
       },
       "70": {
-        "value": "70",
+        "value": 70,
         "type": "opacity"
       },
       "75": {
-        "value": "75",
+        "value": 75,
         "type": "opacity"
       },
       "80": {
-        "value": "80",
+        "value": 80,
         "type": "opacity"
       },
       "85": {
-        "value": "85",
+        "value": 85,
         "type": "opacity"
       },
       "90": {
-        "value": "90",
+        "value": 90,
         "type": "opacity"
       },
       "95": {
-        "value": "95",
+        "value": 95,
         "type": "opacity"
       },
       "100": {
-        "value": "100",
+        "value": 100,
         "type": "opacity"
       }
     }
@@ -1400,21 +1405,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:4",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
-        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
-        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
-        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
-        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
-        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
-        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
-        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
-        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
-        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
-        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
-        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
-        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
-        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
-        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
+        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
+        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
+        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
+        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
+        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
+        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
+        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
+        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
+        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
+        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
+        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
+        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
+        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
+        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
+        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
       }
     },
     {
@@ -1428,21 +1433,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:5",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
-        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
-        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
-        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
-        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
-        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
-        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
-        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
-        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
-        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
-        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
-        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
-        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
-        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
-        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
+        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
+        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
+        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
+        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
+        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
+        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
+        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
+        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
+        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
+        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
+        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
+        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
+        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
+        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
+        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
       }
     },
     {
@@ -1456,21 +1461,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:6",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
-        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
-        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
-        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
-        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
-        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
-        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
-        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
-        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
-        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
-        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
-        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
-        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
-        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
-        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
+        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
+        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
+        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
+        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
+        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
+        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
+        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
+        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
+        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
+        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
+        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
+        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
+        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
+        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
+        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
       }
     },
     {
@@ -1484,21 +1489,21 @@
       "$figmaCollectionId": "VariableCollectionId:140:56",
       "$figmaModeId": "140:7",
       "$figmaVariableReferences": {
-        "shadow1.offset-x": "2d1f5258dd91d85e21c4881a0b3c7decf7fece85",
-        "shadow1.offset-y": "e158698b73132cc4b312dc99c4149f259230256a",
-        "shadow1.blur-radius": "210a429ee9e5fa306789869c1118444281bab637",
-        "shadow1.spread-radius": "44eb0978ecb6d0911507d06e3f7f6ad212062465",
-        "shadow1.opacity": "12b654e4d8e50fe4369534469290b9fc723e9317",
-        "shadow2.opacity": "d5acdabbcdfe612e282d161e613d0964171fb0b9",
-        "shadow2.offset-x": "2904e996b8ea42edf22d54fb8630984dc513d6fb",
-        "shadow2.offset-y": "b6c4663f755e085cf56c9d050187ec236473817d",
-        "shadow2.blur-radius": "3699489d9a6a7d330dc07fc2acf94464356cec2d",
-        "shadow2.spread-radius": "d1a335cddf89f5a5e6619b3431a5889981bcfad4",
-        "shadow3.opacity": "47547e7c2a4fca5ec8b7a9dee4c81b410a622e6a",
-        "shadow3.offset-x": "43536052dd440782767ab252ce94448d6cd2b4f9",
-        "shadow3.offset-y": "96c1cdbedd5b5ce5657ed142ad75985a57145f15",
-        "shadow3.blur-radius": "c9e50d13afcc1e9c9599b8e86ad8a2cdd11e44a6",
-        "shadow3.spread-radius": "9dcf68268da05819171f2b7ebd143202af09b4ef"
+        "shadow1.offset-x": "ff5307e06a4ed2800205f6a03f1dc04c1680d669",
+        "shadow1.offset-y": "57c8c62e0684bb2f54833951cb0d6242df7e16cc",
+        "shadow1.blur-radius": "bf28a0e8b6937551c24c84bb70bb4cce4d01e594",
+        "shadow1.spread-radius": "b89951058ebbd63de3458390667d93a0431cbf33",
+        "shadow1.opacity": "4b3dd0b9e0401b6f72c134d134184c41f2e51858",
+        "shadow2.opacity": "4d5080806862d8cf4edfaea2fc004474ea0f44fc",
+        "shadow2.offset-x": "65c0903f0ee20a6695e8161d0d27f2e1cd8b2b00",
+        "shadow2.offset-y": "8da84cae0521ec6fcc572a694c6243e494180903",
+        "shadow2.blur-radius": "99569d6454dc0cea3e4276aeb47afd03add25752",
+        "shadow2.spread-radius": "68622e66c8d18cd85f14cbb78b1745eb993b8fe3",
+        "shadow3.opacity": "eb4d3d09dc6338d9426b22a4224ce61e03e001d1",
+        "shadow3.offset-x": "2c59f5ea765c5fa785ab411267ebf986dc0d75af",
+        "shadow3.offset-y": "be97707c377b3c4c1dca47184e74715c81ca3047",
+        "shadow3.blur-radius": "620a8de775114aa9e42943a41d3154466253a16f",
+        "shadow3.spread-radius": "9f2af31f480d11955c891cbeac51cea241a55720"
       }
     },
     {
@@ -1512,30 +1517,30 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:0",
       "$figmaVariableReferences": {
-        "market.gap-x": "67efd4e7a11973f3ac976e2159137643a9adbd46",
-        "market.card.card-min": "1182f0557fca15b12129864138c7925235101093",
-        "market.card.card-max": "00b46530b06e6f335fe2f89cba1dd0421a0dac89",
-        "market.padding": "5e225cc11036c6343ff7d1cb1756d0dc8e235ff5",
-        "market.gap-y": "7ba1426964eb8a19b9d5e334d340a135d47f0006",
-        "market.banner.3-min": "78066b2aa2af7e827874c2813e08d98398fde8d2",
-        "market.banner.3-max": "6c4629ddd031aa33b5d52a1fb5b136dbd9c63f63",
-        "market.banner.2-min": "cc8bb83070800d03c8c5cb96b4856d0d0af6a5c8",
-        "market.banner.2-max": "4f9f539c045725d5eb0a5a85aaf3ffc59bb9dfad",
-        "market.banner.4-min": "b1d7ec66537cc9b169de1d7b538877b86b079b68",
-        "market.banner.4-max": "c5214137fbae6d921f0301ee3b14738b9460b80b",
-        "market.banner.1-max": "d169f8fc225db7e0a84ee7b5a777ac0eb821bbbe",
-        "market.banner.1-min": "1189d2a44449610693d121cb38d624e4f785f78a",
-        "market.layout": "5828b571ba7c4c190b4b7c84ec0d94eb7ff5404f",
-        "cms.gap-x": "f239c24de28fa5f7067ba12402ef194551adda3b",
-        "cms.gap-y": "f39018c3db43572fcc80836fa11284d5f1044bc1",
-        "cms.padding": "bba2d23523c8cba9247b56ac89abe39a93988024",
-        "cms.card.card-min": "d22c90686e2940b118fb6576f337a6bbe9bc4696",
-        "cms.card.card-max": "9685a3b2ac1ddb43d157c854b17596aaffa730bf",
-        "cms.banner.4-min": "1d9fd435a4beb7059f44bd2f6bd0da917aff2d7b",
-        "cms.banner.4-max": "822980a108a3a1229fa5b1dadad745446f065332",
-        "cms.banner.8-min": "fe54a12aa2fa65d5bf6e291bc890dd885d309aa0",
-        "cms.banner.8-max": "4507b63ab9499dd600f8c92b1bea4b670f1c0771",
-        "cms.grid": "77879535e55995c95dcb256872d9242af09b3fa7"
+        "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
+        "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
+        "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
+        "market.padding": "71774cc1f923d76a3b9fa178d7f0efaed96f1616",
+        "market.gap-y": "85a741c7e1a2c6001f8ac5d4b3be55c9f8de1201",
+        "market.banner.3-min": "d8cd5548aa10e3a1cdf431a6b4dd704f4b32d432",
+        "market.banner.3-max": "4d5b67549ade4ce37831c4558f7442919ba6b04e",
+        "market.banner.2-min": "6b5a0ba8e03ab1a04f78eb0d99ffb2c946addd8b",
+        "market.banner.2-max": "e40ad745ccc27f312fa4852e1a92f3f724020362",
+        "market.banner.4-min": "cd5f2421f8a9e8534529dcfa613b69b8cb415833",
+        "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
+        "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
+        "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
+        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
+        "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
+        "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
+        "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
+        "cms.card.card-min": "fbbf464599ad3681f986e16c26e2e5786ad8378e",
+        "cms.card.card-max": "ee15cb922f21d20d730af5f9be0501a00e0f9c8b",
+        "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
+        "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
+        "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
+        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
+        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
       }
     },
     {
@@ -1549,30 +1554,30 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:1",
       "$figmaVariableReferences": {
-        "market.gap-x": "67efd4e7a11973f3ac976e2159137643a9adbd46",
-        "market.card.card-min": "1182f0557fca15b12129864138c7925235101093",
-        "market.card.card-max": "00b46530b06e6f335fe2f89cba1dd0421a0dac89",
-        "market.padding": "5e225cc11036c6343ff7d1cb1756d0dc8e235ff5",
-        "market.gap-y": "7ba1426964eb8a19b9d5e334d340a135d47f0006",
-        "market.banner.3-min": "78066b2aa2af7e827874c2813e08d98398fde8d2",
-        "market.banner.3-max": "6c4629ddd031aa33b5d52a1fb5b136dbd9c63f63",
-        "market.banner.2-min": "cc8bb83070800d03c8c5cb96b4856d0d0af6a5c8",
-        "market.banner.2-max": "4f9f539c045725d5eb0a5a85aaf3ffc59bb9dfad",
-        "market.banner.4-min": "b1d7ec66537cc9b169de1d7b538877b86b079b68",
-        "market.banner.4-max": "c5214137fbae6d921f0301ee3b14738b9460b80b",
-        "market.banner.1-max": "d169f8fc225db7e0a84ee7b5a777ac0eb821bbbe",
-        "market.banner.1-min": "1189d2a44449610693d121cb38d624e4f785f78a",
-        "market.layout": "5828b571ba7c4c190b4b7c84ec0d94eb7ff5404f",
-        "cms.gap-x": "f239c24de28fa5f7067ba12402ef194551adda3b",
-        "cms.gap-y": "f39018c3db43572fcc80836fa11284d5f1044bc1",
-        "cms.padding": "bba2d23523c8cba9247b56ac89abe39a93988024",
-        "cms.card.card-min": "d22c90686e2940b118fb6576f337a6bbe9bc4696",
-        "cms.card.card-max": "9685a3b2ac1ddb43d157c854b17596aaffa730bf",
-        "cms.banner.4-min": "1d9fd435a4beb7059f44bd2f6bd0da917aff2d7b",
-        "cms.banner.4-max": "822980a108a3a1229fa5b1dadad745446f065332",
-        "cms.banner.8-min": "fe54a12aa2fa65d5bf6e291bc890dd885d309aa0",
-        "cms.banner.8-max": "4507b63ab9499dd600f8c92b1bea4b670f1c0771",
-        "cms.grid": "77879535e55995c95dcb256872d9242af09b3fa7"
+        "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
+        "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
+        "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
+        "market.padding": "71774cc1f923d76a3b9fa178d7f0efaed96f1616",
+        "market.gap-y": "85a741c7e1a2c6001f8ac5d4b3be55c9f8de1201",
+        "market.banner.3-min": "d8cd5548aa10e3a1cdf431a6b4dd704f4b32d432",
+        "market.banner.3-max": "4d5b67549ade4ce37831c4558f7442919ba6b04e",
+        "market.banner.2-min": "6b5a0ba8e03ab1a04f78eb0d99ffb2c946addd8b",
+        "market.banner.2-max": "e40ad745ccc27f312fa4852e1a92f3f724020362",
+        "market.banner.4-min": "cd5f2421f8a9e8534529dcfa613b69b8cb415833",
+        "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
+        "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
+        "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
+        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
+        "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
+        "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
+        "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
+        "cms.card.card-min": "fbbf464599ad3681f986e16c26e2e5786ad8378e",
+        "cms.card.card-max": "ee15cb922f21d20d730af5f9be0501a00e0f9c8b",
+        "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
+        "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
+        "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
+        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
+        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
       }
     },
     {
@@ -1586,30 +1591,30 @@
       "$figmaCollectionId": "VariableCollectionId:207:7941",
       "$figmaModeId": "207:2",
       "$figmaVariableReferences": {
-        "market.gap-x": "67efd4e7a11973f3ac976e2159137643a9adbd46",
-        "market.card.card-min": "1182f0557fca15b12129864138c7925235101093",
-        "market.card.card-max": "00b46530b06e6f335fe2f89cba1dd0421a0dac89",
-        "market.padding": "5e225cc11036c6343ff7d1cb1756d0dc8e235ff5",
-        "market.gap-y": "7ba1426964eb8a19b9d5e334d340a135d47f0006",
-        "market.banner.3-min": "78066b2aa2af7e827874c2813e08d98398fde8d2",
-        "market.banner.3-max": "6c4629ddd031aa33b5d52a1fb5b136dbd9c63f63",
-        "market.banner.2-min": "cc8bb83070800d03c8c5cb96b4856d0d0af6a5c8",
-        "market.banner.2-max": "4f9f539c045725d5eb0a5a85aaf3ffc59bb9dfad",
-        "market.banner.4-min": "b1d7ec66537cc9b169de1d7b538877b86b079b68",
-        "market.banner.4-max": "c5214137fbae6d921f0301ee3b14738b9460b80b",
-        "market.banner.1-max": "d169f8fc225db7e0a84ee7b5a777ac0eb821bbbe",
-        "market.banner.1-min": "1189d2a44449610693d121cb38d624e4f785f78a",
-        "market.layout": "5828b571ba7c4c190b4b7c84ec0d94eb7ff5404f",
-        "cms.gap-x": "f239c24de28fa5f7067ba12402ef194551adda3b",
-        "cms.gap-y": "f39018c3db43572fcc80836fa11284d5f1044bc1",
-        "cms.padding": "bba2d23523c8cba9247b56ac89abe39a93988024",
-        "cms.card.card-min": "d22c90686e2940b118fb6576f337a6bbe9bc4696",
-        "cms.card.card-max": "9685a3b2ac1ddb43d157c854b17596aaffa730bf",
-        "cms.banner.4-min": "1d9fd435a4beb7059f44bd2f6bd0da917aff2d7b",
-        "cms.banner.4-max": "822980a108a3a1229fa5b1dadad745446f065332",
-        "cms.banner.8-min": "fe54a12aa2fa65d5bf6e291bc890dd885d309aa0",
-        "cms.banner.8-max": "4507b63ab9499dd600f8c92b1bea4b670f1c0771",
-        "cms.grid": "77879535e55995c95dcb256872d9242af09b3fa7"
+        "market.gap-x": "d079183c50b7f3d764e127ce66552e19eb7f779c",
+        "market.card.card-min": "f1efbb1744e2b9b8a11f4c79d400447896e3aeb3",
+        "market.card.card-max": "5bd5524516a1b7305c51815abac29031657250ac",
+        "market.padding": "71774cc1f923d76a3b9fa178d7f0efaed96f1616",
+        "market.gap-y": "85a741c7e1a2c6001f8ac5d4b3be55c9f8de1201",
+        "market.banner.3-min": "d8cd5548aa10e3a1cdf431a6b4dd704f4b32d432",
+        "market.banner.3-max": "4d5b67549ade4ce37831c4558f7442919ba6b04e",
+        "market.banner.2-min": "6b5a0ba8e03ab1a04f78eb0d99ffb2c946addd8b",
+        "market.banner.2-max": "e40ad745ccc27f312fa4852e1a92f3f724020362",
+        "market.banner.4-min": "cd5f2421f8a9e8534529dcfa613b69b8cb415833",
+        "market.banner.4-max": "bdad7ee577074599878059c0b41ccb62c755785a",
+        "market.banner.1-max": "237e4c36fef7acaaf46accc4846cdf514067850d",
+        "market.banner.1-min": "385aa50c811238bf1454ef1366bebf54382544db",
+        "market.layout": "4e108ebbdf21b1be89d24931db63dd2eacf54d1c",
+        "cms.gap-x": "cf5e364dc6d6405085b5646fb74d381b468c5765",
+        "cms.gap-y": "e60fae4289da9c33f99ec8d520b8f0ccfd792144",
+        "cms.padding": "a5b76d9a1ed08f865158ba3f6a2d6fb6d45bcb1a",
+        "cms.card.card-min": "fbbf464599ad3681f986e16c26e2e5786ad8378e",
+        "cms.card.card-max": "ee15cb922f21d20d730af5f9be0501a00e0f9c8b",
+        "cms.banner.4-min": "5d9b5955cebaad091a040b51fc94582117eadeb0",
+        "cms.banner.4-max": "5887b8d2464cec5af574771541534f72b05bc2df",
+        "cms.banner.8-min": "41ceb3413e8354d3fcf509bd6648c03720ecd710",
+        "cms.banner.8-max": "a562715a8344cdb52823e60cc6aba0189decc7be",
+        "cms.grid": "92db48192a7671b50a447d4d87d118ab9df5e311"
       }
     },
     {
@@ -1623,27 +1628,27 @@
       "$figmaCollectionId": "VariableCollectionId:140:21",
       "$figmaModeId": "140:0",
       "$figmaVariableReferences": {
-        "outline.200": "ea624aee45a39172ab257d4f00583d2c61e6e176",
-        "outline.300": "67b763b5236680069f72c19245c809e56642bbfd",
-        "outline.400": "961df9e2624b94bbbe21085db47bd8167f51962d",
-        "outline.500": "f2cf40c3004520514b3fe672c414fce42be84010",
-        "outline.600": "1adaa8a67c8092d63cf78129a1c71f4da38e769c",
-        "outline.full": "cbf50d0170233dbeda22959dbfe2f70587c3da5b",
-        "outline.none": "8d3d8f77b40521a8f3596616bd65c3a9445d4f62",
-        "conteiner-4.200": "9e0b01d0c5fce9d87133a9a51416b11ee341fb5d",
-        "conteiner-4.300": "5d11bfa78ae25b54b843987e23a45e1d45f14384",
-        "conteiner-4.400": "3d6d0b940c49ccf52c9f262988eeb4706c13265e",
-        "conteiner-4.500": "a36a069c8cc336aceaa3f3d119ff6d32c4529a69",
-        "conteiner-4.600": "5c3487803e766f71c1b70e739dfeaa3f0689aaa5",
-        "conteiner-4.full": "34fa17d3e2b16ae7a637b11ffb066d06a9e3716f",
-        "conteiner-4.none": "c1a03ae1c9b46bb0b4ea4b26e7a6903a25e007a9",
-        "border-radius.200": "9918e8cceac92e66a6995a5ecf37dd1d3c59b390",
-        "border-radius.300": "fb261ea66ea447cfa956db032385d217c3f2699a",
-        "border-radius.400": "85d8ca3c94c0a35a36b47fcf761efc9cea5700f6",
-        "border-radius.500": "e87db3f602bb5e5b2bc98de80a2e2a2c7d156ca2",
-        "border-radius.600": "e0c997f32796ea59f3d1d59902f04eb45f87edfd",
-        "border-radius.full": "05c4987c3c062e032b321c1589d10e4c2330b814",
-        "border-radius.none": "65cdbfab39aed4b3421c0d41d803abfb2318b002"
+        "outline.200": "521ea06a0816080b131001a911f0fbd1b4ffb3c2",
+        "outline.300": "65a787e2dfcf43e7143bbd86112028ae3af4f565",
+        "outline.400": "e726f0f713f1fbf22121c71bbf7d1ef3f4f88772",
+        "outline.500": "f31c50c74d877c03edc37b52b5848919a8cbdc9b",
+        "outline.600": "638c777549c2a6557c8e94876d1a67b29a1f869b",
+        "outline.full": "68750fccdae3cf88db255da6b07ea28324c2252b",
+        "outline.none": "5fcb75dd250924287ae08f0f8d0f3f180d8c7f22",
+        "conteiner-4.200": "3afab8cbb5fbb2ece6fb215d723930c83a802f3e",
+        "conteiner-4.300": "701ad15c198fdb57dbcb0252f486978d64920ab1",
+        "conteiner-4.400": "8349f4de6d908d37f939f2273bc97c07880930fb",
+        "conteiner-4.500": "dcaff8ad8fa3e3b20acf672809046e1c8801a1e3",
+        "conteiner-4.600": "23149cc2515f87e120869912a815c80e7e75e6ec",
+        "conteiner-4.full": "3bb42b16bc8722f721d2b9450e1f959fe13b1475",
+        "conteiner-4.none": "b22bd9147d1f25078e890c9794c573afe2df6c9f",
+        "border-radius.200": "0916f288ebb9738d60e84614e0098f9a947188ca",
+        "border-radius.300": "884bb4d0ff6a236e740d91ba44af64a18b36ebf1",
+        "border-radius.400": "1f73fb7375f00e1e00f5304253bd95cf7c753879",
+        "border-radius.500": "8831da1d04d9ebc083bf782f4366e30922e29ea4",
+        "border-radius.600": "1410acaa2d817866e208a7aebff593348a8044d3",
+        "border-radius.full": "939101085e6efe0186a0e32950afc643eec47b17",
+        "border-radius.none": "211a6322af644b3e275429a84c33740f16a36f85"
       }
     },
     {
@@ -1657,27 +1662,27 @@
       "$figmaCollectionId": "VariableCollectionId:140:21",
       "$figmaModeId": "140:1",
       "$figmaVariableReferences": {
-        "border-radius.200": "9918e8cceac92e66a6995a5ecf37dd1d3c59b390",
-        "border-radius.300": "fb261ea66ea447cfa956db032385d217c3f2699a",
-        "border-radius.400": "85d8ca3c94c0a35a36b47fcf761efc9cea5700f6",
-        "border-radius.500": "e87db3f602bb5e5b2bc98de80a2e2a2c7d156ca2",
-        "border-radius.600": "e0c997f32796ea59f3d1d59902f04eb45f87edfd",
-        "border-radius.full": "05c4987c3c062e032b321c1589d10e4c2330b814",
-        "border-radius.none": "65cdbfab39aed4b3421c0d41d803abfb2318b002",
-        "outline.200": "ea624aee45a39172ab257d4f00583d2c61e6e176",
-        "outline.300": "67b763b5236680069f72c19245c809e56642bbfd",
-        "outline.400": "961df9e2624b94bbbe21085db47bd8167f51962d",
-        "outline.500": "f2cf40c3004520514b3fe672c414fce42be84010",
-        "outline.600": "1adaa8a67c8092d63cf78129a1c71f4da38e769c",
-        "outline.full": "cbf50d0170233dbeda22959dbfe2f70587c3da5b",
-        "outline.none": "8d3d8f77b40521a8f3596616bd65c3a9445d4f62",
-        "conteiner-4.200": "9e0b01d0c5fce9d87133a9a51416b11ee341fb5d",
-        "conteiner-4.300": "5d11bfa78ae25b54b843987e23a45e1d45f14384",
-        "conteiner-4.400": "3d6d0b940c49ccf52c9f262988eeb4706c13265e",
-        "conteiner-4.500": "a36a069c8cc336aceaa3f3d119ff6d32c4529a69",
-        "conteiner-4.600": "5c3487803e766f71c1b70e739dfeaa3f0689aaa5",
-        "conteiner-4.full": "34fa17d3e2b16ae7a637b11ffb066d06a9e3716f",
-        "conteiner-4.none": "c1a03ae1c9b46bb0b4ea4b26e7a6903a25e007a9"
+        "border-radius.200": "0916f288ebb9738d60e84614e0098f9a947188ca",
+        "border-radius.300": "884bb4d0ff6a236e740d91ba44af64a18b36ebf1",
+        "border-radius.400": "1f73fb7375f00e1e00f5304253bd95cf7c753879",
+        "border-radius.500": "8831da1d04d9ebc083bf782f4366e30922e29ea4",
+        "border-radius.600": "1410acaa2d817866e208a7aebff593348a8044d3",
+        "border-radius.full": "939101085e6efe0186a0e32950afc643eec47b17",
+        "border-radius.none": "211a6322af644b3e275429a84c33740f16a36f85",
+        "outline.200": "521ea06a0816080b131001a911f0fbd1b4ffb3c2",
+        "outline.300": "65a787e2dfcf43e7143bbd86112028ae3af4f565",
+        "outline.400": "e726f0f713f1fbf22121c71bbf7d1ef3f4f88772",
+        "outline.500": "f31c50c74d877c03edc37b52b5848919a8cbdc9b",
+        "outline.600": "638c777549c2a6557c8e94876d1a67b29a1f869b",
+        "outline.full": "68750fccdae3cf88db255da6b07ea28324c2252b",
+        "outline.none": "5fcb75dd250924287ae08f0f8d0f3f180d8c7f22",
+        "conteiner-4.200": "3afab8cbb5fbb2ece6fb215d723930c83a802f3e",
+        "conteiner-4.300": "701ad15c198fdb57dbcb0252f486978d64920ab1",
+        "conteiner-4.400": "8349f4de6d908d37f939f2273bc97c07880930fb",
+        "conteiner-4.500": "dcaff8ad8fa3e3b20acf672809046e1c8801a1e3",
+        "conteiner-4.600": "23149cc2515f87e120869912a815c80e7e75e6ec",
+        "conteiner-4.full": "3bb42b16bc8722f721d2b9450e1f959fe13b1475",
+        "conteiner-4.none": "b22bd9147d1f25078e890c9794c573afe2df6c9f"
       }
     },
     {
@@ -1691,27 +1696,27 @@
       "$figmaCollectionId": "VariableCollectionId:140:21",
       "$figmaModeId": "140:2",
       "$figmaVariableReferences": {
-        "border-radius.200": "9918e8cceac92e66a6995a5ecf37dd1d3c59b390",
-        "border-radius.300": "fb261ea66ea447cfa956db032385d217c3f2699a",
-        "border-radius.400": "85d8ca3c94c0a35a36b47fcf761efc9cea5700f6",
-        "border-radius.500": "e87db3f602bb5e5b2bc98de80a2e2a2c7d156ca2",
-        "border-radius.600": "e0c997f32796ea59f3d1d59902f04eb45f87edfd",
-        "border-radius.full": "05c4987c3c062e032b321c1589d10e4c2330b814",
-        "border-radius.none": "65cdbfab39aed4b3421c0d41d803abfb2318b002",
-        "outline.200": "ea624aee45a39172ab257d4f00583d2c61e6e176",
-        "outline.300": "67b763b5236680069f72c19245c809e56642bbfd",
-        "outline.400": "961df9e2624b94bbbe21085db47bd8167f51962d",
-        "outline.500": "f2cf40c3004520514b3fe672c414fce42be84010",
-        "outline.600": "1adaa8a67c8092d63cf78129a1c71f4da38e769c",
-        "outline.full": "cbf50d0170233dbeda22959dbfe2f70587c3da5b",
-        "outline.none": "8d3d8f77b40521a8f3596616bd65c3a9445d4f62",
-        "conteiner-4.200": "9e0b01d0c5fce9d87133a9a51416b11ee341fb5d",
-        "conteiner-4.300": "5d11bfa78ae25b54b843987e23a45e1d45f14384",
-        "conteiner-4.400": "3d6d0b940c49ccf52c9f262988eeb4706c13265e",
-        "conteiner-4.500": "a36a069c8cc336aceaa3f3d119ff6d32c4529a69",
-        "conteiner-4.600": "5c3487803e766f71c1b70e739dfeaa3f0689aaa5",
-        "conteiner-4.full": "34fa17d3e2b16ae7a637b11ffb066d06a9e3716f",
-        "conteiner-4.none": "c1a03ae1c9b46bb0b4ea4b26e7a6903a25e007a9"
+        "border-radius.200": "0916f288ebb9738d60e84614e0098f9a947188ca",
+        "border-radius.300": "884bb4d0ff6a236e740d91ba44af64a18b36ebf1",
+        "border-radius.400": "1f73fb7375f00e1e00f5304253bd95cf7c753879",
+        "border-radius.500": "8831da1d04d9ebc083bf782f4366e30922e29ea4",
+        "border-radius.600": "1410acaa2d817866e208a7aebff593348a8044d3",
+        "border-radius.full": "939101085e6efe0186a0e32950afc643eec47b17",
+        "border-radius.none": "211a6322af644b3e275429a84c33740f16a36f85",
+        "outline.200": "521ea06a0816080b131001a911f0fbd1b4ffb3c2",
+        "outline.300": "65a787e2dfcf43e7143bbd86112028ae3af4f565",
+        "outline.400": "e726f0f713f1fbf22121c71bbf7d1ef3f4f88772",
+        "outline.500": "f31c50c74d877c03edc37b52b5848919a8cbdc9b",
+        "outline.600": "638c777549c2a6557c8e94876d1a67b29a1f869b",
+        "outline.full": "68750fccdae3cf88db255da6b07ea28324c2252b",
+        "outline.none": "5fcb75dd250924287ae08f0f8d0f3f180d8c7f22",
+        "conteiner-4.200": "3afab8cbb5fbb2ece6fb215d723930c83a802f3e",
+        "conteiner-4.300": "701ad15c198fdb57dbcb0252f486978d64920ab1",
+        "conteiner-4.400": "8349f4de6d908d37f939f2273bc97c07880930fb",
+        "conteiner-4.500": "dcaff8ad8fa3e3b20acf672809046e1c8801a1e3",
+        "conteiner-4.600": "23149cc2515f87e120869912a815c80e7e75e6ec",
+        "conteiner-4.full": "3bb42b16bc8722f721d2b9450e1f959fe13b1475",
+        "conteiner-4.none": "b22bd9147d1f25078e890c9794c573afe2df6c9f"
       }
     },
     {
@@ -1724,40 +1729,41 @@
       "$figmaCollectionId": "VariableCollectionId:122:54",
       "$figmaModeId": "122:3",
       "$figmaVariableReferences": {
-        "space.0": "6892f6474c77e99f226149f013368e806c48e1ea",
-        "space.1": "c8863416b5fa868fd5d5e0c408843fc28a48d76f",
-        "space.2": "b8b5ab3e82bcee96186d3132dc9b420210d74112",
-        "space.3": "eea36c7116f7a89162a699c215aaa84a87b100b9",
-        "space.4": "892e54de4e536b850956fec3afd1690d8ed7d2ae",
-        "space.5": "870f99f115f90c06d46b2a8bf86e41955d1c0531",
-        "space.6": "c1dbfcf24cb5c8c8dab9c4a58a044c0e0c4a7957",
-        "space.7": "5ce76c834f4f37a3bbc3cf4b720f97c65f6ac542",
-        "space.8": "889a3411a47c8c53a0628fea5a90ecffb779cba0",
-        "space.9": "f306a6f82fb0af636788a11bd12834dc9f48aafc",
-        "space.10": "b3a1b87e64964ddf837c5a2b14d62f19b6bd2a8f",
-        "space.11": "f0c2a6f80e20ecffc2ef2e71c8dd71258f07577a",
-        "space.12": "d445c194ded9412ecc8f4b4f91f7c8b00ab713b2",
-        "space.14": "047fa35cadfae426d36a4b5efd7cae9fbf044f52",
-        "space.16": "e1f2adac8757ce717f78cbc471e60dc2418eab7d",
-        "space.20": "05430f0a7e3a55c5c84531f3a753c29b7a2cde58",
-        "space.24": "80f02a037f25b6d3cb80e4aebddc68cf99aaaa84",
-        "space.28": "5769c27ec7511e839784baae72ecedb46ed1104a",
-        "space.32": "d2cf5fcbbfdba903f1c86a0f77f0f4de75147fa6",
-        "space.36": "b1a7b19f71c9f612e43ab3378becc5b98b016bfb",
-        "space.40": "5a4080bbc94cccea1e4d75c171165a1f9d90b599",
-        "space.44": "b48819fc3c1c3f9f671831d0b9423b037fd1a065",
-        "space.48": "78035aa8bc0f559fb8f472c685129d8d4d0f2e63",
-        "space.52": "69908770127d37365b139adfebad5e16959a6479",
-        "space.56": "6300b82303969f29fff8dff9b2e01d00d61e1142",
-        "space.60": "c42941b819a986d9256fdf8f0fe0bce209bfef0e",
-        "space.64": "0ee2fc824e8e9e8f296c8db1826640d6eea1bcc0",
-        "space.72": "4f6992632f33690ade8029560cf72bcf4f34d98c",
-        "space.80": "af63d8c5aeed58f443900250b3a394174080dd22",
-        "space.px": "f788e4468246381bc3befebeff47b4ac4514e9b5",
-        "space.0,5": "aad1eff779bab5300cbde074aa416412a90ecb78",
-        "space.1,5": "2774b9cce7596673f0c4e89e813c0322688b137b",
-        "space.2,5": "23b41e3f5a2822c42dcf930a7f58042f2781fa43",
-        "space.3,5": "c103eb9e2e46a5530d35332c5327cc9cb297fd3c"
+        "space.0": "edaf9c733f173488effef0c0b7e0831cbb00fa43",
+        "space.1": "89a125ec17475ce3acaa812fae082deaac399ae2",
+        "space.2": "1a7981047689fa3c4e0c7a9a3eea5874154e58a7",
+        "space.3": "5a2a81eb9212d73dd827068c2ef447859c123cb5",
+        "space.4": "284b8123f576466a67238ca5bdb0b2cc4df252f4",
+        "space.5": "ac2d130e86225cb39b942be2823d0bd1c37961ed",
+        "space.6": "f77ce3d3d55cc771a60e9119f163f1435d7a39cf",
+        "space.7": "014f9f4775f0e2e47d594054118d427f237485b8",
+        "space.8": "82983bd9bbd42bc0a85dce2e2c32c0c840c7e27d",
+        "space.9": "5166241d40dae8e471cafb75e0e896169e94a3e6",
+        "space.10": "9dfff641b99c6cf96ccb5d9c1fc4575ad81c0992",
+        "space.11": "19c462d41047ce5a693f0b8bf0c3b151613e0bf0",
+        "space.12": "e337dda3bd2e11a606c0bd66fd2d102065379e92",
+        "space.14": "bdbe7f38038e1c8a06a7c8905a68a0df2a572d30",
+        "space.16": "6e9afb84eb477eec3b82cbe05504038128431ffc",
+        "space.20": "0c26a35376e4fe4eb5b93ce3df1ccf52695c6c74",
+        "space.24": "97af18901e76be981bc8964c5e816a741764d586",
+        "space.28": "6252ff3b2bd1f573432883fdb868c1fdabfd40df",
+        "space.32": "04ea82ce95e5371424673d89247ff3b1c23ff7b6",
+        "space.36": "41810b2e7dbe035957512519b8a530e31793b2a8",
+        "space.40": "67112fa0806bb70de19a69942bf44597d574050a",
+        "space.44": "98673c91a0f67dba2e3f7e32875e7701f5c2caee",
+        "space.48": "6b0dd39596f3393afa783feb06687c76b9918f6f",
+        "space.52": "84171f03fcd5505574173ac7956f91b45e85722e",
+        "space.56": "1df4d72befd9e1a3e5bcc68a651b274b6ec1cca9",
+        "space.60": "8fcdc9416b3512b03a63121c9d5ae63dc4725c90",
+        "space.64": "3d40e2f831d7b28096d89094a5df6ad099160b0d",
+        "space.72": "ba97b62a4c87ee6e07c8ba86c418be12b27d97b7",
+        "space.80": "f62fadb0d284c16b4144a0c7e37fe845a2190011",
+        "space.96": "51c552e98d9447750fb40ab6bd08234766cf277d",
+        "space.px": "70efcd00dd306f92e9b7c998812582502bff50d2",
+        "space.0,5": "f5eb8a26ef91369964138470ceddc7db27333112",
+        "space.1,5": "0cd65e6100335d3171ae0d776d24206f021c1a59",
+        "space.2,5": "1bb7f2b635484c65e027e4ec806fb9c8a7718cbf",
+        "space.3,5": "bd0407ed49f853137e942f8b6ea73c3c36bace8c"
       },
       "group": "Space"
     },
@@ -1771,27 +1777,27 @@
       "$figmaCollectionId": "VariableCollectionId:140:34",
       "$figmaModeId": "140:3",
       "$figmaVariableReferences": {
-        "opacity.0": "aca87e06c1554f0548be228f9a0fa013ab04ca3d",
-        "opacity.5": "6224055cd71afe12252c93f3710c54fc219d87ea",
-        "opacity.10": "20829a228b5f4c366f5b7d8e26fcc00022fe3557",
-        "opacity.15": "42d9f4638afa86fa88441d593fe491557a13750c",
-        "opacity.20": "823e49b9f4f2ecb2abd1ff79252f5fc4ae2fa97e",
-        "opacity.25": "d39bc11d999345a3ef395530a22d5d817f1adbb5",
-        "opacity.30": "c5eafa074cf2e2d490be22a2bf3ea9d06ed45424",
-        "opacity.35": "2ae8b49a4f5ff3a7d7c29c4125e3f2960d7be4d2",
-        "opacity.40": "10917b47043f0c70e7a4c3a23d3fc68ac8d41785",
-        "opacity.45": "c5c1c3d3f4cd85901ad0173d963e83fe1a9bab44",
-        "opacity.50": "f2f0627cfecfba58ce1f4776bca0a5eeec590357",
-        "opacity.55": "5e782bafbed1d4975e020c8dcb5303e5f7ca3025",
-        "opacity.60": "459cb7b07b37bf4728d4a7dd800da54b309520e9",
-        "opacity.65": "6b8a381c910a9eb2693f7556c83cc96b9c3afcfd",
-        "opacity.70": "6c8c3e5a3d5e4d26cadaa6149369bd39fe1ac325",
-        "opacity.75": "87e9cc7118ff7085a0dd4931d62200078874429c",
-        "opacity.80": "a9c17bde8f83e812814922dd946a15f7e9cf44c5",
-        "opacity.85": "81ebdc8858cf5a11de5232687a15c4361b1f22c6",
-        "opacity.90": "e79f60bb65386f05f9710a4a08a8b4879b0384f5",
-        "opacity.95": "2ebbfb795b7b191126a73b475a97967913857f98",
-        "opacity.100": "ff1e08631bf7b9d28a7fdcddc5a4ac7b27879dcb"
+        "opacity.0": "8eb27b5e47c0c0ebb424862d823a4dd9e6b84bb1",
+        "opacity.5": "e895266426e3826643ad2eb1cdd3be294feef071",
+        "opacity.10": "c7122892a418f458a216e1aaab8344c52e0f0b53",
+        "opacity.15": "71f246122206981a80616c39c3f5a21c41abf5e3",
+        "opacity.20": "e9a7cdccbc61d5eb1580c9da23be84cecfe0764c",
+        "opacity.25": "2089817c426f68d9f3a5fef74e69c234f69668d6",
+        "opacity.30": "accdb509bf1048fc8f932f1c6257a2e0fe1f6542",
+        "opacity.35": "f0edbd4c1d54cda6bea57ebf89c0f24525598fa5",
+        "opacity.40": "7a6f19dab6408aec0b06bba71e53f7f8cd044a32",
+        "opacity.45": "c450749f83d4b4c6d59df20d99ea8b9110b54a4f",
+        "opacity.50": "40a8154dc0b4877776b953011982c3545bbf4bc1",
+        "opacity.55": "097de097c8ddd39e1fbcdc0d74dae87a2c6ca81c",
+        "opacity.60": "24796b40bcbe856583f5f1940787ff292775d8e4",
+        "opacity.65": "eccec55a5a55b52c1afe60a45b71410ee134b82f",
+        "opacity.70": "9058ea40e784e6c43e31bbb279330214ec2f01bb",
+        "opacity.75": "ff248664764c41e063b353b447908a969244d9f7",
+        "opacity.80": "6f07ab43cbe070805b86f8fb2ff50b7f82ef4158",
+        "opacity.85": "10de70ca9bfbf2457c8f5c3fe9370f1ee3e2d46d",
+        "opacity.90": "a2f2597cdff2d775a32782cb4b8e3d625994a22b",
+        "opacity.95": "725a209ab94b32e81991af2cfab9f04792014375",
+        "opacity.100": "c4d6496f36134de239dcbd042adcc7161abf3e2d"
       },
       "group": "Opacity"
     }
