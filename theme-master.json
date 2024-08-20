@@ -6811,7 +6811,7 @@
           "value": "{control.300}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "300": {
@@ -6837,7 +6837,7 @@
           "value": "{control.400}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "400": {
@@ -6863,7 +6863,7 @@
           "value": "{control.600}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "500": {
@@ -6889,7 +6889,7 @@
           "value": "{control.800}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "600": {
@@ -6915,7 +6915,7 @@
           "value": "{control.850}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       }
     },
@@ -7049,7 +7049,7 @@
           "value": "{control.400}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "400": {
@@ -7075,7 +7075,7 @@
           "value": "{control.400}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "500": {
@@ -7101,7 +7101,7 @@
           "value": "{control.600}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       }
     },
@@ -7267,7 +7267,8 @@
         },
         "typography": {
           "value": "{control.400}",
-          "type": "dimension"
+          "type": "dimension",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "gap-panel": {
           "value": "{space.4}",
@@ -7285,7 +7286,8 @@
         },
         "typography": {
           "value": "{control.600}",
-          "type": "dimension"
+          "type": "dimension",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "gap-panel": {
           "value": "{space.5}",
