@@ -303,79 +303,79 @@
         "value": "{font-size.50}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "100": {
         "value": "{font-size.100}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "200": {
         "value": "{font-size.200}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "300": {
         "value": "{font-size.300}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "400": {
         "value": "{font-size.400}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "500": {
         "value": "{font-size.500}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "600": {
         "value": "{font-size.600}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "700": {
         "value": "{font-size.700}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "800": {
         "value": "{font-size.800}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "850": {
         "value": "{font-size.850}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "900": {
         "value": "{font-size.900}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "950": {
         "value": "{font-size.950}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       },
       "1000": {
         "value": "{font-size.1000}",
         "type": "dimension",
         "parent": "Control/Value",
-        "description": ""
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
       }
     }
   },
