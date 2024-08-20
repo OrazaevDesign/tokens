@@ -7141,11 +7141,13 @@
         },
         "typography": {
           "value": "{control.300}",
-          "type": "dimension"
+          "type": "dimension",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
           "value": "{control.300}",
-          "type": "dimension"
+          "type": "dimension",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "300": {
@@ -7171,13 +7173,13 @@
           "value": "{control.400}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
           "value": "{control.300}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "400": {
@@ -7203,13 +7205,13 @@
           "value": "{control.500}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
           "value": "{control.400}",
-          "type": "spacing",
+          "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "500": {
@@ -7235,13 +7237,13 @@
           "value": "{control.700}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
           "value": "{control.500}",
           "type": "dimension",
           "parent": "Size/Default",
-          "description": ""
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "dropdown": {
