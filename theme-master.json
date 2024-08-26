@@ -4054,41 +4054,41 @@
       "control": {
         "disabled": {
           "value": "{opacity.40}",
-          "type": "dimension",
+          "type": "opacity",
           "parent": "State/Rest"
         },
         "enabled": {
           "value": "{opacity.100}",
-          "type": "dimension",
+          "type": "opacity",
           "parent": "State/Rest"
         }
       },
       "content": {
         "handle-opacity": {
           "value": "{opacity.70}",
-          "type": "dimension",
+          "type": "opacity",
           "parent": "State/Rest"
         },
         "placeholder": {
           "value": "{opacity.60}",
-          "type": "dimension",
+          "type": "opacity",
           "parent": "State/Rest"
         },
         "textarea-handle": {
           "value": "{opacity.30}",
-          "type": "dimension",
+          "type": "opacity",
           "parent": "State/Rest"
         }
       },
       "chevrone": {
         "expand": {
           "value": "{opacity.90}",
-          "type": "dimension",
+          "type": "opacity",
           "parent": "State/Rest"
         },
         "shrink": {
           "value": "{opacity.40}",
-          "type": "dimension",
+          "type": "opacity",
           "parent": "State/Rest"
         }
       }
