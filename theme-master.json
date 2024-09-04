@@ -6487,16 +6487,14 @@
           "description": ""
         },
         "border": {
-          "value": "{role.surface.transparent}",
+          "value": "{role.surface.on-low}",
           "type": "color",
-          "parent": "State/Active",
-          "description": ""
+          "parent": "State/Active"
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color",
-          "parent": "State/Active",
-          "description": ""
+          "parent": "State/Active"
         }
       },
       "addition": {
@@ -7667,6 +7665,10 @@
         "handle": {
           "value": "{space.5}",
           "type": "number"
+        },
+        "switch-width": {
+          "value": "{space.8}",
+          "type": "number"
         }
       },
       "400": {
@@ -7684,6 +7686,10 @@
         },
         "handle": {
           "value": "{space.5}",
+          "type": "number"
+        },
+        "switch-width": {
+          "value": "{space.9}",
           "type": "number"
         }
       },
@@ -7703,6 +7709,10 @@
         "handle": {
           "value": "{space.6}",
           "type": "number"
+        },
+        "switch-width": {
+          "value": "{space.11}",
+          "type": "number"
         }
       },
       "600": {
@@ -7720,6 +7730,10 @@
         },
         "handle": {
           "value": "{space.7}",
+          "type": "number"
+        },
+        "switch-width": {
+          "value": "{space.13}",
           "type": "number"
         }
       }
