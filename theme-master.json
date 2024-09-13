@@ -6886,10 +6886,6 @@
           "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
-        },
-        "compact-padding": {
-          "value": "{space.5}",
-          "type": "number"
         }
       },
       "400": {
@@ -6909,10 +6905,6 @@
           "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
-        },
-        "compact-padding": {
-          "value": "{space.5}",
-          "type": "number"
         }
       },
       "500": {
@@ -6932,10 +6924,6 @@
           "value": "{control.600}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
-        },
-        "compact-padding": {
-          "value": "{space.5}",
-          "type": "number"
         }
       }
     },
