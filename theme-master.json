@@ -4644,9 +4644,8 @@
           "parent": "State/Hover"
         },
         "shrink": {
-          "value": "{opacity.40}",
-          "type": "number",
-          "parent": "State/Hover"
+          "value": "{opacity.90}",
+          "type": "number"
         }
       }
     },
@@ -6242,7 +6241,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.surface.on-highest}",
           "type": "color"
         },
         "border": {
@@ -6381,9 +6380,8 @@
           "parent": "State/Active"
         },
         "shrink": {
-          "value": "{opacity.40}",
-          "type": "number",
-          "parent": "State/Active"
+          "value": "{opacity.90}",
+          "type": "number"
         }
       }
     },
