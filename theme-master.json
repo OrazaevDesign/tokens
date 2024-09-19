@@ -4075,6 +4075,60 @@
             "value": "{role.error.on}",
             "type": "color"
           }
+        },
+        "accent": {
+          "bg": {
+            "value": "{role.accent.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.accent.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.accent.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.accent.on}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on-dim}",
+            "type": "color"
+          }
+        },
+        "ghost": {
+          "bg": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.surface.on-high}",
+            "type": "color"
+          }
         }
       }
     }
@@ -4982,6 +5036,60 @@
           },
           "color": {
             "value": "{role.error.on}",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "{role.accent.dim}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.accent.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.accent.dim}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.accent.on}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "{role.secondary.dim}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.dim}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on-dim}",
+            "type": "color"
+          }
+        },
+        "ghost": {
+          "bg": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.surface.on-high}",
             "type": "color"
           }
         }
@@ -5893,6 +6001,60 @@
             "value": "{role.error.on}",
             "type": "color"
           }
+        },
+        "accent": {
+          "bg": {
+            "value": "{role.accent.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.accent.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.accent.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.accent.on}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on-dim}",
+            "type": "color"
+          }
+        },
+        "ghost": {
+          "bg": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.surface.on-high}",
+            "type": "color"
+          }
         }
       }
     }
@@ -6802,6 +6964,60 @@
           },
           "color": {
             "value": "{role.error.on}",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "bg": {
+            "value": "{role.accent.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.accent.core}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.accent.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.accent.on}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "bg": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on-dim}",
+            "type": "color"
+          }
+        },
+        "ghost": {
+          "bg": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.surface.transparent}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.surface.on-high}",
             "type": "color"
           }
         }
