@@ -4131,6 +4131,46 @@
           }
         }
       }
+    },
+    "search": {
+      "bg": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "chroma": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{role.primary.core}",
+        "type": "color"
+      },
+      "list": {
+        "bg": {
+          "value": "{role.surface.transparent}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.transparent}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color"
+        }
+      }
     }
   },
   "State/Hover": {
@@ -5094,6 +5134,46 @@
           }
         }
       }
+    },
+    "search": {
+      "bg": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "chroma": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{role.primary.core}",
+        "type": "color"
+      },
+      "list": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color"
+        }
+      }
     }
   },
   "State/Focus": {
@@ -6055,6 +6135,46 @@
             "value": "{role.surface.on-high}",
             "type": "color"
           }
+        }
+      }
+    },
+    "search": {
+      "bg": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "chroma": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{role.primary.core}",
+        "type": "color"
+      },
+      "list": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color"
         }
       }
     }
@@ -7022,6 +7142,46 @@
           }
         }
       }
+    },
+    "search": {
+      "bg": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "chroma": {
+        "value": "{role.surface.bright}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{role.primary.core}",
+        "type": "color"
+      },
+      "list": {
+        "bg": {
+          "value": "{role.surface.dim}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.dim}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{role.surface.on-high}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        },
+        "icon-check": {
+          "value": "{role.primary.container.on-lowest}",
+          "type": "color"
+        }
+      }
     }
   },
   "Size/Default": {
@@ -7268,6 +7428,10 @@
           "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "level-gap": {
+          "value": "{space.1,5}",
+          "type": "number"
         }
       },
       "400": {
@@ -7287,6 +7451,10 @@
           "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "level-gap": {
+          "value": "{space.1,5}",
+          "type": "number"
         }
       },
       "500": {
@@ -7306,6 +7474,10 @@
           "value": "{control.600}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "level-gap": {
+          "value": "{space.1,5}",
+          "type": "number"
         }
       }
     },
@@ -7346,6 +7518,10 @@
           "value": "{control.300}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "preview": {
+          "value": "{space.9}",
+          "type": "number"
         }
       },
       "300": {
@@ -7370,6 +7546,10 @@
           "value": "{control.300}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "preview": {
+          "value": "{space.10}",
+          "type": "number"
         }
       },
       "400": {
@@ -7394,6 +7574,10 @@
           "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "preview": {
+          "value": "{space.11}",
+          "type": "number"
         }
       },
       "500": {
@@ -7418,6 +7602,10 @@
           "value": "{control.500}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "preview": {
+          "value": "{space.12}",
+          "type": "number"
         }
       },
       "dropdown": {
