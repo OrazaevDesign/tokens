@@ -4788,7 +4788,7 @@
     "tab": {
       "selected": {
         "bg": {
-          "value": "{role.surface.transparent}",
+          "value": "{role.surface.surface}",
           "type": "color"
         },
         "border": {
@@ -4802,11 +4802,11 @@
       },
       "unselected": {
         "bg": {
-          "value": "{role.surface.transparent}",
+          "value": "{role.surface.surface}",
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.dim}",
+          "value": "{role.surface.on-low}",
           "type": "color"
         },
         "color": {
