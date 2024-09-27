@@ -3512,7 +3512,7 @@
           "type": "color"
         },
         "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
+          "value": "{role.primary.container.on}",
           "type": "color"
         },
         "bg": {
@@ -4131,46 +4131,6 @@
           }
         }
       }
-    },
-    "search": {
-      "bg": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "chroma": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{role.primary.core}",
-        "type": "color"
-      },
-      "list": {
-        "bg": {
-          "value": "{role.surface.transparent}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{role.surface.transparent}",
-          "type": "color"
-        },
-        "color": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "description": {
-          "value": "{role.surface.on-high}",
-          "type": "color"
-        },
-        "chevrone": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
-          "type": "color"
-        }
-      }
     }
   },
   "State/Hover": {
@@ -4516,7 +4476,7 @@
           "type": "color"
         },
         "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
+          "value": "{role.primary.container.on}",
           "type": "color"
         },
         "bg": {
@@ -5134,46 +5094,6 @@
           }
         }
       }
-    },
-    "search": {
-      "bg": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "chroma": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{role.primary.core}",
-        "type": "color"
-      },
-      "list": {
-        "bg": {
-          "value": "{role.surface.surface}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{role.surface.surface}",
-          "type": "color"
-        },
-        "color": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "description": {
-          "value": "{role.surface.on-high}",
-          "type": "color"
-        },
-        "chevrone": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
-          "type": "color"
-        }
-      }
     }
   },
   "State/Focus": {
@@ -5518,7 +5438,7 @@
           "type": "color"
         },
         "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
+          "value": "{role.primary.container.on}",
           "type": "color"
         },
         "bg": {
@@ -6137,46 +6057,6 @@
           }
         }
       }
-    },
-    "search": {
-      "bg": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "chroma": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{role.primary.core}",
-        "type": "color"
-      },
-      "list": {
-        "bg": {
-          "value": "{role.surface.surface}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{role.surface.surface}",
-          "type": "color"
-        },
-        "color": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "description": {
-          "value": "{role.surface.on-high}",
-          "type": "color"
-        },
-        "chevrone": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
-          "type": "color"
-        }
-      }
     }
   },
   "State/Active": {
@@ -6524,7 +6404,7 @@
           "type": "color"
         },
         "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
+          "value": "{role.primary.container.on}",
           "type": "color"
         },
         "bg": {
@@ -7140,46 +7020,6 @@
             "value": "{role.surface.on-high}",
             "type": "color"
           }
-        }
-      }
-    },
-    "search": {
-      "bg": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "chroma": {
-        "value": "{role.surface.bright}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{role.primary.core}",
-        "type": "color"
-      },
-      "list": {
-        "bg": {
-          "value": "{role.surface.dim}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{role.surface.dim}",
-          "type": "color"
-        },
-        "color": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "description": {
-          "value": "{role.surface.on-high}",
-          "type": "color"
-        },
-        "chevrone": {
-          "value": "{role.surface.on-highest}",
-          "type": "color"
-        },
-        "icon-check": {
-          "value": "{role.primary.container.on-lowest}",
-          "type": "color"
         }
       }
     }
