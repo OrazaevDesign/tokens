@@ -3780,6 +3780,12 @@
           "type": "number",
           "parent": "State/Rest"
         }
+      },
+      "overhung": {
+        "secondary": {
+          "value": "{opacity.70}",
+          "type": "number"
+        }
       }
     },
     "tab": {
@@ -4144,6 +4150,44 @@
       "contrast": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      }
+    },
+    "overhung": {
+      "primary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on}",
+          "type": "color"
+        }
       }
     }
   },
@@ -4757,6 +4801,12 @@
           "value": "{opacity.90}",
           "type": "number"
         }
+      },
+      "overhung": {
+        "secondary": {
+          "value": "{opacity.100}",
+          "type": "number"
+        }
       }
     },
     "tab": {
@@ -5121,6 +5171,44 @@
       "contrast": {
         "value": "{role.surface.on-high}",
         "type": "color"
+      }
+    },
+    "overhung": {
+      "primary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.dim}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.dim}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color"
+        }
       }
     }
   },
@@ -5734,6 +5822,12 @@
           "type": "number",
           "parent": "State/Focus"
         }
+      },
+      "overhung": {
+        "secondary": {
+          "value": "{opacity.100}",
+          "type": "number"
+        }
       }
     },
     "tab": {
@@ -6098,6 +6192,44 @@
       "contrast": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      }
+    },
+    "overhung": {
+      "primary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on}",
+          "type": "color"
+        }
       }
     }
   },
@@ -6713,6 +6845,12 @@
           "value": "{opacity.90}",
           "type": "number"
         }
+      },
+      "overhung": {
+        "secondary": {
+          "value": "{opacity.100}",
+          "type": "number"
+        }
       }
     },
     "tab": {
@@ -7077,6 +7215,44 @@
       "contrast": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      }
+    },
+    "overhung": {
+      "primary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.surface.bright}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.surface.surface}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.surface.on}",
+          "type": "color"
+        }
       }
     }
   },
