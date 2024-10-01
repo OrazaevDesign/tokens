@@ -3783,7 +3783,7 @@
       },
       "overhung": {
         "secondary": {
-          "value": "{opacity.70}",
+          "value": "{opacity.60}",
           "type": "number"
         }
       }
@@ -4804,7 +4804,7 @@
       },
       "overhung": {
         "secondary": {
-          "value": "{opacity.100}",
+          "value": "{opacity.90}",
           "type": "number"
         }
       }
@@ -5825,7 +5825,7 @@
       },
       "overhung": {
         "secondary": {
-          "value": "{opacity.100}",
+          "value": "{opacity.90}",
           "type": "number"
         }
       }
@@ -6848,7 +6848,7 @@
       },
       "overhung": {
         "secondary": {
-          "value": "{opacity.100}",
+          "value": "{opacity.90}",
           "type": "number"
         }
       }
