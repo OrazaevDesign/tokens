@@ -4131,6 +4131,20 @@
           }
         }
       }
+    },
+    "link": {
+      "default": {
+        "value": "{role.tertiary.container.on-high}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
+      }
     }
   },
   "State/Hover": {
@@ -5094,6 +5108,20 @@
           }
         }
       }
+    },
+    "link": {
+      "default": {
+        "value": "{role.tertiary.container.on-highest}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
+      }
     }
   },
   "State/Focus": {
@@ -6056,6 +6084,20 @@
             "type": "color"
           }
         }
+      }
+    },
+    "link": {
+      "default": {
+        "value": "{role.tertiary.container.on-high}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
       }
     }
   },
@@ -7021,6 +7063,20 @@
             "type": "color"
           }
         }
+      }
+    },
+    "link": {
+      "default": {
+        "value": "{role.tertiary.container.on-high}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
       }
     }
   },
