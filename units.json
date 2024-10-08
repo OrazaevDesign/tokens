@@ -827,7 +827,7 @@
   "Breakpoints/Desktop": {
     "market": {
       "gap-x": {
-        "value": 24,
+        "value": "24",
         "type": "number"
       },
       "card": {
@@ -845,7 +845,7 @@
         "type": "number"
       },
       "gap-y": {
-        "value": 40,
+        "value": "40",
         "type": "number"
       },
       "banner": {
@@ -907,11 +907,11 @@
     },
     "cms": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number"
       },
       "gap-y": {
-        "value": 32,
+        "value": "32",
         "type": "number"
       },
       "padding": {
@@ -973,7 +973,7 @@
   "Breakpoints/Mobile": {
     "market": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number"
       },
       "card": {
@@ -991,7 +991,7 @@
         "type": "number"
       },
       "gap-y": {
-        "value": 24,
+        "value": "24",
         "type": "number"
       },
       "banner": {
@@ -1053,11 +1053,11 @@
     },
     "cms": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number"
       },
       "gap-y": {
-        "value": 32,
+        "value": "32",
         "type": "number"
       },
       "padding": {
@@ -1119,7 +1119,7 @@
   "Breakpoints/Tablet": {
     "market": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number"
       },
       "card": {
@@ -1137,7 +1137,7 @@
         "type": "number"
       },
       "gap-y": {
-        "value": 24,
+        "value": "24",
         "type": "number"
       },
       "banner": {
@@ -1199,11 +1199,11 @@
     },
     "cms": {
       "gap-x": {
-        "value": 16,
+        "value": "16",
         "type": "number"
       },
       "gap-y": {
-        "value": 32,
+        "value": "32",
         "type": "number"
       },
       "padding": {
@@ -1265,18 +1265,18 @@
   "Zindex/Value": {
     "zindex": {
       "dropdown": {
-        "value": 1000,
-        "type": "number"
-      },
-      "sticky": {
-        "value": 1020,
-        "type": "number"
-      },
-      "fixed": {
         "value": 1030,
         "type": "number"
       },
-      "modal-backdrop": {
+      "sticky": {
+        "value": 1000,
+        "type": "number"
+      },
+      "fixed": {
+        "value": 1020,
+        "type": "number"
+      },
+      "backdrop": {
         "value": 1040,
         "type": "number"
       },
