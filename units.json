@@ -885,6 +885,24 @@
       "layout": {
         "value": 1488,
         "type": "number"
+      },
+      "content": {
+        "gap": {
+          "value": 24,
+          "type": "number"
+        },
+        "padding": {
+          "value": 32,
+          "type": "number"
+        },
+        "section": {
+          "value": 32,
+          "type": "number"
+        }
+      },
+      "padding-bottom": {
+        "value": 60,
+        "type": "number"
       }
     },
     "cms": {
@@ -930,6 +948,24 @@
       },
       "grid": {
         "value": 1440,
+        "type": "number"
+      },
+      "content": {
+        "gap": {
+          "value": 16,
+          "type": "number"
+        },
+        "padding": {
+          "value": 24,
+          "type": "number"
+        },
+        "section": {
+          "value": 32,
+          "type": "number"
+        }
+      },
+      "padding-bottom": {
+        "value": 60,
         "type": "number"
       }
     }
@@ -995,6 +1031,24 @@
       "layout": {
         "value": 430,
         "type": "number"
+      },
+      "content": {
+        "gap": {
+          "value": 16,
+          "type": "number"
+        },
+        "padding": {
+          "value": 20,
+          "type": "number"
+        },
+        "section": {
+          "value": 20,
+          "type": "number"
+        }
+      },
+      "padding-bottom": {
+        "value": 28,
+        "type": "number"
       }
     },
     "cms": {
@@ -1007,7 +1061,7 @@
         "type": "number"
       },
       "padding": {
-        "value": 24,
+        "value": 16,
         "type": "number"
       },
       "card": {
@@ -1039,7 +1093,25 @@
         }
       },
       "grid": {
-        "value": 1488,
+        "value": 1016,
+        "type": "number"
+      },
+      "content": {
+        "gap": {
+          "value": 16,
+          "type": "number"
+        },
+        "padding": {
+          "value": 20,
+          "type": "number"
+        },
+        "section": {
+          "value": 20,
+          "type": "number"
+        }
+      },
+      "padding-bottom": {
+        "value": 28,
         "type": "number"
       }
     }
@@ -1105,6 +1177,24 @@
       "layout": {
         "value": 1016,
         "type": "number"
+      },
+      "content": {
+        "gap": {
+          "value": 16,
+          "type": "number"
+        },
+        "padding": {
+          "value": 24,
+          "type": "number"
+        },
+        "section": {
+          "value": 28,
+          "type": "number"
+        }
+      },
+      "padding-bottom": {
+        "value": 40,
+        "type": "number"
       }
     },
     "cms": {
@@ -1117,7 +1207,7 @@
         "type": "number"
       },
       "padding": {
-        "value": 24,
+        "value": 16,
         "type": "number"
       },
       "card": {
@@ -1151,6 +1241,60 @@
       "grid": {
         "value": 1016,
         "type": "number"
+      },
+      "content": {
+        "gap": {
+          "value": 16,
+          "type": "number"
+        },
+        "padding": {
+          "value": 24,
+          "type": "number"
+        },
+        "section": {
+          "value": 28,
+          "type": "number"
+        }
+      },
+      "padding-bottom": {
+        "value": 40,
+        "type": "number"
+      }
+    }
+  },
+  "Zindex/Value": {
+    "zindex": {
+      "dropdown": {
+        "value": 1000,
+        "type": "number"
+      },
+      "sticky": {
+        "value": 1020,
+        "type": "number"
+      },
+      "fixed": {
+        "value": 1030,
+        "type": "number"
+      },
+      "modal-backdrop": {
+        "value": 1040,
+        "type": "number"
+      },
+      "offcanvas": {
+        "value": 1050,
+        "type": "number"
+      },
+      "modal": {
+        "value": 1060,
+        "type": "number"
+      },
+      "popover": {
+        "value": 1070,
+        "type": "number"
+      },
+      "tooltip": {
+        "value": 1080,
+        "type": "number"
       }
     }
   },
@@ -1168,7 +1312,8 @@
       "Shadow/elevation-1",
       "Breakpoints/Desktop",
       "Breakpoints/Mobile",
-      "Breakpoints/Tablet"
+      "Breakpoints/Tablet",
+      "Zindex/Value"
     ]
   }
 }
