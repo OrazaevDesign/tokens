@@ -4793,9 +4793,8 @@
       },
       "chevrone": {
         "expand": {
-          "value": "{opacity.90}",
-          "type": "number",
-          "parent": "State/Hover"
+          "value": "{opacity.100}",
+          "type": "number"
         },
         "shrink": {
           "value": "{opacity.90}",
@@ -6263,9 +6262,8 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.on-low}",
-          "type": "color",
-          "parent": "State/Active"
+          "value": "{role.surface.transparent}",
+          "type": "color"
         },
         "color": {
           "value": "{role.surface.on-highest}",
@@ -6837,9 +6835,8 @@
       },
       "chevrone": {
         "expand": {
-          "value": "{opacity.90}",
-          "type": "number",
-          "parent": "State/Active"
+          "value": "{opacity.100}",
+          "type": "number"
         },
         "shrink": {
           "value": "{opacity.90}",
@@ -7705,6 +7702,10 @@
         "gap-panel": {
           "value": "{space.4}",
           "type": "number"
+        },
+        "gap-button": {
+          "value": "{space.1,5}",
+          "type": "number"
         }
       },
       "400": {
@@ -7723,6 +7724,10 @@
         },
         "gap-panel": {
           "value": "{space.5}",
+          "type": "number"
+        },
+        "gap-button": {
+          "value": "{space.2}",
           "type": "number"
         }
       }
@@ -7743,6 +7748,94 @@
       "500": {
         "handle": {
           "value": "{space.7}",
+          "type": "number"
+        }
+      }
+    },
+    "notice": {
+      "100": {
+        "padding-v": {
+          "value": "{space.0}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "{control.50}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        }
+      },
+      "200": {
+        "padding-v": {
+          "value": "{space.0}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "{control.100}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "padding-h": {
+          "value": "{space.1}",
+          "type": "number"
+        }
+      },
+      "300": {
+        "padding-v": {
+          "value": "{space.0,5}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "{control.200}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "padding-h": {
+          "value": "{space.1,5}",
+          "type": "number"
+        }
+      },
+      "400": {
+        "padding-v": {
+          "value": "{space.0,5}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "{control.300}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "padding-h": {
+          "value": "{space.1,5}",
+          "type": "number"
+        }
+      },
+      "500": {
+        "padding-v": {
+          "value": "{space.0,5}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "{control.400}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "padding-h": {
+          "value": "{space.1,5}",
+          "type": "number"
+        }
+      },
+      "600": {
+        "padding-v": {
+          "value": "{space.1}",
+          "type": "number"
+        },
+        "typography": {
+          "value": "{control.500}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "padding-h": {
+          "value": "{space.2}",
           "type": "number"
         }
       }
