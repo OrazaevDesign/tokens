@@ -892,7 +892,7 @@
           "type": "number"
         },
         "padding": {
-          "value": 32,
+          "value": 24,
           "type": "number"
         },
         "section": {
@@ -915,7 +915,7 @@
         "type": "number"
       },
       "padding": {
-        "value": 24,
+        "value": 16,
         "type": "number"
       },
       "card": {
