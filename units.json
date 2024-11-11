@@ -906,7 +906,7 @@
       },
       "section": {
         "padding-top": {
-          "value": 12,
+          "value": 16,
           "type": "number"
         },
         "padding-bottom": {
@@ -1062,7 +1062,7 @@
       },
       "section": {
         "padding-top": {
-          "value": 12,
+          "value": 16,
           "type": "number"
         },
         "padding-bottom": {
@@ -1218,7 +1218,7 @@
       },
       "section": {
         "padding-top": {
-          "value": 12,
+          "value": 16,
           "type": "number"
         },
         "padding-bottom": {
