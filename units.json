@@ -903,6 +903,16 @@
       "padding-bottom": {
         "value": 60,
         "type": "number"
+      },
+      "section": {
+        "padding-top": {
+          "value": 12,
+          "type": "number"
+        },
+        "padding-bottom": {
+          "value": 40,
+          "type": "number"
+        }
       }
     },
     "cms": {
@@ -1049,6 +1059,16 @@
       "padding-bottom": {
         "value": 28,
         "type": "number"
+      },
+      "section": {
+        "padding-top": {
+          "value": 12,
+          "type": "number"
+        },
+        "padding-bottom": {
+          "value": 40,
+          "type": "number"
+        }
       }
     },
     "cms": {
@@ -1195,6 +1215,16 @@
       "padding-bottom": {
         "value": 40,
         "type": "number"
+      },
+      "section": {
+        "padding-top": {
+          "value": 12,
+          "type": "number"
+        },
+        "padding-bottom": {
+          "value": 40,
+          "type": "number"
+        }
       }
     },
     "cms": {
