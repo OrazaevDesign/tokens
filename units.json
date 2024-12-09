@@ -1268,6 +1268,480 @@
       }
     }
   },
+  "Layout/Desktop": {
+    "layout": {
+      "market": {
+        "block": {
+          "gap": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.8}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.5}",
+            "type": "number"
+          }
+        },
+        "card": {
+          "card-min": {
+            "value": 184,
+            "type": "number"
+          },
+          "card-max": {
+            "value": 368,
+            "type": "number"
+          }
+        },
+        "section": {
+          "side": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "large-max": {
+            "value": 1488,
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "bottom": {
+            "value": "{space.15}",
+            "type": "number"
+          },
+          "small-max": {
+            "value": 720,
+            "type": "number"
+          }
+        },
+        "banner": {
+          "3-min": {
+            "value": 392,
+            "type": "number"
+          },
+          "3-max": {
+            "value": 800,
+            "type": "number"
+          },
+          "2-min": {
+            "value": 392,
+            "type": "number"
+          },
+          "2-max": {
+            "value": 800,
+            "type": "number"
+          },
+          "4-min": {
+            "value": 184,
+            "type": "number"
+          },
+          "4-max": {
+            "value": 388,
+            "type": "number"
+          },
+          "1-max": {
+            "value": 1440,
+            "type": "number"
+          },
+          "1-min": {
+            "value": 976,
+            "type": "number"
+          }
+        }
+      },
+      "cms": {
+        "gap": {
+          "value": "{space.4}",
+          "type": "number"
+        },
+        "side": {
+          "value": "{space.6}",
+          "type": "number"
+        },
+        "top": {
+          "value": "{space.4}",
+          "type": "number"
+        },
+        "card": {
+          "card-min": {
+            "value": 186,
+            "type": "number"
+          },
+          "card-max": {
+            "value": 388,
+            "type": "number"
+          }
+        },
+        "banner": {
+          "4-min": {
+            "value": 336,
+            "type": "number"
+          },
+          "4-max": {
+            "value": 688,
+            "type": "number"
+          },
+          "8-min": {
+            "value": 186,
+            "type": "number"
+          },
+          "8-max": {
+            "value": 388,
+            "type": "number"
+          }
+        },
+        "max": {
+          "value": 1440,
+          "type": "number"
+        },
+        "side-editor": {
+          "value": "{space.10}",
+          "type": "number"
+        },
+        "section": {
+          "large-max": {
+            "value": 1488,
+            "type": "number"
+          },
+          "small-max": {
+            "value": 720,
+            "type": "number"
+          },
+          "side": {
+            "value": "{space.8}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "bottom": {
+            "value": "{space.15}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  },
+  "Layout/Tablet": {
+    "layout": {
+      "market": {
+        "block": {
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.7}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.4}",
+            "type": "number"
+          }
+        },
+        "card": {
+          "card-min": {
+            "value": 184,
+            "type": "number"
+          },
+          "card-max": {
+            "value": 368,
+            "type": "number"
+          }
+        },
+        "section": {
+          "side": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "large-max": {
+            "value": 1016,
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "bottom": {
+            "value": "{space.13}",
+            "type": "number"
+          },
+          "small-max": {
+            "value": 720,
+            "type": "number"
+          }
+        },
+        "banner": {
+          "3-min": {
+            "value": 340,
+            "type": "number"
+          },
+          "3-max": {
+            "value": 474,
+            "type": "number"
+          },
+          "2-min": {
+            "value": 340,
+            "type": "number"
+          },
+          "2-max": {
+            "value": 720,
+            "type": "number"
+          },
+          "4-min": {
+            "value": 162,
+            "type": "number"
+          },
+          "4-max": {
+            "value": 388,
+            "type": "number"
+          },
+          "1-max": {
+            "value": 1440,
+            "type": "number"
+          },
+          "1-min": {
+            "value": 398,
+            "type": "number"
+          }
+        }
+      },
+      "cms": {
+        "gap": {
+          "value": "{space.4}",
+          "type": "number"
+        },
+        "side": {
+          "value": "{space.6}",
+          "type": "number"
+        },
+        "top": {
+          "value": "{space.4}",
+          "type": "number"
+        },
+        "card": {
+          "card-min": {
+            "value": 186,
+            "type": "number"
+          },
+          "card-max": {
+            "value": 388,
+            "type": "number"
+          }
+        },
+        "banner": {
+          "4-min": {
+            "value": 336,
+            "type": "number"
+          },
+          "4-max": {
+            "value": 688,
+            "type": "number"
+          },
+          "8-min": {
+            "value": 186,
+            "type": "number"
+          },
+          "8-max": {
+            "value": 388,
+            "type": "number"
+          }
+        },
+        "max": {
+          "value": 1016,
+          "type": "number"
+        },
+        "side-editor": {
+          "value": "{space.10}",
+          "type": "number"
+        },
+        "section": {
+          "large-max": {
+            "value": 1016,
+            "type": "number"
+          },
+          "small-max": {
+            "value": 720,
+            "type": "number"
+          },
+          "side": {
+            "value": "{space.8}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "bottom": {
+            "value": "{space.13}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  },
+  "Layout/Mobile": {
+    "layout": {
+      "market": {
+        "block": {
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.3}",
+            "type": "number"
+          }
+        },
+        "card": {
+          "card-min": {
+            "value": 128,
+            "type": "number"
+          },
+          "card-max": {
+            "value": 256,
+            "type": "number"
+          }
+        },
+        "section": {
+          "side": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "large-max": {
+            "value": 430,
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.2}",
+            "type": "number"
+          },
+          "bottom": {
+            "value": "{space.11}",
+            "type": "number"
+          },
+          "small-max": {
+            "value": 430,
+            "type": "number"
+          }
+        },
+        "banner": {
+          "3-min": {
+            "value": 272,
+            "type": "number"
+          },
+          "3-max": {
+            "value": 474,
+            "type": "number"
+          },
+          "2-min": {
+            "value": 272,
+            "type": "number"
+          },
+          "2-max": {
+            "value": 720,
+            "type": "number"
+          },
+          "4-min": {
+            "value": 128,
+            "type": "number"
+          },
+          "4-max": {
+            "value": 388,
+            "type": "number"
+          },
+          "1-max": {
+            "value": 1440,
+            "type": "number"
+          },
+          "1-min": {
+            "value": 288,
+            "type": "number"
+          }
+        }
+      },
+      "cms": {
+        "gap": {
+          "value": "{space.4}",
+          "type": "number"
+        },
+        "side": {
+          "value": "{space.5}",
+          "type": "number"
+        },
+        "top": {
+          "value": "{space.4}",
+          "type": "number"
+        },
+        "card": {
+          "card-min": {
+            "value": 186,
+            "type": "number"
+          },
+          "card-max": {
+            "value": 388,
+            "type": "number"
+          }
+        },
+        "banner": {
+          "4-min": {
+            "value": 336,
+            "type": "number"
+          },
+          "4-max": {
+            "value": 688,
+            "type": "number"
+          },
+          "8-min": {
+            "value": 186,
+            "type": "number"
+          },
+          "8-max": {
+            "value": 388,
+            "type": "number"
+          }
+        },
+        "max": {
+          "value": 1016,
+          "type": "number"
+        },
+        "side-editor": {
+          "value": "{space.10}",
+          "type": "number"
+        },
+        "section": {
+          "large-max": {
+            "value": 430,
+            "type": "number"
+          },
+          "small-max": {
+            "value": 430,
+            "type": "number"
+          },
+          "side": {
+            "value": "{space.8}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.2}",
+            "type": "number"
+          },
+          "bottom": {
+            "value": "{space.11}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -1283,7 +1757,10 @@
       "Zindex/Value",
       "Breakpoints/Desktop",
       "Breakpoints/Tablet",
-      "Breakpoints/Mobile"
+      "Breakpoints/Mobile",
+      "Layout/Desktop",
+      "Layout/Tablet",
+      "Layout/Mobile"
     ]
   }
 }
