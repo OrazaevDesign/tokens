@@ -907,6 +907,10 @@
           "small-max": {
             "value": 720,
             "type": "number"
+          },
+          "side-cms": {
+            "value": "{space.8}",
+            "type": "number"
           }
         },
         "banner": {
@@ -992,28 +996,6 @@
         "side-editor": {
           "value": "{space.10}",
           "type": "number"
-        },
-        "section": {
-          "large-max": {
-            "value": 1488,
-            "type": "number"
-          },
-          "small-max": {
-            "value": 720,
-            "type": "number"
-          },
-          "side": {
-            "value": "{space.8}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.6}",
-            "type": "number"
-          },
-          "bottom": {
-            "value": "{space.15}",
-            "type": "number"
-          }
         }
       }
     }
@@ -1064,6 +1046,10 @@
           },
           "small-max": {
             "value": 720,
+            "type": "number"
+          },
+          "side-cms": {
+            "value": "{space.8}",
             "type": "number"
           }
         },
@@ -1150,28 +1136,6 @@
         "side-editor": {
           "value": "{space.10}",
           "type": "number"
-        },
-        "section": {
-          "large-max": {
-            "value": 1016,
-            "type": "number"
-          },
-          "small-max": {
-            "value": 720,
-            "type": "number"
-          },
-          "side": {
-            "value": "{space.8}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.4}",
-            "type": "number"
-          },
-          "bottom": {
-            "value": "{space.13}",
-            "type": "number"
-          }
         }
       }
     }
@@ -1222,6 +1186,10 @@
           },
           "small-max": {
             "value": 430,
+            "type": "number"
+          },
+          "side-cms": {
+            "value": "{space.8}",
             "type": "number"
           }
         },
@@ -1308,28 +1276,6 @@
         "side-editor": {
           "value": "{space.10}",
           "type": "number"
-        },
-        "section": {
-          "large-max": {
-            "value": 430,
-            "type": "number"
-          },
-          "small-max": {
-            "value": 430,
-            "type": "number"
-          },
-          "side": {
-            "value": "{space.8}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.2}",
-            "type": "number"
-          },
-          "bottom": {
-            "value": "{space.11}",
-            "type": "number"
-          }
         }
       }
     }
