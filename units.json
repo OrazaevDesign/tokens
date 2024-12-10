@@ -1292,6 +1292,94 @@
       }
     }
   },
+  "Breakpoints/Value": {
+    "breakpoints": {
+      "market": {
+        "desktop": {
+          "large-max": {
+            "value": 1488,
+            "type": "number"
+          },
+          "medium": {
+            "value": 1376,
+            "type": "number"
+          },
+          "small": {
+            "value": 1276,
+            "type": "number"
+          }
+        },
+        "tablet": {
+          "large": {
+            "value": 1016,
+            "type": "number"
+          },
+          "medium": {
+            "value": 816,
+            "type": "number"
+          },
+          "small": {
+            "value": 616,
+            "type": "number"
+          }
+        },
+        "mobile": {
+          "medium": {
+            "value": 430,
+            "type": "number"
+          },
+          "small": {
+            "value": 320,
+            "type": "number"
+          }
+        }
+      },
+      "cms": {
+        "desktop": {
+          "max": {
+            "value": 1440,
+            "type": "number"
+          },
+          "medium": {
+            "value": 840,
+            "type": "number"
+          },
+          "small": {
+            "value": 668,
+            "type": "number"
+          },
+          "large": {
+            "value": 1024,
+            "type": "number"
+          }
+        },
+        "tablet": {
+          "large": {
+            "value": 0,
+            "type": "number"
+          },
+          "medium": {
+            "value": 0,
+            "type": "number"
+          },
+          "small": {
+            "value": 0,
+            "type": "number"
+          }
+        },
+        "mobile": {
+          "medium": {
+            "value": 0,
+            "type": "number"
+          },
+          "small": {
+            "value": 0,
+            "type": "number"
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -1307,7 +1395,8 @@
       "Zindex/Value",
       "Layout/Desktop",
       "Layout/Tablet",
-      "Layout/Mobile"
+      "Layout/Mobile",
+      "Breakpoints/Value"
     ]
   }
 }
