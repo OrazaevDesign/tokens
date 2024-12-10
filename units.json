@@ -954,7 +954,7 @@
           "type": "number"
         },
         "side": {
-          "value": "{space.6}",
+          "value": "{space.4}",
           "type": "number"
         },
         "top": {
@@ -995,6 +995,10 @@
         },
         "side-editor": {
           "value": "{space.10}",
+          "type": "number"
+        },
+        "bottom": {
+          "value": "{space.4}",
           "type": "number"
         }
       }
@@ -1094,7 +1098,7 @@
           "type": "number"
         },
         "side": {
-          "value": "{space.6}",
+          "value": "{space.4}",
           "type": "number"
         },
         "top": {
@@ -1135,6 +1139,10 @@
         },
         "side-editor": {
           "value": "{space.10}",
+          "type": "number"
+        },
+        "bottom": {
+          "value": "{space.4}",
           "type": "number"
         }
       }
@@ -1234,7 +1242,7 @@
           "type": "number"
         },
         "side": {
-          "value": "{space.5}",
+          "value": "{space.4}",
           "type": "number"
         },
         "top": {
@@ -1275,6 +1283,10 @@
         },
         "side-editor": {
           "value": "{space.10}",
+          "type": "number"
+        },
+        "bottom": {
+          "value": "{space.4}",
           "type": "number"
         }
       }
