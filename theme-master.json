@@ -175,56 +175,56 @@
       },
       "secondary": {
         "core": {
-          "value": "{palette.stone.90}",
+          "value": "{palette.neutral.90}",
           "type": "color"
         },
         "chroma": {
-          "value": "{palette.stone.95}",
+          "value": "{palette.neutral.95}",
           "type": "color"
         },
         "dim": {
-          "value": "{palette.stone.95}",
+          "value": "{palette.neutral.95}",
           "type": "color"
         },
         "on": {
-          "value": "{palette.stone.5}",
+          "value": "{palette.neutral.5}",
           "type": "color"
         },
         "on-dim": {
-          "value": "{palette.stone.30}",
+          "value": "{palette.neutral.30}",
           "type": "color"
         },
         "container": {
           "core": {
-            "value": "{palette.stone.99}",
+            "value": "{palette.neutral.99}",
             "type": "color"
           },
           "chroma": {
-            "value": "{palette.stone.99}",
+            "value": "{palette.neutral.99}",
             "type": "color"
           },
           "dim": {
-            "value": "{palette.stone.95}",
+            "value": "{palette.neutral.95}",
             "type": "color"
           },
           "on-high": {
-            "value": "{palette.stone.15}",
+            "value": "{palette.neutral.15}",
             "type": "color"
           },
           "on": {
-            "value": "{palette.stone.35}",
+            "value": "{palette.neutral.35}",
             "type": "color"
           },
           "on-low": {
-            "value": "{palette.stone.75}",
+            "value": "{palette.neutral.75}",
             "type": "color"
           },
           "on-lowest": {
-            "value": "{palette.stone.85}",
+            "value": "{palette.neutral.85}",
             "type": "color"
           },
           "on-highest": {
-            "value": "{palette.stone.10}",
+            "value": "{palette.neutral.10}",
             "type": "color"
           }
         },
@@ -719,28 +719,28 @@
       },
       "surface": {
         "surface": {
-          "value": "{palette.neutral.10}",
+          "value": "{palette.neutral.15}",
           "type": "color"
         },
         "dim": {
-          "value": "{palette.neutral.5}",
+          "value": "{palette.neutral.10}",
           "type": "color"
         },
         "bright": {
-          "value": "{palette.neutral.0}",
+          "value": "{palette.neutral.5}",
           "type": "color"
         },
         "container": {
           "lowest": {
-            "value": "{palette.neutral.0}",
-            "type": "color"
-          },
-          "low": {
             "value": "{palette.neutral.5}",
             "type": "color"
           },
-          "container": {
+          "low": {
             "value": "{palette.neutral.10}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{palette.neutral.15}",
             "type": "color"
           },
           "high": {
@@ -753,19 +753,19 @@
           }
         },
         "on-highest": {
-          "value": "{palette.neutral.99}",
+          "value": "{palette.neutral.85}",
           "type": "color"
         },
         "on-high": {
-          "value": "{palette.neutral.75}",
+          "value": "{palette.neutral.65}",
           "type": "color"
         },
         "on": {
-          "value": "{palette.neutral.60}",
+          "value": "{palette.neutral.55}",
           "type": "color"
         },
         "on-low": {
-          "value": "{palette.neutral.20}",
+          "value": "{palette.neutral.30}",
           "type": "color"
         },
         "transparent": {
@@ -791,7 +791,7 @@
           }
         },
         "on-lowest": {
-          "value": "{palette.neutral.15}",
+          "value": "{palette.neutral.25}",
           "type": "color"
         }
       },
@@ -831,56 +831,56 @@
       },
       "secondary": {
         "core": {
-          "value": "{palette.stone.20}",
+          "value": "{palette.neutral.20}",
           "type": "color"
         },
         "chroma": {
-          "value": "{palette.stone.15}",
+          "value": "{palette.neutral.15}",
           "type": "color"
         },
         "dim": {
-          "value": "{palette.stone.15}",
+          "value": "{palette.neutral.15}",
           "type": "color"
         },
         "on": {
-          "value": "{palette.stone.99}",
+          "value": "{palette.neutral.85}",
           "type": "color"
         },
         "on-dim": {
-          "value": "{palette.stone.95}",
+          "value": "{palette.neutral.65}",
           "type": "color"
         },
         "container": {
           "core": {
-            "value": "{palette.stone.10}",
+            "value": "{palette.neutral.10}",
             "type": "color"
           },
           "chroma": {
-            "value": "{palette.stone.10}",
+            "value": "{palette.neutral.10}",
             "type": "color"
           },
           "dim": {
-            "value": "{palette.stone.15}",
+            "value": "{palette.neutral.15}",
             "type": "color"
           },
           "on-high": {
-            "value": "{palette.stone.85}",
+            "value": "{palette.neutral.65}",
             "type": "color"
           },
           "on": {
-            "value": "{palette.stone.75}",
+            "value": "{palette.neutral.50}",
             "type": "color"
           },
           "on-low": {
-            "value": "{palette.stone.25}",
+            "value": "{palette.neutral.25}",
             "type": "color"
           },
           "on-lowest": {
-            "value": "{palette.stone.20}",
+            "value": "{palette.neutral.20}",
             "type": "color"
           },
           "on-highest": {
-            "value": "{palette.stone.95}",
+            "value": "{palette.neutral.85}",
             "type": "color"
           }
         },
@@ -1787,23 +1787,23 @@
           "type": "color"
         },
         "5": {
-          "value": "#0e0e0e",
+          "value": "#080808",
           "type": "color"
         },
         "10": {
-          "value": "#1c1c1c",
+          "value": "#0f0f0f",
           "type": "color"
         },
         "15": {
-          "value": "#2b2b2b",
+          "value": "#1a1a1a",
           "type": "color"
         },
         "20": {
-          "value": "#393939",
+          "value": "#292929",
           "type": "color"
         },
         "25": {
-          "value": "#474747",
+          "value": "#383838",
           "type": "color"
         },
         "30": {
@@ -3995,6 +3995,20 @@
           "type": "number"
         }
       }
+    },
+    "areabutton": {
+      "default": {
+        "value": "{role.tertiary.container.on-high}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
+      }
     }
   },
   "State/Hover": {
@@ -5024,6 +5038,20 @@
           "value": "{opacity.90}",
           "type": "number"
         }
+      }
+    },
+    "areabutton": {
+      "default": {
+        "value": "{role.tertiary.container.on-highest}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
       }
     }
   },
@@ -6055,6 +6083,20 @@
           "type": "number"
         }
       }
+    },
+    "areabutton": {
+      "default": {
+        "value": "{role.tertiary.container.on-high}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
+      }
     }
   },
   "State/Active": {
@@ -7084,6 +7126,20 @@
           "value": "{opacity.90}",
           "type": "number"
         }
+      }
+    },
+    "areabutton": {
+      "default": {
+        "value": "{role.tertiary.container.on-high}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
       }
     }
   },
