@@ -4009,6 +4009,44 @@
         "value": "{role.surface.on-highest}",
         "type": "color"
       }
+    },
+    "rating": {
+      "selected": {
+        "bg": {
+          "value": "{role.warning.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.warning.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.warning.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.warning.on}",
+          "type": "color"
+        }
+      },
+      "unselected": {
+        "bg": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        }
+      }
     }
   },
   "State/Hover": {
@@ -5052,6 +5090,44 @@
       "contrast": {
         "value": "{role.surface.on-high}",
         "type": "color"
+      }
+    },
+    "rating": {
+      "selected": {
+        "bg": {
+          "value": "{role.warning.dim}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.warning.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.warning.dim}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.warning.on}",
+          "type": "color"
+        }
+      },
+      "unselected": {
+        "bg": {
+          "value": "{role.secondary.dim}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.dim}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        }
       }
     }
   },
@@ -6097,6 +6173,44 @@
         "value": "{role.surface.on-highest}",
         "type": "color"
       }
+    },
+    "rating": {
+      "selected": {
+        "bg": {
+          "value": "{role.warning.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.warning.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.warning.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.warning.on}",
+          "type": "color"
+        }
+      },
+      "unselected": {
+        "bg": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        }
+      }
     }
   },
   "State/Active": {
@@ -7140,6 +7254,44 @@
       "contrast": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      }
+    },
+    "rating": {
+      "selected": {
+        "bg": {
+          "value": "{role.warning.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.warning.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.warning.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.warning.on}",
+          "type": "color"
+        }
+      },
+      "unselected": {
+        "bg": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.chroma}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        }
       }
     }
   },
