@@ -175,11 +175,11 @@
       },
       "secondary": {
         "core": {
-          "value": "{palette.neutral.90}",
+          "value": "{palette.neutral.95}",
           "type": "color"
         },
         "chroma": {
-          "value": "{palette.neutral.95}",
+          "value": "{palette.neutral.99}",
           "type": "color"
         },
         "dim": {
@@ -187,11 +187,11 @@
           "type": "color"
         },
         "on": {
-          "value": "{palette.neutral.5}",
+          "value": "{palette.neutral.35}",
           "type": "color"
         },
         "on-dim": {
-          "value": "{palette.neutral.30}",
+          "value": "{palette.neutral.50}",
           "type": "color"
         },
         "container": {
@@ -4031,19 +4031,19 @@
       },
       "unselected": {
         "bg": {
-          "value": "{role.secondary.core}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "chroma": {
-          "value": "{role.secondary.chroma}",
+          "value": "{role.surface.container.low}",
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.core}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "color": {
-          "value": "{role.secondary.on}",
+          "value": "{role.surface.on-high}",
           "type": "color"
         }
       }
@@ -4619,7 +4619,7 @@
     "tab": {
       "selected": {
         "bg": {
-          "value": "{role.surface.surface}",
+          "value": "{role.surface.transparent}",
           "type": "color"
         },
         "border": {
@@ -4627,13 +4627,13 @@
           "type": "color"
         },
         "color": {
-          "value": "{role.surface.on-highest}",
+          "value": "{role.surface.on-high}",
           "type": "color"
         }
       },
       "unselected": {
         "bg": {
-          "value": "{role.surface.surface}",
+          "value": "{role.surface.transparent}",
           "type": "color"
         },
         "border": {
@@ -5113,19 +5113,19 @@
       },
       "unselected": {
         "bg": {
-          "value": "{role.secondary.dim}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "chroma": {
-          "value": "{role.secondary.chroma}",
+          "value": "{role.surface.container.low}",
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.dim}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "color": {
-          "value": "{role.secondary.on}",
+          "value": "{role.surface.on-high}",
           "type": "color"
         }
       }
@@ -5723,7 +5723,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{role.surface.on-highest}",
+          "value": "{role.surface.on-high}",
           "type": "color"
         }
       }
@@ -6195,19 +6195,19 @@
       },
       "unselected": {
         "bg": {
-          "value": "{role.secondary.core}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "chroma": {
-          "value": "{role.secondary.chroma}",
+          "value": "{role.surface.container.low}",
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.core}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "color": {
-          "value": "{role.secondary.on}",
+          "value": "{role.surface.on-high}",
           "type": "color"
         }
       }
@@ -6805,7 +6805,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{role.surface.on-highest}",
+          "value": "{role.surface.on-high}",
           "type": "color"
         }
       }
@@ -7277,19 +7277,19 @@
       },
       "unselected": {
         "bg": {
-          "value": "{role.secondary.core}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "chroma": {
-          "value": "{role.secondary.chroma}",
+          "value": "{role.surface.container.low}",
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.core}",
+          "value": "{role.surface.container.container}",
           "type": "color"
         },
         "color": {
-          "value": "{role.secondary.on}",
+          "value": "{role.surface.on-high}",
           "type": "color"
         }
       }
