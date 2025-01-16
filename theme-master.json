@@ -7991,7 +7991,7 @@
       }
     }
   },
-  "Price/Desktop": {
+  "Layout/Desktop": {
     "price": {
       "100": {
         "main": {
@@ -8149,7 +8149,7 @@
       }
     }
   },
-  "Price/Tablet": {
+  "Layout/Tablet": {
     "price": {
       "100": {
         "main": {
@@ -8307,7 +8307,7 @@
       }
     }
   },
-  "Price/Mobile": {
+  "Layout/Mobile": {
     "price": {
       "100": {
         "main": {
@@ -9701,9 +9701,9 @@
       "State/Focus",
       "State/Active",
       "Size/Default",
-      "Price/Desktop",
-      "Price/Tablet",
-      "Price/Mobile"
+      "Layout/Desktop",
+      "Layout/Tablet",
+      "Layout/Mobile"
     ]
   }
 }
