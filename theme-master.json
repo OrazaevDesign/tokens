@@ -812,19 +812,19 @@
         },
         "shadow": {
           "opacity1": {
-            "value": "#1c1c1c33",
+            "value": "#f6d87166",
             "type": "color"
           },
           "opacity2": {
-            "value": "#1c1c1c26",
+            "value": "#f6d87159",
             "type": "color"
           },
           "opacity3": {
-            "value": "#1c1c1c1a",
+            "value": "#f6d8714d",
             "type": "color"
           },
           "shadow-color": {
-            "value": "{palette.neutral.10}",
+            "value": "{role.primary.chroma}",
             "type": "color"
           }
         }
@@ -3619,6 +3619,24 @@
             "value": "{role.info.on}",
             "type": "color"
           }
+        },
+        "brand": {
+          "bg": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on}",
+            "type": "color"
+          }
         }
       },
       "state": {
@@ -4699,6 +4717,24 @@
           },
           "color": {
             "value": "{role.info.on}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "bg": {
+            "value": "{role.secondary.dim}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.dim}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on}",
             "type": "color"
           }
         }
@@ -5783,6 +5819,24 @@
             "value": "{role.info.on}",
             "type": "color"
           }
+        },
+        "brand": {
+          "bg": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.chroma}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on}",
+            "type": "color"
+          }
         }
       },
       "state": {
@@ -6865,6 +6919,24 @@
             "value": "{role.info.on}",
             "type": "color"
           }
+        },
+        "brand": {
+          "bg": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "chroma": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{role.secondary.core}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{role.secondary.on}",
+            "type": "color"
+          }
         }
       },
       "state": {
@@ -7914,6 +7986,60 @@
         },
         "padding-h": {
           "value": "{space.2}",
+          "type": "number"
+        }
+      }
+    }
+  },
+  "Price/Desktop": {
+    "price": {
+      "1100": {
+        "main": {
+          "value": "{control.1000}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.700}",
+          "type": "number"
+        },
+        "text": {
+          "value": "{control.800}",
+          "type": "number"
+        }
+      }
+    }
+  },
+  "Price/Tablet": {
+    "price": {
+      "1100": {
+        "main": {
+          "value": "{control.1000}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.700}",
+          "type": "number"
+        },
+        "text": {
+          "value": "{control.800}",
+          "type": "number"
+        }
+      }
+    }
+  },
+  "Price/Mobile": {
+    "price": {
+      "1100": {
+        "main": {
+          "value": "{control.850}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "text": {
+          "value": "{control.400}",
           "type": "number"
         }
       }
@@ -9154,7 +9280,10 @@
       "State/Hover",
       "State/Focus",
       "State/Active",
-      "Size/Default"
+      "Size/Default",
+      "Price/Desktop",
+      "Price/Tablet",
+      "Price/Mobile"
     ]
   }
 }
