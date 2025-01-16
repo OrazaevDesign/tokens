@@ -7993,6 +7993,146 @@
   },
   "Price/Desktop": {
     "price": {
+      "100": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "200": {
+        "main": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "300": {
+        "main": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "400": {
+        "main": {
+          "value": "{control.400}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "500": {
+        "main": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "600": {
+        "main": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "700": {
+        "main": {
+          "value": "{control.800}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "800": {
+        "main": {
+          "value": "{control.850}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "900": {
+        "main": {
+          "value": "{control.900}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.600}",
+          "type": "number"
+        }
+      },
+      "1000": {
+        "main": {
+          "value": "{control.950}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.700}",
+          "type": "number"
+        }
+      },
       "1100": {
         "main": {
           "value": "{control.1000}",
@@ -8002,7 +8142,7 @@
           "value": "{control.700}",
           "type": "number"
         },
-        "text": {
+        "label": {
           "value": "{control.800}",
           "type": "number"
         }
@@ -8011,6 +8151,146 @@
   },
   "Price/Tablet": {
     "price": {
+      "100": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "200": {
+        "main": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "300": {
+        "main": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "400": {
+        "main": {
+          "value": "{control.400}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "500": {
+        "main": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "600": {
+        "main": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "700": {
+        "main": {
+          "value": "{control.800}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "800": {
+        "main": {
+          "value": "{control.850}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "900": {
+        "main": {
+          "value": "{control.900}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.600}",
+          "type": "number"
+        }
+      },
+      "1000": {
+        "main": {
+          "value": "{control.950}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.700}",
+          "type": "number"
+        }
+      },
       "1100": {
         "main": {
           "value": "{control.1000}",
@@ -8020,7 +8300,7 @@
           "value": "{control.700}",
           "type": "number"
         },
-        "text": {
+        "label": {
           "value": "{control.800}",
           "type": "number"
         }
@@ -8029,6 +8309,146 @@
   },
   "Price/Mobile": {
     "price": {
+      "100": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "200": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "300": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "400": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "500": {
+        "main": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "600": {
+        "main": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "700": {
+        "main": {
+          "value": "{control.400}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "800": {
+        "main": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "900": {
+        "main": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "1000": {
+        "main": {
+          "value": "{control.800}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
       "1100": {
         "main": {
           "value": "{control.850}",
@@ -8038,7 +8458,7 @@
           "value": "{control.300}",
           "type": "number"
         },
-        "text": {
+        "label": {
           "value": "{control.400}",
           "type": "number"
         }
