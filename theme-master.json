@@ -3932,6 +3932,10 @@
       "contrast": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      },
+      "accent": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
       }
     },
     "overhung": {
@@ -5032,6 +5036,10 @@
       "contrast": {
         "value": "{role.surface.on-high}",
         "type": "color"
+      },
+      "accent": {
+        "value": "{role.accent.container.on}",
+        "type": "color"
       }
     },
     "overhung": {
@@ -6130,6 +6138,10 @@
         "type": "color"
       },
       "contrast": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
+      },
+      "accent": {
         "value": "{role.surface.on-highest}",
         "type": "color"
       }
@@ -7232,6 +7244,10 @@
       "contrast": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      },
+      "accent": {
+        "value": "{role.surface.on-highest}",
+        "type": "color"
       }
     },
     "overhung": {
@@ -7504,6 +7520,28 @@
       }
     },
     "check-radio": {
+      "200": {
+        "padding": {
+          "value": "{space.0}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{space.1,5}",
+          "type": "number"
+        },
+        "icon": {
+          "value": "{space.4}",
+          "type": "number"
+        },
+        "handle": {
+          "value": "{space.5}",
+          "type": "number"
+        },
+        "switch-width": {
+          "value": "{space.8}",
+          "type": "number"
+        }
+      },
       "300": {
         "padding": {
           "value": "{space.0}",
