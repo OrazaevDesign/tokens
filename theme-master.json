@@ -7538,7 +7538,7 @@
           "type": "number"
         },
         "switch-width": {
-          "value": "{space.8}",
+          "value": "{space.7}",
           "type": "number"
         }
       },
