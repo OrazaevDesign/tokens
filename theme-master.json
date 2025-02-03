@@ -7402,6 +7402,11 @@
           "value": "{control.200}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "notice-gap": {
+          "value": 4,
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "100": {
@@ -7419,6 +7424,11 @@
         },
         "typography": {
           "value": "{control.300}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "notice-gap": {
+          "value": 4,
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
@@ -7440,6 +7450,11 @@
           "value": "{control.300}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "notice-gap": {
+          "value": 6,
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "300": {
@@ -7457,6 +7472,11 @@
         },
         "typography": {
           "value": "{control.400}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "notice-gap": {
+          "value": 6,
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
@@ -7478,6 +7498,11 @@
           "value": "{control.600}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "notice-gap": {
+          "value": 6,
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "500": {
@@ -7497,6 +7522,11 @@
           "value": "{control.800}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "notice-gap": {
+          "value": 8,
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "600": {
@@ -7514,6 +7544,11 @@
         },
         "typography": {
           "value": "{control.850}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "notice-gap": {
+          "value": 8,
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
