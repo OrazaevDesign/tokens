@@ -3992,6 +3992,10 @@
       "accent": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      },
+      "heading": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
       }
     },
     "overhung": {
@@ -5150,6 +5154,10 @@
         "type": "color"
       },
       "accent": {
+        "value": "{role.accent.container.on}",
+        "type": "color"
+      },
+      "heading": {
         "value": "{role.accent.container.on}",
         "type": "color"
       }
@@ -6312,6 +6320,10 @@
       "accent": {
         "value": "{role.surface.on-highest}",
         "type": "color"
+      },
+      "heading": {
+        "value": "{role.surface.on-high}",
+        "type": "color"
       }
     },
     "overhung": {
@@ -7471,6 +7483,10 @@
       },
       "accent": {
         "value": "{role.surface.on-highest}",
+        "type": "color"
+      },
+      "heading": {
+        "value": "{role.surface.on-high}",
         "type": "color"
       }
     },
