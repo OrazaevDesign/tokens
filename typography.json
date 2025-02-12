@@ -386,11 +386,11 @@
           "type": "number"
         },
         "800": {
-          "value": 0,
+          "value": -0.1,
           "type": "number"
         },
         "900": {
-          "value": -0.4,
+          "value": -0.2,
           "type": "number"
         }
       },
@@ -526,7 +526,7 @@
       },
       "letter-spacing": {
         "t1": {
-          "value": -1.6,
+          "value": -0.3,
           "type": "number"
         },
         "t2": {
@@ -534,11 +534,11 @@
           "type": "number"
         },
         "t3": {
-          "value": -1,
+          "value": -0.2,
           "type": "number"
         },
         "t4": {
-          "value": -1,
+          "value": -0.1,
           "type": "number"
         },
         "t5": {
@@ -616,11 +616,11 @@
       },
       "letter-spacing": {
         "h1": {
-          "value": -1,
+          "value": -0.2,
           "type": "number"
         },
         "h2": {
-          "value": -0.8,
+          "value": -0.1,
           "type": "number"
         },
         "h3": {
@@ -706,23 +706,23 @@
       },
       "letter-spacing": {
         "d1": {
-          "value": -2,
+          "value": -0.6,
           "type": "number"
         },
         "d2": {
-          "value": -1.6,
+          "value": -0.6,
           "type": "number"
         },
         "d3": {
-          "value": -1,
+          "value": -0.6,
           "type": "number"
         },
         "d4": {
-          "value": -1,
+          "value": -0.6,
           "type": "number"
         },
         "d5": {
-          "value": 0,
+          "value": -0.5,
           "type": "number"
         }
       },
@@ -832,7 +832,7 @@
           "type": "number"
         },
         "900": {
-          "value": 0,
+          "value": -0.1,
           "type": "number"
         }
       },
@@ -968,15 +968,15 @@
       },
       "letter-spacing": {
         "t1": {
-          "value": -1.2,
+          "value": -0.3,
           "type": "number"
         },
         "t2": {
-          "value": -1,
+          "value": -0.2,
           "type": "number"
         },
         "t3": {
-          "value": -1,
+          "value": -0.1,
           "type": "number"
         },
         "t4": {
@@ -1058,11 +1058,11 @@
       },
       "letter-spacing": {
         "h1": {
-          "value": -1,
+          "value": -0.2,
           "type": "number"
         },
         "h2": {
-          "value": -0.4,
+          "value": -0.1,
           "type": "number"
         },
         "h3": {
@@ -1148,23 +1148,23 @@
       },
       "letter-spacing": {
         "d1": {
-          "value": -1.6,
+          "value": -0.6,
           "type": "number"
         },
         "d2": {
-          "value": -1.2,
+          "value": -0.6,
           "type": "number"
         },
         "d3": {
-          "value": -1,
+          "value": -0.6,
           "type": "number"
         },
         "d4": {
-          "value": -1,
+          "value": -0.6,
           "type": "number"
         },
         "d5": {
-          "value": 0,
+          "value": -0.5,
           "type": "number"
         }
       },
@@ -1266,15 +1266,15 @@
           "type": "number"
         },
         "700": {
-          "value": 0,
+          "value": -0.1,
           "type": "number"
         },
         "800": {
-          "value": -0.4,
+          "value": -0.2,
           "type": "number"
         },
         "900": {
-          "value": -0.8,
+          "value": -0.3,
           "type": "number"
         }
       },
@@ -1410,23 +1410,23 @@
       },
       "letter-spacing": {
         "t1": {
-          "value": -2,
+          "value": -0.5,
           "type": "number"
         },
         "t2": {
-          "value": -1.6,
+          "value": -0.4,
           "type": "number"
         },
         "t3": {
-          "value": -1.2,
+          "value": -0.3,
           "type": "number"
         },
         "t4": {
-          "value": -1,
+          "value": -0.2,
           "type": "number"
         },
         "t5": {
-          "value": -1,
+          "value": -0.1,
           "type": "number"
         }
       },
@@ -1456,7 +1456,7 @@
     "heading": {
       "font-size": {
         "h1": {
-          "value": 32,
+          "value": 28,
           "type": "number"
         },
         "h2": {
@@ -1478,7 +1478,7 @@
       },
       "line-height": {
         "h1": {
-          "value": 36,
+          "value": 32,
           "type": "number"
         },
         "h2": {
@@ -1500,15 +1500,15 @@
       },
       "letter-spacing": {
         "h1": {
-          "value": -1,
+          "value": -0.3,
           "type": "number"
         },
         "h2": {
-          "value": -0.8,
+          "value": -0.2,
           "type": "number"
         },
         "h3": {
-          "value": -0.4,
+          "value": -0.1,
           "type": "number"
         },
         "h4": {
@@ -1590,23 +1590,23 @@
       },
       "letter-spacing": {
         "d1": {
-          "value": -2,
+          "value": -0.6,
           "type": "number"
         },
         "d2": {
-          "value": -2.6,
+          "value": -0.6,
           "type": "number"
         },
         "d3": {
-          "value": -1.2,
+          "value": -0.6,
           "type": "number"
         },
         "d4": {
-          "value": -1,
+          "value": -0.6,
           "type": "number"
         },
         "d5": {
-          "value": -1,
+          "value": -0.6,
           "type": "number"
         }
       },
