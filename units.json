@@ -885,6 +885,22 @@
           "card-max": {
             "value": 368,
             "type": "number"
+          },
+          "slider-min": {
+            "value": 184,
+            "type": "number"
+          },
+          "slider-max": {
+            "value": 368,
+            "type": "number"
+          },
+          "listing-min": {
+            "value": 220,
+            "type": "number"
+          },
+          "listing-max": {
+            "value": 368,
+            "type": "number"
           }
         },
         "section": {
@@ -946,24 +962,62 @@
             "value": 976,
             "type": "number"
           }
+        },
+        "witgets": {
+          "gap": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.8}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.5}",
+            "type": "number"
+          }
+        },
+        "productcard": {
+          "top": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.5}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{space.6}",
+            "type": "number"
+          }
+        },
+        "typography": {
+          "top": {
+            "value": "{space.5}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{space.6}",
+            "type": "number"
+          }
         }
       },
       "cms": {
         "gap": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "side": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "top": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "card": {
           "card-min": {
-            "value": 186,
+            "value": 200,
             "type": "number"
           },
           "card-max": {
@@ -998,7 +1052,7 @@
           "type": "number"
         },
         "bottom": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         }
       }
@@ -1027,6 +1081,22 @@
             "type": "number"
           },
           "card-max": {
+            "value": 368,
+            "type": "number"
+          },
+          "slider-min": {
+            "value": 184,
+            "type": "number"
+          },
+          "slider-max": {
+            "value": 368,
+            "type": "number"
+          },
+          "listing-min": {
+            "value": 192,
+            "type": "number"
+          },
+          "listing-max": {
             "value": 368,
             "type": "number"
           }
@@ -1090,24 +1160,62 @@
             "value": 398,
             "type": "number"
           }
+        },
+        "witgets": {
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.7}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.4}",
+            "type": "number"
+          }
+        },
+        "productcard": {
+          "top": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          }
+        },
+        "typography": {
+          "top": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          }
         }
       },
       "cms": {
         "gap": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "side": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "top": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "card": {
           "card-min": {
-            "value": 186,
+            "value": 200,
             "type": "number"
           },
           "card-max": {
@@ -1142,7 +1250,7 @@
           "type": "number"
         },
         "bottom": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         }
       }
@@ -1173,6 +1281,22 @@
           "card-max": {
             "value": 256,
             "type": "number"
+          },
+          "slider-min": {
+            "value": 128,
+            "type": "number"
+          },
+          "slider-max": {
+            "value": 256,
+            "type": "number"
+          },
+          "listing-min": {
+            "value": 128,
+            "type": "number"
+          },
+          "listing-max": {
+            "value": 256,
+            "type": "number"
           }
         },
         "section": {
@@ -1185,7 +1309,7 @@
             "type": "number"
           },
           "top": {
-            "value": "{space.2}",
+            "value": "{space.4}",
             "type": "number"
           },
           "bottom": {
@@ -1234,24 +1358,62 @@
             "value": 288,
             "type": "number"
           }
+        },
+        "witgets": {
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.3}",
+            "type": "number"
+          }
+        },
+        "productcard": {
+          "top": {
+            "value": "{space.2}",
+            "type": "number"
+          },
+          "pragraph": {
+            "value": "{space.3}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          }
+        },
+        "typography": {
+          "top": {
+            "value": "{space.3}",
+            "type": "number"
+          },
+          "gap": {
+            "value": "{space.4}",
+            "type": "number"
+          }
         }
       },
       "cms": {
         "gap": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "side": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "top": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         },
         "card": {
           "card-min": {
-            "value": 186,
+            "value": 200,
             "type": "number"
           },
           "card-max": {
@@ -1286,7 +1448,7 @@
           "type": "number"
         },
         "bottom": {
-          "value": "{space.4}",
+          "value": "{space.2}",
           "type": "number"
         }
       }
