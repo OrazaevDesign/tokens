@@ -4165,11 +4165,11 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.container.dim}",
+          "value": "{role.surface.on-lowest}",
           "type": "color"
         },
         "color": {
-          "value": "{role.secondary.container.on-high}",
+          "value": "{role.surface.on}",
           "type": "color"
         }
       }
@@ -5377,7 +5377,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{role.primary.container.on-highest}",
+          "value": "{role.primary.container.on-high}",
           "type": "color"
         }
       }
@@ -6581,11 +6581,11 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.container.dim}",
+          "value": "{role.surface.on-lowest}",
           "type": "color"
         },
         "color": {
-          "value": "{role.secondary.container.on-high}",
+          "value": "{role.surface.on}",
           "type": "color"
         }
       }
@@ -7789,11 +7789,11 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.container.dim}",
+          "value": "{role.surface.on-lowest}",
           "type": "color"
         },
         "color": {
-          "value": "{role.secondary.container.on-high}",
+          "value": "{role.surface.on}",
           "type": "color"
         }
       }
@@ -8502,6 +8502,11 @@
           "value": 4,
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "description": {
+          "value": "{control.100}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "100": {
@@ -8524,6 +8529,11 @@
         },
         "notice-gap": {
           "value": 4,
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "description": {
+          "value": "{control.200}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
@@ -8550,6 +8560,11 @@
           "value": 6,
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "description": {
+          "value": "{control.200}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "300": {
@@ -8572,6 +8587,11 @@
         },
         "notice-gap": {
           "value": 6,
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "description": {
+          "value": "{control.300}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
@@ -8598,6 +8618,11 @@
           "value": 6,
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "description": {
+          "value": "{control.400}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "500": {
@@ -8622,6 +8647,11 @@
           "value": 8,
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "description": {
+          "value": "{control.500}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "600": {
@@ -8644,6 +8674,11 @@
         },
         "notice-gap": {
           "value": 8,
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "description": {
+          "value": "{control.600}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
