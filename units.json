@@ -359,36 +359,6 @@
       }
     },
     "conteiner-4": {
-      "200": {
-        "value": 8,
-        "type": "number"
-      },
-      "300": {
-        "value": 10,
-        "type": "number"
-      },
-      "400": {
-        "value": 12,
-        "type": "number"
-      },
-      "500": {
-        "value": 14,
-        "type": "number"
-      },
-      "600": {
-        "value": 16,
-        "type": "number"
-      },
-      "none": {
-        "value": 0,
-        "type": "number"
-      },
-      "full": {
-        "value": 600,
-        "type": "number"
-      }
-    },
-    "x4": {
       "50": {
         "value": 8,
         "type": "number"
@@ -417,16 +387,16 @@
         "value": 16,
         "type": "number"
       },
-      "none": {
-        "value": 0,
-        "type": "number"
-      },
       "full": {
         "value": 600,
         "type": "number"
+      },
+      "none": {
+        "value": 0,
+        "type": "number"
       }
     },
-    "x6": {
+    "conteiner-6": {
       "50": {
         "value": 10,
         "type": "number"
@@ -543,6 +513,14 @@
       }
     },
     "conteiner-4": {
+      "50": {
+        "value": 26,
+        "type": "number"
+      },
+      "100": {
+        "value": 26,
+        "type": "number"
+      },
       "200": {
         "value": 26,
         "type": "number"
@@ -611,6 +589,44 @@
       }
     },
     "x6": {
+      "50": {
+        "value": 26,
+        "type": "number"
+      },
+      "100": {
+        "value": 26,
+        "type": "number"
+      },
+      "200": {
+        "value": 26,
+        "type": "number"
+      },
+      "300": {
+        "value": 26,
+        "type": "number"
+      },
+      "400": {
+        "value": 26,
+        "type": "number"
+      },
+      "500": {
+        "value": 26,
+        "type": "number"
+      },
+      "600": {
+        "value": 26,
+        "type": "number"
+      },
+      "full": {
+        "value": 600,
+        "type": "number"
+      },
+      "none": {
+        "value": 0,
+        "type": "number"
+      }
+    },
+    "conteiner-6": {
       "50": {
         "value": 26,
         "type": "number"
@@ -727,6 +743,14 @@
       }
     },
     "conteiner-4": {
+      "50": {
+        "value": 0,
+        "type": "number"
+      },
+      "100": {
+        "value": 0,
+        "type": "number"
+      },
       "200": {
         "value": 0,
         "type": "number"
@@ -795,6 +819,44 @@
       }
     },
     "x6": {
+      "50": {
+        "value": 0,
+        "type": "number"
+      },
+      "100": {
+        "value": 0,
+        "type": "number"
+      },
+      "200": {
+        "value": 0,
+        "type": "number"
+      },
+      "300": {
+        "value": 0,
+        "type": "number"
+      },
+      "400": {
+        "value": 0,
+        "type": "number"
+      },
+      "500": {
+        "value": 0,
+        "type": "number"
+      },
+      "600": {
+        "value": 0,
+        "type": "number"
+      },
+      "full": {
+        "value": 600,
+        "type": "number"
+      },
+      "none": {
+        "value": 0,
+        "type": "number"
+      }
+    },
+    "conteiner-6": {
       "50": {
         "value": 0,
         "type": "number"
