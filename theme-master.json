@@ -324,7 +324,7 @@
             "type": "color"
           },
           "dim": {
-            "value": "{palette.gray.90}",
+            "value": "{palette.gray.95}",
             "type": "color"
           },
           "on-high": {
@@ -384,7 +384,7 @@
             "type": "color"
           },
           "dim": {
-            "value": "{palette.green.90}",
+            "value": "{palette.green.95}",
             "type": "color"
           },
           "on-high": {
@@ -444,7 +444,7 @@
             "type": "color"
           },
           "dim": {
-            "value": "{palette.red.90}",
+            "value": "{palette.red.95}",
             "type": "color"
           },
           "on-high": {
@@ -564,7 +564,7 @@
             "type": "color"
           },
           "dim": {
-            "value": "{palette.blue.90}",
+            "value": "{palette.blue.95}",
             "type": "color"
           },
           "on-highest": {
@@ -624,7 +624,7 @@
             "type": "color"
           },
           "dim": {
-            "value": "{palette.red.90}",
+            "value": "{palette.red.95}",
             "type": "color"
           },
           "on-highest": {
@@ -3191,6 +3191,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.secondary.container.dim}",
+          "type": "color"
         }
       },
       "success": {
@@ -3216,6 +3220,10 @@
         },
         "chevrone": {
           "value": "{role.success.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.success.container.dim}",
           "type": "color"
         }
       },
@@ -3243,6 +3251,10 @@
         "chevrone": {
           "value": "{role.error.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.error.container.dim}",
+          "type": "color"
         }
       },
       "light": {
@@ -3268,6 +3280,10 @@
         },
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.surface.surface}",
           "type": "color"
         }
       },
@@ -3295,6 +3311,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.surface.transparent}",
+          "type": "color"
         }
       },
       "autofill": {
@@ -3320,6 +3340,10 @@
         },
         "chevrone": {
           "value": "{role.tertiary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.tertiary.container.dim}",
           "type": "color"
         }
       }
@@ -4425,6 +4449,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.secondary.container.dim}",
+          "type": "color"
         }
       },
       "success": {
@@ -4450,6 +4478,10 @@
         },
         "chevrone": {
           "value": "{role.success.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.success.container.dim}",
           "type": "color"
         }
       },
@@ -4477,6 +4509,10 @@
         "chevrone": {
           "value": "{role.error.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.error.container.dim}",
+          "type": "color"
         }
       },
       "light": {
@@ -4502,6 +4538,10 @@
         },
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.surface.surface}",
           "type": "color"
         }
       },
@@ -4529,6 +4569,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.surface.transparent}",
+          "type": "color"
         }
       },
       "autofill": {
@@ -4554,6 +4598,10 @@
         },
         "chevrone": {
           "value": "{role.tertiary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.tertiary.container.dim}",
           "type": "color"
         }
       }
@@ -5659,6 +5707,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.primary.container.core}",
+          "type": "color"
         }
       },
       "success": {
@@ -5684,6 +5736,10 @@
         },
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.primary.container.core}",
           "type": "color"
         }
       },
@@ -5711,6 +5767,10 @@
         "chevrone": {
           "value": "{role.primary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.primary.container.core}",
+          "type": "color"
         }
       },
       "light": {
@@ -5736,6 +5796,10 @@
         },
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.primary.container.core}",
           "type": "color"
         }
       },
@@ -5763,6 +5827,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.surface.transparent}",
+          "type": "color"
         }
       },
       "autofill": {
@@ -5788,6 +5856,10 @@
         },
         "chevrone": {
           "value": "{role.primary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.primary.container.core}",
           "type": "color"
         }
       }
@@ -6893,6 +6965,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.secondary.container.dim}",
+          "type": "color"
         }
       },
       "success": {
@@ -6918,6 +6994,10 @@
         },
         "chevrone": {
           "value": "{role.success.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.success.container.dim}",
           "type": "color"
         }
       },
@@ -6945,6 +7025,10 @@
         "chevrone": {
           "value": "{role.error.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.error.container.dim}",
+          "type": "color"
         }
       },
       "light": {
@@ -6970,6 +7054,10 @@
         },
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.surface.surface}",
           "type": "color"
         }
       },
@@ -6997,6 +7085,10 @@
         "chevrone": {
           "value": "{role.secondary.container.on-highest}",
           "type": "color"
+        },
+        "dim": {
+          "value": "{role.surface.transparent}",
+          "type": "color"
         }
       },
       "autofill": {
@@ -7022,6 +7114,10 @@
         },
         "chevrone": {
           "value": "{role.tertiary.container.on-highest}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.tertiary.container.dim}",
           "type": "color"
         }
       }
