@@ -3327,7 +3327,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.tertiary.container.on-low}",
+          "value": "{role.tertiary.container.on-lowest}",
           "type": "color"
         },
         "color": {
@@ -7101,7 +7101,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.tertiary.container.on-low}",
+          "value": "{role.tertiary.container.on-lowest}",
           "type": "color"
         },
         "color": {
