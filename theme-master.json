@@ -3501,7 +3501,7 @@
           "type": "color"
         },
         "description": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.accent.container.on-low}",
           "type": "color"
         },
         "chevrone": {
@@ -4759,7 +4759,7 @@
           "type": "color"
         },
         "description": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.accent.container.on-low}",
           "type": "color"
         },
         "chevrone": {
@@ -6017,7 +6017,7 @@
           "type": "color"
         },
         "description": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.accent.container.on-low}",
           "type": "color"
         },
         "chevrone": {
@@ -7193,7 +7193,7 @@
           "type": "color"
         },
         "bg": {
-          "value": "{role.primary.container.core}",
+          "value": "{role.primary.container.dim}",
           "type": "color"
         },
         "border": {
@@ -7211,7 +7211,7 @@
       },
       "unselected": {
         "bg": {
-          "value": "{role.surface.dim}",
+          "value": "{role.surface.surface}",
           "type": "color"
         },
         "color": {
@@ -7223,7 +7223,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.dim}",
+          "value": "{role.surface.surface}",
           "type": "color"
         },
         "description": {
@@ -7237,11 +7237,11 @@
       },
       "unselected-transparent": {
         "bg": {
-          "value": "{role.surface.dim}",
+          "value": "{role.surface.transparent}",
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.dim}",
+          "value": "{role.surface.transparent}",
           "type": "color"
         },
         "color": {
@@ -7263,7 +7263,7 @@
       },
       "unselected-actual": {
         "bg": {
-          "value": "{role.surface.surface}",
+          "value": "{role.surface.transparent}",
           "type": "color"
         },
         "border": {
@@ -7275,7 +7275,7 @@
           "type": "color"
         },
         "description": {
-          "value": "{role.surface.on-high}",
+          "value": "{role.accent.container.on-low}",
           "type": "color"
         },
         "chevrone": {
