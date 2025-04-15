@@ -23,6 +23,12 @@
       "type": "number"
     }
   },
+  "Font-weight/Medium": {
+    "font-weight": {
+      "value": 500,
+      "type": "number"
+    }
+  },
   "Control/Value": {
     "font-size": {
       "50": {
@@ -580,7 +586,7 @@
           "type": "number"
         },
         "h3": {
-          "value": 17,
+          "value": 18,
           "type": "number"
         },
         "h4": {
@@ -1022,11 +1028,11 @@
           "type": "number"
         },
         "h3": {
-          "value": 17,
+          "value": 16,
           "type": "number"
         },
         "h4": {
-          "value": 16,
+          "value": 15,
           "type": "number"
         },
         "h5": {
@@ -2854,6 +2860,7 @@
       "Font-weight/Bold",
       "Font-weight/Light",
       "Font-weight/Regular",
+      "Font-weight/Medium",
       "Control/Value",
       "Typography/Tablet",
       "Typography/Mobile",
