@@ -88,11 +88,11 @@
             "type": "color"
           },
           "high": {
-            "value": "{palette.neutral.75}",
+            "value": "{palette.neutral.85}",
             "type": "color"
           },
           "highest": {
-            "value": "{palette.neutral.85}",
+            "value": "{palette.neutral.75}",
             "type": "color"
           }
         },
@@ -113,7 +113,7 @@
           "type": "color"
         },
         "transparent": {
-          "value": "{palette.base.transparent}",
+          "value": "{palette.base.transparent-white}",
           "type": "color"
         },
         "chromatic": {
@@ -723,20 +723,20 @@
           "type": "color"
         },
         "dim": {
-          "value": "{palette.neutral.10}",
+          "value": "{palette.neutral.5}",
           "type": "color"
         },
         "bright": {
-          "value": "{palette.neutral.5}",
+          "value": "{palette.neutral.20}",
           "type": "color"
         },
         "container": {
           "lowest": {
-            "value": "{palette.neutral.5}",
+            "value": "{palette.neutral.25}",
             "type": "color"
           },
           "low": {
-            "value": "{palette.neutral.10}",
+            "value": "{palette.neutral.20}",
             "type": "color"
           },
           "container": {
@@ -744,11 +744,11 @@
             "type": "color"
           },
           "high": {
-            "value": "{palette.neutral.20}",
+            "value": "{palette.neutral.10}",
             "type": "color"
           },
           "highest": {
-            "value": "{palette.neutral.25}",
+            "value": "{palette.neutral.5}",
             "type": "color"
           }
         },
@@ -769,7 +769,7 @@
           "type": "color"
         },
         "transparent": {
-          "value": "{palette.base.transparent}",
+          "value": "{palette.base.transparent-black}",
           "type": "color"
         },
         "chromatic": {
@@ -812,19 +812,19 @@
         },
         "shadow": {
           "opacity1": {
-            "value": "#f6d87166",
+            "value": "#1c1c1c66",
             "type": "color"
           },
           "opacity2": {
-            "value": "#f6d87159",
+            "value": "#1c1c1c59",
             "type": "color"
           },
           "opacity3": {
-            "value": "#f6d8714d",
+            "value": "#1c1c1c4d",
             "type": "color"
           },
           "shadow-color": {
-            "value": "{role.primary.chroma}",
+            "value": "{palette.neutral.10}",
             "type": "color"
           }
         }
@@ -1870,6 +1870,14 @@
         },
         "transparent": {
           "value": "#ffffff00",
+          "type": "color"
+        },
+        "transparent-white": {
+          "value": "#ffffff00",
+          "type": "color"
+        },
+        "transparent-black": {
+          "value": "#00000000",
           "type": "color"
         }
       },
@@ -9679,6 +9687,480 @@
       }
     }
   },
+  "Price/Desktop": {
+    "price": {
+      "100": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "200": {
+        "main": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "300": {
+        "main": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "400": {
+        "main": {
+          "value": "{control.400}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "500": {
+        "main": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "600": {
+        "main": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "700": {
+        "main": {
+          "value": "{control.800}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "800": {
+        "main": {
+          "value": "{control.850}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "900": {
+        "main": {
+          "value": "{control.900}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.600}",
+          "type": "number"
+        }
+      },
+      "1000": {
+        "main": {
+          "value": "{control.950}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.700}",
+          "type": "number"
+        }
+      },
+      "1100": {
+        "main": {
+          "value": "{control.1000}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.700}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.800}",
+          "type": "number"
+        }
+      }
+    }
+  },
+  "Price/Tablet": {
+    "price": {
+      "100": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "200": {
+        "main": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "300": {
+        "main": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "400": {
+        "main": {
+          "value": "{control.400}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "500": {
+        "main": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "600": {
+        "main": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "700": {
+        "main": {
+          "value": "{control.800}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "800": {
+        "main": {
+          "value": "{control.850}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "900": {
+        "main": {
+          "value": "{control.900}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.600}",
+          "type": "number"
+        }
+      },
+      "1000": {
+        "main": {
+          "value": "{control.950}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.700}",
+          "type": "number"
+        }
+      },
+      "1100": {
+        "main": {
+          "value": "{control.1000}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.700}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.800}",
+          "type": "number"
+        }
+      }
+    }
+  },
+  "Price/Mobile": {
+    "price": {
+      "100": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "200": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "300": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "400": {
+        "main": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "500": {
+        "main": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "600": {
+        "main": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.50}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.100}",
+          "type": "number"
+        }
+      },
+      "700": {
+        "main": {
+          "value": "{control.400}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.100}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "800": {
+        "main": {
+          "value": "{control.500}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.200}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.300}",
+          "type": "number"
+        }
+      },
+      "900": {
+        "main": {
+          "value": "{control.600}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "1000": {
+        "main": {
+          "value": "{control.800}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      },
+      "1100": {
+        "main": {
+          "value": "{control.850}",
+          "type": "number"
+        },
+        "sub": {
+          "value": "{control.300}",
+          "type": "number"
+        },
+        "label": {
+          "value": "{control.400}",
+          "type": "number"
+        }
+      }
+    }
+  },
   "$themes": [
     {
       "id": "2c6e45855099a9b5204d67f6b47f9387ace4fa48",
@@ -10917,7 +11399,10 @@
       "Size/Default",
       "Layout/Desktop",
       "Layout/Tablet",
-      "Layout/Mobile"
+      "Layout/Mobile",
+      "Price/Desktop",
+      "Price/Tablet",
+      "Price/Mobile"
     ]
   }
 }
