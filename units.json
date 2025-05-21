@@ -1123,6 +1123,74 @@
       }
     }
   },
+  "Shadow/elevation-1": {
+    "shadow1": {
+      "offset-x": {
+        "value": 0,
+        "type": "number"
+      },
+      "offset-y": {
+        "value": 2,
+        "type": "number"
+      },
+      "blur-radius": {
+        "value": 4,
+        "type": "number"
+      },
+      "spread-radius": {
+        "value": -2,
+        "type": "number"
+      },
+      "opacity": {
+        "value": "{opacity.20}",
+        "type": "number"
+      }
+    },
+    "shadow2": {
+      "opacity": {
+        "value": "{opacity.15}",
+        "type": "number"
+      },
+      "offset-x": {
+        "value": 0,
+        "type": "number"
+      },
+      "offset-y": {
+        "value": 0,
+        "type": "number"
+      },
+      "blur-radius": {
+        "value": 1,
+        "type": "number"
+      },
+      "spread-radius": {
+        "value": 0,
+        "type": "number"
+      }
+    },
+    "shadow3": {
+      "opacity": {
+        "value": "{opacity.10}",
+        "type": "number"
+      },
+      "offset-x": {
+        "value": 0,
+        "type": "number"
+      },
+      "offset-y": {
+        "value": 1,
+        "type": "number"
+      },
+      "blur-radius": {
+        "value": 6,
+        "type": "number"
+      },
+      "spread-radius": {
+        "value": -1,
+        "type": "number"
+      }
+    }
+  },
   "Shadow/elevation-2": {
     "shadow1": {
       "offset-x": {
@@ -1327,74 +1395,6 @@
       }
     }
   },
-  "Shadow/elevation-1": {
-    "shadow1": {
-      "offset-x": {
-        "value": 0,
-        "type": "number"
-      },
-      "offset-y": {
-        "value": 2,
-        "type": "number"
-      },
-      "blur-radius": {
-        "value": 4,
-        "type": "number"
-      },
-      "spread-radius": {
-        "value": -2,
-        "type": "number"
-      },
-      "opacity": {
-        "value": "{opacity.20}",
-        "type": "number"
-      }
-    },
-    "shadow2": {
-      "opacity": {
-        "value": "{opacity.15}",
-        "type": "number"
-      },
-      "offset-x": {
-        "value": 0,
-        "type": "number"
-      },
-      "offset-y": {
-        "value": 0,
-        "type": "number"
-      },
-      "blur-radius": {
-        "value": 1,
-        "type": "number"
-      },
-      "spread-radius": {
-        "value": 0,
-        "type": "number"
-      }
-    },
-    "shadow3": {
-      "opacity": {
-        "value": "{opacity.10}",
-        "type": "number"
-      },
-      "offset-x": {
-        "value": 0,
-        "type": "number"
-      },
-      "offset-y": {
-        "value": 1,
-        "type": "number"
-      },
-      "blur-radius": {
-        "value": 6,
-        "type": "number"
-      },
-      "spread-radius": {
-        "value": -1,
-        "type": "number"
-      }
-    }
-  },
   "Zindex/Value": {
     "zindex": {
       "dropdown": {
@@ -1431,6 +1431,86 @@
       }
     }
   },
+  "Breakpoints/Value": {
+    "breakpoints": {
+      "market": {
+        "desktop": {
+          "large": {
+            "value": 1488,
+            "type": "number"
+          },
+          "medium": {
+            "value": 1376,
+            "type": "number"
+          },
+          "small": {
+            "value": 1068,
+            "type": "number"
+          }
+        },
+        "tablet": {
+          "medium": {
+            "value": 816,
+            "type": "number"
+          },
+          "small": {
+            "value": 616,
+            "type": "number"
+          }
+        },
+        "mobile": {
+          "medium": {
+            "value": 430,
+            "type": "number"
+          },
+          "small": {
+            "value": 320,
+            "type": "number"
+          }
+        }
+      },
+      "cms": {
+        "desktop": {
+          "medium": {
+            "value": 1388,
+            "type": "number"
+          },
+          "small": {
+            "value": 1216,
+            "type": "number"
+          },
+          "large": {
+            "value": 1440,
+            "type": "number"
+          }
+        },
+        "tablet": {
+          "large": {
+            "value": 0,
+            "type": "number"
+          },
+          "medium": {
+            "value": 0,
+            "type": "number"
+          },
+          "small": {
+            "value": 0,
+            "type": "number"
+          }
+        },
+        "mobile": {
+          "medium": {
+            "value": 0,
+            "type": "number"
+          },
+          "small": {
+            "value": 0,
+            "type": "number"
+          }
+        }
+      }
+    }
+  },
   "Layout/Desktop": {
     "layout": {
       "market": {
@@ -1442,21 +1522,9 @@
           "top": {
             "value": "{space.8}",
             "type": "number"
-          },
-          "pragraph": {
-            "value": "{space.5}",
-            "type": "number"
           }
         },
         "card": {
-          "card-min": {
-            "value": 184,
-            "type": "number"
-          },
-          "card-max": {
-            "value": 368,
-            "type": "number"
-          },
           "slider-min": {
             "value": 174,
             "type": "number"
@@ -1548,26 +1616,8 @@
             "type": "number"
           }
         },
-        "typography": {
+        "paragraph": {
           "top": {
-            "value": "{space.5}",
-            "type": "number"
-          },
-          "gap": {
-            "value": "{space.5}",
-            "type": "number"
-          }
-        },
-        "widgets": {
-          "gap": {
-            "value": "{space.6}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.8}",
-            "type": "number"
-          },
-          "pragraph": {
             "value": "{space.5}",
             "type": "number"
           }
@@ -1680,21 +1730,9 @@
           "top": {
             "value": "{space.7}",
             "type": "number"
-          },
-          "pragraph": {
-            "value": "{space.4}",
-            "type": "number"
           }
         },
         "card": {
-          "card-min": {
-            "value": 184,
-            "type": "number"
-          },
-          "card-max": {
-            "value": 368,
-            "type": "number"
-          },
           "slider-min": {
             "value": 174,
             "type": "number"
@@ -1786,26 +1824,8 @@
             "type": "number"
           }
         },
-        "typography": {
+        "paragraph": {
           "top": {
-            "value": "{space.4}",
-            "type": "number"
-          },
-          "gap": {
-            "value": "{space.4}",
-            "type": "number"
-          }
-        },
-        "widgets": {
-          "gap": {
-            "value": "{space.4}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.7}",
-            "type": "number"
-          },
-          "pragraph": {
             "value": "{space.4}",
             "type": "number"
           }
@@ -1918,21 +1938,9 @@
           "top": {
             "value": "{space.6}",
             "type": "number"
-          },
-          "pragraph": {
-            "value": "{space.3}",
-            "type": "number"
           }
         },
         "card": {
-          "card-min": {
-            "value": 128,
-            "type": "number"
-          },
-          "card-max": {
-            "value": 256,
-            "type": "number"
-          },
           "slider-min": {
             "value": 128,
             "type": "number"
@@ -2024,26 +2032,8 @@
             "type": "number"
           }
         },
-        "typography": {
+        "paragraph": {
           "top": {
-            "value": "{space.3}",
-            "type": "number"
-          },
-          "gap": {
-            "value": "{space.3}",
-            "type": "number"
-          }
-        },
-        "widgets": {
-          "gap": {
-            "value": "{space.4}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.6}",
-            "type": "number"
-          },
-          "pragraph": {
             "value": "{space.3}",
             "type": "number"
           }
@@ -2145,86 +2135,6 @@
       }
     }
   },
-  "Breakpoints/Value": {
-    "breakpoints": {
-      "market": {
-        "desktop": {
-          "large": {
-            "value": 1488,
-            "type": "number"
-          },
-          "medium": {
-            "value": 1376,
-            "type": "number"
-          },
-          "small": {
-            "value": 1068,
-            "type": "number"
-          }
-        },
-        "tablet": {
-          "medium": {
-            "value": 816,
-            "type": "number"
-          },
-          "small": {
-            "value": 616,
-            "type": "number"
-          }
-        },
-        "mobile": {
-          "medium": {
-            "value": 430,
-            "type": "number"
-          },
-          "small": {
-            "value": 320,
-            "type": "number"
-          }
-        }
-      },
-      "cms": {
-        "desktop": {
-          "medium": {
-            "value": 1388,
-            "type": "number"
-          },
-          "small": {
-            "value": 1216,
-            "type": "number"
-          },
-          "large": {
-            "value": 1440,
-            "type": "number"
-          }
-        },
-        "tablet": {
-          "large": {
-            "value": 0,
-            "type": "number"
-          },
-          "medium": {
-            "value": 0,
-            "type": "number"
-          },
-          "small": {
-            "value": 0,
-            "type": "number"
-          }
-        },
-        "mobile": {
-          "medium": {
-            "value": 0,
-            "type": "number"
-          },
-          "small": {
-            "value": 0,
-            "type": "number"
-          }
-        }
-      }
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -2233,15 +2143,15 @@
       "Rounded/Smooth",
       "Rounded/Rounded",
       "Rounded/None",
+      "Shadow/elevation-1",
       "Shadow/elevation-2",
       "Shadow/elevation-3",
       "Shadow/elevation-4",
-      "Shadow/elevation-1",
       "Zindex/Value",
+      "Breakpoints/Value",
       "Layout/Desktop",
       "Layout/Tablet",
-      "Layout/Mobile",
-      "Breakpoints/Value"
+      "Layout/Mobile"
     ]
   }
 }
