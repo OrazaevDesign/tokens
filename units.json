@@ -1534,20 +1534,6 @@
             "type": "number"
           }
         },
-        "witgets": {
-          "gap": {
-            "value": "{space.6}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.8}",
-            "type": "number"
-          },
-          "pragraph": {
-            "value": "{space.5}",
-            "type": "number"
-          }
-        },
         "productcard": {
           "top": {
             "value": "{space.6}",
@@ -1786,20 +1772,6 @@
             "type": "number"
           }
         },
-        "witgets": {
-          "gap": {
-            "value": "{space.4}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.7}",
-            "type": "number"
-          },
-          "pragraph": {
-            "value": "{space.4}",
-            "type": "number"
-          }
-        },
         "productcard": {
           "top": {
             "value": "{space.4}",
@@ -2035,20 +2007,6 @@
           },
           "1-min": {
             "value": 288,
-            "type": "number"
-          }
-        },
-        "witgets": {
-          "gap": {
-            "value": "{space.4}",
-            "type": "number"
-          },
-          "top": {
-            "value": "{space.6}",
-            "type": "number"
-          },
-          "pragraph": {
-            "value": "{space.3}",
             "type": "number"
           }
         },
