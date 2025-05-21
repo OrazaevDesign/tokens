@@ -2205,10 +2205,6 @@
           }
         },
         "tablet": {
-          "large": {
-            "value": 1016,
-            "type": "number"
-          },
           "medium": {
             "value": 816,
             "type": "number"
