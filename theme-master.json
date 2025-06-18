@@ -156,15 +156,15 @@
         },
         "shadow": {
           "opacity1": {
-            "value": "#1c1c1c33",
-            "type": "color"
-          },
-          "opacity2": {
             "value": "#1c1c1c26",
             "type": "color"
           },
-          "opacity3": {
+          "opacity2": {
             "value": "#1c1c1c1a",
+            "type": "color"
+          },
+          "opacity3": {
+            "value": "#1c1c1c0d",
             "type": "color"
           },
           "shadow-color": {
@@ -812,15 +812,15 @@
         },
         "shadow": {
           "opacity1": {
-            "value": "#1c1c1c66",
+            "value": "#1c1c1c26",
             "type": "color"
           },
           "opacity2": {
-            "value": "#1c1c1c59",
+            "value": "#1c1c1c1a",
             "type": "color"
           },
           "opacity3": {
-            "value": "#1c1c1c4d",
+            "value": "#1c1c1c0d",
             "type": "color"
           },
           "shadow-color": {
