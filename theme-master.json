@@ -723,16 +723,16 @@
           "type": "color"
         },
         "dim": {
-          "value": "{palette.neutral.5}",
+          "value": "{palette.neutral.20}",
           "type": "color"
         },
         "bright": {
-          "value": "{palette.neutral.20}",
+          "value": "{palette.neutral.10}",
           "type": "color"
         },
         "container": {
           "lowest": {
-            "value": "{palette.neutral.25}",
+            "value": "{palette.neutral.15}",
             "type": "color"
           },
           "low": {
@@ -740,15 +740,15 @@
             "type": "color"
           },
           "container": {
-            "value": "{palette.neutral.15}",
+            "value": "{palette.neutral.25}",
             "type": "color"
           },
           "high": {
-            "value": "{palette.neutral.10}",
+            "value": "{palette.neutral.30}",
             "type": "color"
           },
           "highest": {
-            "value": "{palette.neutral.5}",
+            "value": "{palette.neutral.35}",
             "type": "color"
           }
         },
@@ -9019,6 +9019,11 @@
         "text-gap": {
           "value": "{space.2}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.50}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "100": {
@@ -9052,6 +9057,11 @@
         "text-gap": {
           "value": "{space.2,5}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.100}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "200": {
@@ -9085,6 +9095,11 @@
         "text-gap": {
           "value": "{space.3,5}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.200}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "300": {
@@ -9118,6 +9133,11 @@
         "text-gap": {
           "value": "{space.3,5}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.300}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "400": {
@@ -9151,6 +9171,11 @@
         "text-gap": {
           "value": "{space.4}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.400}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "500": {
@@ -9184,6 +9209,11 @@
         "text-gap": {
           "value": "{space.4,5}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.500}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "600": {
@@ -9217,6 +9247,11 @@
         "text-gap": {
           "value": "{space.4,5}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.600}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       }
     },
@@ -9241,6 +9276,10 @@
         "switch-width": {
           "value": "{space.7}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.200}",
+          "type": "number"
         }
       },
       "300": {
@@ -9262,6 +9301,10 @@
         },
         "switch-width": {
           "value": "{space.8}",
+          "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.300}",
           "type": "number"
         }
       },
@@ -9285,6 +9328,10 @@
         "switch-width": {
           "value": "{space.9}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.400}",
+          "type": "number"
         }
       },
       "500": {
@@ -9307,6 +9354,10 @@
         "switch-width": {
           "value": "{space.11}",
           "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.500}",
+          "type": "number"
         }
       },
       "600": {
@@ -9328,6 +9379,10 @@
         },
         "switch-width": {
           "value": "{space.13}",
+          "type": "number"
+        },
+        "rounded": {
+          "value": "{border-radius.600}",
           "type": "number"
         }
       }
