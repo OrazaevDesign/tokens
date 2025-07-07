@@ -3378,6 +3378,40 @@
           "value": "{role.tertiary.container.on}",
           "type": "color"
         }
+      },
+      "seconrady": {
+        "bg": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.chroma}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.secondary.dim}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "placehold": {
+          "value": "{role.secondary.on-dim}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        }
       }
     },
     "check-radio": {
@@ -4704,6 +4738,40 @@
         },
         "placehold": {
           "value": "{role.tertiary.container.on}",
+          "type": "color"
+        }
+      },
+      "seconrady": {
+        "bg": {
+          "value": "{role.secondary.dim}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.chroma}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.secondary.dim}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.dim}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "placehold": {
+          "value": "{role.secondary.on-dim}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.secondary.on}",
           "type": "color"
         }
       }
@@ -6034,6 +6102,40 @@
           "value": "{role.primary.container.on}",
           "type": "color"
         }
+      },
+      "seconrady": {
+        "bg": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.chroma}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.secondary.dim}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "placehold": {
+          "value": "{role.secondary.on-dim}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        }
       }
     },
     "check-radio": {
@@ -7360,6 +7462,40 @@
         },
         "placehold": {
           "value": "{role.tertiary.container.on}",
+          "type": "color"
+        }
+      },
+      "seconrady": {
+        "bg": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "chroma": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "dim": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{role.secondary.core}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "placehold": {
+          "value": "{role.secondary.on-dim}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{role.secondary.on}",
+          "type": "color"
+        },
+        "chevrone": {
+          "value": "{role.secondary.on}",
           "type": "color"
         }
       }
