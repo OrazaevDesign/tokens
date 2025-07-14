@@ -3143,7 +3143,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.bright}",
+          "value": "{role.surface.dim}",
           "type": "color"
         },
         "color": {
@@ -4505,7 +4505,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.surface}",
+          "value": "{role.surface.dim}",
           "type": "color"
         },
         "color": {
@@ -5867,7 +5867,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.bright}",
+          "value": "{role.surface.dim}",
           "type": "color"
         },
         "color": {
@@ -6105,7 +6105,7 @@
       },
       "seconrady": {
         "bg": {
-          "value": "{role.secondary.core}",
+          "value": "{role.surface.bright}",
           "type": "color"
         },
         "chroma": {
@@ -6113,11 +6113,11 @@
           "type": "color"
         },
         "dim": {
-          "value": "{role.secondary.dim}",
+          "value": "{role.secondary.core}",
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.core}",
+          "value": "{role.primary.dim}",
           "type": "color"
         },
         "color": {
@@ -7229,7 +7229,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.surface.surface}",
+          "value": "{role.surface.dim}",
           "type": "color"
         },
         "color": {
@@ -7471,7 +7471,7 @@
           "type": "color"
         },
         "chroma": {
-          "value": "{role.secondary.core}",
+          "value": "{role.secondary.chroma}",
           "type": "color"
         },
         "dim": {
