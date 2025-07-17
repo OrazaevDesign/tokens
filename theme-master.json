@@ -9274,6 +9274,24 @@
           "value": "{border-radius.300}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "combi": {
+          "input-bottom": {
+            "value": "{space.0,5}",
+            "type": "number"
+          },
+          "label-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-top": {
+            "value": "{space.3,5}",
+            "type": "number"
+          },
+          "label-top": {
+            "value": "{space.0,5}",
+            "type": "number"
+          }
         }
       },
       "400": {
@@ -9290,7 +9308,7 @@
           "type": "number"
         },
         "typography": {
-          "value": "{control.600}",
+          "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -9300,7 +9318,7 @@
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
-          "value": "{control.400}",
+          "value": "{control.300}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -9312,11 +9330,29 @@
           "value": "{border-radius.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "combi": {
+          "input-top": {
+            "value": "{space.4}",
+            "type": "number"
+          },
+          "label-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-bottom": {
+            "value": "{space.1}",
+            "type": "number"
+          },
+          "label-top": {
+            "value": "{space.1}",
+            "type": "number"
+          }
         }
       },
       "500": {
         "padding": {
-          "value": "{space.3}",
+          "value": "{space.3,5}",
           "type": "number"
         },
         "gap": {
@@ -9324,11 +9360,11 @@
           "type": "number"
         },
         "icon": {
-          "value": "{space.6}",
+          "value": "{space.5}",
           "type": "number"
         },
         "typography": {
-          "value": "{control.800}",
+          "value": "{control.600}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -9338,7 +9374,7 @@
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
-          "value": "{control.500}",
+          "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -9350,11 +9386,29 @@
           "value": "{border-radius.500}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "combi": {
+          "input-top": {
+            "value": "{space.5,5}",
+            "type": "number"
+          },
+          "label-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-bottom": {
+            "value": "{space.1,5}",
+            "type": "number"
+          },
+          "label-top": {
+            "value": "{space.1,5}",
+            "type": "number"
+          }
         }
       },
       "600": {
         "padding": {
-          "value": "{space.3}",
+          "value": "{space.4}",
           "type": "number"
         },
         "gap": {
@@ -9362,11 +9416,11 @@
           "type": "number"
         },
         "icon": {
-          "value": "{space.7}",
+          "value": "{space.5}",
           "type": "number"
         },
         "typography": {
-          "value": "{control.850}",
+          "value": "{control.600}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -9376,7 +9430,7 @@
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
-          "value": "{control.600}",
+          "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -9388,6 +9442,24 @@
           "value": "{border-radius.600}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "combi": {
+          "label-top": {
+            "value": "{space.2}",
+            "type": "number"
+          },
+          "label-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-top": {
+            "value": "{space.6}",
+            "type": "number"
+          },
+          "input-bottom": {
+            "value": "{space.2}",
+            "type": "number"
+          }
         }
       }
     },
