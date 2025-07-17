@@ -9190,6 +9190,24 @@
           "value": "{border-radius.50}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "combi": {
+          "label-top": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "label-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-top": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          }
         }
       },
       "100": {
@@ -9228,6 +9246,24 @@
           "value": "{border-radius.100}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "combi": {
+          "label-top": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "label-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-top": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          }
         }
       },
       "200": {
@@ -9266,6 +9302,24 @@
           "value": "{border-radius.200}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "combi": {
+          "label-top": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "label-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-top": {
+            "value": "{space.0}",
+            "type": "number"
+          },
+          "input-bottom": {
+            "value": "{space.0}",
+            "type": "number"
+          }
         }
       },
       "300": {
