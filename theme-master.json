@@ -9025,6 +9025,11 @@
           "value": "{control.50}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "size": {
+          "value": "{space.1,5}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "200": {
@@ -9044,6 +9049,11 @@
         "padding": {
           "value": "{space.0}",
           "type": "number"
+        },
+        "size": {
+          "value": "{space.4}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "300": {
@@ -9063,6 +9073,11 @@
         "padding": {
           "value": "{space.px}",
           "type": "number"
+        },
+        "size": {
+          "value": "{space.5}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "400": {
@@ -9082,6 +9097,11 @@
         "padding": {
           "value": "{space.px}",
           "type": "number"
+        },
+        "size": {
+          "value": "{space.5}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "500": {
@@ -9101,6 +9121,11 @@
         "padding": {
           "value": "{space.px}",
           "type": "number"
+        },
+        "size": {
+          "value": "{space.6}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       },
       "600": {
@@ -9120,6 +9145,11 @@
         "padding": {
           "value": "{space.0,5}",
           "type": "number"
+        },
+        "size": {
+          "value": "{space.7}",
+          "type": "number",
+          "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         }
       }
     },
