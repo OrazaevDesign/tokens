@@ -621,15 +621,15 @@
         "type": "number"
       },
       "700": {
-        "value": 600,
+        "value": 26,
         "type": "number"
       },
       "800": {
-        "value": 600,
+        "value": 26,
         "type": "number"
       },
       "900": {
-        "value": 600,
+        "value": 26,
         "type": "number"
       },
       "full": {
@@ -951,15 +951,15 @@
         "type": "number"
       },
       "700": {
-        "value": 600,
+        "value": 0,
         "type": "number"
       },
       "800": {
-        "value": 600,
+        "value": 0,
         "type": "number"
       },
       "900": {
-        "value": 600,
+        "value": 0,
         "type": "number"
       },
       "full": {
