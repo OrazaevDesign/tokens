@@ -1712,6 +1712,12 @@
             "value": "{space.3}",
             "type": "number"
           }
+        },
+        "list": {
+          "top": {
+            "value": "{space.1,5}",
+            "type": "number"
+          }
         }
       },
       "cms": {
@@ -1920,6 +1926,12 @@
             "value": "{space.3}",
             "type": "number"
           }
+        },
+        "list": {
+          "top": {
+            "value": "{space.1}",
+            "type": "number"
+          }
         }
       },
       "cms": {
@@ -2126,6 +2138,12 @@
           },
           "group-gap": {
             "value": "{space.3}",
+            "type": "number"
+          }
+        },
+        "list": {
+          "top": {
+            "value": "{space.0,5}",
             "type": "number"
           }
         }
