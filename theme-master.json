@@ -3379,7 +3379,7 @@
           "type": "color"
         }
       },
-      "seconrady": {
+      "secondary": {
         "bg": {
           "value": "{role.secondary.core}",
           "type": "color"
@@ -4741,7 +4741,7 @@
           "type": "color"
         }
       },
-      "seconrady": {
+      "secondary": {
         "bg": {
           "value": "{role.secondary.dim}",
           "type": "color"
@@ -6103,7 +6103,7 @@
           "type": "color"
         }
       },
-      "seconrady": {
+      "secondary": {
         "bg": {
           "value": "{role.surface.bright}",
           "type": "color"
@@ -7465,7 +7465,7 @@
           "type": "color"
         }
       },
-      "seconrady": {
+      "secondary": {
         "bg": {
           "value": "{role.secondary.core}",
           "type": "color"
