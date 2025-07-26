@@ -8726,7 +8726,7 @@
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "level-gap": {
-          "value": "{space.1,5}",
+          "value": "{space.2,5}",
           "type": "number"
         }
       },
@@ -8749,7 +8749,7 @@
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "level-gap": {
-          "value": "{space.1,5}",
+          "value": "{space.2,5}",
           "type": "number"
         }
       },
@@ -8772,7 +8772,7 @@
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "level-gap": {
-          "value": "{space.1,5}",
+          "value": "{space.2,5}",
           "type": "number"
         }
       }
