@@ -289,11 +289,11 @@
   "Rounded/Smooth": {
     "border-radius": {
       "50": {
-        "value": 2,
+        "value": 4,
         "type": "number"
       },
       "100": {
-        "value": 2,
+        "value": 4,
         "type": "number"
       },
       "200": {
@@ -339,11 +339,11 @@
     },
     "outline": {
       "50": {
-        "value": 3,
+        "value": 5,
         "type": "number"
       },
       "100": {
-        "value": 3,
+        "value": 5,
         "type": "number"
       },
       "200": {
@@ -1597,7 +1597,7 @@
             "type": "number"
           },
           "top": {
-            "value": "{space.8}",
+            "value": "{space.6}",
             "type": "number"
           }
         },
@@ -1811,7 +1811,7 @@
             "type": "number"
           },
           "top": {
-            "value": "{space.7}",
+            "value": "{space.5}",
             "type": "number"
           }
         },
@@ -2025,7 +2025,7 @@
             "type": "number"
           },
           "top": {
-            "value": "{space.6}",
+            "value": "{space.4}",
             "type": "number"
           }
         },
