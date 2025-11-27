@@ -12242,6 +12242,14 @@
           "value": "{space.1,5}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        },
+        "padding-h": {
+          "value": "{space.1}",
+          "type": "number"
+        },
+        "padding": {
+          "value": "{space.0}",
+          "type": "number"
         }
       },
       "200": {
