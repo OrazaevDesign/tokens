@@ -293,19 +293,19 @@
         "type": "number"
       },
       "100": {
-        "value": 4,
+        "value": 6,
         "type": "number"
       },
       "200": {
-        "value": 4,
+        "value": 6,
         "type": "number"
       },
       "300": {
-        "value": 4,
+        "value": 6,
         "type": "number"
       },
       "400": {
-        "value": 6,
+        "value": 8,
         "type": "number"
       },
       "500": {
@@ -343,19 +343,19 @@
         "type": "number"
       },
       "100": {
-        "value": 5,
+        "value": 7,
         "type": "number"
       },
       "200": {
-        "value": 5,
+        "value": 7,
         "type": "number"
       },
       "300": {
-        "value": 5,
+        "value": 7,
         "type": "number"
       },
       "400": {
-        "value": 7,
+        "value": 9,
         "type": "number"
       },
       "500": {
@@ -1633,7 +1633,7 @@
             "type": "number"
           },
           "bottom": {
-            "value": "{space.16}",
+            "value": "{space.12}",
             "type": "number"
           },
           "small-max": {
@@ -1847,7 +1847,7 @@
             "type": "number"
           },
           "bottom": {
-            "value": "{space.12}",
+            "value": "{space.10}",
             "type": "number"
           },
           "small-max": {
