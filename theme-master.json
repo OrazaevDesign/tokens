@@ -6047,7 +6047,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.container.on-lowest}",
+          "value": "{role.secondary.container.on-low}",
           "type": "color"
         },
         "color": {
@@ -7621,7 +7621,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.container.on-low}",
+          "value": "{role.secondary.container.on}",
           "type": "color"
         },
         "color": {
@@ -10769,7 +10769,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{role.secondary.container.on-lowest}",
+          "value": "{role.secondary.container.on-low}",
           "type": "color"
         },
         "color": {
