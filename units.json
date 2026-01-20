@@ -1603,7 +1603,7 @@
         },
         "card": {
           "slider-min": {
-            "value": 174,
+            "value": 170,
             "type": "number"
           },
           "slider-max": {
@@ -1817,7 +1817,7 @@
         },
         "card": {
           "slider-min": {
-            "value": 174,
+            "value": 170,
             "type": "number"
           },
           "slider-max": {
