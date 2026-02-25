@@ -24254,7 +24254,7 @@
           }
         },
         "typography": {
-          "value": "{control.600}",
+          "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -25436,7 +25436,7 @@
           }
         },
         "typography": {
-          "value": "{control.600}",
+          "value": "{control.400}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
@@ -25446,7 +25446,7 @@
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
         "description": {
-          "value": "{control.400}",
+          "value": "{control.300}",
           "type": "number",
           "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
         },
