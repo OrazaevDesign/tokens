@@ -5425,108 +5425,6 @@
           "$value": "{typography.font-size.400}"
         }
       },
-      "line-heighth": {
-        "body": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
-        },
-        "lead": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.910}"
-        },
-        "code": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
-        },
-        "h1": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.1000}"
-        },
-        "h2": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.970}"
-        },
-        "h3": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.950}"
-        },
-        "h4": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.930}"
-        },
-        "h5": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.920}"
-        },
-        "quote": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.930}"
-        },
-        "caption": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.400}"
-        }
-      },
       "letter-spacing": {
         "body": {
           "$extensions": {
@@ -5674,6 +5572,108 @@
           "$type": "number",
           "$value": "{space.12}"
         }
+      },
+      "line-height": {
+        "body": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.800}"
+        },
+        "lead": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.910}"
+        },
+        "code": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.800}"
+        },
+        "h1": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.1000}"
+        },
+        "h2": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.970}"
+        },
+        "h3": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.950}"
+        },
+        "h4": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.930}"
+        },
+        "h5": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.920}"
+        },
+        "quote": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.930}"
+        },
+        "caption": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.400}"
+        }
       }
     }
   },
@@ -5779,108 +5779,6 @@
           },
           "$type": "number",
           "$value": "{typography.font-size.300}"
-        }
-      },
-      "line-heighth": {
-        "body": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.600}"
-        },
-        "lead": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
-        },
-        "code": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.600}"
-        },
-        "h1": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.970}"
-        },
-        "h2": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.950}"
-        },
-        "h3": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.930}"
-        },
-        "h4": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.910}"
-        },
-        "h5": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.800}"
-        },
-        "quote": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.910}"
-        },
-        "caption": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.300}"
         }
       },
       "letter-spacing": {
@@ -6030,6 +5928,108 @@
           "$type": "number",
           "$value": "{space.10}"
         }
+      },
+      "line-height": {
+        "body": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.600}"
+        },
+        "lead": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.800}"
+        },
+        "code": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.600}"
+        },
+        "h1": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.970}"
+        },
+        "h2": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.950}"
+        },
+        "h3": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.930}"
+        },
+        "h4": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.910}"
+        },
+        "h5": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.800}"
+        },
+        "quote": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.910}"
+        },
+        "caption": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.300}"
+        }
       }
     }
   },
@@ -6135,108 +6135,6 @@
           },
           "$type": "number",
           "$value": "{typography.font-size.200}"
-        }
-      },
-      "line-heighth": {
-        "body": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.400}"
-        },
-        "lead": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.600}"
-        },
-        "code": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.400}"
-        },
-        "h1": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.920}"
-        },
-        "h2": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.910}"
-        },
-        "h3": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.900}"
-        },
-        "h4": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.800}"
-        },
-        "h5": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.600}"
-        },
-        "quote": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
-        },
-        "caption": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "LINE_HEIGHT"
-            ],
-            "com.figma.hiddenFromPublishing": false
-          },
-          "$type": "number",
-          "$value": "{typography.line-height.200}"
         }
       },
       "letter-spacing": {
@@ -6385,6 +6283,108 @@
           },
           "$type": "number",
           "$value": "{space.8}"
+        }
+      },
+      "line-height": {
+        "body": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.400}"
+        },
+        "lead": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.600}"
+        },
+        "code": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.400}"
+        },
+        "h1": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.920}"
+        },
+        "h2": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.910}"
+        },
+        "h3": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.900}"
+        },
+        "h4": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.800}"
+        },
+        "h5": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height-compact.600}"
+        },
+        "quote": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.800}"
+        },
+        "caption": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          },
+          "$type": "number",
+          "$value": "{typography.line-height.200}"
         }
       }
     }
