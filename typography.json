@@ -5,105 +5,105 @@
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.50}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.50}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "100": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.100}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.100}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "200": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.200}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.200}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "300": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.300}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.300}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "400": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.400}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.400}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "500": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.500}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.500}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "600": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.600}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.600}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "700": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.700}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.700}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "800": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.800}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.800}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "850": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.850}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.850}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "900": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.900}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.900}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "950": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.950}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.950}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "1000": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
-        "$type": "number",
-        "$value": "{control.font-size.1000}",
-        "$description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing"
+        "value": "{control.font-size.1000}",
+        "description": "fontSize, lineHeight, tetterSpacing, paragraphSpacing",
+        "type": "number"
       },
       "font-size": {
         "50": {
@@ -113,8 +113,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 10
+          "value": 10,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -123,8 +123,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 11
+          "value": 11,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -133,8 +133,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -143,8 +143,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -153,8 +153,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -163,8 +163,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -173,8 +173,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -183,8 +183,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -193,8 +193,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "850": {
           "$extensions": {
@@ -203,8 +203,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -213,8 +213,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -223,8 +223,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -233,8 +233,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         }
       },
       "line-height": {
@@ -245,8 +245,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -255,8 +255,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -265,8 +265,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -275,8 +275,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -285,8 +285,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -295,8 +295,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -305,8 +305,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -315,8 +315,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -325,8 +325,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "850": {
           "$extensions": {
@@ -335,8 +335,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -345,8 +345,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -355,8 +355,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 36
+          "value": 36,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -365,8 +365,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -377,8 +377,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.3
+          "value": 0.3,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -387,8 +387,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.2
+          "value": 0.2,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -397,8 +397,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -407,8 +407,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -417,8 +417,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -427,8 +427,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -437,8 +437,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -447,8 +447,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -457,8 +457,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "850": {
           "$extensions": {
@@ -467,8 +467,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -477,8 +477,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -487,8 +487,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -497,8 +497,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.4
+          "value": -0.4,
+          "type": "number"
         }
       }
     }
@@ -513,8 +513,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 10
+          "value": 10,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -523,8 +523,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 11
+          "value": 11,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -533,8 +533,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -543,8 +543,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -553,8 +553,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -563,8 +563,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -573,8 +573,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -583,8 +583,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -593,8 +593,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -603,8 +603,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -615,8 +615,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.3
+          "value": 0.3,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -625,8 +625,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.2
+          "value": 0.2,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -635,8 +635,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -645,8 +645,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -655,8 +655,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -665,8 +665,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -675,8 +675,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -685,8 +685,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -695,8 +695,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -705,8 +705,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         }
       },
       "line-height": {
@@ -717,8 +717,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -727,8 +727,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -737,8 +737,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -747,8 +747,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -757,8 +757,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -767,8 +767,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -777,8 +777,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -787,8 +787,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -797,8 +797,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 26
+          "value": 26,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -807,8 +807,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         }
       }
     },
@@ -821,8 +821,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -831,8 +831,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -841,8 +841,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -851,8 +851,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -861,8 +861,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         }
       },
       "line-height": {
@@ -873,8 +873,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -883,8 +883,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -893,8 +893,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -903,8 +903,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -913,8 +913,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -925,8 +925,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.5
+          "value": -0.5,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -935,8 +935,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.4
+          "value": -0.4,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -945,8 +945,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -955,8 +955,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -965,8 +965,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         }
       }
     },
@@ -979,8 +979,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -989,8 +989,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -999,8 +999,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -1009,8 +1009,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -1019,8 +1019,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         }
       },
       "line-height": {
@@ -1031,8 +1031,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -1041,8 +1041,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -1051,8 +1051,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -1061,8 +1061,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -1071,8 +1071,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -1083,8 +1083,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -1093,8 +1093,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -1103,8 +1103,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -1113,8 +1113,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -1123,8 +1123,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         }
       }
     },
@@ -1137,8 +1137,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 70
+          "value": 70,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -1147,8 +1147,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 64
+          "value": 64,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -1157,8 +1157,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -1167,8 +1167,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 52
+          "value": 52,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -1177,8 +1177,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         }
       },
       "line-height": {
@@ -1189,8 +1189,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 84
+          "value": 84,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -1199,8 +1199,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 76
+          "value": 76,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -1209,8 +1209,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 70
+          "value": 70,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -1219,8 +1219,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 62
+          "value": 62,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -1229,8 +1229,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -1241,8 +1241,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -1251,8 +1251,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -1261,8 +1261,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -1271,8 +1271,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -1281,8 +1281,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         }
       },
       "paragraph-spacing": {
@@ -1293,8 +1293,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.72}"
+          "value": "{space.72}",
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -1303,8 +1303,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.16}"
+          "value": "{space.16}",
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -1313,8 +1313,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.15}"
+          "value": "{space.15}",
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -1323,8 +1323,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.13}"
+          "value": "{space.13}",
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -1333,8 +1333,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.12}"
+          "value": "{space.12}",
+          "type": "number"
         }
       }
     },
@@ -1347,8 +1347,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 10
+          "value": 10,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -1357,8 +1357,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 11
+          "value": 11,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -1367,8 +1367,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -1377,8 +1377,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -1387,8 +1387,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -1397,8 +1397,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -1407,8 +1407,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -1417,8 +1417,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -1427,8 +1427,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -1437,8 +1437,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -1447,8 +1447,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -1457,8 +1457,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -1467,8 +1467,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -1477,8 +1477,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -1487,8 +1487,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -1497,8 +1497,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 52
+          "value": 52,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -1507,8 +1507,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -1517,8 +1517,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 64
+          "value": 64,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -1527,8 +1527,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 70
+          "value": 70,
+          "type": "number"
         }
       },
       "line-height": {
@@ -1539,8 +1539,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -1549,8 +1549,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -1559,8 +1559,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 19
+          "value": 19,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -1569,8 +1569,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 21
+          "value": 21,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -1579,8 +1579,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -1589,8 +1589,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -1599,8 +1599,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 26
+          "value": 26,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -1609,8 +1609,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 27
+          "value": 27,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -1619,8 +1619,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 29
+          "value": 29,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -1629,8 +1629,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -1639,8 +1639,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 38
+          "value": 38,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -1649,8 +1649,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 45
+          "value": 45,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -1659,8 +1659,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 54
+          "value": 54,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -1669,8 +1669,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 64
+          "value": 64,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -1679,8 +1679,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 77
+          "value": 77,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -1689,8 +1689,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 83
+          "value": 83,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -1699,8 +1699,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 93
+          "value": 93,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -1709,8 +1709,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 102
+          "value": 102,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -1719,8 +1719,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 112
+          "value": 112,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -1731,8 +1731,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.3
+          "value": 0.3,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -1741,8 +1741,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.2
+          "value": 0.2,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -1751,8 +1751,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -1761,8 +1761,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -1771,8 +1771,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -1781,8 +1781,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -1791,8 +1791,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -1801,8 +1801,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -1811,8 +1811,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -1821,8 +1821,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -1831,8 +1831,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -1841,8 +1841,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -1851,8 +1851,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.4
+          "value": -0.4,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -1861,8 +1861,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.5
+          "value": -0.5,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -1871,8 +1871,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -1881,8 +1881,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -1891,8 +1891,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -1901,8 +1901,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -1911,8 +1911,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         }
       },
       "line-height-compact": {
@@ -1923,8 +1923,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -1933,8 +1933,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -1943,8 +1943,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -1953,8 +1953,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -1963,8 +1963,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -1973,8 +1973,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -1983,8 +1983,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 19
+          "value": 19,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -1993,8 +1993,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -2003,8 +2003,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -2013,8 +2013,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -2023,8 +2023,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 29
+          "value": 29,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -2033,8 +2033,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -2043,8 +2043,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 41
+          "value": 41,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -2053,8 +2053,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -2063,8 +2063,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -2073,8 +2073,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 62
+          "value": 62,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -2083,8 +2083,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 70
+          "value": 70,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -2093,8 +2093,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 77
+          "value": 77,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -2103,8 +2103,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 84
+          "value": 84,
+          "type": "number"
         }
       }
     }
@@ -2119,8 +2119,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 10
+          "value": 10,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -2129,8 +2129,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 11
+          "value": 11,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -2139,8 +2139,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -2149,8 +2149,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -2159,8 +2159,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -2169,8 +2169,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -2179,8 +2179,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -2189,8 +2189,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -2199,8 +2199,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -2209,8 +2209,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -2221,8 +2221,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.3
+          "value": 0.3,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -2231,8 +2231,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.2
+          "value": 0.2,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -2241,8 +2241,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -2251,8 +2251,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -2261,8 +2261,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -2271,8 +2271,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -2281,8 +2281,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -2291,8 +2291,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -2301,8 +2301,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -2311,8 +2311,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         }
       },
       "line-height": {
@@ -2323,8 +2323,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -2333,8 +2333,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -2343,8 +2343,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -2353,8 +2353,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -2363,8 +2363,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -2373,8 +2373,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -2383,8 +2383,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -2393,8 +2393,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -2403,8 +2403,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -2413,8 +2413,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 26
+          "value": 26,
+          "type": "number"
         }
       }
     },
@@ -2427,8 +2427,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -2437,8 +2437,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -2447,8 +2447,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -2457,8 +2457,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -2467,8 +2467,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         }
       },
       "line-height": {
@@ -2479,8 +2479,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -2489,8 +2489,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -2499,8 +2499,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -2509,8 +2509,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -2519,8 +2519,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -2531,8 +2531,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -2541,8 +2541,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -1.2
+          "value": -1.2,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -2551,8 +2551,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -2561,8 +2561,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -2571,8 +2571,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         }
       }
     },
@@ -2585,8 +2585,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -2595,8 +2595,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -2605,8 +2605,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -2615,8 +2615,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -2625,8 +2625,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         }
       },
       "line-height": {
@@ -2637,8 +2637,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -2647,8 +2647,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -2657,8 +2657,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -2667,8 +2667,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -2677,8 +2677,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -2689,8 +2689,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -2699,8 +2699,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -2709,8 +2709,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -2719,8 +2719,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -2729,8 +2729,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         }
       }
     },
@@ -2743,8 +2743,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 64
+          "value": 64,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -2753,8 +2753,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -2763,8 +2763,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 52
+          "value": 52,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -2773,8 +2773,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -2783,8 +2783,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         }
       },
       "line-height": {
@@ -2795,8 +2795,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 76
+          "value": 76,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -2805,8 +2805,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 70
+          "value": 70,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -2815,8 +2815,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 62
+          "value": 62,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -2825,8 +2825,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -2835,8 +2835,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -2847,8 +2847,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -2857,8 +2857,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -2867,8 +2867,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -2877,8 +2877,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -2887,8 +2887,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.5
+          "value": -0.5,
+          "type": "number"
         }
       },
       "paragraph-spacing": {
@@ -2899,8 +2899,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.16}"
+          "value": "{space.16}",
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -2909,8 +2909,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.7}"
+          "value": "{space.7}",
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -2919,8 +2919,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.13}"
+          "value": "{space.13}",
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -2929,8 +2929,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.12}"
+          "value": "{space.12}",
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -2939,8 +2939,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.10}"
+          "value": "{space.10}",
+          "type": "number"
         }
       }
     },
@@ -2953,8 +2953,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 10
+          "value": 10,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -2963,8 +2963,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 11
+          "value": 11,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -2973,8 +2973,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -2983,8 +2983,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -2993,8 +2993,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -3003,8 +3003,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -3013,8 +3013,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -3023,8 +3023,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -3033,8 +3033,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -3043,8 +3043,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -3053,8 +3053,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -3063,8 +3063,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -3073,8 +3073,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -3083,8 +3083,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -3093,8 +3093,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -3103,8 +3103,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -3113,8 +3113,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 52
+          "value": 52,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -3123,8 +3123,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -3133,8 +3133,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 64
+          "value": 64,
+          "type": "number"
         }
       },
       "line-height": {
@@ -3145,8 +3145,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -3155,8 +3155,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -3165,8 +3165,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 19
+          "value": 19,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -3175,8 +3175,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 21
+          "value": 21,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -3185,8 +3185,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -3195,8 +3195,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -3205,8 +3205,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 26
+          "value": 26,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -3215,8 +3215,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 27
+          "value": 27,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -3225,8 +3225,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 29
+          "value": 29,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -3235,8 +3235,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -3245,8 +3245,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 35
+          "value": 35,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -3255,8 +3255,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 38
+          "value": 38,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -3265,8 +3265,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 45
+          "value": 45,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -3275,8 +3275,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 54
+          "value": 54,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -3285,8 +3285,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 64
+          "value": 64,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -3295,8 +3295,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 77
+          "value": 77,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -3305,8 +3305,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 83
+          "value": 83,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -3315,8 +3315,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 93
+          "value": 93,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -3325,8 +3325,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 102.4
+          "value": 102.4,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -3337,8 +3337,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.3
+          "value": 0.3,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -3347,8 +3347,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.2
+          "value": 0.2,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -3357,8 +3357,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -3367,8 +3367,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -3377,8 +3377,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -3387,8 +3387,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -3397,8 +3397,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -3407,8 +3407,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -3417,8 +3417,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -3427,8 +3427,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -3437,8 +3437,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -3447,8 +3447,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -3457,8 +3457,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.4
+          "value": -0.4,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -3467,8 +3467,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.5
+          "value": -0.5,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -3477,8 +3477,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -3487,8 +3487,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -3497,8 +3497,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -3507,8 +3507,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -3517,8 +3517,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         }
       },
       "line-height-compact": {
@@ -3529,8 +3529,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -3539,8 +3539,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -3549,8 +3549,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -3559,8 +3559,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -3569,8 +3569,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -3579,8 +3579,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -3589,8 +3589,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 19
+          "value": 19,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -3599,8 +3599,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -3609,8 +3609,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -3619,8 +3619,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -3629,8 +3629,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 26
+          "value": 26,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -3639,8 +3639,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 29
+          "value": 29,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -3649,8 +3649,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -3659,8 +3659,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 41
+          "value": 41,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -3669,8 +3669,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -3679,8 +3679,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -3689,8 +3689,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 62
+          "value": 62,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -3699,8 +3699,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 70
+          "value": 70,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -3709,8 +3709,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 76.8
+          "value": 76.8,
+          "type": "number"
         }
       }
     }
@@ -3725,8 +3725,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 10
+          "value": 10,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -3735,8 +3735,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 11
+          "value": 11,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -3745,8 +3745,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -3755,8 +3755,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -3765,8 +3765,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -3775,8 +3775,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -3785,8 +3785,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -3795,8 +3795,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -3805,8 +3805,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -3815,8 +3815,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -3827,8 +3827,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.3
+          "value": 0.3,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -3837,8 +3837,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.2
+          "value": 0.2,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -3847,8 +3847,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -3857,8 +3857,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -3867,8 +3867,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -3877,8 +3877,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -3887,8 +3887,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -3897,8 +3897,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -3907,8 +3907,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -3917,8 +3917,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         }
       },
       "line-height": {
@@ -3929,8 +3929,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -3939,8 +3939,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -3949,8 +3949,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -3959,8 +3959,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -3969,8 +3969,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -3979,8 +3979,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -3989,8 +3989,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -3999,8 +3999,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -4009,8 +4009,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -4019,8 +4019,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         }
       }
     },
@@ -4033,8 +4033,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -4043,8 +4043,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -4053,8 +4053,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -4063,8 +4063,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -4073,8 +4073,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         }
       },
       "line-height": {
@@ -4085,8 +4085,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -4095,8 +4095,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -4105,8 +4105,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -4115,8 +4115,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -4125,8 +4125,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -4137,8 +4137,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "t2": {
           "$extensions": {
@@ -4147,8 +4147,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "t3": {
           "$extensions": {
@@ -4157,8 +4157,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "t4": {
           "$extensions": {
@@ -4167,8 +4167,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "t5": {
           "$extensions": {
@@ -4177,8 +4177,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         }
       }
     },
@@ -4191,8 +4191,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -4201,8 +4201,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -4211,8 +4211,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -4221,8 +4221,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -4231,8 +4231,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         }
       },
       "line-height": {
@@ -4243,8 +4243,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -4253,8 +4253,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -4263,8 +4263,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -4273,8 +4273,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -4283,8 +4283,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -4295,8 +4295,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -4305,8 +4305,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -4315,8 +4315,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -4325,8 +4325,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -4335,8 +4335,8 @@
             ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         }
       }
     },
@@ -4349,8 +4349,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -4359,8 +4359,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -4369,8 +4369,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -4379,8 +4379,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -4389,8 +4389,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         }
       },
       "line-height": {
@@ -4401,8 +4401,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -4411,8 +4411,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -4421,8 +4421,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -4431,8 +4431,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 36
+          "value": 36,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -4441,8 +4441,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -4453,8 +4453,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -4463,8 +4463,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -4473,8 +4473,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -4483,8 +4483,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -4493,8 +4493,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.5
+          "value": -0.5,
+          "type": "number"
         }
       },
       "paragraph-spacing": {
@@ -4505,8 +4505,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.12}"
+          "value": "{space.12}",
+          "type": "number"
         },
         "d2": {
           "$extensions": {
@@ -4515,8 +4515,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.10}"
+          "value": "{space.10}",
+          "type": "number"
         },
         "d3": {
           "$extensions": {
@@ -4525,8 +4525,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.9}"
+          "value": "{space.9}",
+          "type": "number"
         },
         "d4": {
           "$extensions": {
@@ -4535,8 +4535,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.8}"
+          "value": "{space.8}",
+          "type": "number"
         },
         "d5": {
           "$extensions": {
@@ -4545,8 +4545,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.7}"
+          "value": "{space.7}",
+          "type": "number"
         }
       }
     },
@@ -4559,8 +4559,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 10
+          "value": 10,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -4569,8 +4569,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 11
+          "value": 11,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -4579,8 +4579,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -4589,8 +4589,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -4599,8 +4599,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -4609,8 +4609,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 15
+          "value": 15,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -4619,8 +4619,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -4629,8 +4629,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -4639,8 +4639,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -4649,8 +4649,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 19
+          "value": 19,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -4659,8 +4659,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -4669,8 +4669,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -4679,8 +4679,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -4689,8 +4689,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 28
+          "value": 28,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -4699,8 +4699,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 30
+          "value": 30,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -4709,8 +4709,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -4719,8 +4719,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -4729,8 +4729,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 40
+          "value": 40,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -4739,8 +4739,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         }
       },
       "line-height": {
@@ -4751,8 +4751,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -4761,8 +4761,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -4771,8 +4771,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 19
+          "value": 19,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -4781,8 +4781,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 21
+          "value": 21,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -4791,8 +4791,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -4801,8 +4801,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -4811,8 +4811,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 26
+          "value": 26,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -4821,8 +4821,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 27
+          "value": 27,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -4831,8 +4831,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 29
+          "value": 29,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -4841,8 +4841,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 30
+          "value": 30,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -4851,8 +4851,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 32
+          "value": 32,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -4861,8 +4861,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 35
+          "value": 35,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -4871,8 +4871,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 38
+          "value": 38,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -4881,8 +4881,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 45
+          "value": 45,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -4891,8 +4891,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -4901,8 +4901,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 51
+          "value": 51,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -4911,8 +4911,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 54
+          "value": 54,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -4921,8 +4921,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 64
+          "value": 64,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -4931,8 +4931,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 77
+          "value": 77,
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -4943,8 +4943,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.3
+          "value": 0.3,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -4953,8 +4953,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.2
+          "value": 0.2,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -4963,8 +4963,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -4973,8 +4973,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0.1
+          "value": 0.1,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -4983,8 +4983,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -4993,8 +4993,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -5003,8 +5003,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 0
+          "value": 0,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -5013,8 +5013,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.1
+          "value": -0.1,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -5023,8 +5023,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -5033,8 +5033,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -5043,8 +5043,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.2
+          "value": -0.2,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -5053,8 +5053,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.3
+          "value": -0.3,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -5063,8 +5063,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.4
+          "value": -0.4,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -5073,8 +5073,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.5
+          "value": -0.5,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -5083,8 +5083,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -5093,8 +5093,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -5103,8 +5103,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -5113,8 +5113,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -5123,8 +5123,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": -0.6
+          "value": -0.6,
+          "type": "number"
         }
       },
       "line-height-compact": {
@@ -5135,8 +5135,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 12
+          "value": 12,
+          "type": "number"
         },
         "100": {
           "$extensions": {
@@ -5145,8 +5145,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 13
+          "value": 13,
+          "type": "number"
         },
         "200": {
           "$extensions": {
@@ -5155,8 +5155,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 14
+          "value": 14,
+          "type": "number"
         },
         "300": {
           "$extensions": {
@@ -5165,8 +5165,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 16
+          "value": 16,
+          "type": "number"
         },
         "400": {
           "$extensions": {
@@ -5175,8 +5175,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 17
+          "value": 17,
+          "type": "number"
         },
         "500": {
           "$extensions": {
@@ -5185,8 +5185,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 18
+          "value": 18,
+          "type": "number"
         },
         "600": {
           "$extensions": {
@@ -5195,8 +5195,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 19
+          "value": 19,
+          "type": "number"
         },
         "700": {
           "$extensions": {
@@ -5205,8 +5205,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 20
+          "value": 20,
+          "type": "number"
         },
         "800": {
           "$extensions": {
@@ -5215,8 +5215,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 22
+          "value": 22,
+          "type": "number"
         },
         "900": {
           "$extensions": {
@@ -5225,8 +5225,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 23
+          "value": 23,
+          "type": "number"
         },
         "910": {
           "$extensions": {
@@ -5235,8 +5235,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 24
+          "value": 24,
+          "type": "number"
         },
         "920": {
           "$extensions": {
@@ -5245,8 +5245,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 26
+          "value": 26,
+          "type": "number"
         },
         "930": {
           "$extensions": {
@@ -5255,8 +5255,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 29
+          "value": 29,
+          "type": "number"
         },
         "940": {
           "$extensions": {
@@ -5265,8 +5265,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 34
+          "value": 34,
+          "type": "number"
         },
         "950": {
           "$extensions": {
@@ -5275,8 +5275,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 36
+          "value": 36,
+          "type": "number"
         },
         "960": {
           "$extensions": {
@@ -5285,8 +5285,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 38
+          "value": 38,
+          "type": "number"
         },
         "970": {
           "$extensions": {
@@ -5295,8 +5295,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 41
+          "value": 41,
+          "type": "number"
         },
         "980": {
           "$extensions": {
@@ -5305,8 +5305,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 48
+          "value": 48,
+          "type": "number"
         },
         "1000": {
           "$extensions": {
@@ -5315,8 +5315,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 58
+          "value": 58,
+          "type": "number"
         }
       }
     }
@@ -5331,8 +5331,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.800}"
+          "value": "{typography.font-size.800}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -5341,8 +5341,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.910}"
+          "value": "{typography.font-size.910}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -5351,8 +5351,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.800}"
+          "value": "{typography.font-size.800}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -5361,8 +5361,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.1000}"
+          "value": "{typography.font-size.1000}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -5371,8 +5371,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.970}"
+          "value": "{typography.font-size.970}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -5381,8 +5381,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.950}"
+          "value": "{typography.font-size.950}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -5391,8 +5391,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.930}"
+          "value": "{typography.font-size.930}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -5401,8 +5401,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.920}"
+          "value": "{typography.font-size.920}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -5411,8 +5411,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.930}"
+          "value": "{typography.font-size.930}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -5421,8 +5421,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.400}"
+          "value": "{typography.font-size.400}",
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -5433,8 +5433,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.800}"
+          "value": "{typography.letter-spacing.800}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -5443,8 +5443,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.910}"
+          "value": "{typography.letter-spacing.910}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -5453,8 +5453,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.800}"
+          "value": "{typography.letter-spacing.800}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -5463,8 +5463,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.1000}"
+          "value": "{typography.letter-spacing.1000}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -5473,8 +5473,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.970}"
+          "value": "{typography.letter-spacing.970}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -5483,8 +5483,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.950}"
+          "value": "{typography.letter-spacing.950}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -5493,8 +5493,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.930}"
+          "value": "{typography.letter-spacing.930}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -5503,8 +5503,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.920}"
+          "value": "{typography.letter-spacing.920}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -5513,8 +5513,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.930}"
+          "value": "{typography.letter-spacing.930}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -5523,8 +5523,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.400}"
+          "value": "{typography.letter-spacing.400}",
+          "type": "number"
         }
       },
       "gap": {
@@ -5536,8 +5536,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.12}"
+          "value": "{space.12}",
+          "type": "number"
         },
         "typo-top": {
           "$extensions": {
@@ -5547,8 +5547,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.8}"
+          "value": "{space.8}",
+          "type": "number"
         },
         "li-top": {
           "$extensions": {
@@ -5558,8 +5558,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.3}"
+          "value": "{space.3}",
+          "type": "number"
         },
         "cut-y": {
           "$extensions": {
@@ -5569,8 +5569,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.12}"
+          "value": "{space.12}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -5580,8 +5580,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.1000}"
+          "value": "{typography.line-height.1000}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -5591,8 +5591,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.970}"
+          "value": "{typography.line-height.970}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -5602,8 +5602,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.950}"
+          "value": "{typography.line-height.950}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -5613,8 +5613,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.930}"
+          "value": "{typography.line-height.930}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -5624,8 +5624,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.920}"
+          "value": "{typography.line-height.920}",
+          "type": "number"
         }
       },
       "line-height": {
@@ -5636,8 +5636,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
+          "value": "{typography.line-height.800}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -5646,8 +5646,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.910}"
+          "value": "{typography.line-height.910}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -5656,8 +5656,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
+          "value": "{typography.line-height.800}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -5666,8 +5666,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.1000}"
+          "value": "{typography.line-height-compact.1000}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -5676,8 +5676,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.970}"
+          "value": "{typography.line-height-compact.970}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -5686,8 +5686,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.950}"
+          "value": "{typography.line-height-compact.950}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -5696,8 +5696,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.930}"
+          "value": "{typography.line-height-compact.930}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -5706,8 +5706,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.920}"
+          "value": "{typography.line-height-compact.920}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -5716,8 +5716,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.930}"
+          "value": "{typography.line-height.930}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -5726,8 +5726,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.400}"
+          "value": "{typography.line-height.400}",
+          "type": "number"
         }
       }
     }
@@ -5742,8 +5742,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.600}"
+          "value": "{typography.font-size.600}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -5752,8 +5752,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.800}"
+          "value": "{typography.font-size.800}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -5762,8 +5762,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.600}"
+          "value": "{typography.font-size.600}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -5772,8 +5772,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.970}"
+          "value": "{typography.font-size.970}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -5782,8 +5782,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.950}"
+          "value": "{typography.font-size.950}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -5792,8 +5792,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.930}"
+          "value": "{typography.font-size.930}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -5802,8 +5802,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.910}"
+          "value": "{typography.font-size.910}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -5812,8 +5812,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.800}"
+          "value": "{typography.font-size.800}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -5822,8 +5822,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.910}"
+          "value": "{typography.font-size.910}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -5832,8 +5832,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.300}"
+          "value": "{typography.font-size.300}",
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -5844,8 +5844,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.600}"
+          "value": "{typography.letter-spacing.600}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -5854,8 +5854,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.800}"
+          "value": "{typography.letter-spacing.800}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -5864,8 +5864,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.600}"
+          "value": "{typography.letter-spacing.600}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -5874,8 +5874,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.970}"
+          "value": "{typography.letter-spacing.970}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -5884,8 +5884,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.950}"
+          "value": "{typography.letter-spacing.950}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -5894,8 +5894,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.930}"
+          "value": "{typography.letter-spacing.930}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -5904,8 +5904,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.910}"
+          "value": "{typography.letter-spacing.910}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -5914,8 +5914,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.800}"
+          "value": "{typography.letter-spacing.800}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -5924,8 +5924,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.910}"
+          "value": "{typography.letter-spacing.910}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -5934,8 +5934,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.300}"
+          "value": "{typography.letter-spacing.300}",
+          "type": "number"
         }
       },
       "gap": {
@@ -5947,8 +5947,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.10}"
+          "value": "{space.10}",
+          "type": "number"
         },
         "typo-top": {
           "$extensions": {
@@ -5958,8 +5958,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.6}"
+          "value": "{space.6}",
+          "type": "number"
         },
         "li-top": {
           "$extensions": {
@@ -5969,8 +5969,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.2,5}"
+          "value": "{space.2,5}",
+          "type": "number"
         },
         "cut-y": {
           "$extensions": {
@@ -5980,8 +5980,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.10}"
+          "value": "{space.10}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -5991,8 +5991,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.970}"
+          "value": "{typography.line-height.970}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -6002,8 +6002,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.950}"
+          "value": "{typography.line-height.950}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -6013,8 +6013,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.930}"
+          "value": "{typography.line-height.930}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -6024,8 +6024,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.910}"
+          "value": "{typography.line-height.910}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -6035,8 +6035,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
+          "value": "{typography.line-height.800}",
+          "type": "number"
         }
       },
       "line-height": {
@@ -6047,8 +6047,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.600}"
+          "value": "{typography.line-height.600}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -6057,8 +6057,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
+          "value": "{typography.line-height.800}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -6067,8 +6067,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.600}"
+          "value": "{typography.line-height.600}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -6077,8 +6077,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.970}"
+          "value": "{typography.line-height-compact.970}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -6087,8 +6087,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.950}"
+          "value": "{typography.line-height-compact.950}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -6097,8 +6097,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.930}"
+          "value": "{typography.line-height-compact.930}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -6107,8 +6107,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.910}"
+          "value": "{typography.line-height-compact.910}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -6117,8 +6117,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.800}"
+          "value": "{typography.line-height-compact.800}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -6127,8 +6127,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.910}"
+          "value": "{typography.line-height.910}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -6137,8 +6137,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.300}"
+          "value": "{typography.line-height.300}",
+          "type": "number"
         }
       }
     }
@@ -6153,8 +6153,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.400}"
+          "value": "{typography.font-size.400}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -6163,8 +6163,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.600}"
+          "value": "{typography.font-size.600}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -6173,8 +6173,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.400}"
+          "value": "{typography.font-size.400}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -6183,8 +6183,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.920}"
+          "value": "{typography.font-size.920}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -6193,8 +6193,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.910}"
+          "value": "{typography.font-size.910}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -6203,8 +6203,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.900}"
+          "value": "{typography.font-size.900}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -6213,8 +6213,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.800}"
+          "value": "{typography.font-size.800}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -6223,8 +6223,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.600}"
+          "value": "{typography.font-size.600}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -6233,8 +6233,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.800}"
+          "value": "{typography.font-size.800}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -6243,8 +6243,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.font-size.200}"
+          "value": "{typography.font-size.200}",
+          "type": "number"
         }
       },
       "letter-spacing": {
@@ -6255,8 +6255,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.400}"
+          "value": "{typography.letter-spacing.400}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -6265,8 +6265,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.600}"
+          "value": "{typography.letter-spacing.600}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -6275,8 +6275,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.400}"
+          "value": "{typography.letter-spacing.400}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -6285,8 +6285,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.920}"
+          "value": "{typography.letter-spacing.920}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -6295,8 +6295,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.910}"
+          "value": "{typography.letter-spacing.910}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -6305,8 +6305,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.900}"
+          "value": "{typography.letter-spacing.900}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -6315,8 +6315,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.800}"
+          "value": "{typography.letter-spacing.800}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -6325,8 +6325,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.600}"
+          "value": "{typography.letter-spacing.600}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -6335,8 +6335,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.800}"
+          "value": "{typography.letter-spacing.800}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -6345,8 +6345,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.letter-spacing.200}"
+          "value": "{typography.letter-spacing.200}",
+          "type": "number"
         }
       },
       "gap": {
@@ -6358,8 +6358,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.8}"
+          "value": "{space.8}",
+          "type": "number"
         },
         "typo-top": {
           "$extensions": {
@@ -6369,8 +6369,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.5}"
+          "value": "{space.5}",
+          "type": "number"
         },
         "li-top": {
           "$extensions": {
@@ -6380,8 +6380,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.2}"
+          "value": "{space.2}",
+          "type": "number"
         },
         "cut-y": {
           "$extensions": {
@@ -6391,8 +6391,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{space.8}"
+          "value": "{space.8}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -6402,8 +6402,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.920}"
+          "value": "{typography.line-height.920}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -6413,8 +6413,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.910}"
+          "value": "{typography.line-height.910}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -6424,8 +6424,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.900}"
+          "value": "{typography.line-height.900}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -6435,8 +6435,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
+          "value": "{typography.line-height.800}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -6446,8 +6446,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.600}"
+          "value": "{typography.line-height.600}",
+          "type": "number"
         }
       },
       "line-height": {
@@ -6458,8 +6458,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.400}"
+          "value": "{typography.line-height.400}",
+          "type": "number"
         },
         "lead": {
           "$extensions": {
@@ -6468,8 +6468,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.600}"
+          "value": "{typography.line-height.600}",
+          "type": "number"
         },
         "code": {
           "$extensions": {
@@ -6478,8 +6478,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.400}"
+          "value": "{typography.line-height.400}",
+          "type": "number"
         },
         "h1": {
           "$extensions": {
@@ -6488,8 +6488,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.920}"
+          "value": "{typography.line-height-compact.920}",
+          "type": "number"
         },
         "h2": {
           "$extensions": {
@@ -6498,8 +6498,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.910}"
+          "value": "{typography.line-height-compact.910}",
+          "type": "number"
         },
         "h3": {
           "$extensions": {
@@ -6508,8 +6508,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.900}"
+          "value": "{typography.line-height-compact.900}",
+          "type": "number"
         },
         "h4": {
           "$extensions": {
@@ -6518,8 +6518,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.800}"
+          "value": "{typography.line-height-compact.800}",
+          "type": "number"
         },
         "h5": {
           "$extensions": {
@@ -6528,8 +6528,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height-compact.600}"
+          "value": "{typography.line-height-compact.600}",
+          "type": "number"
         },
         "quote": {
           "$extensions": {
@@ -6538,8 +6538,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.800}"
+          "value": "{typography.line-height.800}",
+          "type": "number"
         },
         "caption": {
           "$extensions": {
@@ -6548,8 +6548,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": "{typography.line-height.200}"
+          "value": "{typography.line-height.200}",
+          "type": "number"
         }
       }
     }
