@@ -17982,14 +17982,14 @@
           "type": "color"
         },
         "border": {
+          "value": "{role.surface.surface}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "STROKE_COLOR"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.dim}",
-          "type": "color"
+          }
         },
         "color": {
           "$extensions": {
