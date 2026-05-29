@@ -6604,6 +6604,78 @@
       }
     }
   },
+  "Font-weight/400": {
+    "font-weight": {
+      "value": "regular",
+      "type": "text",
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      }
+    }
+  },
+  "Font-weight/600": {
+    "font-weight": {
+      "value": "semibold",
+      "type": "text",
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      }
+    }
+  },
+  "Font-weight/700": {
+    "font-weight": {
+      "value": "bold",
+      "type": "text",
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      }
+    }
+  },
+  "Font-family/System": {
+    "font-family": {
+      "value": "Inter",
+      "type": "text",
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      }
+    }
+  },
+  "Font-family/Heading": {
+    "font-family": {
+      "value": "Inter",
+      "type": "text",
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      }
+    }
+  },
+  "Font-family/Code": {
+    "font-family": {
+      "value": "JetBrains Mono",
+      "type": "text",
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -6614,7 +6686,13 @@
       "WYSIWYG/Medium",
       "WYSIWYG/Small",
       "Control/Value",
-      "Font-weight"
+      "Font-weight",
+      "Font-weight/400",
+      "Font-weight/600",
+      "Font-weight/700",
+      "Font-family/System",
+      "Font-family/Heading",
+      "Font-family/Code"
     ]
   }
 }
