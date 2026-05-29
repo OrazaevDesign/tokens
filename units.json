@@ -3950,6 +3950,16 @@
               ],
               "com.figma.hiddenFromPublishing": false
             }
+          },
+          "large": {
+            "value": 1067,
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "WIDTH_HEIGHT"
+              ],
+              "com.figma.hiddenFromPublishing": false
+            }
           }
         },
         "mobile": {
@@ -3965,6 +3975,16 @@
           },
           "small": {
             "value": 320,
+            "type": "number",
+            "$extensions": {
+              "com.figma.scopes": [
+                "WIDTH_HEIGHT"
+              ],
+              "com.figma.hiddenFromPublishing": false
+            }
+          },
+          "large": {
+            "value": 615,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
