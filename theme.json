@@ -13646,14 +13646,14 @@
           "type": "color"
         },
         "border": {
+          "value": "{role.secondary.container.on-lowest}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "STROKE_COLOR"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-low}",
-          "type": "color"
+          }
         },
         "color": {
           "$extensions": {
@@ -14324,15 +14324,15 @@
           "type": "color"
         },
         "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL",
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "placehold": {
           "$extensions": {
@@ -14378,66 +14378,66 @@
       },
       "selected-tabbar": {
         "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "FRAME_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.transparent}",
-          "type": "color"
+          }
         },
         "border": {
+          "value": "{role.surface.surface}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "STROKE_COLOR"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.transparent}",
-          "type": "color"
+          }
         },
         "color": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL",
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-highest}",
-          "type": "color"
+          }
         },
         "placehold": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL",
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "description": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "chevrone": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-highest}",
-          "type": "color"
+          }
         },
         "icon-check": {
           "$extensions": {
@@ -16193,14 +16193,14 @@
           "type": "color"
         },
         "border": {
+          "value": "{role.secondary.container.on-lowest}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "STROKE_COLOR"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-low}",
-          "type": "color"
+          }
         },
         "color": {
           "$extensions": {
@@ -22548,15 +22548,15 @@
           "type": "color"
         },
         "color": {
+          "value": "{role.surface.on-highest}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL",
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "placehold": {
           "$extensions": {
@@ -22602,27 +22602,27 @@
       },
       "selected-tabbar": {
         "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "FRAME_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.transparent}",
-          "type": "color"
+          }
         },
         "border": {
+          "value": "{role.surface.surface}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "STROKE_COLOR"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.transparent}",
-          "type": "color"
+          }
         },
         "color": {
-          "value": "{role.surface.on-highest}",
+          "value": "{role.accent.container.on}",
           "type": "color",
           "$extensions": {
             "com.figma.scopes": [
@@ -22633,35 +22633,35 @@
           }
         },
         "placehold": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL",
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "description": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "chevrone": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-highest}",
-          "type": "color"
+          }
         },
         "icon-check": {
           "$extensions": {
@@ -26714,66 +26714,66 @@
       },
       "selected-tabbar": {
         "bg": {
+          "value": "{role.surface.surface}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "FRAME_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.transparent}",
-          "type": "color"
+          }
         },
         "border": {
+          "value": "{role.surface.surface}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "STROKE_COLOR"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.transparent}",
-          "type": "color"
+          }
         },
         "color": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL",
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-highest}",
-          "type": "color"
+          }
         },
         "placehold": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL",
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "description": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "TEXT_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-high}",
-          "type": "color"
+          }
         },
         "chevrone": {
+          "value": "{role.accent.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.surface.on-highest}",
-          "type": "color"
+          }
         },
         "icon-check": {
           "$extensions": {
