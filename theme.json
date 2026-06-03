@@ -13028,14 +13028,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -13113,14 +13113,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.success.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.success.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -13198,14 +13198,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.error.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.error.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -13283,14 +13283,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -13368,14 +13368,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -13453,14 +13453,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.tertiary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.tertiary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -17288,14 +17288,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -17373,14 +17373,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.success.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.success.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -17458,14 +17458,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.error.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.error.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -17543,14 +17543,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -17628,14 +17628,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -17713,14 +17713,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.tertiary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.tertiary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -21548,14 +21548,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.primary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -21633,14 +21633,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.primary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -21718,14 +21718,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.primary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.primary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -21803,14 +21803,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.primary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -21888,14 +21888,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.primary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -21973,14 +21973,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.primary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.primary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -25808,14 +25808,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -25893,14 +25893,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.success.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.success.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -25978,14 +25978,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.error.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.error.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -26063,14 +26063,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -26148,14 +26148,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.secondary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.secondary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
@@ -26233,14 +26233,14 @@
           "type": "color"
         },
         "chevrone": {
+          "value": "{role.tertiary.container.on}",
+          "type": "color",
           "$extensions": {
             "com.figma.scopes": [
               "SHAPE_FILL"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{role.tertiary.container.on-highest}",
-          "type": "color"
+          }
         },
         "dim": {
           "$extensions": {
