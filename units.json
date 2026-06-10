@@ -2164,7 +2164,7 @@
             }
           },
           "small-max": {
-            "value": 720,
+            "value": 600,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
@@ -2174,7 +2174,7 @@
             }
           },
           "medium-max": {
-            "value": 1024,
+            "value": 900,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
@@ -2822,7 +2822,7 @@
             }
           },
           "small-max": {
-            "value": 720,
+            "value": 600,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
@@ -2832,7 +2832,7 @@
             }
           },
           "medium-max": {
-            "value": 1024,
+            "value": 900,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
@@ -3480,7 +3480,7 @@
             }
           },
           "small-max": {
-            "value": 430,
+            "value": 600,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
@@ -3490,7 +3490,7 @@
             }
           },
           "medium-max": {
-            "value": 616,
+            "value": 900,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
