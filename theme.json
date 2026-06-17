@@ -373,34 +373,34 @@
         },
         "shadow": {
           "opacity1": {
+            "value": "#00000014",
+            "type": "color",
             "$extensions": {
               "com.figma.scopes": [
                 "ALL_SCOPES"
               ],
               "com.figma.hiddenFromPublishing": false
-            },
-            "value": "#1c1c1c26",
-            "type": "color"
+            }
           },
           "opacity2": {
+            "value": "#0000000f",
+            "type": "color",
             "$extensions": {
               "com.figma.scopes": [
                 "ALL_SCOPES"
               ],
               "com.figma.hiddenFromPublishing": false
-            },
-            "value": "#1c1c1c1a",
-            "type": "color"
+            }
           },
           "opacity3": {
+            "value": "#00000008",
+            "type": "color",
             "$extensions": {
               "com.figma.scopes": [
                 "ALL_SCOPES"
               ],
               "com.figma.hiddenFromPublishing": false
-            },
-            "value": "#1c1c1c0d",
-            "type": "color"
+            }
           },
           "shadow-color": {
             "$extensions": {
@@ -5171,34 +5171,34 @@
         },
         "shadow": {
           "opacity1": {
+            "value": "#00000014",
+            "type": "color",
             "$extensions": {
               "com.figma.scopes": [
                 "ALL_SCOPES"
               ],
               "com.figma.hiddenFromPublishing": false
-            },
-            "value": "#1c1c1c26",
-            "type": "color"
+            }
           },
           "opacity2": {
+            "value": "#0000000f",
+            "type": "color",
             "$extensions": {
               "com.figma.scopes": [
                 "ALL_SCOPES"
               ],
               "com.figma.hiddenFromPublishing": false
-            },
-            "value": "#1c1c1c1a",
-            "type": "color"
+            }
           },
           "opacity3": {
+            "value": "#00000008",
+            "type": "color",
             "$extensions": {
               "com.figma.scopes": [
                 "ALL_SCOPES"
               ],
               "com.figma.hiddenFromPublishing": false
-            },
-            "value": "#1c1c1c0d",
-            "type": "color"
+            }
           },
           "shadow-color": {
             "$extensions": {
