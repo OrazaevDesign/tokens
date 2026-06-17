@@ -1418,7 +1418,7 @@
         }
       },
       "spread-radius": {
-        "value": -2,
+        "value": 0,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1428,7 +1428,7 @@
         }
       },
       "opacity": {
-        "value": "{opacity.15}",
+        "value": "{opacity.10}",
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1436,11 +1436,21 @@
           ],
           "com.figma.hiddenFromPublishing": true
         }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity1}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
       }
     },
     "shadow2": {
       "opacity": {
-        "value": "{opacity.10}",
+        "value": "{opacity.5}",
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1460,7 +1470,7 @@
         }
       },
       "offset-y": {
-        "value": 4,
+        "value": 1,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1470,7 +1480,7 @@
         }
       },
       "blur-radius": {
-        "value": 4,
+        "value": 2,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1480,13 +1490,23 @@
         }
       },
       "spread-radius": {
-        "value": -2,
+        "value": -1,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
             "EFFECT_FLOAT"
           ],
           "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity2}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
         }
       }
     },
@@ -1522,7 +1542,61 @@
         }
       },
       "blur-radius": {
-        "value": 6,
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "spread-radius": {
+        "value": 1,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity3}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
+      }
+    }
+  },
+  "Shadow/elevation-2": {
+    "shadow1": {
+      "offset-x": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-y": {
+        "value": 4,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "blur-radius": {
+        "value": 8,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1540,10 +1614,154 @@
           ],
           "com.figma.hiddenFromPublishing": true
         }
+      },
+      "opacity": {
+        "value": "{opacity.10}",
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity1}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
+      }
+    },
+    "shadow2": {
+      "opacity": {
+        "value": "{opacity.5}",
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-x": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-y": {
+        "value": 2,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "blur-radius": {
+        "value": 4,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "spread-radius": {
+        "value": -2,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity2}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
+      }
+    },
+    "shadow3": {
+      "opacity": {
+        "value": "{opacity.5}",
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-x": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-y": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "blur-radius": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "spread-radius": {
+        "value": 1,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity3}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
       }
     }
   },
-  "Shadow/elevation-2": {
+  "Shadow/elevation-3": {
     "shadow1": {
       "offset-x": {
         "value": 0,
@@ -1566,7 +1784,7 @@
         }
       },
       "blur-radius": {
-        "value": 8,
+        "value": 12,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1576,7 +1794,7 @@
         }
       },
       "spread-radius": {
-        "value": -6,
+        "value": 0,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1585,18 +1803,6 @@
           "com.figma.hiddenFromPublishing": true
         }
       },
-      "opacity": {
-        "value": "{opacity.15}",
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      }
-    },
-    "shadow2": {
       "opacity": {
         "value": "{opacity.10}",
         "type": "number",
@@ -1607,6 +1813,144 @@
           "com.figma.hiddenFromPublishing": true
         }
       },
+      "color": {
+        "value": "{role.extended.shadow.opacity1}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
+      }
+    },
+    "shadow2": {
+      "opacity": {
+        "value": "{opacity.5}",
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-x": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-y": {
+        "value": 4,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "blur-radius": {
+        "value": 8,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "spread-radius": {
+        "value": -4,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity2}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
+      }
+    },
+    "shadow3": {
+      "opacity": {
+        "value": "{opacity.5}",
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-x": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "offset-y": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "blur-radius": {
+        "value": 0,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "spread-radius": {
+        "value": 1,
+        "type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "EFFECT_FLOAT"
+          ],
+          "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity3}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
+      }
+    }
+  },
+  "Shadow/elevation-4": {
+    "shadow1": {
       "offset-x": {
         "value": 0,
         "type": "number",
@@ -1638,28 +1982,6 @@
         }
       },
       "spread-radius": {
-        "value": -6,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      }
-    },
-    "shadow3": {
-      "opacity": {
-        "value": "{opacity.5}",
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "offset-x": {
         "value": 0,
         "type": "number",
         "$extensions": {
@@ -1669,92 +1991,6 @@
           "com.figma.hiddenFromPublishing": true
         }
       },
-      "offset-y": {
-        "value": 0,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "blur-radius": {
-        "value": 8,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "spread-radius": {
-        "value": 0,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      }
-    }
-  },
-  "Shadow/elevation-3": {
-    "shadow1": {
-      "offset-x": {
-        "value": 0,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "offset-y": {
-        "value": 6,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "blur-radius": {
-        "value": 14,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "spread-radius": {
-        "value": -6,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "opacity": {
-        "value": "{opacity.15}",
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      }
-    },
-    "shadow2": {
       "opacity": {
         "value": "{opacity.10}",
         "type": "number",
@@ -1765,48 +2001,18 @@
           "com.figma.hiddenFromPublishing": true
         }
       },
-      "offset-x": {
-        "value": 0,
-        "type": "number",
+      "color": {
+        "value": "{role.extended.shadow.opacity1}",
+        "type": "color",
         "$extensions": {
           "com.figma.scopes": [
-            "EFFECT_FLOAT"
+            "ALL_SCOPES"
           ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "offset-y": {
-        "value": 10,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "blur-radius": {
-        "value": 32,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "spread-radius": {
-        "value": -4,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.hiddenFromPublishing": false
         }
       }
     },
-    "shadow3": {
+    "shadow2": {
       "opacity": {
         "value": "{opacity.5}",
         "type": "number",
@@ -1828,7 +2034,7 @@
         }
       },
       "offset-y": {
-        "value": 0,
+        "value": 8,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -1848,112 +2054,6 @@
         }
       },
       "spread-radius": {
-        "value": 0,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      }
-    }
-  },
-  "Shadow/elevation-4": {
-    "shadow1": {
-      "offset-x": {
-        "value": 0,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "offset-y": {
-        "value": 8,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "blur-radius": {
-        "value": 22,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "spread-radius": {
-        "value": -6,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "opacity": {
-        "value": "{opacity.15}",
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      }
-    },
-    "shadow2": {
-      "opacity": {
-        "value": "{opacity.10}",
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "offset-x": {
-        "value": 0,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "offset-y": {
-        "value": 14,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "blur-radius": {
-        "value": 64,
-        "type": "number",
-        "$extensions": {
-          "com.figma.scopes": [
-            "EFFECT_FLOAT"
-          ],
-          "com.figma.hiddenFromPublishing": true
-        }
-      },
-      "spread-radius": {
         "value": -4,
         "type": "number",
         "$extensions": {
@@ -1961,6 +2061,16 @@
             "EFFECT_FLOAT"
           ],
           "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity2}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
         }
       }
     },
@@ -1996,7 +2106,7 @@
         }
       },
       "blur-radius": {
-        "value": 14,
+        "value": 0,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
@@ -2006,13 +2116,23 @@
         }
       },
       "spread-radius": {
-        "value": 0,
+        "value": 1,
         "type": "number",
         "$extensions": {
           "com.figma.scopes": [
             "EFFECT_FLOAT"
           ],
           "com.figma.hiddenFromPublishing": true
+        }
+      },
+      "color": {
+        "value": "{role.extended.shadow.opacity3}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.hiddenFromPublishing": false
         }
       }
     }
