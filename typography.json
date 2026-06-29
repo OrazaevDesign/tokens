@@ -5045,15 +5045,15 @@
       },
       "gap": {
         "block-top": {
+          "value": "{typography.line-height-compact.940}",
+          "type": "number",
           "$extensions": {
             "com.figma.scopes": [
               "GAP",
               "PARAGRAPH_SPACING"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{space.12}",
-          "type": "number"
+          }
         },
         "typo-top": {
           "value": "{typography.line-height-compact.700}",
@@ -5078,15 +5078,15 @@
           }
         },
         "cut-y": {
+          "value": "{typography.line-height-compact.940}",
+          "type": "number",
           "$extensions": {
             "com.figma.scopes": [
               "GAP",
               "PARAGRAPH_SPACING"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{space.12}",
-          "type": "number"
+          }
         },
         "h1": {
           "value": "{typography.line-height-compact.940}",
@@ -5508,15 +5508,15 @@
       },
       "gap": {
         "block-top": {
+          "value": "{typography.line-height-compact.930}",
+          "type": "number",
           "$extensions": {
             "com.figma.scopes": [
               "GAP",
               "PARAGRAPH_SPACING"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{space.10}",
-          "type": "number"
+          }
         },
         "typo-top": {
           "value": "{typography.line-height-compact.600}",
@@ -5541,15 +5541,15 @@
           }
         },
         "cut-y": {
+          "value": "{typography.line-height-compact.930}",
+          "type": "number",
           "$extensions": {
             "com.figma.scopes": [
               "GAP",
               "PARAGRAPH_SPACING"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{space.10}",
-          "type": "number"
+          }
         },
         "h1": {
           "value": "{typography.line-height-compact.920}",
@@ -5971,15 +5971,15 @@
       },
       "gap": {
         "block-top": {
+          "value": "{typography.line-height-compact.920}",
+          "type": "number",
           "$extensions": {
             "com.figma.scopes": [
               "GAP",
               "PARAGRAPH_SPACING"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{space.8}",
-          "type": "number"
+          }
         },
         "typo-top": {
           "value": "{typography.line-height-compact.400}",
@@ -6004,15 +6004,15 @@
           }
         },
         "cut-y": {
+          "value": "{typography.line-height-compact.920}",
+          "type": "number",
           "$extensions": {
             "com.figma.scopes": [
               "GAP",
               "PARAGRAPH_SPACING"
             ],
             "com.figma.hiddenFromPublishing": false
-          },
-          "value": "{space.8}",
-          "type": "number"
+          }
         },
         "h1": {
           "value": "{typography.line-height-compact.920}",
