@@ -2512,7 +2512,7 @@
             }
           },
           "listing-min": {
-            "value": 310,
+            "value": 236,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
@@ -3138,7 +3138,7 @@
             }
           },
           "listing-min": {
-            "value": 246,
+            "value": 236,
             "type": "number",
             "$extensions": {
               "com.figma.scopes": [
