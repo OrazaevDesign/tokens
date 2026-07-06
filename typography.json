@@ -4929,6 +4929,16 @@
             ],
             "com.figma.hiddenFromPublishing": false
           }
+        },
+        "price-listing": {
+          "value": "{typography.font-size.910}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "FONT_SIZE"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
         }
       },
       "letter-spacing": {
@@ -5034,6 +5044,16 @@
         },
         "h6": {
           "value": "{typography.letter-spacing.700}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "LETTER_SPACING"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
+        },
+        "price-listing": {
+          "value": "{typography.letter-spacing.910}",
           "type": "number",
           "$extensions": {
             "com.figma.scopes": [
@@ -5276,6 +5296,17 @@
             ],
             "com.figma.hiddenFromPublishing": false
           }
+        },
+        "price-listing": {
+          "value": "{typography.line-height-compact.910}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT",
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
         }
       }
     }
@@ -5392,6 +5423,16 @@
             ],
             "com.figma.hiddenFromPublishing": false
           }
+        },
+        "price-listing": {
+          "value": "{typography.font-size.900}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "FONT_SIZE"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
         }
       },
       "letter-spacing": {
@@ -5497,6 +5538,16 @@
         },
         "h6": {
           "value": "{typography.letter-spacing.600}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "LETTER_SPACING"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
+        },
+        "price-listing": {
+          "value": "{typography.letter-spacing.900}",
           "type": "number",
           "$extensions": {
             "com.figma.scopes": [
@@ -5739,6 +5790,17 @@
             ],
             "com.figma.hiddenFromPublishing": false
           }
+        },
+        "price-listing": {
+          "value": "{typography.line-height-compact.900}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT",
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
         }
       }
     }
@@ -5855,6 +5917,16 @@
             ],
             "com.figma.hiddenFromPublishing": false
           }
+        },
+        "price-listing": {
+          "value": "{typography.font-size.800}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "FONT_SIZE"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
         }
       },
       "letter-spacing": {
@@ -5960,6 +6032,16 @@
         },
         "h6": {
           "value": "{typography.letter-spacing.400}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "LETTER_SPACING"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
+        },
+        "price-listing": {
+          "value": "{typography.letter-spacing.800}",
           "type": "number",
           "$extensions": {
             "com.figma.scopes": [
@@ -6194,6 +6276,17 @@
         },
         "h6": {
           "value": "{typography.line-height-compact.400}",
+          "type": "number",
+          "$extensions": {
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT",
+              "LINE_HEIGHT"
+            ],
+            "com.figma.hiddenFromPublishing": false
+          }
+        },
+        "price-listing": {
+          "value": "{typography.line-height-compact.800}",
           "type": "number",
           "$extensions": {
             "com.figma.scopes": [
